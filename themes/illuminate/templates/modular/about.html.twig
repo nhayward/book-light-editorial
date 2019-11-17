@@ -1,0 +1,15 @@
+<section class="container {{ theme_var('grid-size') }}">
+
+	<div class="columns">
+		<div class="about-left column col-4 col-md-12">
+			<img class="profile" src="{{ url('theme://images/profile') }}/{{ page.header.profile_image.src }}" alt="{{ page.header.profile_image.alt_text }}">
+			<a class="twitter-timeline" data-height="400" data-link-color="#487A94" href="https://twitter.com/{{ page.header.twitter_handle }}">Tweets by
+				{{ page.header.twitter_handle }}</a>
+			<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+		</div>
+		<div class="about-right column col-md-12">
+			{{ page.content }}
+		</div>
+	</div>
+</section>
+<hr>

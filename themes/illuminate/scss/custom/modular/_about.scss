@@ -1,0 +1,23 @@
+.about-left {
+  img.profile {
+    width: 350px;
+  }
+
+  @media (max-width: 840px) {
+    iframe {
+      display: none !important;
+    }
+  }
+}
+
+.about-right {
+  padding-left: 3rem;
+
+  img.org {
+    padding: 0 10px 10px 0;
+  }
+
+  @media (max-width: 840px) {
+    padding-left: 0.4rem;
+  }
+}

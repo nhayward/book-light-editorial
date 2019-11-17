@@ -1,0 +1,24 @@
+#testimonial-boxes {
+  padding-top: 4rem;
+}
+
+blockquote {
+  border-left: 10px solid lightgrey;
+
+  p {
+    color: #555;
+  }
+}
+
+.bricklayer-column {
+  .box {
+    box-shadow: 0 0 10px 1px black;
+    background-image: url('/user/themes/illuminate/images/accents/Book_Light_Editorial_Spines_gold.png');
+    background-repeat: no-repeat;
+    background-size: 100px;
+    background-position: right 10px bottom 10px;
+    color: black;
+    margin: 2rem 1rem;
+    padding: 10px 20px;
+  }
+}

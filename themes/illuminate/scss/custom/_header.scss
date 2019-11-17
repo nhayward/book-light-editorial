@@ -1,0 +1,71 @@
+section#header {
+  top: 1rem;
+  opacity: 0.93;
+  background-color: $accent1 !important;
+  padding-left: 2rem;
+  padding-right: 2rem;
+
+  .logo {
+    padding: 13px 5px;
+    transition: 0.5s padding;
+
+    #header-text {
+      transition: 0.5s font-size;
+      font-family: 'Abril Fatface';
+      font-size: 2rem;
+      color: white;
+    }
+
+    @media (max-width: 500px) {
+      padding-top: 20px;
+      padding-bottom: 20px;
+
+      #header-text {
+        font-size: 1.5rem;
+      }
+    }
+  }
+
+  .navbar-section {
+    ul {
+      li {
+        a {
+          font-size: 1.1rem;
+          font-variant: small-caps;
+          color: white !important;
+        }
+
+        a:before,
+        a:after {
+          background-color: white !important;
+        }
+      }
+    }
+  }
+
+  &.scrolled {
+    #logo {
+      padding: 5px;
+
+      #header-text {
+        font-size: 1.4rem;
+      }
+    }
+
+    .navbar-section {
+      ul {
+        li {
+          a {
+            padding-top: 0;
+            padding-bottom: 0.1rem;
+          }
+        }
+      }
+    }
+  }
+
+  @media only all and (max-width: 1125px) {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}

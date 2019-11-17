@@ -1,0 +1,48 @@
+#footer {
+  position: static;
+  background-color: $primary;
+  padding-bottom: 20px;
+  height: auto;
+
+  a {
+    color: white;
+
+    &:hover {
+      color: $accent3;
+    }
+  }
+
+  .totop {
+    position: relative;
+    bottom: 23px;
+
+    span {
+      background-color: $primary;
+
+      a#toTop {
+        i {
+          font-size: 1.7rem;
+        }
+      }
+    }
+  }
+
+  #social-media {
+    margin-bottom: 10px;
+
+    img {
+      height: 30px;
+      padding: 0 5px;
+    }
+  }
+
+  #heart-book {
+    margin-bottom: 10px;
+  }
+
+  p {
+    position: static;
+    top: 0;
+    transform: initial;
+  }
+}
