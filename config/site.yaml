@@ -1,7 +1,21 @@
-title: Grav
+title: 'Book Light Editorial'
+default_lang: en
 author:
-  name: Joe Bloggs
-  email: 'joe@example.com'
+  name: 'Carly Hayward'
+  email: carly@booklighteditorial.com
+taxonomies:
+  - category
+  - tag
 metadata:
-    description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
-
+  description: 'Book Light Editorial offers freelance developmental and copy editing services and writing tips for indie authors and publishing authors'
+  author: 'Carly Bornstein-Hayward'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+redirects:
+  /about: /team
+  /recommendations: /testimonials
+blog:
+  route: /blog
