@@ -11,7 +11,7 @@ section#header {
 
     #header-text {
       transition: 0.5s font-size;
-      font-family: 'Abril Fatface';
+      font-family: $title-font-family;
       font-size: 2rem;
       color: white;
     }
