@@ -1,6 +1,5 @@
 section#header {
-  top: 1rem;
-  opacity: 0.93;
+  border-bottom: none;
   background-color: $accent1 !important;
   padding-left: 2rem;
   padding-right: 2rem;
@@ -11,8 +10,8 @@ section#header {
 
     #header-text {
       transition: 0.5s font-size;
-      font-family: $title-font-family;
       font-size: 2rem;
+      font-weight: normal;
       color: white;
     }
 
@@ -27,17 +26,39 @@ section#header {
   }
 
   .navbar-section {
+    transition: 0.25s height;
+
     ul {
       li {
         a {
-          font-size: 1.1rem;
+          position: relative;
+          margin: 0 0.5rem;
+          padding: 0.1rem;
+          font-size: 1rem;
+          font-weight: 400;
           font-variant: small-caps;
-          color: white !important;
-        }
+          color: white;
 
-        a:before,
-        a:after {
-          background-color: white !important;
+          &:after {
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            display: block;
+            content: '';
+            border-bottom: 1px solid $link-color;
+            transform: scaleX(0);
+            transition: transform 250ms ease-in-out;
+          }
+
+          &.active,
+          &:hover {
+            color: $link-color;
+
+            &:after {
+              width: 100%;
+              transform: scaleX(1);
+            }
+          }
         }
       }
     }
@@ -67,5 +88,13 @@ section#header {
   @media only all and (max-width: 1125px) {
     padding-left: 0;
     padding-right: 0;
+  }
+}
+
+.mobile-menu {
+  .button_container {
+    span {
+      background-color: white;
+    }
   }
 }

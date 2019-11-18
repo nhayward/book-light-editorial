@@ -1,9 +1,5 @@
-@font-face {
-  font-family: Abril Fatface;
-  src: url(/user/themes/illuminate/fonts/Abril_Fatface/AbrilFatface-Regular.ttf);
-}
 body#top {
-  font-family: "Source Sans Pro";
+  font-family: Tahoma, Geneva, sans-serif;
 }
 body#top h1,
 body#top h2,
@@ -11,13 +7,11 @@ body#top h3,
 body#top h4,
 body#top h5,
 body#top h6 {
-  font-family: "Abril Fatface";
-  color: #062f4f;
+  color: #00243a;
 }
 body#top p,
 body#top li,
 body#top a {
-  font-family: "Source Sans Pro" !important;
   font-size: 1.1rem;
 }
 body#top a {
@@ -39,7 +33,6 @@ body#top .button:hover {
 body#top .first-character {
   color: #f7941d;
   float: left;
-  font-family: "Abril Fatface";
   font-size: 75px;
   line-height: 60px;
   padding-top: 4px;
@@ -64,9 +57,8 @@ body#top .notices.gold {
 }
 
 section#header {
-  top: 1rem;
-  opacity: 0.93;
-  background-color: #0074aa !important;
+  border-bottom: none;
+  background-color: #00335a !important;
   padding-left: 2rem;
   padding-right: 2rem;
 }
@@ -76,8 +68,8 @@ section#header .logo {
 }
 section#header .logo #header-text {
   transition: 0.5s font-size;
-  font-family: "Abril Fatface";
   font-size: 2rem;
+  font-weight: normal;
   color: white;
 }
 @media (max-width: 500px) {
@@ -89,14 +81,34 @@ section#header .logo #header-text {
     font-size: 1.5rem;
   }
 }
-section#header .navbar-section ul li a {
-  font-size: 1.1rem;
-  font-variant: small-caps;
-  color: white !important;
+section#header .navbar-section {
+  transition: 0.25s height;
 }
-section#header .navbar-section ul li a:before,
+section#header .navbar-section ul li a {
+  position: relative;
+  margin: 0 0.5rem;
+  padding: 0.1rem;
+  font-size: 1rem;
+  font-weight: 400;
+  font-variant: small-caps;
+  color: white;
+}
 section#header .navbar-section ul li a:after {
-  background-color: white !important;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  display: block;
+  content: "";
+  border-bottom: 1px solid #0074aa;
+  transform: scaleX(0);
+  transition: transform 250ms ease-in-out;
+}
+section#header .navbar-section ul li a.active, section#header .navbar-section ul li a:hover {
+  color: #0074aa;
+}
+section#header .navbar-section ul li a.active:after, section#header .navbar-section ul li a:hover:after {
+  width: 100%;
+  transform: scaleX(1);
 }
 section#header.scrolled #logo {
   padding: 5px;
@@ -115,18 +127,48 @@ section#header.scrolled .navbar-section ul li a {
   }
 }
 
+.mobile-menu .button_container span {
+  background-color: white;
+}
+
 #header_image {
-  height: 150px;
-  background-size: cover;
-  background-repeat: no-repeat;
+  position: relative;
+  text-align: center;
+}
+@media (max-width: 768px) {
+  #header_image {
+    margin-top: 2.5rem;
+  }
+}
+#header_image #header_curtain {
+  position: absolute;
+  left: 0;
+}
+#header_image #header_logo {
+  margin-top: 8rem;
+}
+@media (max-width: 840px) {
+  #header_image #header_logo {
+    margin-top: 6rem;
+  }
+}
+@media (max-width: 600px) {
+  #header_image #header_logo {
+    margin-top: 4rem;
+  }
+}
+@media (max-width: 414px) {
+  #header_image #header_logo {
+    margin-top: 3rem;
+  }
 }
 
 .tags a {
-  border: 1px solid #0074aa;
+  border: 1px solid #00335a;
   border-radius: 3px !important;
   background: inherit !important;
   font-size: 0.8rem !important;
-  color: #0074aa !important;
+  color: #00335a !important;
 }
 
 .content-item .content-title .p-name a {
@@ -135,7 +177,7 @@ section#header.scrolled .navbar-section ul li a {
 
 #footer {
   position: static;
-  background-color: #062f4f;
+  background-color: #00243a;
   padding-bottom: 20px;
   height: auto;
 }
@@ -150,7 +192,7 @@ section#header.scrolled .navbar-section ul li a {
   bottom: 23px;
 }
 #footer .totop span {
-  background-color: #062f4f;
+  background-color: #00243a;
 }
 #footer .totop span a#toTop i {
   font-size: 1.7rem;
@@ -253,142 +295,23 @@ blockquote p {
   display: none;
 }
 
-body#top .featherlight .featherlight-content {
+html {
+  font-size: 16px;
+}
+html body#top .featherlight .featherlight-content {
   border-radius: 5px;
   padding: 15px 20px 0;
 }
-body#top #page-wrapper {
+html body#top #page-wrapper {
   background-color: white;
-  color: #062f4f;
+  color: #00243a;
   padding-bottom: 5rem;
 }
-body#top #page-wrapper img.float-left {
+html body#top #page-wrapper img.float-left {
   float: left;
   padding: 0 10px 10px 0;
 }
-body#top #page-wrapper .center {
-  text-align: center;
-}
-body#top #page-wrapper #homepage-grid .homepage-row {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-evenly;
-}
-body#top #page-wrapper #homepage-grid .homepage-row > div {
-  flex: 1 1 auto;
-  margin: 0 1rem 2rem 1rem;
-}
-@media (min-width: 1250px) {
-  body#top #page-wrapper #homepage-grid .homepage-row#bookshelves {
-    width: 75%;
-    margin: auto;
-  }
-}
-body#top #page-wrapper #homepage-grid .homepage-row#bookshelves #logo-area {
-  flex-basis: 417px;
-}
-body#top #page-wrapper #homepage-grid .homepage-row#bookshelves #logo-area #homepage-logo-book {
-  box-sizing: content-box;
-  height: 317px;
-  width: 417px;
-  background-image: url(/user/themes/illuminate/images/Book_Light_Editorial_offon.png);
-  background-position: 0 0;
-}
-body#top #page-wrapper #homepage-grid .homepage-row#bookshelves #logo-area #homepage-logo-book:hover {
-  background-position: 417px 0;
-}
-body#top #page-wrapper #homepage-grid .homepage-row#bookshelves #logo-area #homepage-logo-text {
-  border-bottom: none !important;
-  box-shadow: none !important;
-  margin-top: 4rem;
-  max-width: 417px;
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-@media (max-width: 858px) {
-  body#top #page-wrapper #homepage-grid .homepage-row#bookshelves #logo-area #homepage-logo-text {
-    display: none;
-  }
-}
-body#top #page-wrapper #homepage-grid .homepage-row#bookshelves #logo-area #homepage-logo-book,
-body#top #page-wrapper #homepage-grid .homepage-row#bookshelves #logo-area #homepage-logo-text {
-  margin-left: auto;
-  margin-right: auto;
-  border-bottom: 10px solid #062f4f;
-  box-shadow: 0 25px 15px -15px #888888;
-}
-body#top #page-wrapper #homepage-grid .homepage-row#bookshelves #homepage-links {
-  flex-basis: 250px;
-}
-body#top #page-wrapper #homepage-grid .homepage-row#bookshelves #homepage-links #services-link-area {
-  justify-content: flex-end;
-}
-body#top #page-wrapper #homepage-grid .homepage-row#bookshelves #homepage-links #services-link-area a {
-  margin-right: 15px;
-  background-position: 0 0;
-}
-body#top #page-wrapper #homepage-grid .homepage-row#bookshelves #homepage-links #services-link-area a:hover {
-  background-position: 0 160px;
-}
-body#top #page-wrapper #homepage-grid .homepage-row#bookshelves #homepage-links #team-link-area {
-  justify-content: flex-start;
-}
-body#top #page-wrapper #homepage-grid .homepage-row#bookshelves #homepage-links #team-link-area a {
-  margin-left: 15px;
-  background-position: 160px 0 !important;
-}
-body#top #page-wrapper #homepage-grid .homepage-row#bookshelves #homepage-links #team-link-area a:hover {
-  background-position: 160px 160px !important;
-}
-@media (max-width: 858px) {
-  body#top #page-wrapper #homepage-grid .homepage-row#bookshelves #homepage-links #team-link-area {
-    margin-top: 2rem !important;
-  }
-}
-body#top #page-wrapper #homepage-grid .homepage-row#bookshelves #homepage-links #services-link-area,
-body#top #page-wrapper #homepage-grid .homepage-row#bookshelves #homepage-links #team-link-area {
-  display: flex;
-  align-items: flex-end;
-  margin: auto;
-  border-bottom: 10px solid #062f4f;
-  box-shadow: 0 25px 15px -15px #888888;
-  max-width: 250px;
-  height: 50%;
-  text-align: center;
-}
-body#top #page-wrapper #homepage-grid .homepage-row#bookshelves #homepage-links #services-link-area a,
-body#top #page-wrapper #homepage-grid .homepage-row#bookshelves #homepage-links #team-link-area a {
-  border-radius: 0;
-  border: none;
-  background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url(/user/themes/illuminate/images/accents/Book_Light_Editorial_Spines_orange_all.png);
-  height: 160px;
-  width: 160px;
-  padding-top: 2rem;
-  line-height: 1.2;
-  font-size: 2.3rem;
-  font-weight: normal;
-  font-variant: small-caps;
-  color: #062f4f;
-  transition: none;
-}
-body#top #page-wrapper #homepage-grid .homepage-row #intro-text-area {
-  font-size: 1.5rem;
-}
-body#top #page-wrapper #homepage-grid .homepage-row #newsletter-area h3 {
-  margin-bottom: 0.85rem;
-}
-body#top #page-wrapper #homepage-grid .homepage-row #intro-text-area,
-body#top #page-wrapper #homepage-grid .homepage-row #blog-features-area,
-body#top #page-wrapper #homepage-grid .homepage-row #newsletter-area {
-  flex-basis: 30%;
-}
-body#top #page-wrapper #homepage-grid #slogan-area {
-  margin-top: 1rem;
-  margin-bottom: 3rem;
-}
-body#top #page-wrapper #homepage-grid #slogan-area h1 {
-  line-height: 5.5rem;
-  font-size: 4.5rem;
+html body#top #page-wrapper .center {
   text-align: center;
 }
 

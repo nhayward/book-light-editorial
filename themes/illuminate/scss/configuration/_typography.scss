@@ -1,10 +1,4 @@
-@font-face {
-  font-family: Abril Fatface;
-  src: url(/user/themes/illuminate/fonts/Abril_Fatface/AbrilFatface-Regular.ttf);
-}
-
-$base-font-family: 'Source Sans Pro';
-$title-font-family: 'Abril Fatface';
+$base-font-family: Tahoma, Geneva, sans-serif;
 
 body#top {
   font-family: $base-font-family;
@@ -15,14 +9,12 @@ body#top {
   h4,
   h5,
   h6 {
-    font-family: $title-font-family;
     color: $primary;
   }
 
   p,
   li,
   a {
-    font-family: $base-font-family !important;
     font-size: 1.1rem;
   }
 
@@ -48,7 +40,6 @@ body#top {
   .first-character {
     color: $accent4;
     float: left;
-    font-family: $title-font-family;
     font-size: 75px;
     line-height: 60px;
     padding-top: 4px;

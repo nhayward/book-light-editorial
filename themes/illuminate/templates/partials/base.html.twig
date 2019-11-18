@@ -87,9 +87,11 @@
 			{% endblock %}
 
       {% block showcase %}
-        {% if page.header.header_image %}
-          <div id="header_image" style="background-image: url({{ url('theme://images/headers/' ~ page.header.header_image) }})"></div>
-        {% endif %}
+				<div id="header_image">
+					<img id="header_curtain" src="{{ url('theme://images/headers/header_background.png')}}" alt="">
+					<img id="header_logo" src="{{ url('theme://images/headers/Book_Light_Editorial_on_xs.png') }}" alt="Book Light Editorial Logo">
+					<h1>{{ header_var('showcase_heading')|defined('Bring your book to light') }}</h1>
+				</div>
       {% endblock %}
 
 			<section id="start">
