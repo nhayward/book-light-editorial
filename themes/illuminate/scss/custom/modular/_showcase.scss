@@ -1,0 +1,42 @@
+#showcase {
+  #header_image {
+    position: relative;
+    text-align: center;
+    z-index: 0;
+
+    @media (max-width: 768px) {
+      margin-top: 2.5rem;
+    }
+
+    #header_curtain {
+      position: absolute;
+      left: 0;
+      z-index: -1;
+    }
+
+    #header_logo {
+      margin-top: 8rem;
+
+      @media (max-width: 840px) {
+        margin-top: 6rem;
+      }
+
+      @media (max-width: 600px) {
+        margin-top: 4rem;
+      }
+
+      @media (max-width: 414px) {
+        margin-top: 3rem;
+      }
+    }
+
+    #header_text {
+
+      @media (max-width: 768px) {
+        font-size: 2rem;
+      }
+
+    }
+
+  }
+}

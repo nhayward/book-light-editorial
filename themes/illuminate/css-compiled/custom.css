@@ -15,20 +15,25 @@ body#top a {
   font-size: 1.1rem;
 }
 body#top a {
-  color: #af1b3f;
+  color: #ffffff;
 }
 body#top .button {
-  border-radius: 0;
-  border: 1px solid #af1b3f;
-  padding: 10px 20px;
-  background-color: white;
-  color: #af1b3f;
-  font-weight: bold;
-  transition: 0.25s all;
+  border: none;
+  background-color: #ffffff;
+  background-image: url(/user/themes/illuminate/images/button.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 50px;
+  width: 150px;
+  line-height: 30px;
+  transition: 0.25s background-image;
 }
 body#top .button:hover {
-  background-color: #af1b3f;
-  color: white;
+  background-image: url(/user/themes/illuminate/images/button_darkblue.png);
+}
+body#top .highlight {
+  color: #f7941d;
 }
 body#top .first-character {
   color: #f7941d;
@@ -47,7 +52,7 @@ body#top .notices.gold {
   border-image: url(/user/themes/illuminate/images/accents/Book_Light_Editorial_edge.png) 0% 85% round;
   border-image-outset: 1;
   box-shadow: 0 0 20px 10px #999999;
-  background-color: white;
+  background-color: #ffffff;
   background-image: url("/user/themes/illuminate/images/accents/book_light_editorial_coffeestain.png");
   background-repeat: no-repeat;
   background-size: 150px;
@@ -70,7 +75,7 @@ section#header .logo #header-text {
   transition: 0.5s font-size;
   font-size: 2rem;
   font-weight: normal;
-  color: white;
+  color: #ffffff;
 }
 @media (max-width: 500px) {
   section#header .logo {
@@ -91,7 +96,7 @@ section#header .navbar-section ul li a {
   font-size: 1rem;
   font-weight: 400;
   font-variant: small-caps;
-  color: white;
+  color: #ffffff;
 }
 section#header .navbar-section ul li a:after {
   position: absolute;
@@ -128,39 +133,7 @@ section#header.scrolled .navbar-section ul li a {
 }
 
 .mobile-menu .button_container span {
-  background-color: white;
-}
-
-#header_image {
-  position: relative;
-  text-align: center;
-}
-@media (max-width: 768px) {
-  #header_image {
-    margin-top: 2.5rem;
-  }
-}
-#header_image #header_curtain {
-  position: absolute;
-  left: 0;
-}
-#header_image #header_logo {
-  margin-top: 8rem;
-}
-@media (max-width: 840px) {
-  #header_image #header_logo {
-    margin-top: 6rem;
-  }
-}
-@media (max-width: 600px) {
-  #header_image #header_logo {
-    margin-top: 4rem;
-  }
-}
-@media (max-width: 414px) {
-  #header_image #header_logo {
-    margin-top: 3rem;
-  }
+  background-color: #ffffff;
 }
 
 .tags a {
@@ -180,12 +153,6 @@ section#header.scrolled .navbar-section ul li a {
   background-color: #00243a;
   padding-bottom: 20px;
   height: auto;
-}
-#footer a {
-  color: white;
-}
-#footer a:hover {
-  color: #af1b3f;
 }
 #footer .totop {
   position: relative;
@@ -256,6 +223,64 @@ blockquote p {
   padding: 10px 20px;
 }
 
+.genre-rows .columns {
+  margin: 3rem auto;
+  align-items: center;
+  justify-content: center;
+}
+.genre-rows .columns.img-column-right {
+  flex-direction: row-reverse;
+}
+.genre-rows .columns .image-column {
+  min-height: 400px;
+  background-repeat: no-repeat;
+}
+.genre-rows .columns .image-column.romance {
+  max-width: 400px;
+  background-image: url(/user/themes/illuminate/images/genres/romance_girl.png), url(/user/themes/illuminate/images/genres/romance_no-edge_no-girl.png);
+  background-size: auto 310px, auto 350px;
+  background-position: right 26% bottom, center top;
+}
+.genre-rows .columns .image-column.mystery {
+  background-image: url(/user/themes/illuminate/images/genres/mysteryman.png);
+  background-size: 100% 350px;
+  background-position: center;
+}
+@media (max-width: 840px) {
+  .genre-rows .columns .image-column.mystery {
+    background-image: url(/user/themes/illuminate/images/genres/mysteryman.png), url(/user/themes/illuminate/images/genres/mystery_no-edge_city_no-back.png), url(/user/themes/illuminate/images/genres/mystery_no-edge_no-city.png);
+    background-size: auto 250px, auto 315px, contain;
+    background-position: left 8% bottom 55%, right 8% bottom 96%, center;
+  }
+}
+.genre-rows .columns .image-column.sci-fi {
+  max-width: 540px;
+  background-image: url(/user/themes/illuminate/images/genres/scifi_no-edge_no-back_spacegirl.png), url(/user/themes/illuminate/images/genres/scifi_star.png), url(/user/themes/illuminate/images/genres/scifi_no-edge_no-spacegirl.png);
+  background-size: auto 340px, auto 50px, contain;
+  background-position: center top, left 30% center, center bottom;
+}
+.genre-rows .columns .image-column.fantasy {
+  max-width: 400px;
+  background-image: url(/user/themes/illuminate/images/genres/fantasy_no-edge_warrior_no-back.png), url(/user/themes/illuminate/images/genres/fantasy_no-edge_no-warrior.png);
+  background-size: auto 350px, auto 300px;
+  background-position: left 42% top, center bottom;
+}
+.genre-rows .columns .text-column .mystery-city {
+  height: 250px;
+  background-image: url(/user/themes/illuminate/images/genres/mystery_no-edge_city_no-back.png), url(/user/themes/illuminate/images/genres/mystery_no-edge_no-city.png);
+  background-size: auto 250px, auto 200px;
+  background-position: right 25% bottom 11px, bottom;
+  background-repeat: no-repeat;
+}
+@media (max-width: 840px) {
+  .genre-rows .columns .text-column .mystery-city {
+    display: none;
+  }
+}
+.genre-rows .columns .text-column .button {
+  float: right;
+}
+
 .grav-lightslider#about_lightslider-wrapper #about_lightslider {
   height: 400px !important;
 }
@@ -286,6 +311,45 @@ blockquote p {
   transition: 1s all;
 }
 
+#showcase #header_image {
+  position: relative;
+  text-align: center;
+  z-index: 0;
+}
+@media (max-width: 768px) {
+  #showcase #header_image {
+    margin-top: 2.5rem;
+  }
+}
+#showcase #header_image #header_curtain {
+  position: absolute;
+  left: 0;
+  z-index: -1;
+}
+#showcase #header_image #header_logo {
+  margin-top: 8rem;
+}
+@media (max-width: 840px) {
+  #showcase #header_image #header_logo {
+    margin-top: 6rem;
+  }
+}
+@media (max-width: 600px) {
+  #showcase #header_image #header_logo {
+    margin-top: 4rem;
+  }
+}
+@media (max-width: 414px) {
+  #showcase #header_image #header_logo {
+    margin-top: 3rem;
+  }
+}
+@media (max-width: 768px) {
+  #showcase #header_image #header_text {
+    font-size: 2rem;
+  }
+}
+
 .modular-text {
   background-color: inherit !important;
   padding: 1rem;
@@ -303,7 +367,7 @@ html body#top .featherlight .featherlight-content {
   padding: 15px 20px 0;
 }
 html body#top #page-wrapper {
-  background-color: white;
+  background-color: #ffffff;
   color: #00243a;
   padding-bottom: 5rem;
 }

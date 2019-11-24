@@ -9,7 +9,7 @@ body#top {
   h4,
   h5,
   h6 {
-    color: $primary;
+    color: $secondary;
   }
 
   p,
@@ -19,26 +19,67 @@ body#top {
   }
 
   a {
-    color: $accent3;
+    color: $white;
   }
 
   .button {
-    border-radius: 0;
-    border: 1px solid $accent3;
-    padding: 10px 20px;
-    background-color: white;
-    color: $accent3;
-    font-weight: bold;
-    transition: 0.25s all;
+    border: none;
+    background-color: $white;
+    background-image: url(/user/themes/illuminate/images/button.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 50px;
+    width: 150px;
+    line-height: 30px;
+    transition: .25s background-image;
 
     &:hover {
-      background-color: $accent3;
-      color: white;
+      background-image: url(/user/themes/illuminate/images/button_darkblue.png);
     }
+
+  }
+
+  // .button-clip {
+  //   padding: .25rem .4rem;
+  //   display: inline-block;
+  //   border: none;
+  //   background-color: $secondary;
+  //   height: 50px;
+  //   width: 150px;
+  //   line-height: 30px;
+  //   transition: .25s background-color;
+  //   -webkit-clip-path: polygon(8% 0, 91% 2%, 100% 93%, 0% 100%);
+  //   clip-path: polygon(8% 0, 91% 2%, 100% 93%, 0% 100%);
+  //   outline-offset: 15px;
+
+  //   &:hover {
+  //     background-color: $primary;
+  //   }
+
+  // }
+
+  // .button {
+  //   border-radius: 0;
+  //   border: 1px solid $accent3;
+  //   padding: 10px 20px;
+  //   background-color: $white;
+  //   color: $accent3;
+  //   font-weight: bold;
+  //   transition: 0.25s all;
+
+  //   &:hover {
+  //     background-color: $accent3;
+  //     color: $white;
+  //   }
+  // }
+
+  .highlight {
+    color: $highlight;
   }
 
   .first-character {
-    color: $accent4;
+    color: $highlight;
     float: left;
     font-size: 75px;
     line-height: 60px;
@@ -55,7 +96,7 @@ body#top {
     border-image: url(/user/themes/illuminate/images/accents/Book_Light_Editorial_edge.png) 0% 85% round;
     border-image-outset: 1;
     box-shadow: 0 0 20px 10px #999999;
-    background-color: white;
+    background-color: $white;
     background-image: url('/user/themes/illuminate/images/accents/book_light_editorial_coffeestain.png');
     background-repeat: no-repeat;
     background-size: 150px;

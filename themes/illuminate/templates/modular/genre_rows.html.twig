@@ -1,0 +1,11 @@
+<section class="genre-rows container {{ theme_var('grid-size') }}">
+	{% for row in page.header.rows %}
+		<div class="columns{% if row.img_right %} img-column-right{% endif %}">
+			<div class="{% if row.class %}{{ row.class }} {% endif %}image-column column col-{{ row.img_width|default('4') }} col-md-12">
+			</div>
+			<div class="text-column column col-md-12">
+				{{ row.text|markdown }}
+			</div>
+		</div>
+	{% endfor %}
+</section>

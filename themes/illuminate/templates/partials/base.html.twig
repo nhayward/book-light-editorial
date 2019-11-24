@@ -87,11 +87,7 @@
 			{% endblock %}
 
       {% block showcase %}
-				<div id="header_image">
-					<img id="header_curtain" src="{{ url('theme://images/headers/header_background.png')}}" alt="">
-					<img id="header_logo" src="{{ url('theme://images/headers/Book_Light_Editorial_on_xs.png') }}" alt="Book Light Editorial Logo">
-					<h1>{{ header_var('showcase_heading')|defined('Bring your book to light') }}</h1>
-				</div>
+				{% include 'partials/showcase.html.twig' %}
       {% endblock %}
 
 			<section id="start">

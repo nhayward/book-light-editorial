@@ -1,6 +1,6 @@
 section#header {
   border-bottom: none;
-  background-color: $accent1 !important;
+  background-color: $primary !important;
   padding-left: 2rem;
   padding-right: 2rem;
 
@@ -12,7 +12,7 @@ section#header {
       transition: 0.5s font-size;
       font-size: 2rem;
       font-weight: normal;
-      color: white;
+      color: $white;
     }
 
     @media (max-width: 500px) {
@@ -37,7 +37,7 @@ section#header {
           font-size: 1rem;
           font-weight: 400;
           font-variant: small-caps;
-          color: white;
+          color: $white;
 
           &:after {
             position: absolute;
@@ -94,7 +94,7 @@ section#header {
 .mobile-menu {
   .button_container {
     span {
-      background-color: white;
+      background-color: $white;
     }
   }
 }

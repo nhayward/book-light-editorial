@@ -1,0 +1,75 @@
+.genre-rows {
+  .columns {
+    margin: 3rem auto;
+    align-items: center;
+    justify-content: center;
+    
+    &.img-column-right {
+      flex-direction: row-reverse;
+    }
+    
+    .image-column {
+      min-height: 400px;
+      background-repeat: no-repeat;
+      
+      &.romance {
+        max-width: 400px;
+        background-image: url(/user/themes/illuminate/images/genres/romance_girl.png),
+        url(/user/themes/illuminate/images/genres/romance_no-edge_no-girl.png);
+        background-size: auto 310px, auto 350px;
+        background-position: right 26% bottom, center top;
+      }
+      
+      &.mystery {
+        background-image: url(/user/themes/illuminate/images/genres/mysteryman.png);
+        background-size: 100% 350px;
+        background-position: center;
+
+        @media (max-width: 840px) {
+          background-image: url(/user/themes/illuminate/images/genres/mysteryman.png),
+            url(/user/themes/illuminate/images/genres/mystery_no-edge_city_no-back.png),
+            url(/user/themes/illuminate/images/genres/mystery_no-edge_no-city.png);
+          background-size: auto 250px, auto 315px, contain;
+          background-position: left 8% bottom 55%, right 8% bottom 96%, center;
+        }
+
+      }
+      
+      &.sci-fi {
+        max-width: 540px;
+        background-image: url(/user/themes/illuminate/images/genres/scifi_no-edge_no-back_spacegirl.png),
+        url(/user/themes/illuminate/images/genres/scifi_star.png),
+        url(/user/themes/illuminate/images/genres/scifi_no-edge_no-spacegirl.png);
+        background-size: auto 340px, auto 50px, contain;
+        background-position: center top, left 30% center, center bottom;
+      }
+
+      &.fantasy {
+        max-width: 400px;
+        background-image: url(/user/themes/illuminate/images/genres/fantasy_no-edge_warrior_no-back.png),
+          url(/user/themes/illuminate/images/genres/fantasy_no-edge_no-warrior.png);
+        background-size: auto 350px, auto 300px;
+        background-position: left 42% top, center bottom;
+      }
+    }
+    .text-column {
+      .mystery-city {
+        height: 250px;
+        background-image: url(/user/themes/illuminate/images/genres/mystery_no-edge_city_no-back.png),
+          url(/user/themes/illuminate/images/genres/mystery_no-edge_no-city.png);
+        background-size: auto 250px, auto 200px;
+        background-position: right 25% bottom 11px, bottom;
+        background-repeat: no-repeat;
+
+        @media (max-width: 840px) {
+          display: none;
+        }
+
+      }
+
+      .button {
+        float: right;
+      }
+    }
+  }
+}

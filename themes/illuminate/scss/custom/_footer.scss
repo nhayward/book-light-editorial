@@ -1,23 +1,15 @@
 #footer {
   position: static;
-  background-color: $primary;
+  background-color: $secondary;
   padding-bottom: 20px;
   height: auto;
-
-  a {
-    color: white;
-
-    &:hover {
-      color: $accent3;
-    }
-  }
 
   .totop {
     position: relative;
     bottom: 23px;
 
     span {
-      background-color: $primary;
+      background-color: $secondary;
 
       a#toTop {
         i {

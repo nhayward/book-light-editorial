@@ -1,5 +1,4 @@
 @import 'header';
-@import 'showcase';
 @import 'blog';
 @import 'footer';
 @import 'modular/all';
@@ -16,8 +15,8 @@ html {
     }
 
     #page-wrapper {
-      background-color: white;
-      color: $primary;
+      background-color: $white;
+      color: $secondary;
       padding-bottom: 5rem;
 
       img.float-left {
