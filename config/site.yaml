@@ -19,3 +19,14 @@ redirects:
   /recommendations: /testimonials
 blog:
   route: /blog
+footer:
+  links:
+    -
+      text: Services
+      href: /services
+    -
+      text: Contact
+      href: /contact
+    -
+      text: Privacy Policy
+      href: /

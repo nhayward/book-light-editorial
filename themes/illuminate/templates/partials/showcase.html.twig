@@ -2,7 +2,11 @@
   <div id="header_image">
     <img id="header_curtain" src="{{ url('theme://images/headers/header_background.png')}}" alt="">
     <img id="header_logo" src="{{ url('theme://images/headers/Book_Light_Editorial_on_xs.png') }}" alt="Book Light Editorial Logo">
-    <h1 id="header_text">{{ header_var('showcase_heading')|defined('Bring your book to <span class="highlight">light</span>') }}</h1>
-    <a class="button">{{ header_var('showcase_button')|defined('Let\'s Begin') }}</a>
+    {% if header_var('showcase_heading') %}
+      <h1 id="header_text">{{ header_var('showcase_heading') }}</h1>
+    {% endif %}
+    {% if header_var('showcase_button') %}
+      <a class="button">{{ header_var('showcase_button') }}</a>
+    {% endif %}
   </div>
 </div>

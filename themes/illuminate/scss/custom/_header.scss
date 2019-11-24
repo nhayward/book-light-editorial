@@ -1,6 +1,6 @@
 section#header {
   border-bottom: none;
-  background-color: $primary !important;
+  background-color: $primary-color;
   padding-left: 2rem;
   padding-right: 2rem;
 
@@ -45,14 +45,14 @@ section#header {
             bottom: 0;
             display: block;
             content: '';
-            border-bottom: 1px solid $link-color;
+            border-bottom: 1px solid $light-color;
             transform: scaleX(0);
             transition: transform 250ms ease-in-out;
           }
 
           &.active,
           &:hover {
-            color: $link-color;
+            color: $light-color;
 
             &:after {
               width: 100%;

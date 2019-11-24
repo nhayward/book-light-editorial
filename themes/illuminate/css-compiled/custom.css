@@ -1,5 +1,6 @@
 body#top {
   font-family: Tahoma, Geneva, sans-serif;
+  color: #444444;
 }
 body#top h1,
 body#top h2,
@@ -19,7 +20,7 @@ body#top a {
 }
 body#top .button {
   border: none;
-  background-color: #ffffff;
+  background-color: inherit;
   background-image: url(/user/themes/illuminate/images/button.png);
   background-size: contain;
   background-repeat: no-repeat;
@@ -63,7 +64,7 @@ body#top .notices.gold {
 
 section#header {
   border-bottom: none;
-  background-color: #00335a !important;
+  background-color: #00335a;
   padding-left: 2rem;
   padding-right: 2rem;
 }
@@ -149,35 +150,17 @@ section#header.scrolled .navbar-section ul li a {
 }
 
 #footer {
-  position: static;
+  padding: 0;
+  color: #444444;
+}
+#footer .container {
   background-color: #00243a;
-  padding-bottom: 20px;
-  height: auto;
+  padding: 1rem 0.5rem;
+  color: #ffffff;
 }
-#footer .totop {
-  position: relative;
-  bottom: 23px;
-}
-#footer .totop span {
-  background-color: #00243a;
-}
-#footer .totop span a#toTop i {
-  font-size: 1.7rem;
-}
-#footer #social-media {
-  margin-bottom: 10px;
-}
-#footer #social-media img {
-  height: 30px;
-  padding: 0 5px;
-}
-#footer #heart-book {
-  margin-bottom: 10px;
-}
-#footer p {
-  position: static;
-  top: 0;
-  transform: initial;
+#footer .container span,
+#footer .container a {
+  font-size: 0.8rem;
 }
 
 .about-left img.profile {
@@ -205,14 +188,11 @@ section#header.scrolled .navbar-section ul li a {
   padding-top: 4rem;
 }
 
-blockquote {
-  border-left: 10px solid lightgrey;
+.columns {
+  margin-right: auto;
+  margin-left: auto;
 }
-blockquote p {
-  color: #555;
-}
-
-.bricklayer-column .box {
+.columns .column .bricklayer .bricklayer-column .box {
   box-shadow: 0 0 10px 1px black;
   background-image: url("/user/themes/illuminate/images/accents/Book_Light_Editorial_Spines_gold.png");
   background-repeat: no-repeat;
@@ -221,6 +201,79 @@ blockquote p {
   color: black;
   margin: 2rem 1rem;
   padding: 10px 20px;
+}
+.columns .column .bricklayer .bricklayer-column .box blockquote {
+  border-left: 10px solid lightgrey;
+}
+.columns .column .bricklayer .bricklayer-column .box blockquote p {
+  color: #555;
+}
+
+#cta {
+  margin-bottom: -5rem;
+  padding: 0;
+  color: #444444;
+}
+#cta .container {
+  padding: 0;
+}
+#cta .container > div {
+  background-color: #00243a;
+  padding: 1rem 0.5rem;
+}
+#cta .container > div#cta-top-bar #cta-title {
+  font-size: 2rem;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+@media (max-width: 500px) {
+  #cta .container > div#cta-top-bar #cta-title {
+    font-size: 1.25rem;
+  }
+}
+#cta .container > div#cta-content {
+  min-height: 400px;
+  background-color: #eeeeee;
+  text-align: left;
+}
+#cta .container > div#cta-content .text-column {
+  padding-left: 3rem;
+  padding-right: 1.5rem;
+}
+#cta .container > div#cta-content .text-column .button {
+  display: block;
+  margin-left: auto;
+}
+@media (max-width: 600px) {
+  #cta .container > div#cta-content .text-column {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+#cta .container > div#cta-content #cta-coffee-img {
+  max-width: 200px;
+  position: absolute;
+  top: 45px;
+  right: 20px;
+}
+@media (max-width: 600px) {
+  #cta .container > div#cta-content #cta-coffee-img {
+    display: none;
+  }
+}
+#cta .container > div#cta-content #cta-desk-img {
+  max-height: 300px;
+  position: absolute;
+  bottom: -25px;
+  right: 0;
+  z-index: 1;
+}
+@media (max-width: 600px) {
+  #cta .container > div#cta-content #cta-desk-img {
+    max-width: 200px;
+    position: static;
+  }
 }
 
 .genre-rows .columns {
@@ -236,40 +289,64 @@ blockquote p {
   background-repeat: no-repeat;
 }
 .genre-rows .columns .image-column.romance {
-  max-width: 400px;
   background-image: url(/user/themes/illuminate/images/genres/romance_girl.png), url(/user/themes/illuminate/images/genres/romance_no-edge_no-girl.png);
   background-size: auto 310px, auto 350px;
-  background-position: right 26% bottom, center top;
+  background-position: right 60px bottom, center top;
+}
+@media (max-width: 840px) {
+  .genre-rows .columns .image-column.romance {
+    background-image: url(/user/themes/illuminate/images/genres/romance_no-edge_girl.png);
+    background-size: contain;
+    background-position: center;
+  }
 }
 .genre-rows .columns .image-column.mystery {
   background-image: url(/user/themes/illuminate/images/genres/mysteryman.png);
-  background-size: 100% 350px;
+  background-size: contain;
   background-position: center;
 }
 @media (max-width: 840px) {
   .genre-rows .columns .image-column.mystery {
-    background-image: url(/user/themes/illuminate/images/genres/mysteryman.png), url(/user/themes/illuminate/images/genres/mystery_no-edge_city_no-back.png), url(/user/themes/illuminate/images/genres/mystery_no-edge_no-city.png);
-    background-size: auto 250px, auto 315px, contain;
-    background-position: left 8% bottom 55%, right 8% bottom 96%, center;
+    min-height: 125px;
+    max-width: 315px;
+    background-image: url(/user/themes/illuminate/images/genres/mysteryman.png), url(/user/themes/illuminate/images/genres/mystery_no-edge_city.png);
+    background-position: left 20px center, center;
   }
 }
 .genre-rows .columns .image-column.sci-fi {
-  max-width: 540px;
   background-image: url(/user/themes/illuminate/images/genres/scifi_no-edge_no-back_spacegirl.png), url(/user/themes/illuminate/images/genres/scifi_star.png), url(/user/themes/illuminate/images/genres/scifi_no-edge_no-spacegirl.png);
   background-size: auto 340px, auto 50px, contain;
-  background-position: center top, left 30% center, center bottom;
+  background-position: center top, left 130px center, center bottom;
+}
+@media (max-width: 840px) {
+  .genre-rows .columns .image-column.sci-fi {
+    background-image: url(/user/themes/illuminate/images/genres/scifi_no-edge_spacegirl.png);
+    background-size: contain;
+    background-position: center;
+  }
+}
+@media (max-width: 500px) {
+  .genre-rows .columns .image-column.sci-fi {
+    min-height: 260px;
+  }
 }
 .genre-rows .columns .image-column.fantasy {
-  max-width: 400px;
   background-image: url(/user/themes/illuminate/images/genres/fantasy_no-edge_warrior_no-back.png), url(/user/themes/illuminate/images/genres/fantasy_no-edge_no-warrior.png);
   background-size: auto 350px, auto 300px;
-  background-position: left 42% top, center bottom;
+  background-position: left 80px top, center bottom;
+}
+@media (max-width: 840px) {
+  .genre-rows .columns .image-column.fantasy {
+    background-image: url(/user/themes/illuminate/images/genres/fantasy_no-edge_warrior.png);
+    background-size: contain;
+    background-position: center;
+  }
 }
 .genre-rows .columns .text-column .mystery-city {
   height: 250px;
   background-image: url(/user/themes/illuminate/images/genres/mystery_no-edge_city_no-back.png), url(/user/themes/illuminate/images/genres/mystery_no-edge_no-city.png);
   background-size: auto 250px, auto 200px;
-  background-position: right 25% bottom 11px, bottom;
+  background-position: right 70px bottom 11px, bottom;
   background-repeat: no-repeat;
 }
 @media (max-width: 840px) {
@@ -278,7 +355,8 @@ blockquote p {
   }
 }
 .genre-rows .columns .text-column .button {
-  float: right;
+  display: block;
+  margin-left: auto;
 }
 
 .grav-lightslider#about_lightslider-wrapper #about_lightslider {
@@ -328,6 +406,7 @@ blockquote p {
 }
 #showcase #header_image #header_logo {
   margin-top: 8rem;
+  margin-bottom: 2rem;
 }
 @media (max-width: 840px) {
   #showcase #header_image #header_logo {
@@ -344,10 +423,19 @@ blockquote p {
     margin-top: 3rem;
   }
 }
+#showcase #header_image #header_text {
+  margin-top: 0;
+}
 @media (max-width: 768px) {
   #showcase #header_image #header_text {
     font-size: 2rem;
   }
+}
+#showcase #header_image .button {
+  display: block;
+  margin-top: 1rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .modular-text {
@@ -368,7 +456,6 @@ html body#top .featherlight .featherlight-content {
 }
 html body#top #page-wrapper {
   background-color: #ffffff;
-  color: #00243a;
   padding-bottom: 5rem;
 }
 html body#top #page-wrapper img.float-left {

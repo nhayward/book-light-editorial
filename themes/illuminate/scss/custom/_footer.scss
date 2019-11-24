@@ -1,40 +1,15 @@
 #footer {
-  position: static;
-  background-color: $secondary;
-  padding-bottom: 20px;
-  height: auto;
+  padding: 0;
+  color: $body-font-color;
 
-  .totop {
-    position: relative;
-    bottom: 23px;
+  .container {
+    background-color: $dark-color;
+    padding: 1rem 0.5rem;
+    color: $white;
 
-    span {
-      background-color: $secondary;
-
-      a#toTop {
-        i {
-          font-size: 1.7rem;
-        }
-      }
+    span,
+    a {
+      font-size: 0.8rem;
     }
-  }
-
-  #social-media {
-    margin-bottom: 10px;
-
-    img {
-      height: 30px;
-      padding: 0 5px;
-    }
-  }
-
-  #heart-book {
-    margin-bottom: 10px;
-  }
-
-  p {
-    position: static;
-    top: 0;
-    transform: initial;
   }
 }

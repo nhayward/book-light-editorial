@@ -2,6 +2,7 @@ $base-font-family: Tahoma, Geneva, sans-serif;
 
 body#top {
   font-family: $base-font-family;
+  color: $body-font-color;
 
   h1,
   h2,
@@ -9,7 +10,7 @@ body#top {
   h4,
   h5,
   h6 {
-    color: $secondary;
+    color: $dark-color;
   }
 
   p,
@@ -24,7 +25,7 @@ body#top {
 
   .button {
     border: none;
-    background-color: $white;
+    background-color: inherit;
     background-image: url(/user/themes/illuminate/images/button.png);
     background-size: contain;
     background-repeat: no-repeat;
@@ -44,7 +45,7 @@ body#top {
   //   padding: .25rem .4rem;
   //   display: inline-block;
   //   border: none;
-  //   background-color: $secondary;
+  //   background-color: $dark-color;
   //   height: 50px;
   //   width: 150px;
   //   line-height: 30px;
@@ -54,7 +55,7 @@ body#top {
   //   outline-offset: 15px;
 
   //   &:hover {
-  //     background-color: $primary;
+  //     background-color: $primary-color;
   //   }
 
   // }
