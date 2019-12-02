@@ -41,6 +41,7 @@
 			{% do assets.addJs('theme://js/jquery.treemenu.js', {group:'bottom'}) %}
 			{% do assets.addJs('theme://js/site.js', {group:'bottom'}) %}
 			{% do assets.addJs('theme://js/illuminate.js', {group:'bottom'}) %}
+			{% do assets.addJs('theme://js/vendor/rellax.min.js', {group:'bottom'}) %}
 			{% do assets.add('theme://js/bricklayer.min.js') %}
 			{% do assets.add('theme://js/scopedQuerySelectorShim.min.js') %}
 		{% endblock %}
@@ -125,6 +126,13 @@
 		{% block bottom %}
 			{{ assets.js('bottom')|raw }}
 		{% endblock %}
+
+		<script>
+			// Accepts any class name
+			var rellax = new Rellax('.rellax-image', {
+				center: true
+			});
+		</script>
 
 	</body>
 </html>

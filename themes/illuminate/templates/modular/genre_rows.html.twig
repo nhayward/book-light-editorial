@@ -2,6 +2,15 @@
 	{% for row in page.header.rows %}
 		<div class="columns{% if row.img_col_right %} img-column-right{% endif %}">
 			<div class="{% if row.class %}{{ row.class }} {% endif %}image-column column col-{{ row.img_col_width|default('4') }} col-md-12">
+				{% for image in row.images %}
+					<img 
+						{% if image.id %}id="{{ image.id }}" {% endif %}
+						class="rellax-image" 
+						src="/user/themes/illuminate/images/genres/{{ image.src }}" 
+						alt="{{ image.alt_text }}"
+						{% if image.parallax_speed %} data-rellax-speed="{{ image.parallax_speed }}"{% endif %}
+					>
+				{% endfor %}
 			</div>
 			<div class="text-column column col-md-12">
 				{{ row.text|markdown }}

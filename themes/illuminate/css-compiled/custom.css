@@ -287,11 +287,25 @@ section#header.scrolled .navbar-section ul li a {
 .genre-rows .columns .image-column {
   min-height: 400px;
   background-repeat: no-repeat;
+  position: relative;
 }
-.genre-rows .columns .image-column.romance {
-  background-image: url(/user/themes/illuminate/images/genres/romance_girl.png), url(/user/themes/illuminate/images/genres/romance_no-edge_no-girl.png);
-  background-size: auto 310px, auto 350px;
-  background-position: right 60px bottom, center top;
+.genre-rows .columns .image-column img {
+  position: absolute;
+}
+@media (max-width: 840px) {
+  .genre-rows .columns .image-column img {
+    display: none;
+  }
+}
+.genre-rows .columns .image-column.romance #romance-girl {
+  height: 310px;
+  bottom: 0;
+  right: 40px;
+}
+.genre-rows .columns .image-column.romance #romance-background {
+  height: 350px;
+  top: 0;
+  left: 0;
 }
 @media (max-width: 840px) {
   .genre-rows .columns .image-column.romance {
@@ -300,10 +314,8 @@ section#header.scrolled .navbar-section ul li a {
     background-position: center;
   }
 }
-.genre-rows .columns .image-column.mystery {
-  background-image: url(/user/themes/illuminate/images/genres/mysteryman.png);
-  background-size: contain;
-  background-position: center;
+.genre-rows .columns .image-column.mystery img {
+  height: 300px;
 }
 @media (max-width: 840px) {
   .genre-rows .columns .image-column.mystery {
@@ -313,10 +325,20 @@ section#header.scrolled .navbar-section ul li a {
     background-position: left 20px center, center;
   }
 }
-.genre-rows .columns .image-column.sci-fi {
-  background-image: url(/user/themes/illuminate/images/genres/scifi_no-edge_no-back_spacegirl.png), url(/user/themes/illuminate/images/genres/scifi_star.png), url(/user/themes/illuminate/images/genres/scifi_no-edge_no-spacegirl.png);
-  background-size: auto 340px, auto 50px, contain;
-  background-position: center top, left 130px center, center bottom;
+.genre-rows .columns .image-column.sci-fi #scifi-spacegirl {
+  height: 320px;
+  top: 20%;
+  right: 40px;
+}
+.genre-rows .columns .image-column.sci-fi #scifi-star {
+  height: 50px;
+  left: 130px;
+  bottom: 50%;
+}
+.genre-rows .columns .image-column.sci-fi #scifi-background {
+  top: 20%;
+  left: 0;
+  right: 0;
 }
 @media (max-width: 840px) {
   .genre-rows .columns .image-column.sci-fi {
@@ -330,10 +352,14 @@ section#header.scrolled .navbar-section ul li a {
     min-height: 260px;
   }
 }
-.genre-rows .columns .image-column.fantasy {
-  background-image: url(/user/themes/illuminate/images/genres/fantasy_no-edge_warrior_no-back.png), url(/user/themes/illuminate/images/genres/fantasy_no-edge_no-warrior.png);
-  background-size: auto 350px, auto 300px;
-  background-position: left 80px top, center bottom;
+.genre-rows .columns .image-column.fantasy #fantasy-warrior {
+  height: 350px;
+  top: 0;
+  left: 40px;
+}
+.genre-rows .columns .image-column.fantasy #fantasy-background {
+  height: 300px;
+  bottom: 0;
 }
 @media (max-width: 840px) {
   .genre-rows .columns .image-column.fantasy {

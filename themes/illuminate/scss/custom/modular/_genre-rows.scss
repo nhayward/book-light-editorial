@@ -11,12 +11,28 @@
     .image-column {
       min-height: 400px;
       background-repeat: no-repeat;
+      position: relative;
+
+      img {
+        position: absolute;
+
+        @media (max-width: 840px) {
+          display: none;
+        }
+      }
 
       &.romance {
-        background-image: url(/user/themes/illuminate/images/genres/romance_girl.png),
-          url(/user/themes/illuminate/images/genres/romance_no-edge_no-girl.png);
-        background-size: auto 310px, auto 350px;
-        background-position: right 60px bottom, center top;
+        #romance-girl {
+          height: 310px;
+          bottom: 0;
+          right: 40px;
+        }
+
+        #romance-background {
+          height: 350px;
+          top: 0;
+          left: 0;
+        }
 
         @media (max-width: 840px) {
           background-image: url(/user/themes/illuminate/images/genres/romance_no-edge_girl.png);
@@ -26,9 +42,9 @@
       }
 
       &.mystery {
-        background-image: url(/user/themes/illuminate/images/genres/mysteryman.png);
-        background-size: contain;
-        background-position: center;
+        img {
+          height: 300px;
+        }
 
         @media (max-width: 840px) {
           min-height: 125px;
@@ -40,11 +56,23 @@
       }
 
       &.sci-fi {
-        background-image: url(/user/themes/illuminate/images/genres/scifi_no-edge_no-back_spacegirl.png),
-          url(/user/themes/illuminate/images/genres/scifi_star.png),
-          url(/user/themes/illuminate/images/genres/scifi_no-edge_no-spacegirl.png);
-        background-size: auto 340px, auto 50px, contain;
-        background-position: center top, left 130px center, center bottom;
+        #scifi-spacegirl {
+          height: 320px;
+          top: 20%;
+          right: 40px;
+        }
+
+        #scifi-star {
+          height: 50px;
+          left: 130px;
+          bottom: 50%;
+        }
+
+        #scifi-background {
+          top: 20%;
+          left: 0;
+          right: 0;
+        }
 
         @media (max-width: 840px) {
           background-image: url(/user/themes/illuminate/images/genres/scifi_no-edge_spacegirl.png);
@@ -58,10 +86,21 @@
       }
 
       &.fantasy {
-        background-image: url(/user/themes/illuminate/images/genres/fantasy_no-edge_warrior_no-back.png),
-          url(/user/themes/illuminate/images/genres/fantasy_no-edge_no-warrior.png);
-        background-size: auto 350px, auto 300px;
-        background-position: left 80px top, center bottom;
+        // background-image: url(/user/themes/illuminate/images/genres/fantasy_no-edge_warrior_no-back.png),
+        //   url(/user/themes/illuminate/images/genres/fantasy_no-edge_no-warrior.png);
+        // background-size: auto 350px, auto 300px;
+        // background-position: left 80px top, center bottom;
+
+        #fantasy-warrior {
+          height: 350px;
+          top: 0;
+          left: 40px;
+        }
+
+        #fantasy-background {
+          height: 300px;
+          bottom: 0;
+        }
 
         @media (max-width: 840px) {
           background-image: url(/user/themes/illuminate/images/genres/fantasy_no-edge_warrior.png);
