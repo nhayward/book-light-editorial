@@ -2,7 +2,7 @@
   #header_image {
     position: relative;
     text-align: center;
-    z-index: 0;
+    z-index: 1;
 
     @media (max-width: 768px) {
       margin-top: 2.5rem;

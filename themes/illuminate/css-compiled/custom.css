@@ -15,10 +15,7 @@ body#top li,
 body#top a {
   font-size: 1.1rem;
 }
-body#top a {
-  color: #ffffff;
-}
-body#top .button {
+body#top .button, body#top .btn {
   border: none;
   background-color: inherit;
   background-image: url(/user/themes/illuminate/images/button.png);
@@ -27,10 +24,11 @@ body#top .button {
   background-position: center;
   height: 50px;
   width: 150px;
+  color: #ffffff;
   line-height: 30px;
   transition: 0.25s background-image;
 }
-body#top .button:hover {
+body#top .button:hover, body#top .btn:hover {
   background-image: url(/user/themes/illuminate/images/button_darkblue.png);
 }
 body#top .highlight {
@@ -147,6 +145,10 @@ section#header.scrolled .navbar-section ul li a {
 
 .content-item .content-title .p-name a {
   font-size: 1.75rem !important;
+}
+
+.sharer-buttons-toolbar {
+  text-align: center;
 }
 
 #footer {
@@ -418,7 +420,7 @@ section#header.scrolled .navbar-section ul li a {
 #showcase #header_image {
   position: relative;
   text-align: center;
-  z-index: 0;
+  z-index: 1;
 }
 @media (max-width: 768px) {
   #showcase #header_image {

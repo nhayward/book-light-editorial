@@ -19,11 +19,7 @@ body#top {
     font-size: 1.1rem;
   }
 
-  a {
-    color: $white;
-  }
-
-  .button {
+  .button, .btn {
     border: none;
     background-color: inherit;
     background-image: url(/user/themes/illuminate/images/button.png);
@@ -32,48 +28,14 @@ body#top {
     background-position: center;
     height: 50px;
     width: 150px;
+    color: $white;
     line-height: 30px;
-    transition: .25s background-image;
+    transition: 0.25s background-image;
 
     &:hover {
       background-image: url(/user/themes/illuminate/images/button_darkblue.png);
     }
-
   }
-
-  // .button-clip {
-  //   padding: .25rem .4rem;
-  //   display: inline-block;
-  //   border: none;
-  //   background-color: $dark-color;
-  //   height: 50px;
-  //   width: 150px;
-  //   line-height: 30px;
-  //   transition: .25s background-color;
-  //   -webkit-clip-path: polygon(8% 0, 91% 2%, 100% 93%, 0% 100%);
-  //   clip-path: polygon(8% 0, 91% 2%, 100% 93%, 0% 100%);
-  //   outline-offset: 15px;
-
-  //   &:hover {
-  //     background-color: $primary-color;
-  //   }
-
-  // }
-
-  // .button {
-  //   border-radius: 0;
-  //   border: 1px solid $accent3;
-  //   padding: 10px 20px;
-  //   background-color: $white;
-  //   color: $accent3;
-  //   font-weight: bold;
-  //   transition: 0.25s all;
-
-  //   &:hover {
-  //     background-color: $accent3;
-  //     color: $white;
-  //   }
-  // }
 
   .highlight {
     color: $highlight;
