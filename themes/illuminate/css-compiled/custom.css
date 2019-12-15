@@ -12,8 +12,8 @@ body#top h6 {
 }
 body#top p,
 body#top li,
-body#top a {
-  font-size: 1.1rem;
+body#top a, body#top .button, body#top .btn {
+  font-size: 1rem;
 }
 body#top .button, body#top .btn {
   border: none;
@@ -25,7 +25,7 @@ body#top .button, body#top .btn {
   height: 50px;
   width: 150px;
   color: #ffffff;
-  line-height: 30px;
+  line-height: 33px;
   transition: 0.25s background-image;
 }
 body#top .button:hover, body#top .btn:hover {

@@ -19,5 +19,6 @@ content:
             - _services
             - _quick-form
             - _bottom-content
+            - _footer-cta
 ---
 

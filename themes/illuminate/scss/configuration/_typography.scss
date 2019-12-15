@@ -15,8 +15,8 @@ body#top {
 
   p,
   li,
-  a {
-    font-size: 1.1rem;
+  a, .button, .btn {
+    font-size: 1rem;
   }
 
   .button, .btn {
@@ -29,7 +29,7 @@ body#top {
     height: 50px;
     width: 150px;
     color: $white;
-    line-height: 30px;
+    line-height: 33px;
     transition: 0.25s background-image;
 
     &:hover {

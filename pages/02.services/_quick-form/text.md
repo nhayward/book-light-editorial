@@ -64,6 +64,9 @@ visible: false
 					<option value="proofread">
 						Proofread
 					</option>
+					<option value="sample">
+						Sample Edit
+					</option>
 					<option value="unsure">
 						Not sure yet...
 					</option>

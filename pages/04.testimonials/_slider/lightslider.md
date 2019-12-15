@@ -8,5 +8,6 @@ lightslider:
     autoWidth: 'true'
     slideMargin: '45'
     item: '6'
+    controls: 'true'
 ---
 
