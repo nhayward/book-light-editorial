@@ -9,9 +9,9 @@
     }
 
     #header_curtain {
+      pointer-events: none;
       position: absolute;
       left: 0;
-      z-index: -1;
     }
 
     #header_logo {

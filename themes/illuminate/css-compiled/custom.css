@@ -428,9 +428,9 @@ section#header.scrolled .navbar-section ul li a {
   }
 }
 #showcase #header_image #header_curtain {
+  pointer-events: none;
   position: absolute;
   left: 0;
-  z-index: -1;
 }
 #showcase #header_image #header_logo {
   margin-top: 8rem;
