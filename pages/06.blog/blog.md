@@ -10,7 +10,7 @@ content:
     order:
         by: date
         dir: desc
-    limit: 7
+    limit: 10
     pagination: true
 show_sidebar: false
 ---
