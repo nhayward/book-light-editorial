@@ -196,7 +196,6 @@ section#header.scrolled .navbar-section ul li a {
 }
 .columns .column .bricklayer .bricklayer-column .box {
   box-shadow: 0 0 10px 1px black;
-  background-image: url("/user/themes/illuminate/images/accents/Book_Light_Editorial_BookStack.png");
   background-repeat: no-repeat;
   background-size: 125px;
   background-position: right 10px bottom 10px;

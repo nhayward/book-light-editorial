@@ -4,7 +4,7 @@
 
 			<div class="bricklayer">
 				{% for box in page.header.boxes %}
-					<div class="box">
+					<div class="box" style="background-image: url({{ url('theme://images/accents/Book_Light_Editorial_BookStack.png') }})">
 						{{ box.content|markdown }}
 					</div>
 				{% endfor %}
