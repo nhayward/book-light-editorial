@@ -6,7 +6,7 @@
 					<img 
 						{% if image.id %}id="{{ image.id }}" {% endif %}
 						class="rellax-image" 
-						src="/user/themes/illuminate/images/genres/{{ image.src }}" 
+						src="{{ url('theme://images/genres') }}/{{ image.src }}" 
 						alt="{{ image.alt_text }}"
 						{% if image.parallax_speed %} data-rellax-speed="{{ image.parallax_speed }}"{% endif %}
 					>
