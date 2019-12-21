@@ -210,8 +210,19 @@ section#header.scrolled .navbar-section ul li a {
 .columns .column .bricklayer .bricklayer-column .box blockquote p {
   color: #555;
 }
-.columns .column .bricklayer .bricklayer-column .box blockquote + p {
+.columns .column .bricklayer .bricklayer-column .box blockquote ~ p:last-child {
   margin-right: 115px;
+}
+@media (max-width: 500px) {
+  .columns .column .bricklayer .bricklayer-column .box blockquote ~ p:last-child {
+    margin-right: 0;
+    margin-bottom: 70px;
+  }
+}
+@media (max-width: 500px) {
+  .columns .column .bricklayer .bricklayer-column .box .button {
+    margin-bottom: 50px;
+  }
 }
 
 #cta {
