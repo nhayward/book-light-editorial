@@ -493,5 +493,8 @@ html body#top #page-wrapper img.float-left {
 html body#top #page-wrapper .center {
   text-align: center;
 }
+html body#top #page-wrapper .anchor {
+  padding-top: 40px;
+}
 
 /*# sourceMappingURL=custom.css.map */
