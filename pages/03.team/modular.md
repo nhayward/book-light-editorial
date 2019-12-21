@@ -21,5 +21,6 @@ content:
             - _laura
             - _grace
             - _slider
+            - _cta
 ---
 
