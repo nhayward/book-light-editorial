@@ -3,6 +3,44 @@ title: Text
 image_align: left
 ---
 
+##Genres{.center}
+
+#### Sci-Fi
+The Science Fiction genre involves elements based on science and technology. It can take place in an imaginary world or in an altered version of our current world, at times involving futuristic societies. Sci-Fi is a subgenre of speculative fiction along with fantasy and dystopian. 
+
+**Some subgenres include:** Alternate History, Steampunk, Time-Travel, Space Opera, Soft Sci-Fi, Robots/Artificial Intelligence, and Space Travel.
+
+#### Fantasy
+
+Fantasy novels take place in an imaginary world that often includes magic or magical elements. It is a subgenre of speculative fiction, along with Sci-Fi and dystopian. It has many different subgenres of its own, including urban fantasy and contemporary fantasy that take place in our world, but slightly altered to include magic or mythological/supernatural creatures.
+
+**Some subgenres include:** Dark Fantasy, High Fantasy, Contemporary, Urban, Mythological, and Historical
+
+#### Romance
+
+The Romance genre has many subgenres, but most importantly, they all involve romantic love. It is a romance novel if the main plot revolves around that relationship, even though other subplots present conflict and story. A key component in all romance novels is the HEA (Happily-Ever-After) or HFN (Happily-for-Now). The novel must end with one or the other in order to satisfy the genre. 
+
+**Some subgenres include:** Contemporary, Historical, Romantic Suspense, Fantasy, Paranormal, Military, Inspirational, and Time-Travel. 
+
+#### Mystery
+
+Mystery novels often involve a detective solving a conundrum or case. The story should be full of clues, red herrings, and obviously, mysteries. The story starts with an unknown that hooks the reader in and that the main character must solve by the end of the novel. The reader should be trying to solve the mystery along with the characters. Thrillers have a lot of crossover with Mystery novels and can be considered a subgenre (albeit typically darker and more suspenseful). 
+
+**Some subgenres include:** Bumbling Detective, Cozy, Amateur Sleuth, Caper, Hard-boiled, Historical, Legal, Police Procedural, and sometimes Thriller
+
+#### There are many other genres out there. We can always discuss where your novel fits, but some more genres include:
+
+* Dystopian
+* Thriller/Suspense
+* Horror
+* Literary Fiction
+* Historical Fiction
+* Magical Realism
+
+**Disclaimer:** Many genres overlap and can be subgenres of each other. The above breakdown is not set in stone. 
+
+Your novel likely crosses over multiple genres, but it is important to find the one that fits the main plot of your book. 
+
 ## Writing Resources and Tips{.center}
 
 !!!!! ##### When you are writing and writing or fed up with your writer's block, these resources will answer some of your questions and maybe get you back on track:   
@@ -27,13 +65,6 @@ image_align: left
 !!!!! [Check it out here.](http://quoteinvestigator.com/resources/?target=_blank)   
 
 !!!!! ##### Maybe you are done writing, and you've become intrigued by the world of indie-publishing. These resources will help that vision come true:   
-!!!!!    
-!!!!! **\#ShoreIndie Contest:**   
-!!!!! ![ShoreIndie](../shoreindie_logo.png){.float-left}
-!!!!! You've decided that indie-publishing is the place for you. You've finished your manuscript and you are ready to dive into the indie-publishing world. The true value in joining contests like these is not the winning but the community you find there. So many authors and editors come together and share tons of advice and support. You'll find lifelong critique and writing partners here!   
-!!!!!    
-!!!!! \#ShoreIndie supports emerging indie authors by providing quality editing services and book marketing resources, creating a Twitter-based learning community for established as well as emerging indie and hybrid authors.   
-!!!!! [Check it out here.](https://shoreindie.blogspot.com/?target=_blank)   
 !!!!!    
 !!!!! **Just Publishing:**   
 !!!!! ![Just Publishing](../JustPublishing.jpg){.float-left}

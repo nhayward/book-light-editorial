@@ -11,11 +11,12 @@ twitter_handle: FromCarly
 
 _**Chief Developmental Editor & Founder**_
 
-<span class="first-character">C</span>arly is a developmental editor and writing coach who will help you find your voice and bring your vision to the reader. Editing combines her creativity and her love of reading, giving advice, and logic puzzles. Carly will be your book’s best friend.
+<span class="first-character">C</span>arly is a developmental novel editor who helps authors find their voice and bring their book to light. Editing combines her love of reading, giving advice, and logic puzzles. She will be your book’s best friend.
 
-She has worked in the publishing industry for 10 years, including at a big 5 publishing house, a small press, a literary agency, a hybrid publisher, and a self-publishing house that helped indie-authors. That experience has helped her to see the industry from all different angles. Carly graduated Magna Cum Laude with a B.A. in English. She is a member of the Editorial Freelancers Association and Chicago Women in Publishing, and was a panelist at Book Expo America 2016. Carly is a co-founder and editor for Revise & Resub, a pitch event, and an editor for the ShoreIndie Contest.
+With 10+ years in publishing, she’s worked all over the industry, including at a big 5 publishing house, a small press, a hybrid publisher, and a literary agency. That experience has helped her to see the industry from all different angles. She is a co-founding Revise & Resub (#RevPit) editor and a host on Story Chat Radio, a writing advice podcast. She is a member of the Editorial Freelancers Association, Romance Writers of America and Chicago Women in Publishing. 
 
-When not reading or working she lounges with her husband being vastly amused by their cats or binge-watching TV. 
+When not reading or working she lounges with her husband being vastly amused by their cats or binge-watching TV.
+
 
 !!!!! ##### Specialties:   
 !!!!!   

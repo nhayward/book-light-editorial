@@ -6,7 +6,7 @@
       <h1 id="header_text">{{ header_var('showcase_heading') }}</h1>
     {% endif %}
     {% if header_var('showcase_button') %}
-      <a class="button">{{ header_var('showcase_button') }}</a>
+      <a class="button" href="{{ header_var('showcase_button_target') }}">{{ header_var('showcase_button') }}</a>
     {% endif %}
   </div>
 </div>
