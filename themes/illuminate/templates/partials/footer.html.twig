@@ -1,5 +1,10 @@
 <section id="footer" class="section">
 	<section class="container">
+    <div id="footer-social" class="social-icons">
+      <a id="twitter-icon" class="social-icon" href="https://twitter.com/fromcarly" target="_blank"><i class="fab fa-twitter"></i></a>
+      <a id="facebook-icon" class="social-icon" href="https://www.facebook.com/booklighteditorial/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+      <a id="instagram-icon" class="social-icon" href="https://www.instagram.com/booklighteditorial/" target="_blank"><i class="fab fa-instagram"></i></a>
+    </div>
     <span>Copyright &copy; {{ now|date('Y') }} Book Light Editorial</span>
     <br>
     {% for link in site.footer.links %}

@@ -7,10 +7,13 @@ html {
   font-size: 16px;
 
   body#top {
+    position: relative;
+
     .featherlight {
       .featherlight-content {
+        border-bottom: none;
         border-radius: 5px;
-        padding: 15px 20px 0;
+        padding: 15px 20px;
       }
     }
 
@@ -21,7 +24,12 @@ html {
       }
 
       .buttons {
+        margin-top: 1rem;
         text-align: center;
+
+        .button {
+          margin: 0 0.5rem;
+        }
       }
     }
 
@@ -43,6 +51,95 @@ html {
         position: relative;
         top: -40px;
         visibility: hidden;
+      }
+
+      #contact-page-images {
+        margin-top: 2rem;
+        text-align: center;
+
+        img {
+          max-height: 250px;
+          max-width: 23%;
+
+          &#contact-page-warrior {
+            max-height: 300px;
+          }
+        }
+      }
+    }
+
+    .social-icons {
+      &#floating-social {
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        z-index: 999;
+        margin-right: 0.25rem;
+
+        .social-icon {
+          display: block;
+          margin-bottom: 0.25rem;
+
+          @media (max-width: 1024px) {
+            display: none;
+          }
+        }
+      }
+
+      &#footer-social {
+        margin-bottom: 0.5rem;
+
+        .social-icon {
+          display: none;
+          margin: 0 0.25rem;
+
+          @media (max-width: 1024px) {
+            display: inline-block;
+          }
+        }
+      }
+
+      .social-icon {
+        i {
+          border-radius: 50%;
+          background-color: $black;
+          height: 35px;
+          width: 35px;
+          padding: 0.5rem;
+          font-size: 1.2rem;
+          color: $white;
+          text-align: center;
+        }
+      }
+    }
+
+    .margin-image {
+      position: absolute;
+      width: 10%;
+      z-index: 0;
+
+      @media (max-width: 1170px) {
+        display: none;
+      }
+
+      &#warrior-margin {
+        top: 20%;
+        left: 1px;
+      }
+
+      &#romance-girl-margin {
+        top: 35%;
+        right: 1px;
+      }
+
+      &#scifi-spacegirl-margin {
+        top: 50%;
+        left: 1px;
+      }
+
+      &#mysteryman-margin {
+        top: 65%;
+        right: 1px;
       }
     }
   }

@@ -196,6 +196,7 @@ section#header.scrolled .navbar-section ul li a {
 }
 .columns .column .bricklayer .bricklayer-column .box {
   box-shadow: 0 0 10px 1px black;
+  background-color: #ffffff;
   background-repeat: no-repeat;
   background-size: 125px;
   background-position: right 10px bottom 10px;
@@ -492,16 +493,24 @@ section#header.scrolled .navbar-section ul li a {
 html {
   font-size: 16px;
 }
+html body#top {
+  position: relative;
+}
 html body#top .featherlight .featherlight-content {
+  border-bottom: none;
   border-radius: 5px;
-  padding: 15px 20px 0;
+  padding: 15px 20px;
 }
 html body#top #contact-form input,
 html body#top #contact-form textarea {
   width: 100%;
 }
 html body#top #contact-form .buttons {
+  margin-top: 1rem;
   text-align: center;
+}
+html body#top #contact-form .buttons .button {
+  margin: 0 0.5rem;
 }
 html body#top #page-wrapper {
   background-color: #ffffff;
@@ -519,6 +528,81 @@ html body#top #page-wrapper .anchor {
   position: relative;
   top: -40px;
   visibility: hidden;
+}
+html body#top #page-wrapper #contact-page-images {
+  margin-top: 2rem;
+  text-align: center;
+}
+html body#top #page-wrapper #contact-page-images img {
+  max-height: 250px;
+  max-width: 23%;
+}
+html body#top #page-wrapper #contact-page-images img#contact-page-warrior {
+  max-height: 300px;
+}
+html body#top .social-icons#floating-social {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  z-index: 999;
+  margin-right: 0.25rem;
+}
+html body#top .social-icons#floating-social .social-icon {
+  display: block;
+  margin-bottom: 0.25rem;
+}
+@media (max-width: 1024px) {
+  html body#top .social-icons#floating-social .social-icon {
+    display: none;
+  }
+}
+html body#top .social-icons#footer-social {
+  margin-bottom: 0.5rem;
+}
+html body#top .social-icons#footer-social .social-icon {
+  display: none;
+  margin: 0 0.25rem;
+}
+@media (max-width: 1024px) {
+  html body#top .social-icons#footer-social .social-icon {
+    display: inline-block;
+  }
+}
+html body#top .social-icons .social-icon i {
+  border-radius: 50%;
+  background-color: #000000;
+  height: 35px;
+  width: 35px;
+  padding: 0.5rem;
+  font-size: 1.2rem;
+  color: #ffffff;
+  text-align: center;
+}
+html body#top .margin-image {
+  position: absolute;
+  width: 10%;
+  z-index: 0;
+}
+@media (max-width: 1170px) {
+  html body#top .margin-image {
+    display: none;
+  }
+}
+html body#top .margin-image#warrior-margin {
+  top: 20%;
+  left: 1px;
+}
+html body#top .margin-image#romance-girl-margin {
+  top: 35%;
+  right: 1px;
+}
+html body#top .margin-image#scifi-spacegirl-margin {
+  top: 50%;
+  left: 1px;
+}
+html body#top .margin-image#mysteryman-margin {
+  top: 65%;
+  right: 1px;
 }
 
 /*# sourceMappingURL=custom.css.map */

@@ -22,5 +22,6 @@ content:
             - _grace
             - _slider
             - _cta
+genre_images: true
 ---
 

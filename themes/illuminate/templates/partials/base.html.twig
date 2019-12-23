@@ -34,6 +34,7 @@
 			{% do assets.addCss('theme://css-compiled/custom.css') %}
 			{% do assets.addCss('theme://css/line-awesome.min.css') %}
 			{% do assets.addCss('theme://css/bricklayer.css') %}
+			{% do assets.addCss('theme://css/fontawesome-5.12.0/css/all.css') %}
 		{% endblock %}
 
 		{% block javascripts %}
@@ -87,9 +88,9 @@
 				</div>
 			{% endblock %}
 
-      {% block showcase %}
+			{% block showcase %}
 				{% include 'partials/showcase.html.twig' %}
-      {% endblock %}
+			{% endblock %}
 
 			<section id="start">
 				{% block body %}
@@ -103,7 +104,6 @@
 					</section>
 				{% endblock %}
 			</section>
-
 		</div>
 
 		{% block footer %}
@@ -123,15 +123,34 @@
 			</div>
 		{% endblock %}
 
+    <div id="floating-social" class="social-icons">
+      <a id="twitter-icon" class="social-icon" href="https://twitter.com/fromcarly" target="_blank"><i class="fab fa-twitter"></i></a>
+      <a id="facebook-icon" class="social-icon" href="https://www.facebook.com/booklighteditorial/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+      <a id="instagram-icon" class="social-icon" href="https://www.instagram.com/booklighteditorial/" target="_blank"><i class="fab fa-instagram"></i></a>
+    </div>
+
+    {% if page.header.genre_images %}
+      <div id="warrior-margin" class="rellax-image margin-image" data-rellax-speed="-2">
+        <img src="{{ url('theme://images/genres/fantasy_no-edge_warrior_no-back.png') }}" alt="">
+      </div>
+      <div id="romance-girl-margin" class="rellax-image margin-image" data-rellax-speed="-2">
+        <img src="{{ url('theme://images/genres/romance_girl.png') }}" alt="">
+      </div>
+      <div id="scifi-spacegirl-margin" class="rellax-image margin-image" data-rellax-speed="-2">
+        <img src="{{ url('theme://images/genres/scifi_no-edge_no-back_spacegirl.png') }}" alt="">
+      </div>
+      <div id="mysteryman-margin" class="rellax-image margin-image" data-rellax-speed="-2">
+        <img src="{{ url('theme://images/genres/mysteryman.png') }}" alt="">
+      </div>
+    {% endif %}
+
 		{% block bottom %}
 			{{ assets.js('bottom')|raw }}
 		{% endblock %}
 
 		<script>
 			// Accepts any class name
-			var rellax = new Rellax('.rellax-image', {
-				center: true
-			});
+var rellax = new Rellax('.rellax-image', {center: true});
 		</script>
 
 	</body>

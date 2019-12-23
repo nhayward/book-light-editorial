@@ -1,14 +1,8 @@
 ---
-title: Contact
-media_order: book_light_editorial_socialmetatag.png
-metadata:
-    description: 'Contact Book Light Editorial to learn more about rates, editing services, and our schedule. We can help you write you best book, all you have to do is send us a message.'
-    keywords: 'editing, freelance, publishing, writing, author, indie author, editor, self-publishing, developmental editing, copyediting, manuscript, contact'
-sitemap:
-    changefreq: yearly
-    priority: 0.4
-header_image: book_light_editorial_printerkey2_banner.png
-heading: 'Ready to begin?'
+title: Text
+image_align: left
+process:
+  twig: true
 ---
 
 If you are ready to begin editing or if you don't know yet and have questions for us, please send us a message and we will get back to you within 1-2 business days!
@@ -112,3 +106,10 @@ We look forward to hearing from you!
 		<button class="button" type="submit">Submit</button> <button class="button" type="reset">Reset</button>
 	</div>
 </form>
+
+<div id="contact-page-images">
+  <img src="/user/themes/illuminate/images/genres/romance_girl.png" alt="">
+  <img src="/user/themes/illuminate/images/genres/mysteryman.png" alt="">
+  <img src="/user/themes/illuminate/images/genres/scifi_no-edge_no-back_spacegirl.png" alt="">
+  <img id="contact-page-warrior" src="/user/themes/illuminate/images/genres/fantasy_no-edge_warrior_no-back.png" alt="">
+</div>
