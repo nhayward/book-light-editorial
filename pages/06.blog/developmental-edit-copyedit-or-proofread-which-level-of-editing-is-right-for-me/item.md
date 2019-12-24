@@ -1,5 +1,5 @@
 ---
-title: 'Developmental Edit, Copyedit, or Proofread: Which Level of Editing Is Right for Me?'
+title: 'Developmental Edit, Copyedit, or Proofread: </br>Which Level of Editing Is Right for Me?'
 date: '08-01-2018 00:00'
 metadata:
     description: 'Copyeditor, Laura Dennison, discusses the different types of editing: developmental (content) editing, copyediting, and proofreading. She helps you figure out what type of editing is right for your manuscript as you prepare to publish or query.'
