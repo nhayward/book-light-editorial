@@ -7,9 +7,28 @@
     padding: 1rem 0.5rem;
     color: $white;
 
+    #footer-social {
+      margin-bottom: 0.5rem;
+
+      .social-icon {
+        margin: 0 0.25rem;
+
+        i {
+          background-color: $white;
+          color: $black;
+
+          &:hover {
+            background-color: $black;
+            color: $white;
+          }
+        }
+      }
+    }
+
     span,
     a {
       font-size: 0.8rem;
+      color: $white;
     }
   }
 }

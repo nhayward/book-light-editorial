@@ -7,10 +7,26 @@
     padding: 0;
 
     > div {
-      background-color: $dark-color;
+      position: relative;
       padding: 1rem 0.5rem;
+      z-index: 1;
+
+      &:before {
+        z-index: -1;
+        content: "";
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 50%;
+        margin-left: -50vw;
+        width: 100vw;
+      }
 
       &#cta-top-bar {
+        &:before {
+          background-color: $dark-color;
+        }
+
         #cta-title {
           font-size: 2rem;
           text-align: center;
@@ -25,8 +41,11 @@
 
       &#cta-content {
         min-height: 400px;
-        background-color: $gray-color;
         text-align: left;
+        
+        &:before {
+          background-color: $gray-color;
+        }
 
         .text-column {
           padding-left: 3rem;
@@ -46,7 +65,7 @@
         #cta-coffee-img {
           max-width: 200px;
           position: absolute;
-          top: 45px;
+          top: -35px;
           right: 20px;
 
           @media (max-width: 600px) {

@@ -51,7 +51,8 @@ section#header {
           }
 
           &.active,
-          &:hover {
+          &:hover,
+          &:focus {
             color: $highlight !important;
 
             &:after {

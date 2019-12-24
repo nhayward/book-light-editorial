@@ -8,7 +8,7 @@
 						class="rellax-image" 
 						src="{{ url('theme://images/genres') }}/{{ image.src }}" 
 						alt="{{ image.alt_text }}"
-						{% if image.parallax_speed %} data-rellax-speed="{{ image.parallax_speed }}"{% endif %}
+						data-rellax-speed="{{ image.parallax_speed|default('-2') }}"
 					>
 				{% endfor %}
 			</div>
