@@ -15,6 +15,9 @@ body#top li,
 body#top a, body#top .button, body#top .btn {
   font-size: 1rem;
 }
+body#top a {
+  color: #047c69;
+}
 body#top .button, body#top .btn {
   border: none;
   background-color: inherit;
@@ -103,12 +106,12 @@ section#header .navbar-section ul li a:after {
   bottom: 0;
   display: block;
   content: "";
-  border-bottom: 1px solid #0074aa;
+  border-bottom: 1px solid #f7941d;
   transform: scaleX(0);
   transition: transform 250ms ease-in-out;
 }
 section#header .navbar-section ul li a.active, section#header .navbar-section ul li a:hover {
-  color: #0074aa;
+  color: #f7941d !important;
 }
 section#header .navbar-section ul li a.active:after, section#header .navbar-section ul li a:hover:after {
   width: 100%;
