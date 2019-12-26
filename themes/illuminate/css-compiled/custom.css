@@ -113,6 +113,15 @@ html body#top #page-wrapper #contact-page-images img {
 html body#top #page-wrapper #contact-page-images img#contact-page-warrior {
   max-height: 300px;
 }
+html body#top #page-wrapper .mobile-menu .button_container.active {
+  opacity: 1;
+  top: 0.75rem;
+}
+html body#top #page-wrapper .mobile-menu .button_container.active .top,
+html body#top #page-wrapper .mobile-menu .button_container.active .middle,
+html body#top #page-wrapper .mobile-menu .button_container.active .bottom {
+  background-color: #047c69;
+}
 html body#top #floating-social {
   position: fixed;
   bottom: 0;
@@ -174,7 +183,15 @@ html body#top .margin-image#mysteryman-margin {
 html .mobile-container .overlay {
   background-color: #ffffff;
 }
-html .mobile-container .overlay .overlay-menu ul li a.active {
+html .mobile-container .overlay .mobile-logo {
+  margin-top: 0.5rem;
+  margin-left: 0.5rem;
+  font-weight: bold;
+}
+html .mobile-container .overlay .overlay-menu ul li .toggler {
+  display: none;
+}
+html .mobile-container .overlay .overlay-menu ul li a.active, html .mobile-container .overlay .overlay-menu ul li a:focus {
   font-weight: bold;
   color: #047c69 !important;
 }
@@ -365,9 +382,6 @@ section#header.scrolled .navbar-section ul li a {
   padding: 0;
   color: #444444;
 }
-#cta .container {
-  padding: 0;
-}
 #cta .container > div {
   position: relative;
   padding: 1rem 0.5rem;
@@ -405,7 +419,6 @@ section#header.scrolled .navbar-section ul li a {
   background-color: #eeeeee;
 }
 #cta .container > div#cta-content .text-column {
-  padding-left: 3rem;
   padding-right: 1.5rem;
 }
 #cta .container > div#cta-content .text-column .button {
@@ -597,10 +610,36 @@ section#header.scrolled .navbar-section ul li a {
   pointer-events: none;
   position: absolute;
   left: 0;
+  width: 100%;
+}
+@media (min-width: 2700px) {
+  #showcase #header_image #header_curtain {
+    display: none;
+  }
 }
 #showcase #header_image #header_logo {
   margin-top: 8rem;
   margin-bottom: 2rem;
+}
+@media (min-width: 2400px) and (max-width: 2699px) {
+  #showcase #header_image #header_logo {
+    margin-top: 16rem;
+  }
+}
+@media (min-width: 2050px) and (max-width: 2399px) {
+  #showcase #header_image #header_logo {
+    margin-top: 14rem;
+  }
+}
+@media (min-width: 1700px) and (max-width: 2049px) {
+  #showcase #header_image #header_logo {
+    margin-top: 12rem;
+  }
+}
+@media (min-width: 1350px) and (max-width: 1699px) {
+  #showcase #header_image #header_logo {
+    margin-top: 10rem;
+  }
 }
 @media (max-width: 840px) {
   #showcase #header_image #header_logo {
