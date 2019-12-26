@@ -77,7 +77,7 @@ pages:
   hide_empty_folders: false
   url_taxonomy_filters: true
   frontmatter:
-    process_twig: false
+    process_twig: true
     ignore_fields:
       - form
       - forms

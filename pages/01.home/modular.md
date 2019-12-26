@@ -18,5 +18,22 @@ sitemap:
 showcase_heading: 'Bring your book to <span class="highlight">light</span>'
 showcase_button: 'Let''s Begin'
 showcase_button_target: /services
+process:
+  twig: true
+preload_assets:
+  -
+    path: "{{ url('theme:///images/genres/romance_no-edge_girl.png') }}"
+    media_query: 'max-width: 840px'
+  -
+    path: "{{ url('theme://images/genres/mystery_no-edge_city.png') }}"
+    media_query: 'max-width: 840px'
+  -
+    path: "{{ url('theme://images/genres/mysteryman.png') }}"
+  -
+    path: "{{ url('theme://images/genres/scifi_no-edge_spacegirl.png') }}"
+    media_query: 'max-width: 840px'
+  -
+    path: "{{ url('theme://images/genres/fantasy_no-edge_warrior.png') }}"
+    media_query: 'max-width: 840px'
 ---
 

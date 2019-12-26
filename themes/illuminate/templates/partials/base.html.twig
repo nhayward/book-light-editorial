@@ -20,6 +20,20 @@
 
 			<link rel="icon" type="image/png" href="{{ url('theme://images/favicon.png') }}"/>
 			<link rel="canonical" href="{{ page.url(true, true) }}"/>
+
+      <link rel="preload" href="{{ url('theme://images/button.png') }}" as="image">
+      <link rel="preload" href="{{ url('theme://images/button_darkblue.png') }}" as="image">
+
+      {% if page.header.preload_assets %}
+        {% for asset in page.header.preload_assets %}
+          <link rel="preload" 
+                href="{{ asset.path }}" 
+                as="{{ asset.media_type|default('image') }}" 
+                {% if asset.media_query %}media="({{ asset.media_query }})"{% endif %}
+          >
+        {% endfor %}
+      {% endif %}
+
 		{% endblock head %}
 
 		{% block stylesheets %}

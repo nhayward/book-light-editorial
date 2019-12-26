@@ -23,5 +23,12 @@ content:
             - _slider
             - _cta
 genre_images: true
+preload_assets:
+  -
+    path: "{{ url('theme://images/profile/Book_Light_Editorial_Carly_Hayward.jpg') }}"
+  -
+    path: "{{ url('theme://images/profile/Book_Light_Editorial_Laura_Dennison.jpg') }}"
+  -
+    path: "{{ url('theme://images/profile/Book_Light_Editorial_Grace_Laidlaw.jpg') }}"
 ---
 
