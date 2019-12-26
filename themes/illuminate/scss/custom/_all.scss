@@ -61,6 +61,21 @@ html {
           }
         }
       }
+
+      .mobile-menu {
+        .button_container {
+          &.active {
+            opacity: 1;
+            top: 0.75rem;
+
+            .top,
+            .middle,
+            .bottom {
+              background-color: $link-color;
+            }
+          }
+        }
+      }
     }
 
     #floating-social {
@@ -98,7 +113,7 @@ html {
         font-size: 1.3rem;
         color: $white;
         text-align: center;
-        transition: .25s all;
+        transition: 0.25s all;
       }
     }
 
@@ -137,11 +152,20 @@ html {
     .overlay {
       background-color: $white;
 
+      .mobile-logo {
+        margin-top: 0.5rem;
+        margin-left: 0.5rem;
+        font-weight: bold;
+      }
+
       .overlay-menu {
         ul {
           li {
+            .toggler {
+              display: none;
+            }
             a {
-              &.active {
+              &.active, &:focus {
                 font-weight: bold;
                 color: $link-color !important;
               }
