@@ -31,7 +31,7 @@ rows:
             -
                 id: scifi-background
                 src: scifi_no-edge_no-spacegirl.png
-                parallax_speed: -2
+                parallax_speed: 1
             -
                 id: scifi-star
                 src: scifi_star.png
@@ -39,7 +39,7 @@ rows:
             -
                 id: scifi-spacegirl
                 src: scifi_no-edge_no-back_spacegirl.png
-                parallax_speed: -1
+                parallax_speed: -2
         text: "##BUILDING YOUR CREW ISN’T ONLY FOR SCIENCE FICTION \nBook Light Editorial has a team of specialized editors to help you:\n * [Find the right editor](/blog/how-to-find-the-right-editor-for-you)\n * [Discover which level of editing is right for your story](/blog/developmental-edit-copyedit-or-proofread-which-level-of-editing-is-right-for-me)\n * [Learn why you need an editor to self-publish](/blog/why-you-need-an-editor-to-self-publish)\n\n[Our Team](/team){.button}\n"
     -
         class: fantasy
