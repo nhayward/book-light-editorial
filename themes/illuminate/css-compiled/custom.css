@@ -316,25 +316,42 @@ section#header.scrolled .navbar-section ul li a {
   color: #ffffff;
 }
 
-.about-left img.profile {
+.about-section {
+  position: relative;
+  margin-top: 1rem;
+}
+.about-section .columns .about-left img.profile {
   width: 350px;
 }
 @media (max-width: 840px) {
-  .about-left iframe {
+  .about-section .columns .about-left iframe {
     display: none !important;
   }
 }
-
-.about-right {
+.about-section .columns .about-right {
   padding-left: 3rem;
 }
-.about-right img.org {
+.about-section .columns .about-right img.org {
   padding: 0 10px 10px 0;
 }
 @media (max-width: 840px) {
-  .about-right {
+  .about-section .columns .about-right {
     padding-left: 0.4rem;
   }
+}
+.about-section:after {
+  background-image: linear-gradient(to bottom, #ffffff, #eeeeee);
+  height: 10px;
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -50vw;
+  width: 100vw;
+}
+.about-section + div + #cta {
+  margin-top: -10px;
 }
 
 #testimonial-boxes {
