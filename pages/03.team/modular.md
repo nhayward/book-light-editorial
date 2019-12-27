@@ -25,7 +25,7 @@ content:
 genre_images: true
 preload_assets:
   -
-    path: "{{ url('theme://images/profile/Book_Light_Editorial_Carly_Hayward.jpg') }}"
+    path: "{{ url('theme://images/profile/Book_Light_Editorial_Carly_Hayward.png') }}"
   -
     path: "{{ url('theme://images/profile/Book_Light_Editorial_Laura_Dennison.jpg') }}"
   -

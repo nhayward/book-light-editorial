@@ -21,15 +21,28 @@
 			<link rel="icon" type="image/png" href="{{ url('theme://images/favicon.png') }}"/>
 			<link rel="canonical" href="{{ page.url(true, true) }}"/>
 
+      <link rel="preload" href="{{ url('theme://css/fontawesome-5.12.0/webfonts/fa-brands-400.woff2') }}" as="font" type="font/woff2" crossorigin>
+      <link rel="preload" href="{{ url('theme://css/fontawesome-5.12.0/webfonts/fa-regular-400.woff2') }}" as="font" type="font/woff2" crossorigin>
+      <link rel="preload" href="{{ url('theme://css/fontawesome-5.12.0/webfonts/fa-solid-900.woff2') }}" as="font" type="font/woff2" crossorigin>
+      <link rel="preload" href="{{ url('theme://images/headers/header_background.png') }}" as="image">
+      <link rel="preload" href="{{ url('theme://images/headers/Book_Light_Editorial_on_xs.png') }}" as="image">
       <link rel="preload" href="{{ url('theme://images/button.png') }}" as="image">
       <link rel="preload" href="{{ url('theme://images/button_darkblue.png') }}" as="image">
 
+      {% if page.header.genre_images %}
+        <link rel="preload" href="{{ url('theme://images/genres/fantasy_no-edge_warrior_no-back.png') }}" as="image" media="(min-width: 1171px)">
+        <link rel="preload" href="{{ url('theme://images/genres/romance_girl.png') }}" as="image" media="(min-width: 1171px)">
+        <link rel="preload" href="{{ url('theme://images/genres/scifi_no-edge_no-back_spacegirl.png') }}" as="image" media="(min-width: 1171px)">
+        <link rel="preload" href="{{ url('theme://images/genres/mysteryman.png') }}" as="image" media="(min-width: 1171px)">
+      {% endif %}
+
       {% if page.header.preload_assets %}
         {% for asset in page.header.preload_assets %}
-          <link rel="preload" 
-                href="{{ asset.path }}" 
-                as="{{ asset.media_type|default('image') }}" 
-                {% if asset.media_query %}media="({{ asset.media_query }})"{% endif %}
+          <link 
+            rel="preload" 
+            href="{{ asset.path }}" 
+            as="{{ asset.media_type|default('image') }}" 
+            {% if asset.media_query %}media="({{ asset.media_query }})"{% endif %}
           >
         {% endfor %}
       {% endif %}

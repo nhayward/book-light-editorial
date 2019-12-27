@@ -2,7 +2,7 @@
 title: Carly
 media_order: 'BEA-Logo_panelist.png,CWIPlogo.png,EFA_logomem_85.png,shoreindie_editorbadge.png,R&Reditorfounder_small.png,StoryChatRadio_logo.png'
 profile_image:
-    src: Book_Light_Editorial_Carly_Hayward.jpg
+    src: Book_Light_Editorial_Carly_Hayward.png
     alt_text: 'Carly Hayward'
 twitter_handle: FromCarly
 ---

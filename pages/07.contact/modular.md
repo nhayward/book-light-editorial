@@ -15,5 +15,14 @@ content:
 onpage_menu: false
 body_classes: modular
 showcase_heading: 'Ready to build your team?'
+preload_assets:
+  -
+    path: "{{ url('theme://images/genres/romance_girl.png') }}"
+  -
+    path: "{{ url('theme://images/genres/mysteryman.png') }}"
+  -
+    path: "{{ url('theme://images/genres/scifi_no-edge_no-back_spacegirl.png') }}"
+  -
+    path: "{{ url('theme://images/genres/fantasy_no-edge_warrior_no-back.png') }}"
 ---
 
