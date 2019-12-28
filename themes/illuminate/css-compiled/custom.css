@@ -256,6 +256,9 @@ section#header .navbar-section ul li a.active:after, section#header .navbar-sect
   width: 100%;
   transform: scaleX(1);
 }
+section#header.scrolled {
+  height: 2.6rem !important;
+}
 section#header.scrolled #logo {
   padding: 5px;
 }
