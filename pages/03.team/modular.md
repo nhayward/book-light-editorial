@@ -10,7 +10,7 @@ sitemap:
 menu: Team
 onpage_menu: false
 body_classes: modular
-heading: 'The Team'
+showcase_heading: 'The Team'
 content:
     items: '@self.modular'
     order:
