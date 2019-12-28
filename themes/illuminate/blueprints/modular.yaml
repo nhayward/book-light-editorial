@@ -1,0 +1,68 @@
+title: PLUGIN_ADMIN.MODULAR
+extends@: default
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+
+      fields:
+        content:
+          fields:
+            replace@: true
+
+            header.title:
+              type: text
+              autofocus: true
+              label: PLUGIN_ADMIN.TITLE
+
+            header.showcase_heading:
+              type: text
+              label: Showcase Heading
+
+            header.showcase_button:
+              type: text
+              label: Showcase Button Text
+
+            header.showcase_button_target:
+              type: text
+              label: Showcase Button Target
+
+            header.genre_images:
+              type: toggle
+              label: Margin Genre Images
+              highlight: 1
+              default: 0
+              size: medium
+              options:
+                1: PLUGIN_ADMIN.YES
+                0: PLUGIN_ADMIN.NO
+              validate:
+                type: bool
+
+            modular_title:
+              type: spacer
+              title: PLUGIN_ADMIN.MODULAR_SETUP
+
+            header.content.items:
+              type: text
+              label: PLUGIN_ADMIN.ITEMS
+              default: '@self.modular'
+              size: medium
+
+            header.content.order.by:
+              type: text
+              label: PLUGIN_ADMIN.ORDER_BY
+              placeholder: date
+              help:
+              size: small
+
+            header.content.order.dir:
+              type: text
+              label: PLUGIN_ADMIN.ORDER
+              help: '"desc" or "asc" are valid values'
+              placeholder: desc
+              size: small
+
+
