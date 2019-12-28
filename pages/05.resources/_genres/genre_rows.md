@@ -7,7 +7,7 @@ rows:
         images:
             -
                 id: scifi-background
-                src: /backgrounds/whiteback_SciFi.jpg
+                src: backgrounds/whiteback_SciFi.jpg
                 parallax_speed: 0
             -
                 id: scifi-spacegirl
@@ -21,7 +21,7 @@ rows:
         images:
             -
                 id: fantasy-background
-                src: /backgrounds/whiteback_Fantasy.jpg
+                src: backgrounds/whiteback_Fantasy.jpg
                 parallax_speed: 0
             -
                 id: fantasy-warrior
@@ -35,7 +35,7 @@ rows:
         images:
             -
                 id: romance-background
-                src: /backgrounds/whiteback_Romance.jpg
+                src: backgrounds/whiteback_Romance.jpg
                 parallax_speed: 0
             -
                 id: romance-girl
@@ -50,7 +50,7 @@ rows:
         images:
             -
                 id: mystery-background
-                src: /backgrounds/whiteback_Mystery.jpg
+                src: backgrounds/whiteback_Mystery.jpg
                 parallax_speed: 0
             -
                 src: mysteryman.png
