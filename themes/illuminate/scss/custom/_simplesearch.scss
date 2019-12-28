@@ -1,0 +1,32 @@
+.search-wrapper {
+  .search-input {
+    max-width: 400px;
+  }
+  .search-submit {
+    padding: 3px 7px;
+  }
+}
+
+.simplesearch {
+  .search-wrapper {
+    margin-bottom: 2rem;
+  }
+  .search-header {
+    margin-top: 0;
+    text-align: center;
+  }
+  @media (max-width: 840px) {
+    .search-header {
+      font-size: 2rem;
+    }
+    .search-row {
+      .search-image {
+        display: none;
+      }
+
+      .search-item {
+        margin-left: 0;
+      }
+    }
+  }
+}
