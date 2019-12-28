@@ -1,6 +1,7 @@
 <section class="genre-rows container {{ theme_var('grid-size') }}">
+  {% if page.header.headline %}<h2 class="center">{{ page.header.headline }}</h2>{% endif %}
 	{% for row in page.header.rows %}
-		<div class="columns{% if row.img_col_right %} img-column-right{% endif %}">
+		<div class="columns{% if row.img_col_right %} img-column-right{% endif %}{% if page.header.vertical_center %} vertical-center{% endif %}">
 			<div class="{% if row.class %}{{ row.class }} {% endif %}image-column column col-{{ row.img_col_width|default('4') }} col-md-12">
 				{% for image in row.images %}
 					<img 

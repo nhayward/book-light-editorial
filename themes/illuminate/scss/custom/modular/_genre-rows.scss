@@ -1,11 +1,22 @@
 .genre-rows {
   .columns {
     margin: 3rem auto;
-    align-items: center;
-    justify-content: center;
+
+    .text-column {
+      margin-left: 0.5rem;
+    }
 
     &.img-column-right {
       flex-direction: row-reverse;
+
+      .text-column {
+        margin-left: 0;
+        margin-right: 0.5rem;
+      }
+    }
+
+    &.vertical-center {
+      align-items: center;
     }
 
     .image-column {
@@ -13,11 +24,13 @@
       background-repeat: no-repeat;
       position: relative;
 
-      img {
-        position: absolute;
+      &.absolute-images {
+        img {
+          position: absolute;
 
-        @media (max-width: 840px) {
-          display: none;
+          @media (max-width: 840px) {
+            display: none;
+          }
         }
       }
 
@@ -104,7 +117,43 @@
           background-position: center;
         }
       }
+
+      &.genre-resource {
+        text-align: center;
+
+        img:not([id$='-background']) {
+          margin-top: -200px;
+          margin-left: auto;
+          margin-right: auto;
+          height: 300px;
+          position: absolute;
+          top: 50%;
+          left: 0;
+          right: 0;
+
+          @media (max-width: 840px) {
+            margin-top: -150px;
+            transform: none !important;
+          }
+
+          @media (max-width: 414px) {
+            height: 250px;
+            margin-top: -125px;
+          }
+
+          @media (max-width: 375px) {
+            height: 200px;
+            margin-top: -150px;
+          }
+
+        }
+
+        img[id$='-background'] {
+          box-shadow: 0 0 20px 10px #999999;
+        }
+      }
     }
+
     .text-column {
       .mystery-city {
         height: 250px;

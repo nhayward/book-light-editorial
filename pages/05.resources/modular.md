@@ -15,6 +15,7 @@ content:
         by: default
         dir: asc
         custom:
+            - _genres
             - _text
             - _cta-footer
 ---

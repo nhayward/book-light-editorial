@@ -1,7 +1,8 @@
 ---
+vertical_center: true
 rows:
     -
-        class: romance
+        class: absolute-images romance
         img_col_width: 5
         images:
             -
@@ -15,7 +16,7 @@ rows:
                 parallax_speed: 1
         text: "##WRITING IS A ROMANCE WITH WORDS \nAnd editing is your book's best friend.\n\nFrom the first page of your story to the heroine’s final words, Book Light Editorial is your book’s best friend. \n\n[Get Started](/services){.button}\n"
     -
-        class: mystery
+        class: absolute-images mystery
         img_col_width: 3
         images:
             -
@@ -24,7 +25,7 @@ rows:
                 parallax_speed: 1
         text: "<div class=\"mystery-city\"></div>\n\n##TAKE THE MYSTERY OUT OF EDITING\nFrom developmental editing to copyediting, we make your book the best possible version of itself. Whether you’re self-publishing as an indie author or querying to agents, we can develop your manuscript into the book you envisioned.\n\n[Learn More](/blog/developmental-edit-copyedit-or-proofread-which-level-of-editing-is-right-for-me){.button}\n"
     -
-        class: sci-fi
+        class: absolute-images sci-fi
         img_col_right: true
         img_col_width: 6
         images:
@@ -42,7 +43,7 @@ rows:
                 parallax_speed: -2
         text: "##BUILDING YOUR CREW ISN’T ONLY FOR SCIENCE FICTION \nBook Light Editorial has a team of specialized editors to help you:\n * [Find the right editor](/blog/how-to-find-the-right-editor-for-you)\n * [Discover which level of editing is right for your story](/blog/developmental-edit-copyedit-or-proofread-which-level-of-editing-is-right-for-me)\n * [Learn why you need an editor to self-publish](/blog/why-you-need-an-editor-to-self-publish)\n\n[Our Team](/team){.button}\n"
     -
-        class: fantasy
+        class: absolute-images fantasy
         img_col_width: 5
         images:
             -
