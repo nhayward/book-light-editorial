@@ -494,15 +494,19 @@ section#header.scrolled .navbar-section ul li a {
 .genre-rows .columns {
   margin: 3rem auto;
 }
-.genre-rows .columns .text-column {
-  margin-left: 0.5rem;
+@media (min-width: 841px) {
+  .genre-rows .columns .text-column {
+    margin-left: 0.5rem;
+  }
 }
 .genre-rows .columns.img-column-right {
   flex-direction: row-reverse;
 }
-.genre-rows .columns.img-column-right .text-column {
-  margin-left: 0;
-  margin-right: 0.5rem;
+@media (min-width: 841px) {
+  .genre-rows .columns.img-column-right .text-column {
+    margin-left: 0;
+    margin-right: 0.5rem;
+  }
 }
 .genre-rows .columns.vertical-center {
   align-items: center;

@@ -3,15 +3,19 @@
     margin: 3rem auto;
 
     .text-column {
-      margin-left: 0.5rem;
+      @media (min-width: 841px) {
+        margin-left: 0.5rem;
+      }
     }
 
     &.img-column-right {
       flex-direction: row-reverse;
 
       .text-column {
-        margin-left: 0;
-        margin-right: 0.5rem;
+        @media (min-width: 841px) {
+          margin-left: 0;
+          margin-right: 0.5rem;
+        }
       }
     }
 
