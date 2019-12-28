@@ -572,6 +572,7 @@ section#header.scrolled .navbar-section ul li a {
 }
 @media (max-width: 840px) {
   .genre-rows .columns .image-column.mystery {
+    margin: 0 auto;
     min-height: 125px;
     max-width: 315px;
     background-image: url(/user/themes/illuminate/images/genres/mysteryman.png), url(/user/themes/illuminate/images/genres/mystery_no-edge_city.png);
