@@ -3,8 +3,9 @@ title: Text
 image_align: left
 ---
 
-#### There are many other genres out there. We can always discuss which genre best fits your novel, but some more genres include:
-
+## Other Genres{.center}
+There are many other genres out there. We can always discuss which genre best fits your novel.
+#### Some more genres include:
 * Dystopian
 * Thriller/Suspense
 * Horror
@@ -12,11 +13,10 @@ image_align: left
 * Historical Fiction
 * Magical Realism
 
-**Disclaimer:** Many genres overlap and can be subgenres of each other. The above breakdown is not set in stone. 
+##### Disclaimer: 
+Many genres overlap and can be subgenres of each other. The above breakdown is not set in stone. </br>Your novel likely crosses over into multiple genres, but it is important to find the one genre that fits the main plot of your book. 
 
-Your novel likely crosses over into multiple genres, but it is important to find the one genre that fits the main plot of your book. 
-
-## Writing Resources and Tips{.center}
+## Writing Resources {.center}
 
 !!!!! **Grammar Girl - Quick and Dirty Tips:**   
 !!!!! ![Quick and Dirty Tips](../GrammarGirl.png){.float-left}
