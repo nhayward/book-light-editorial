@@ -10,6 +10,12 @@ body#top h5,
 body#top h6 {
   color: #00243a;
 }
+body#top h2 {
+  font-size: 2.4rem;
+}
+body#top h3 {
+  font-size: 1.8rem;
+}
 body#top p,
 body#top li,
 body#top a, body#top .button, body#top .btn {
@@ -441,6 +447,18 @@ section#header.scrolled .navbar-section ul li a {
 #cta .container > div#cta-content .text-column .button {
   display: block;
   margin-left: auto;
+}
+#cta .container > div#cta-content .text-column .cta-profile-img {
+  max-width: 32%;
+}
+#cta .container > div#cta-content .text-column #mc_embed_signup #mc-embedded-subscribe-form #mc_embed_signup_scroll .mc-field-group input {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 400px;
+}
+#cta .container > div#cta-content .text-column #mc_embed_signup #mc-embedded-subscribe-form #mc_embed_signup_scroll .buttons .button {
+  margin: 0.5rem auto 0 auto;
 }
 @media (max-width: 600px) {
   #cta .container > div#cta-content .text-column {

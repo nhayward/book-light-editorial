@@ -3,7 +3,7 @@ title: Text
 image_align: left
 ---
 
-## Other Genres{.center}
+### Other Genres
 There are many other genres out there. We can always discuss which genre best fits your novel.
 #### Some more genres include:
 * Dystopian

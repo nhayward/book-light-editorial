@@ -4,7 +4,6 @@
   color: $body-font-color;
 
   .container {
-
     > div {
       position: relative;
       padding: 1rem 0.5rem;
@@ -12,7 +11,7 @@
 
       &:before {
         z-index: -1;
-        content: "";
+        content: '';
         position: absolute;
         top: 0;
         bottom: 0;
@@ -41,7 +40,7 @@
       &#cta-content {
         min-height: 400px;
         text-align: left;
-        
+
         &:before {
           background-color: $gray-color;
         }
@@ -52,6 +51,31 @@
           .button {
             display: block;
             margin-left: auto;
+          }
+
+          .cta-profile-img {
+            max-width: 32%;
+          }
+
+          #mc_embed_signup {
+            #mc-embedded-subscribe-form {
+              #mc_embed_signup_scroll {
+                .mc-field-group {
+                  input {
+                    display: block;
+                    margin: 0 auto;
+                    width: 100%;
+                    max-width: 400px;
+                  }
+                }
+
+                .buttons {
+                  .button {
+                    margin: 0.5rem auto 0 auto;
+                  }
+                }
+              }
+            }
           }
 
           @media (max-width: 600px) {
