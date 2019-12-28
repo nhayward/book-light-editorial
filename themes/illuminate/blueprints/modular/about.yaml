@@ -1,0 +1,39 @@
+title: About
+extends@: default
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+
+      fields:
+        content:
+          fields:
+            replace@: true
+
+            header.profile_image.src:
+              type: filepicker
+              folder: 'theme@:/images/profile'
+              label: Profile Image
+              preview_images: true
+              accept:
+                - .png
+                - .jpg
+            
+            header.profile_image.alt_text:
+              type: text
+              label: Profile Image Alt Text
+              size: medium
+            
+            header.twitter_handle:
+              type: text
+              label: Twitter Handle
+              size: medium
+              placeholder: @
+
+            content:
+              type: markdown
+              label: Content
+              validate:
+                type: textarea

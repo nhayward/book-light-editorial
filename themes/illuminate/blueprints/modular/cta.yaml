@@ -1,0 +1,23 @@
+title: CTA
+extends@: default
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+
+      fields:
+        content:
+          fields:
+            replace@: true
+
+            header.headline:
+              type: text
+              label: Headline
+            
+            header.text:
+              type: markdown
+              label: Content
+              validate:
+                type: textarea

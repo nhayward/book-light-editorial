@@ -1,0 +1,24 @@
+title: Boxes
+extends@: default
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+
+      fields:
+        content:
+          fields:
+            replace@: true
+
+            header.boxes:
+              type: list
+              label: Boxes
+              style: vertical
+              fields:
+                .content:
+                  type: markdown
+                  label: Content
+                  validate:
+                    type: textarea

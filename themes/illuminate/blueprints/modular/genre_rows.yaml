@@ -1,0 +1,95 @@
+title: Genre Rows
+extends@: default
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+
+      fields:
+        content:
+          fields:
+            replace@: true
+
+            header.headline:
+              type: text
+              label: Headline
+
+            header.vertical_center:
+              type: toggle
+              label: Vertically Center Columns
+              highlight: 1
+              default: 0
+              size: medium
+              options:
+                1: PLUGIN_ADMIN.YES
+                0: PLUGIN_ADMIN.NO
+              validate:
+                type: bool
+
+            header.rows:
+              type: list
+              label: Rows
+              style: vertical
+              fields:
+                .img_col_right:
+                  type: toggle
+                  label: Image Column on the Right
+                  highlight: 1
+                  default: 0
+                  size: medium
+                  options:
+                    1: PLUGIN_ADMIN.YES
+                    0: PLUGIN_ADMIN.NO
+                  validate:
+                    type: bool
+                .class:
+                  type: text
+                  label: Row Class(es)
+                  size: medium
+                .img_col_width:
+                  type: text
+                  size: x-small
+                  label: Width of Image Column (1 through 12)
+                  placeholder: 4
+                  validate:
+                      type: int
+                      min: 1
+                      max: 12
+                .images:
+                  type: list
+                  label: Rows
+                  style: vertical
+                  fields:
+                    .id:
+                      type: text
+                      label: Image ID
+                      size: medium
+                    .src:
+                      type: filepicker
+                      folder: 'theme@:/images/genres'
+                      label: Genre Image
+                      preview_images: true
+                      accept:
+                        - .png
+                        - .jpg
+                        - .svg
+                    .alt_text:
+                      type: text
+                      label: Genre Image Alt Text
+                      size: medium
+                    .parallax_speed:
+                      type: text
+                      size: x-small
+                      label: Parallax Speed (-6 through 6)
+                      placeholder: -2
+                      validate:
+                          type: int
+                          min: -6
+                          max: 6
+                .text:
+                  type: markdown
+                  label: Text
+                  validate:
+                    type: textarea
