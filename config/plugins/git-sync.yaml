@@ -1,4 +1,4 @@
-enabled: true
+enabled: false
 folders:
   - pages
   - config
@@ -13,7 +13,7 @@ sync:
   cron_enable: false
   cron_at: '0 12,23 * * *'
 user: nhayward
-password: gitsync-def50200cc1331d5298a0a431d86e9bf4010204411b1a7876a538136e26ff6458e7ef374857a823a453d92470ed5ce9197233b7ddbd2f73cb1bb533060aa873388ac5d00e664a5124d703c27e327e5bb5de7883b6598125f542cd09bfda21fca7c017c1a3a9e7769a65aac20fc0d06dd78dfa7ca18386653340d5499
+password: gitsync-def5020086e75031e44b579968fa2726f8c969305b11240bc4479cb108011d280dfad59db8f00ce34731a3e0a1e3b067d9726628afc853bf2851b7c73b5258462bbd6b05de46aa608d02d5962036fbf8f2746c74a4e2374d4eb79d957c
 webhook: /_git-sync-4670861ff9b6
 webhook_enabled: '1'
 webhook_secret: fd83cc6da164dfb582cebc2259dc851dfad8e4fc72427109
