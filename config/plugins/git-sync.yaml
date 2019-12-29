@@ -13,7 +13,7 @@ sync:
   cron_enable: false
   cron_at: '0 12,23 * * *'
 user: nhayward
-password: gitsync-def5020088ade29383ce4035e66ad64a2860ae972558ba72b23f383036a5eda455189f7b73134ae7d6ee5195ad87f3f676dee32d3723b87ba2298f7496152b00007d7a343972f985c2e55b53082f8a81d3b0e0ca2a2e35ea5e185afd0451c1a9a4151c020ff41a1f38739d3b0f60107f51e614904c7303d2e2bb59f9
+password: gitsync-def50200491c5533489aa9e35d9c02f332c9bdbaed90b5043e9163f40d1b1ceafae9d04b06f43e4156782eb3b7ce87030c11bf9639d89f0dfc50b0ce893f6e27fa5480dff64c48eadf8ee0eb08b95a94c2777d6f40d6a8f54f47521c857e20b8525f510d0119a73a43a32969fb78d652e63d26447be73ca68a3eb42413717d66bf3f32748b7e05f30c6ebec84ad7eb4389e812f6de40ff8a93860cafdb2e641ae777b9e2c3d044d6db80cb548f12142c1e46e4a9bb4b56df15ccc069006798a8ae990ff84d3512f163cacf819d64fa517d09dab17ceadcad12fa57f2c0ba0f109c4e5074d3fd4eba08c6bb804d089ce18aa06fe2226a1592ccc927e752e36c099ec7b98e7569315b8d3cfc73c105775cfe17860f1cf5299112ab2db6f895612408a23ce58f0170a141f5d632a3bdf5f980944383574623225bdeead23019229c332d9fddfca4919ec613004850acaa34065e5c10
 webhook: /_git-sync-4670861ff9b6
 webhook_enabled: '1'
 webhook_secret: fd83cc6da164dfb582cebc2259dc851dfad8e4fc72427109
@@ -22,10 +22,10 @@ remote:
   name: origin
   branch: master
 git:
-  author: gituser
+  author: gitsync
   message: '(Grav GitSync) Automatic Commit'
   name: GitSync
   email: git-sync@trilby.media
   bin: git
-logging: false
+logging: true
 repository: 'https://github.com/nhayward/book-light-editorial.git'
