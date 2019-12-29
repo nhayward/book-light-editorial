@@ -4,6 +4,6 @@
 		{% set logo_file = (logo|first).name %}
 		<img src="{{ url('theme://images/logo/' ~ logo_file) }}" alt="{{ site.name }}"/>
 	{% else %}
-    <span id="header-text">{{ site.title }}</span>
+    <span id="{{ mobile ? 'header-text-mobile' : 'header-text' }}">{{ site.title }}</span>
 	{% endif %}
 </a>

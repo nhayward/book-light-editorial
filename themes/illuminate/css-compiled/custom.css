@@ -80,6 +80,14 @@ html body#top .featherlight .featherlight-content {
   border-radius: 5px;
   padding: 15px 20px;
 }
+html body#top .hidden-link-text {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
 html body#top #contact-form input,
 html body#top #contact-form textarea {
   width: 100%;
