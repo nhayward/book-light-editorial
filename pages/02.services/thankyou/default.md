@@ -1,9 +1,9 @@
 ---
-title: Contact Sent
+title: 'Contact Sent'
 metadata:
-    robots: 'noindex'
+    robots: noindex
 ---
 
 Thank you for your interest!
 
-[<i class="fa fa-arrow-left"></i> Back to Editing Services](/services){.button}
+[<i class="fa fa-arrow-left"></i> Back](/services){.button}
