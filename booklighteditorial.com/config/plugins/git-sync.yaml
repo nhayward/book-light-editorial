@@ -13,7 +13,7 @@ sync:
   cron_enable: false
   cron_at: '0 12,23 * * *'
 user: nhayward
-password: e1dc73c4cca63b43e1b9b87e631b7420e236d26e
+password: gitsync-def5020054e843685087f15d664bdeae55986a76c20b88a71adba4b8cd88e87bb7f9b84cd0959edf49671b8aa21905356bb5f6886e4d39e4845ec323578b1171ba2d98570302767286d17ebac45bc4f497223de1e10fecc4a34275c9dafd36d49109ccb47dd84421cb26294549d137bb7d7299c37f9b1fcb0feb8a3e
 webhook: /_git-sync-4670861ff9b6
 webhook_enabled: '1'
 webhook_secret: fd83cc6da164dfb582cebc2259dc851dfad8e4fc72427109
