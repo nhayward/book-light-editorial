@@ -1,23 +1,25 @@
-.tags {
-  a {
-    border: 1px solid $primary-color;
-    border-radius: 3px !important;
-    background: inherit !important;
-    font-size: 0.8rem !important;
-    color: $primary-color !important;
+.blog-listing {
+  .tags {
+    a {
+      border: 1px solid $primary-color;
+      border-radius: 3px !important;
+      background: inherit !important;
+      font-size: 0.8rem !important;
+      color: $primary-color !important;
+    }
   }
-}
 
-.content-item {
-  .content-title {
-    .p-name {
-      a {
-        font-size: 1.75rem !important;
+  .content-item {
+    .content-title {
+      .p-name {
+        a {
+          font-size: 1.75rem !important;
+        }
       }
     }
   }
-}
 
-.sharer-buttons-toolbar {
-  text-align: center;
+  .sharer-buttons-toolbar {
+    text-align: center;
+  }
 }

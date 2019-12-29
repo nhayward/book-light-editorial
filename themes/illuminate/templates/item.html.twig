@@ -35,5 +35,11 @@
 
 		{% include 'partials/sharer.html.twig' %}
 
+    {% if config.plugins.jscomments.enabled %}
+      <div class="container grid-lg">
+        {{ jscomments()|raw }}
+      </div>
+    {% endif %}
+
 	</section>
 {% endblock %}

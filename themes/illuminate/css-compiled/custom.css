@@ -289,19 +289,17 @@ section#header.scrolled .navbar-section ul li a {
   background-color: #ffffff;
 }
 
-.tags a {
+.blog-listing .tags a {
   border: 1px solid #00335a;
   border-radius: 3px !important;
   background: inherit !important;
   font-size: 0.8rem !important;
   color: #00335a !important;
 }
-
-.content-item .content-title .p-name a {
+.blog-listing .content-item .content-title .p-name a {
   font-size: 1.75rem !important;
 }
-
-.sharer-buttons-toolbar {
+.blog-listing .sharer-buttons-toolbar {
   text-align: center;
 }
 
