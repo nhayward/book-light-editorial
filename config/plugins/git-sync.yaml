@@ -1,0 +1,30 @@
+enabled: true
+folders:
+  - pages
+  - config
+  - themes
+  - blueprints
+  - localhost
+  - booklighteditorial.com
+sync:
+  on_save: true
+  on_delete: true
+  on_media: true
+  cron_enable: false
+  cron_at: '0 12,23 * * *'
+user: nhayward
+password: gitsync-def50200bc0a78b03ee87fcaa87326946d3819ec4d3e5746b6a10dcc802a89e7a031e2b641d2712f002df17c9a99ccb15a4224adf30bb88600502bb69193764d06fa11c1220f81cf6afaf0f05ffd13ef3ba3304798a7b1ee815c6e7dfb
+webhook: /_git-sync-4670861ff9b6
+webhook_enabled: '0'
+webhook_secret: fd83cc6da164dfb582cebc2259dc851dfad8e4fc72427109
+branch: master
+remote:
+  name: origin
+  branch: master
+git:
+  author: gituser
+  message: '(Grav GitSync) Automatic Commit'
+  name: GitSync
+  email: git-sync@trilby.media
+  bin: git
+logging: false
