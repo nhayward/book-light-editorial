@@ -18,6 +18,16 @@
     .about-right {
       padding-left: 3rem;
 
+      h2 {
+        font-size: 1.2rem !important;
+      }
+
+      strong {
+        display: block;
+        margin-bottom: 1.2rem;
+        font-size: 1rem;
+      }
+
       img.org {
         padding: 0 10px 10px 0;
       }

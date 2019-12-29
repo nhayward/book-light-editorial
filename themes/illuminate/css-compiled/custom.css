@@ -8,6 +8,7 @@ body#top h3,
 body#top h4,
 body#top h5,
 body#top h6 {
+  font-family: Tahoma, Geneva, sans-serif;
   color: #00243a;
 }
 body#top h2 {
@@ -374,6 +375,14 @@ section#header.scrolled .navbar-section ul li a {
 .about-section .columns .about-right {
   padding-left: 3rem;
 }
+.about-section .columns .about-right h2 {
+  font-size: 1.2rem !important;
+}
+.about-section .columns .about-right strong {
+  display: block;
+  margin-bottom: 1.2rem;
+  font-size: 1rem;
+}
 .about-section .columns .about-right img.org {
   padding: 0 10px 10px 0;
 }
@@ -461,7 +470,9 @@ section#header.scrolled .navbar-section ul li a {
   background-color: #00243a;
 }
 #cta .container > div#cta-top-bar #cta-title {
+  margin: 0;
   font-size: 2rem;
+  line-height: 3rem;
   text-align: center;
   text-transform: uppercase;
   color: #ffffff;
@@ -679,6 +690,9 @@ section#header.scrolled .navbar-section ul li a {
   .genre-rows .columns .text-column .mystery-city {
     display: none;
   }
+}
+.genre-rows .columns .text-column h2 {
+  font-size: 1.8rem !important;
 }
 .genre-rows .columns .text-column .button {
   display: block;

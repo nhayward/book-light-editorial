@@ -32,6 +32,16 @@ form:
               size: medium
               placeholder: @
 
+            header.editor_name:
+              type: text
+              label: Editor Name
+              size: medium
+
+            header.editor_title:
+              type: text
+              label: Editor Title
+              size: medium
+
             content:
               type: markdown
               label: Content

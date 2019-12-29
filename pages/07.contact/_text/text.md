@@ -1,8 +1,9 @@
 ---
+process:
+    markdown: true
+    twig: true
 title: Text
 image_align: left
-process:
-    twig: true
 ---
 
 If you are ready to begin editing or if you don't know yet and have questions for us, please send us a message and we will get back to you as soon as possible!
@@ -20,7 +21,7 @@ We look forward to hearing from you!
 		</div>
 		<div class="form-data">
 			<div class="form-input-wrapper">
-				<input autocomplete="on" name="entry.1507132880" required="required" type="text" value="">
+				<input autocomplete="on" name="entry.1507132880" required="required" type="text" value="" aria-label="Name">
 			</div>
 		</div>
 	</div>
@@ -30,7 +31,7 @@ We look forward to hearing from you!
 		</div>
 		<div class="form-data">
 			<div class="form-input-wrapper">
-				<input autocomplete="on" name="entry.430227335" required="required" type="email" value="">
+				<input autocomplete="on" name="entry.430227335" required="required" type="email" value="" aria-label="Email">
 			</div>
 		</div>
 	</div>
@@ -40,7 +41,7 @@ We look forward to hearing from you!
 		</div>
 		<div class="form-data">
 			<div class="form-select-wrapper">
-				<select name="entry.1325649395" required="required">
+				<select name="entry.1325649395" required="required" aria-label="Service">
 					<option disabled selected value="">
 						Choose the service you're looking for
 					</option>
@@ -87,7 +88,7 @@ We look forward to hearing from you!
 		</div>
 		<div class="form-data">
 			<div class="form-input-wrapper">
-				<input name="entry.854762723" type="text" value="">
+				<input name="entry.854762723" type="text" value="" aria-label="How did you hear about us?">
 			</div>
 		</div>
 	</div>
@@ -97,7 +98,7 @@ We look forward to hearing from you!
 		</div>
 		<div class="form-data">
 			<div class="form-textarea-wrapper">
-				<textarea class="input" name="entry.1663698665" placeholder="E.g. book description, genre, audience, word count, and any concerns." required="required"></textarea>
+				<textarea class="input" name="entry.1663698665" placeholder="E.g. book description, genre, audience, word count, and any concerns." required="required" aria-label="Message"></textarea>
 			</div>
 		</div>
 	</div>

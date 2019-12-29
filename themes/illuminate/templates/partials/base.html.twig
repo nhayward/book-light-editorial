@@ -90,7 +90,7 @@
 							</section>
 							<section class="navbar-section desktop-menu">
 
-								<nav class="dropmenu animated">
+								<nav class="dropmenu animated" aria-label="navigation">
 									{% block header_navigation %}
 										{% include 'partials/navigation.html.twig' %}
 									{% endblock %}
@@ -119,7 +119,7 @@
 				{% include 'partials/showcase.html.twig' %}
 			{% endblock %}
 
-			<section id="start">
+			<section id="start" role="main">
 				{% block body %}
 					<section id="body-wrapper" class="section">
 						<section class="container {{ grid_size }}">
@@ -150,23 +150,23 @@
 			</div>
 		{% endblock %}
 
-    <div id="floating-social" class="social-icons">
+    <div id="floating-social" class="social-icons" role="complementary">
       <a class="social-icon" href="https://twitter.com/fromcarly" target="_blank"><i class="fab fa-twitter"></i><span class="hidden-link-text">Twitter</span></a>
       <a class="social-icon" href="https://www.facebook.com/booklighteditorial/" target="_blank"><i class="fab fa-facebook-f"></i><span class="hidden-link-text">Facebook</span></a>
       <a class="social-icon" href="https://www.instagram.com/booklighteditorial/" target="_blank"><i class="fab fa-instagram"></i><span class="hidden-link-text">Instagram</span></a>
     </div>
 
     {% if page.header.genre_images %}
-      <div id="warrior-margin" class="rellax-image margin-image" data-rellax-speed="-2">
+      <div id="warrior-margin" class="rellax-image margin-image" data-rellax-speed="-2" role="complementary" aria-label="fantasy">
         <img src="{{ url('theme://images/genres/fantasy_no-edge_warrior_no-back.png') }}" alt="">
       </div>
-      <div id="romance-girl-margin" class="rellax-image margin-image" data-rellax-speed="-2">
+      <div id="romance-girl-margin" class="rellax-image margin-image" data-rellax-speed="-2" role="complementary" aria-label="romance">
         <img src="{{ url('theme://images/genres/romance_girl.png') }}" alt="">
       </div>
-      <div id="scifi-spacegirl-margin" class="rellax-image margin-image" data-rellax-speed="-2">
+      <div id="scifi-spacegirl-margin" class="rellax-image margin-image" data-rellax-speed="-2" role="complementary" aria-label="scifi">
         <img src="{{ url('theme://images/genres/scifi_no-edge_no-back_spacegirl.png') }}" alt="">
       </div>
-      <div id="mysteryman-margin" class="rellax-image margin-image" data-rellax-speed="-2">
+      <div id="mysteryman-margin" class="rellax-image margin-image" data-rellax-speed="-2" role="complementary" aria-label="mystery">
         <img src="{{ url('theme://images/genres/mysteryman.png') }}" alt="">
       </div>
     {% endif %}
@@ -177,7 +177,7 @@
 
 		<script>
 			// Accepts any class name
-var rellax = new Rellax('.rellax-image', {center: true});
+      var rellax = new Rellax('.rellax-image', {center: true});
 		</script>
 
 	</body>

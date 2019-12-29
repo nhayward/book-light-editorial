@@ -1,15 +1,13 @@
 ---
-title: Carly
-media_order: 'BEA-Logo_panelist.png,CWIPlogo.png,EFA_logomem_85.png,shoreindie_editorbadge.png,R&Reditorfounder_small.png,StoryChatRadio_logo.png'
 profile_image:
     src: Book_Light_Editorial_Carly_Hayward.png
     alt_text: 'Carly Hayward'
 twitter_handle: FromCarly
+editor_name: 'Carly Bornstein-Hayward'
+editor_title: 'Chief Developmental Editor & Founder'
+title: Carly
+media_order: 'BEA-Logo_panelist.png,CWIPlogo.png,EFA_logomem_85.png,shoreindie_editorbadge.png,R&Reditorfounder_small.png,StoryChatRadio_logo.png'
 ---
-
-#### Carly Bornstein-Hayward
-
-_**Chief Developmental Editor & Founder**_
 
 <span class="first-character">C</span>arly is a developmental novel editor who helps authors find their voice and bring their book to light. Editing combines her love of reading, giving advice, and logic puzzles. She will be your book’s best friend.
 
@@ -18,7 +16,7 @@ With 10+ years in publishing, she’s worked all over the industry, including at
 When not reading or working she lounges with her husband being vastly amused by their cats or binge-watching TV.
 
 
-!!!!! ##### Specialties:   
+!!!!! **Specialties:**
 !!!!!   
 !!!!! Carly specializes in adult, young adult, and middle grade age categories. She particularly focuses on fantasy, science fiction, romance, erotica, historical, and mystery genres. She is open to other genres on an individual basis.
 
