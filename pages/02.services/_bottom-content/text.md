@@ -1,8 +1,8 @@
 ---
-title: 'Bottom Content'
-image_align: left
 routable: false
 visible: false
+title: 'Bottom Content'
+image_align: left
 ---
 
 <div id="sample-edit" class="anchor"></div>
