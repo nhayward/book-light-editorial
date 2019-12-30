@@ -29,16 +29,17 @@ body#top .button, body#top .btn {
   border: none;
   background-color: inherit;
   background-image: url(/user/themes/illuminate/images/button_sheet.png);
+  background-size: cover;
   background-repeat: no-repeat;
-  background-position: 0 2px;
+  background-position: 0 0;
   height: 50px;
-  width: 134px;
+  width: 150px;
   color: #ffffff;
   line-height: 33px;
   transition: 0.25s background-image;
 }
 body#top .button:hover, body#top .btn:hover {
-  background-position: -137px 2px;
+  background-position: -152px 0;
 }
 body#top .highlight {
   color: #f7941d;
