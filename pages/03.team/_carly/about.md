@@ -11,7 +11,7 @@ media_order: 'BEA-Logo_panelist.png,CWIPlogo.png,EFA_logomem_85.png,shoreindie_e
 
 <span class="first-character">C</span>arly is a developmental novel editor who helps authors find their voice and bring their book to light. Editing combines her love of reading, giving advice, and logic puzzles. She will be your book’s best friend.
 
-With 10+ years in publishing, she’s worked all over the industry, including at a big 5 publishing house, a small press, a hybrid publisher, and a literary agency. That experience has helped her to see the industry from all different angles. She is a co-founding Revise & Resub (#RevPit) editor and a host on Story Chat Radio, a writing advice podcast. She is a member of the Editorial Freelancers Association, Romance Writers of America, and Chicago Women in Publishing. 
+With 10+ years in publishing, she’s worked all over the industry, including at a big 5 publishing house, a small press, a hybrid publisher, and a literary agency. That experience has helped her to see the industry from all different angles. She is a co-founding Revise & Resub (#RevPit) editor and a host on Story Chat Radio, a writing advice podcast. She is a member of the Editorial Freelancers Association and Chicago Women in Publishing. 
 
 When not reading or working she lounges with her husband being vastly amused by their cats or binge-watching TV.
 
