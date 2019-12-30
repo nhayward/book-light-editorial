@@ -1,6 +1,6 @@
 ---
 title: Resources
-media_order: 'book_light_editorial_socialmetatag.png,JustPublishing.jpg,Pub101-cover.jpg,EFA_logo_85.png,GrammarGirl.png,MSWL_website.jpg,RevPit_Logo_small.png'
+media_order: 'book_light_editorial_social.png,JustPublishing.jpg,Pub101-cover.jpg,EFA_logo_85.png,GrammarGirl.png,MSWL_website.jpg,RevPit_Logo_small.png'
 content:
     items: '@self.modular'
     order:
