@@ -28,18 +28,17 @@ body#top a {
 body#top .button, body#top .btn {
   border: none;
   background-color: inherit;
-  background-image: url(/user/themes/illuminate/images/button.png);
-  background-size: contain;
+  background-image: url(/user/themes/illuminate/images/button_sheet.png);
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: 0 2px;
   height: 50px;
-  width: 150px;
+  width: 134px;
   color: #ffffff;
   line-height: 33px;
   transition: 0.25s background-image;
 }
 body#top .button:hover, body#top .btn:hover {
-  background-image: url(/user/themes/illuminate/images/button_darkblue.png);
+  background-position: -137px 2px;
 }
 body#top .highlight {
   color: #f7941d;

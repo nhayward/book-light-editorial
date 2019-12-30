@@ -35,18 +35,17 @@ body#top {
   .button, .btn {
     border: none;
     background-color: inherit;
-    background-image: url(/user/themes/illuminate/images/button.png);
-    background-size: contain;
+    background-image: url(/user/themes/illuminate/images/button_sheet.png);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: 0 2px;
     height: 50px;
-    width: 150px;
+    width: 134px;
     color: $white;
     line-height: 33px;
     transition: 0.25s background-image;
 
     &:hover {
-      background-image: url(/user/themes/illuminate/images/button_darkblue.png);
+      background-position: -137px 2px;
     }
   }
 
