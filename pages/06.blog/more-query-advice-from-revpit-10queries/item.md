@@ -26,8 +26,6 @@ This month, we threw a #10Queries event where editors reviewed submissions from 
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-
 <blockquote class="twitter-tweet" data-conversation="none" data-theme="light"><p lang="en" dir="ltr">Let's begin with a breakdown of the genres I have: <br>5 Adult, 4 Young Adult, 1 Middle Grade. <br>5 Fantasy, 1 Urban Fantasy, 1 Mystery, 1 Contemporary Fantasy, 1 SciFi, 1 Dystopian. <a href="https://twitter.com/hashtag/RevPit?src=hash&amp;ref_src=twsrc%5Etfw">#RevPit</a> <a href="https://twitter.com/hashtag/10Queries?src=hash&amp;ref_src=twsrc%5Etfw">#10Queries</a></p>&mdash; Carly Hayward, Editor (@FromCarly) <a href="https://twitter.com/FromCarly/status/1224408196430925824?ref_src=twsrc%5Etfw">February 3, 2020</a></blockquote> 
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
