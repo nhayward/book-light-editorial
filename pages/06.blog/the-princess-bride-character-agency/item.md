@@ -1,7 +1,7 @@
 ---
 title: 'The Princess Bride - Character Agency'
 metadata:
-    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss non-romantic relationships as seen in the movie,Booksmart.'
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss character agency as seen in the movie, The Princess Bride.'
 taxonomy:
     category:
         - blog
