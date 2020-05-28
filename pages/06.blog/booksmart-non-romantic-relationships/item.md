@@ -1,6 +1,6 @@
 ---
 title: 'Booksmart - Non-Romantic Relationships'
-publish_date: '31-03-2020 15:08'
+publish_date: '25-02-2020 15:08'
 metadata:
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss non-romantic relationships as seen in the movie, Booksmart.'
 taxonomy:
