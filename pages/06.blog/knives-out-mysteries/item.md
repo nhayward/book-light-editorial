@@ -1,5 +1,6 @@
 ---
 title: 'Knives Out - Mysteries'
+publish_date: '28-05-2020 15:07'
 metadata:
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss mysteries and clues as seen in the movie, Knives Out.'
 taxonomy:
