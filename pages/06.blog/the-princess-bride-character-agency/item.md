@@ -1,5 +1,6 @@
 ---
 title: 'The Princess Bride - Character Agency'
+date: '31-03-2020 15:46'
 publish_date: '31-03-2020 15:09'
 metadata:
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss character agency as seen in the movie, The Princess Bride.'
