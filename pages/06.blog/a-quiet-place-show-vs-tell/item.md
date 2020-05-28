@@ -2,7 +2,7 @@
 title: 'A Quiet Place - Show vs Tell'
 date: '12-02-2020 00:00'
 metadata:
-    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss show vs. tell as seen in the movie, A Quiet Place.'
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss show vs. tell as seen in the movie,  A Quiet Place.'
 taxonomy:
     category:
         - blog
