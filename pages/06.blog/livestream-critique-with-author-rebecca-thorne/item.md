@@ -1,5 +1,12 @@
 ---
 title: 'Livestream Critique with Author Rebecca Thorne'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - publishing
+        - writing
+        - critique
 ---
 
 A few weeks ago the lovely Rebecca Thorne invited me to join her weekly livestream critique of the 1st 5 pages of works-in-progress. It is part of her Let's Get Published! Discord server where authors can talk about all things writing and publishing. 
