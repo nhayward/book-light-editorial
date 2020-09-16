@@ -12,7 +12,7 @@ content:
             - _overview
             - _topics
             - _add-ons
-            - _two-columns
+            - _details
             - _cta-footer
 body_classes: modular
 onpage_menu: false
