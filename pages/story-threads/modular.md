@@ -11,6 +11,7 @@ content:
             - _description
             - _overview
             - _topics
+            - _add-ons
             - _two-columns
             - _cta-footer
 body_classes: modular
