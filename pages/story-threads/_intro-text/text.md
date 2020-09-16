@@ -2,4 +2,18 @@
 title: 'Intro Text'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum at arcu tellus. Vestibulum ornare tortor tellus, vitae pulvinar ex sollicitudin non. Etiam ut lectus a orci tincidunt consequat vitae ac massa. Aenean eu felis ut mi viverra consequat. Praesent elit nunc, congue interdum congue a, rutrum eu dui. Aliquam id ornare lacus. Pellentesque pulvinar luctus scelerisque. In hac habitasse platea dictumst. Donec ultrices magna et finibus feugiat. Sed sit amet nulla lectus. Suspendisse vulputate mauris nec eros interdum, eget vulputate purus hendrerit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla facilisi. Morbi laoreet euismod accumsan. Praesent malesuada nunc elit, id porta nisl porttitor vitae. Maecenas tempus fringilla ante et venenatis.
+## Unravel your characters and their worlds.
+
+#### Join Jeni Chapelle, Tiffany Grimes, and Carly Hayward as they pull at the threads that form your character and help you craft a fully developed story.
+
+#### February 4-7 2021  
+ 
+For four days, work with these three professional editors to explore every aspect of writing three-dimensional characters, from inception, into drafting, and through revisions. Story Threads: Unraveling Character will help you bring new depth and dimension to every character you create. This retreat includes a deep dive on major topics that influence characters, as well as discussions and exercises on:
+ * Creating realistic and well-developed characters
+ * How characters and plot influence each other
+ * Defining your character’s internal and external struggles
+ * And more!
+ 
+And of course, plenty of time for writing.
+
+All participants will also receive feedback on 10 pages of their manuscript from one of our professional editors + other writers at the retreat.
