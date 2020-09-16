@@ -1,7 +1,0 @@
----
-layout: half
-left_column: 'Vivamus vitae accumsan tellus. Aliquam id ipsum sed risus condimentum laoreet. Donec non porttitor lectus. Nulla vel malesuada mi. Ut suscipit sapien at risus malesuada aliquam. Curabitur eros metus, cursus eget nisi nec, pretium feugiat erat. Nulla vestibulum, sem vitae elementum dignissim, lectus enim rhoncus purus, eget tempor velit est sit amet odio. Nam dapibus nibh at sem gravida scelerisque. Suspendisse potenti. Aliquam viverra justo vitae dignissim rhoncus. Praesent sed urna quis est luctus tristique. Integer eget enim scelerisque, dignissim dolor id, lacinia lorem. Phasellus dictum ornare porttitor.'
-right_column: 'Phasellus eu ornare arcu. Donec id augue quis justo convallis posuere. Fusce in sem felis. Proin id elit eget leo blandit accumsan. Praesent rhoncus, turpis a tincidunt egestas, lectus dolor commodo augue, id fermentum nisl magna et tortor. Mauris sit amet tincidunt velit, in mattis urna. Morbi dui odio, fermentum in dapibus at, ultricies eleifend diam. Fusce euismod metus elit, in convallis est malesuada eget. Donec pharetra at orci ac malesuada. Cras mauris leo, pretium nec consequat vel, interdum et libero. Nam ultricies volutpat lacus, et consectetur quam fringilla vel. Suspendisse potenti. In commodo tincidunt felis, vitae lobortis lacus malesuada at. Nullam sodales feugiat nibh, at molestie urna egestas ut. Nam rutrum suscipit velit, vitae pretium magna pharetra non. In hac habitasse platea dictumst.'
-title: 'Two Columns'
----
-
