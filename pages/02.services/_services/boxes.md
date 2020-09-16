@@ -1,22 +1,31 @@
 ---
 boxes:
     -
+        package: false
         content: "<span class=\"first-character\">D</span>**evelopmental Edit:** A developmental edit will help you refine your writing by working on story structure, pacing, character development, voice, clarity, and plot. It looks at the big picture as well as writing technique. You will receive a 5- to 8-page analysis breaking down strengths and weaknesses in your manuscript as well as comprehensive margin notes within your pages.\r\n\r\n**Cost:** Starts at 1.7 cents a word\r\n\r\n<a class=\"button quick-contact\" href=\"#\" data-featherlight=\"#contact-form\" data-select=\"developmental\">Get Started</a>\r\n"
     -
+        package: false
         content: "<span class=\"first-character\">M</span>**anuscript Assessment:** An assessment is an in-depth analysis discussing big-picture edits. It will look at story arc, consistency, character development, pacing, voice, plot, and more. It takes a broad view of developmental challenges without the page by page analysis. You will receive a 5- to 8-page letter. Please be aware: this does not include any margin notes.\r\n\r\n**Cost:** 0.7 cents a word, $350 minimum\r\n\r\n<a class=\"button quick-contact\" href=\"#\" data-featherlight=\"#contact-form\" data-select=\"assessment\">Get Started</a>\r\n"
     -
+        package: false
         content: "<span class=\"first-character\">P</span>**artial Developmental Edit Package:** Can’t decide between a full developmental edit and an assessment? This package gives you the best of both worlds. You get an in-depth critique on the full manuscript as well as margin notes for a portion. You can tackle the larger issues while getting margin notes that can then be applied elsewhere. It is up to you how many pages receive margin notes, but we recommend the first 50.\r\n\r\n**Cost:** Starts at 0.7 cents a word for the full manuscript, plus 1 cent a word for the pages receiving margin notes.\r\n\r\n<a class=\"button quick-contact\" href=\"#\" data-featherlight=\"#contact-form\" data-select=\"partial\">Get Started</a>\r\n"
     -
+        package: false
         content: "<span class=\"first-character\">P</span>**hone Consultation:** Do you need advice on your writing but aren’t ready for an edit? Phone consultations allow you to get the advice of an editor on various manuscript challenges. Topics can run the gamut from plot brainstorming to characterization to publishing next steps.\r\n\r\n**Cost:** $50 per half-hour\r\n\r\n<a class=\"button quick-contact\" href=\"#\" data-featherlight=\"#contact-form\" data-select=\"consultation\">Get Started</a>\r\n"
     -
+        package: false
         content: "<span class=\"first-character\">W</span>**riting Coach:** Are you having trouble finishing your manuscript? Do you keep getting stuck or are you worried that you are going in the wrong direction? The coach will encourage your writing and give you advice as you write. This services is highly customizable, but results in discussions of your book as well as edits of pages.\r\n\r\n**Cost:** Starts at $200 a month.\r\n\r\n<a class=\"button quick-contact\" href=\"#\" data-featherlight=\"#contact-form\" data-select=\"coaching\">Get Started</a>\r\n"
     -
+        package: false
         content: "<span class=\"first-character\">S</span>**ubstantive Edit:** A substantive/line edit delivers sentence-level feedback. After you’ve had a developmental edit, it is time to look at your sentences for readability, clarity, cadence, and consistency. This edit will give you comprehensive in-line edits that point to problems within the manuscript and helps improve your writing at a sentence level.\r\n\r\n**Cost:** Starts at 2.5 cents a word\r\n\r\n<a class=\"button quick-contact\" href=\"#\" data-featherlight=\"#contact-form\" data-select=\"substantive\">Get Started</a>\r\n"
     -
+        package: false
         content: "<span class=\"first-character\">S</span>**econd-Read Review:** After you have made changes from a developmental edit or manuscript assessment, you can have us review your changes. When you make substantial edits it can be hard to tell if the edits were an improvement, if they need to go further, or if they didn’t work at all. This results in 1-2 page critique of your edited manuscript.\r\n\r\n**Cost:** 0.4 cents a word, $175 minimum.\r\n\r\n<a class=\"button quick-contact\" href=\"#\" data-featherlight=\"#contact-form\" data-select=\"second\">Get Started</a>\r\n"
     -
+        package: false
         content: "<span class=\"first-character\">C</span>**opyedit:** After you’ve polished your book via developmental edits and revision, it’s time for a copyedit. We will comb through your novel and edit for grammar, punctuation, and consistency of style. Minor changes in wording or light rewrites may also be made for clarity.\r\n\r\n**Cost:** Starts at 1 cent per word\r\n\r\n<a class=\"button quick-contact\" href=\"#\" data-featherlight=\"#contact-form\" data-select=\"copy\">Get Started</a>\r\n"
     -
+        package: false
         content: "<span class=\"first-character\">P</span>**roofread:** Once your manuscript has been professionally edited and copyedited, you're ready for proofreading. During this final stage of revisions, we will make sure your work is reader-ready by correcting typos, misused words, and other embarrassing errors.\r\n\r\n**Cost:** Starts at 0.75 cents a word\r\n\r\n<a class=\"button quick-contact\" href=\"#\" data-featherlight=\"#contact-form\" data-select=\"proofread\">Get Started</a>\r\n"
 routable: false
 visible: false

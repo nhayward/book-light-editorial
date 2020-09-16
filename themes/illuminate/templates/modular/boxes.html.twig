@@ -4,7 +4,7 @@
 
 			<div class="bricklayer">
 				{% for box in page.header.boxes %}
-					<div class="box" style="background-image: url({{ url('theme://images/accents/Book_Light_Editorial_BookStack.png') }})">
+					<div class="box {% if box.package %}package{% endif %}" style="background-image: url({{ url('theme://images/accents/Book_Light_Editorial_BookStack.png') }})">
 						{{ box.content|markdown }}
 					</div>
 				{% endfor %}

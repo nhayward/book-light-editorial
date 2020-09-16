@@ -17,6 +17,16 @@ form:
               label: Boxes
               style: vertical
               fields:
+                .package:
+                  type: toggle
+                  label: Package
+                  default: 0
+                  highlight: 1
+                  options:
+                      1: PLUGIN_ADMIN.YES
+                      0: PLUGIN_ADMIN.NO
+                  validate:
+                      type: bool
                 .content:
                   type: markdown
                   label: Content
