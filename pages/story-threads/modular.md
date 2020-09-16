@@ -13,6 +13,9 @@ content:
             - _topics
             - _add-ons
             - _details
+            - _jeni-chappelle
+            - _tiffany-grimes
+            - _carly-hayward
             - _cta-footer
 body_classes: modular
 onpage_menu: false
