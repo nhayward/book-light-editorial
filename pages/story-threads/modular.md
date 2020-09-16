@@ -7,7 +7,7 @@ content:
     order:
         custom:
             - _intro-text
-            - _top-CTA
+            - _top-cta
             - _description
             - _two-columns
             - _cta-footer
