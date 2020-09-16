@@ -1,6 +1,6 @@
 ---
 title: 'Story Threads'
-showcase_heading: 'Story Threads'
+showcase_heading: '![Story Threads](StoryThreads_banner.png)'
 genre_images: false
 content:
     items: '@self.modular'
