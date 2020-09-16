@@ -2,8 +2,8 @@
 title: 'Intro Text'
 ---
 
-## Unravel your characters and their worlds.
+## _Unravel your characters and their worlds._{.center}
 
-#### Join Jeni Chapelle, Tiffany Grimes, and Carly Hayward as they pull at the threads that form your character and help you craft a fully developed story.
+#### _Join Jeni Chapelle, Tiffany Grimes, and Carly Hayward as they pull at the threads that form your character and help you craft a fully developed story._{.center}
 
-#### February 4-7 2021
+#### _February 4-7 2021_{.center}
