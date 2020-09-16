@@ -44,27 +44,24 @@ We look forward to hearing from you!
 				<select name="entry.1325649395" required="required" aria-label="Service">
 					<option disabled selected value="">
 						Choose the service you're looking for
+					 </option>
+					<option value="evaluation">
+						Manuscript Evaluation
 					</option>
-					<option value="developmental">
-						Developmental Editing
-					</option>
-					<option value="assessment">
-						Manuscript Assessment
-					</option>
-					<option value="partial">
-						Partial Developmental Edit Package
-					</option>
-					<option value="consultation">
-						Phone Consultation
+                    <option value="glow">
+						The Glow Package
+                    </option>
+                    <option value="shiny">
+						The Shiny Submission
 					</option>
 					<option value="coaching">
-						Writing Coach
-					</option>
-					<option value="substantive">
-						Substantive Edit
-					</option>
-					<option value="second">
-						Second-Read Review
+						Coaching Call
+                    </option>
+					<option value="developmental">
+						Developmental Editing
+                    </option>
+					<option value="neon">
+						The Neon Indie Bundle
 					</option>
 					<option value="copy">
 						Manuscript Copyedit
