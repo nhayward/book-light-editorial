@@ -1,0 +1,37 @@
+title: Two Columns
+extends@: default
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+
+      fields:
+        content:
+          fields:
+            replace@: true
+
+            header.layout:
+              type: toggle
+              label: Layout
+              options:
+                  "one-third": One-third/Two-thirds
+                  "two-thirds": Two-thirds/One-third
+                  "half": Half and Half
+
+            header.left_column:
+              type: markdown
+              label: Left Column
+              validate:
+                type: textarea
+
+            header.right_column:
+              type: markdown
+              label: Right Column
+              validate:
+                type: textarea
+
+            header.media_order:
+              type: pagemedia
+              label: PLUGIN_ADMIN.PAGE_MEDIA

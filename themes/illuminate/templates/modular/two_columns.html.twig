@@ -1,0 +1,27 @@
+{% set grid_size = theme_var('grid-size') %}
+
+{% if page.header.layout == "one-third" %}
+    {% set left_width = "col-4" %}
+    {% set right_width = "col-8" %}
+{% elseif page.header.layout == "two-thirds" %}
+    {% set left_width = "col-8" %}
+    {% set right_width = "col-4" %}
+{% else %}
+    {% set left_width = "col-6" %}
+    {% set right_width = "col-6" %}
+{% endif %}
+
+
+<section class="section modular-columns {{ page.header.class}}">
+    <section class="container {{ grid_size }}">
+        <div class="columns">
+            <div class="column {{ left_width }} col-md-12">
+                {{ page.header.left_column|markdown }}
+            </div>
+            <div class="column {{ right_width }} col-md-12">
+                {{ page.header.right_column|markdown }}
+            </div>
+        </div>
+    </section>
+</section>
+
