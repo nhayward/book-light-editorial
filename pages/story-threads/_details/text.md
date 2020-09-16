@@ -2,7 +2,7 @@
 title: details
 ---
 
-### Registration Details
+### Registration Details {#registration-details}
 The retreat is committed to an atmosphere of diversity and inclusion. We encourage participation from writers in the BIPOC, LGBTQ+, disabled, neurodiverse, and other underserved communities, and authors in those communities will receive priority. Story Threads **does not** tolerate harassment of attendees or team members in any form.
 
 #### Requirements

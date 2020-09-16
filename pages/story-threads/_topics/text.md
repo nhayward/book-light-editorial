@@ -2,7 +2,7 @@
 title: topics
 ---
 
-### Masterclasses (90 minutes each day for 3 days)
+### Masterclasses (90 minutes each day for 3 days) {#class-descriptions}
 #### You’ll choose 1 of the following topics:
 
 ##### **Your Story’s Fingerprint: Voice with Jeni Chappelle**

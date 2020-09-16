@@ -1,0 +1,18 @@
+{% set grid_size = theme_var('grid-size') %}
+
+<section class="section modular-three-columns {{ page.header.class}}">
+    <section class="container {{ grid_size }}">
+        {% if page.header.intro_text %}
+            <div class="columns-intro">
+                {{ page.header.intro_text|markdown }}
+            </div>
+        {% endif %}
+        <div class="columns">
+            {% for column in page.header.columns %}
+                <div class="column col-4 col-md-12">
+                    {{ column.content|markdown }}
+                </div>
+            {% endfor %}
+        </div>
+    </section>
+</section>

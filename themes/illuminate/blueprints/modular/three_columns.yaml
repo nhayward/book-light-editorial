@@ -1,0 +1,34 @@
+title: Three Columns
+extends@: default
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+
+      fields:
+        content:
+          fields:
+            replace@: true
+
+            header.intro_text:
+              type: markdown
+              label: Intro Text
+              validate:
+                type: textarea
+
+            header.columns:
+              type: list
+              label: Columns
+              style: vertical
+              fields:
+                .content:
+                  type: markdown
+                  label: Content
+                  validate:
+                    type: textarea
+
+            header.media_order:
+              type: pagemedia
+              label: PLUGIN_ADMIN.PAGE_MEDIA

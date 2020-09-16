@@ -814,4 +814,8 @@ section#header.scrolled .navbar-section ul li a {
   display: none;
 }
 
+.modular-two-columns .container .columns.vertical-center {
+  align-items: center;
+}
+
 /*# sourceMappingURL=custom.css.map */
