@@ -2,7 +2,7 @@
 title: topics
 ---
 
-### Masterclasses are 90 minutes each day for 3 days
+### Masterclasses (90 minutes each day for 3 days)
 #### You’ll choose 1 of the following topics:
 
 ##### **Your Story’s Fingerprint: Voice with Jeni Chappelle**
@@ -18,7 +18,7 @@ Deep POV (point-of-view) is intrinsically linked to character development. Reade
 
 The basis of all your character’s actions throughout your story can come down to their internal conflict. It defines how they react, what they need to solve, and how they relate to others around them. Internal conflict is the best way to deepen your characters and to show their arc throughout a story. In this master class we’ll use discussions and exercises to carve out emotional wounds in your character—then we’ll salt those wounds. We’ll create a heart-wrenching impetus, learn about what causes conflict, find ways to poke at your characters and reveal their triggers, and delve into the consequences of those conflicts. 
 
-### Workshops are 1 hour each 
+### Workshops (1 hour each) 
 #### You’ll choose 4 from the following topics:
 
  * Laugh It Off: Using Humor to Reveal Character in Young Adult and Middle Grade Fiction
