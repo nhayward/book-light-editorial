@@ -3,7 +3,7 @@ media_order: StoryThreads_banner.png
 title: 'Intro Text'
 ---
 
-![](StoryThreads_banner.png)
+![Story Threads Logo](StoryThreads_banner.png)
 
 ## _Unravel your characters and their worlds._{.center}
 
