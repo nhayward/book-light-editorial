@@ -9,8 +9,8 @@ content:
             - _top-cta
             - _jump-buttons
             - _overview
-            - _details
             - _editor-columns
+            - _details
             - _add-ons
             - _topics
             - _cta-footer
