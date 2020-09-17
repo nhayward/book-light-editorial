@@ -14,9 +14,6 @@ content:
             - _add-ons
             - _details
             - _editor-columns
-            - _jeni-chappelle
-            - _tiffany-grimes
-            - _carly-hayward
             - _cta-footer
 body_classes: modular
 onpage_menu: false
