@@ -1,4 +1,5 @@
 ---
+intro_text: "### Masterclasses (90 minutes each day for 3 days)\r\n#### You’ll choose 1 of the following topics:"
 columns:
     -
         content: "!!!!! **Your Story’s Fingerprint: Voice with Jeni Chappelle**\r\n!!!!! \r\n!!!!! One of the vaguest concepts in writing is voice. We know it when we see it, but if you struggle with voice in your writing, how do you fix it? While voice may seem like some mystical power that some writers naturally possess and others don’t, it’s a skill like any other—which means it can be practiced and taught. Through interactive exercises and group discussion, you’ll learn to define and identify voice and its elements, distinguish between the kinds of voice a writer needs (yes, there’s more than one!), and concrete techniques to apply these concepts to your own writing."
