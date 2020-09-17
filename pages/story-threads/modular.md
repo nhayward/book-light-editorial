@@ -9,10 +9,10 @@ content:
             - _top-cta
             - _jump-buttons
             - _overview
-            - _topics
-            - _add-ons
             - _details
             - _editor-columns
+            - _add-ons
+            - _topics
             - _cta-footer
 body_classes: modular
 onpage_menu: false
