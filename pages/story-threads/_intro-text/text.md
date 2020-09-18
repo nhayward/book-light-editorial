@@ -5,7 +5,7 @@ title: 'Intro Text'
 
 ![Story Threads Logo](StoryThreads_banner.png)
 
-## _Unravel your characters and their worlds._{.center}
+## Unravel your characters and their worlds.{.center}
 
 #### _Join Jeni Chapelle, Tiffany Grimes, and Carly Hayward as they pull at the threads that form your character and help you craft a fully developed story._{.center}
 
