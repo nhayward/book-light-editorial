@@ -19,21 +19,21 @@ sitemap:
     priority: 0.5
 onpage_menu: false
 preload_assets:
-  -
-    path: "{{ url('theme://images/genres/backgrounds/whiteback_SciFi.jpg') }}"
-  -
-    path: "{{ url('theme://images/genres/scifi_no-edge_no-back_spacegirl.png') }}"
-  -
-    path: "{{ url('theme://images/genres/backgrounds/whiteback_Fantasy.jpg') }}"
-  -
-    path: "{{ url('theme://images/genres/fantasy_no-edge_warrior_no-back.png') }}"
-  -
-    path: "{{ url('theme://images/genres/backgrounds/whiteback_Romance.jpg') }}"
-  -
-    path: "{{ url('theme://images/genres/romance_girl.png') }}"
-  -
-    path: "{{ url('theme://images/genres/backgrounds/whiteback_Mystery.jpg') }}"
-  -
-    path: "{{ url('theme://images/genres/mysteryman.png') }}"
+    -
+        path: '{{ url(''theme://images/genres/backgrounds/whiteback_SciFi.jpg'') }}'
+    -
+        path: '{{ url(''theme://images/genres/scifi_no-edge_no-back_spacegirl.png'') }}'
+    -
+        path: '{{ url(''theme://images/genres/backgrounds/whiteback_Fantasy.jpg'') }}'
+    -
+        path: '{{ url(''theme://images/genres/fantasy_no-edge_warrior_no-back.png'') }}'
+    -
+        path: '{{ url(''theme://images/genres/backgrounds/whiteback_Romance.jpg'') }}'
+    -
+        path: '{{ url(''theme://images/genres/romance_girl.png'') }}'
+    -
+        path: '{{ url(''theme://images/genres/backgrounds/whiteback_Mystery.jpg'') }}'
+    -
+        path: '{{ url(''theme://images/genres/mysteryman.png'') }}'
 ---
 
