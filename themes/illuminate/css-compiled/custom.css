@@ -227,13 +227,18 @@ section#header .logo #header-text {
   font-weight: normal;
   color: #ffffff;
 }
-@media (max-width: 500px) {
+@media (max-width: 1024px) {
   section#header .logo {
     padding-top: 20px;
     padding-bottom: 20px;
   }
   section#header .logo #header-text {
     font-size: 1.5rem;
+  }
+}
+@media (max-width: 900px) {
+  section#header .logo #header-text {
+    font-size: 1.25rem;
   }
 }
 section#header .navbar-section {

@@ -15,7 +15,7 @@ section#header {
       color: $white;
     }
 
-    @media (max-width: 500px) {
+    @media (max-width: 1024px) {
       padding-top: 20px;
       padding-bottom: 20px;
 
@@ -23,6 +23,15 @@ section#header {
         font-size: 1.5rem;
       }
     }
+
+    @media (max-width: 900px) {
+
+        #header-text {
+            font-size: 1.25rem;
+        }
+
+    }
+
   }
 
   .navbar-section {
