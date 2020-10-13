@@ -1,4 +1,5 @@
 ---
 title: materials
+routable: false
 ---
 
