@@ -15,7 +15,7 @@ _Deposits hold your place and are non-refundable.* Deposits are applied to your 
 
 Scholarships are available: two full and two half scholarships.
 
-#### **[Click here](/story-threads/StoryThreads_alacarte.pdf?target=_blank)** for full Build Your Own Retreat details and cost.
+#### [#### Click here](/story-threads/StoryThreads_alacarte.pdf?target=_blank) for full Build Your Own Retreat details and cost.
 
 !!!!! #### **Important Dates**{.center}
 !!!!! 
