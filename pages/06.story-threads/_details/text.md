@@ -11,7 +11,7 @@ There are limited spots for this virtual retreat, so writers must complete a sho
 **Cost: $895 for the full retreat**</br>
 Deposit: $250
 
-_Deposits hold your place and are non-refundable.* Deposits are applied to your total registration fee. Only the deposit is due at the time of registration. Payment plans are available. _
+_Deposits hold your place and are non-refundable.* Deposits are applied to your total registration fee. Payment plans are available. _
 
 Scholarships are available: two full and two half scholarships.
 
