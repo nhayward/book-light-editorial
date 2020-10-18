@@ -5,7 +5,7 @@ title: 'Intro Text'
 
 ![Story Threads Logo](StoryThreads_banner.png)
 
-## NOW offering a la carte options!{.center}
+!!!!! ## NOW offering a la carte options!{.center}
 
 ## Unravel your characters and their worlds.{.center}
 
