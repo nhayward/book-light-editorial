@@ -1,5 +1,6 @@
 ---
 title: 'Birds of Prey - Antiheroes'
+published: true
 date: '23-10-2020 13:48'
 publish_date: '23-10-2020 13:48'
 metadata:
