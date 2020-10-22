@@ -1,5 +1,7 @@
 ---
 title: 'Birds of Prey - Antiheroes'
+date: '23-10-2020 13:48'
+publish_date: '23-10-2020 13:48'
 metadata:
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss antiheroes as seen in the movie, Birds of Prey.'
 taxonomy:
