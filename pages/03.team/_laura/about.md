@@ -15,6 +15,8 @@ She holds an MFA in Nonfiction from the Mountainview low-residency program, wher
 
 Laura lives in New Hampshire, where she cocoons herself in blankets and edits from her secondhand La-Z-Boy chair. When she’s not editing, you can find her working on her own writing, binge-watching America’s Next Top Model, or trying her hand at indoor rock-climbing.
 
+Pronouns: She/Her
+
 !!!!! **Specialties:**
 !!!!!   
 !!!!! Laura’s specializes in YA and NA novels. She also loves editing coming-of-age stories, memoirs, and nonfiction essay collections. She does not edit horror, as she’s easily spooked, but is open to all other genres and manuscripts that deal with heavier subject matters.
