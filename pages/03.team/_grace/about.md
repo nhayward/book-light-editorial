@@ -15,6 +15,7 @@ She spent several years as a Managing Editorial Assistant at HarperCollins Publi
 
 Grace lives in Brooklyn with her programmer boyfriend and their beloved pet couch. In her spare time, she’s usually watching _Jeopardy!_ (and loudly guessing the answers) or catching up on _Law & Order_ (and loudly guessing whodunit). 
 
+Pronouns: She/Her
 
 !!!!! **Specialties:**
 !!!!!   
