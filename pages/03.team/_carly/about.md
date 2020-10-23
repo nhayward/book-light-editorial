@@ -15,6 +15,7 @@ With 10+ years in publishing, she’s worked all over the industry, including at
 
 When not reading or working she lounges with her husband being vastly amused by their cats or binge-watching TV.
 
+Pronouns: She/Her
 
 !!!!! **Specialties:**
 !!!!!   
