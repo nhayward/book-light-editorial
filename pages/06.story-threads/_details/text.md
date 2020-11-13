@@ -13,14 +13,5 @@ Deposit: $250
 
 _Deposits hold your place and are non-refundable.* Deposits are applied to your total registration fee. Payment plans are available. _
 
-Scholarships are available: two full and two half scholarships.
+Please contact us directly if you need financial aid. Authors from BIPOC, LGBTQ+, disabled, and other historically marginalized communities will be given priority.
 
-**[Click here](/story-threads/StoryThreads_alacarte.pdf?target=_blank) for full Build Your Own Retreat details and cost.**
-
-!!!!! #### **Important Dates**{.center}
-!!!!! 
-!!!!!  * Application window opens: October 1, 2020
-!!!!!  * Deposit due: December 1, 2020
-!!!!!  * Final payment due: January 15, 2021
-!!!!!  * First ten pages due: January 20, 2021
-!!!!!  * **Virtual Retreat: February 4-7, 2021**
