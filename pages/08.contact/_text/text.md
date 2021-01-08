@@ -12,6 +12,17 @@ If you are looking for an estimate, include an approximate word count, type of s
 
 We look forward to hearing from you!
 
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script type="text/javascript">
+    function recaptcha_callback() {
+        document.getElementById("submitQuery").disabled = false;
+    }
+
+    function recaptcha_expired_callback() {
+        document.getElementById("submitQuery").disabled = true;
+    }
+</script>
+
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='/contact/thankyou';}"></iframe>
 <form id="contact-form" action="https://docs.google.com/forms/d/e/1FAIpQLSf4cBdr-avobkUsmoZLj_scy_YlL3V6DNnhL3JDPXJNEjLU7A/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
@@ -100,8 +111,9 @@ We look forward to hearing from you!
 		</div>
 	</div>
 	<input class="phone" style="display:none;" type="text" value="">
+    <div class="g-recaptcha" data-callback="recaptcha_callback" data-expired-callback="recaptcha_expired_callback" data-sitekey="6Le2RRsUAAAAAKI4p5Fgbm3gj8vdB_jvKYGeeifO"></div>
 	<div class="buttons">
-		<button class="button" type="submit">Submit</button> <button class="button" type="reset">Reset</button>
+		<button id="submitQuery" class="button" type="submit">Submit</button> <button class="button" type="reset">Reset</button>
 	</div>
 </form>
 
@@ -111,3 +123,7 @@ We look forward to hearing from you!
   <img src="/user/themes/illuminate/images/genres/scifi_no-edge_no-back_spacegirl.png" alt="">
   <img id="contact-page-warrior" src="/user/themes/illuminate/images/genres/fantasy_no-edge_warrior_no-back.png" alt="">
 </div>
+
+<script type="text/javascript">
+    document.getElementById("submitQuery").disabled = true;
+</script>
