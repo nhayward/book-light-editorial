@@ -1,5 +1,6 @@
 ---
 profile_image:
+    src: Book_Light_Editorial_MichelleWelch.jpg
     alt_text: 'Michelle Welch'
 twitter_handle: thesideofmyface
 editor_name: 'Michelle Welch'
