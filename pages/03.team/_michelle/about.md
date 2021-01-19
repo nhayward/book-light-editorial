@@ -19,7 +19,7 @@ content:
 
 Her earliest proofreading roles were an internship at The A.V. Club and a spot in the Editorial department of Groupon. Since leaving printable coupons behind, Michelle has freelanced for several outlets, including the Chicago Tribune, St. Martin’s Press, and Newsela. With experiences in marketing, daily news, publishing, K-12 education, and higher education. 
 
-Michelle completed her undergraduate degree in cinema and media studies at The University of Chicago and also has a master’s in education from the University of Oregon. She lives in NYC with several silly pets and a wonderful boyfriend. There is no episode of Golden Girls she can’t quote.
+Michelle completed her undergraduate degree in cinema and media studies at The University of Chicago and also has a master’s in education from the University of Oregon. She lives in NYC with several silly pets and a wonderful boyfriend. There is no episode of _Golden Girls_ she can’t quote.
 
 Pronouns: She/Her
 
