@@ -4,7 +4,7 @@ profile_image:
     alt_text: 'Laura Dennison'
 twitter_handle: LEDennison
 editor_name: 'Laura Dennison'
-editor_title: 'Senior Copyeditor'
+editor_title: Copyeditor
 title: Laura
 media_order: 'Poynter_NewsUniversity.png,shoreindie_logo.png,R&Reditor_small.png'
 ---
