@@ -4,7 +4,7 @@ profile_image:
     alt_text: 'Grace Laidlaw'
 twitter_handle: GraceCopyedits
 editor_name: 'Grace Laidlaw'
-editor_title: 'Senior Copyeditor'
+editor_title: Copyeditor
 title: Grace
 media_order: 'R&Reditor_small.png'
 ---
