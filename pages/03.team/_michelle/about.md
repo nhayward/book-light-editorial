@@ -19,6 +19,8 @@ Her earliest proofreading roles were an internship at The A.V. Club and a spot i
 
 Michelle completed her undergraduate degree in cinema and media studies at The University of Chicago and also has a master’s in education from the University of Oregon. She lives in NYC with several silly pets and a wonderful boyfriend. There is no episode of Golden Girls she can’t quote.
 
+Pronouns: She/Her
+
 !!!!! **Specialties:**
 !!!!!   
 !!!!! Michelle is a versatile editor who doesn’t mind reading (and fixing the typos of) anything you throw at her. But if she had to pick, please throw true crime, mysteries, contemporary fiction, YA, horror, general non-fiction, and tawdry biographies of celebrities at her.
