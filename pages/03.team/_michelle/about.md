@@ -1,6 +1,7 @@
 ---
 profile_image:
     alt_text: 'Michelle Welch'
+twitter_handle: thesideofmyface
 editor_name: 'Michelle Welch'
 editor_title: Copyeditor
 title: Michelle
