@@ -20,6 +20,7 @@ content:
             - _carly
             - _laura
             - _grace
+            - _michelle
             - _slider
             - _cta
 genre_images: true
