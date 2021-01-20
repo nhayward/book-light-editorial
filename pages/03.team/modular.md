@@ -19,7 +19,6 @@ content:
         custom:
             - _carly
             - _laura
-            - _grace
             - _michelle
             - _slider
             - _cta
@@ -30,6 +29,6 @@ preload_assets:
     -
         path: '{{ url(''theme://images/profile/Book_Light_Editorial_Laura_Dennison.jpg'') }}'
     -
-        path: '{{ url(''theme://images/profile/Book_Light_Editorial_Grace_Laidlaw.jpg'') }}'
+        path: '{{ url(''theme://images/profile/Book_Light_Editorial_MichelleWelch.jpg'') }}'
 ---
 
