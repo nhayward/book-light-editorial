@@ -5,6 +5,7 @@ profile_image:
 twitter_handle: GraceCopyedits
 editor_name: 'Grace Laidlaw'
 editor_title: Copyeditor
+published: false
 title: Grace
 media_order: 'R&Reditor_small.png'
 ---
