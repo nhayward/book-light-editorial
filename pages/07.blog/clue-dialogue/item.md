@@ -1,5 +1,7 @@
 ---
 title: 'Clue - Dialogue'
+date: '06-01-2021 14:49'
+publish_date: '06-01-2021 14:49'
 metadata:
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss dialogue as seen in the movie, Clue.'
 taxonomy:
