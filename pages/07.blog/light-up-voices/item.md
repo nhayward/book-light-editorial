@@ -37,7 +37,7 @@ _Signing up for Light up Voices will **NOT** sign you up for our newsletter. You
  * Must have at least 50 pages completed of their manuscript. 
  * The manuscript must be fiction (I personally specialize in romance, fantasy, sci-fi, and mystery, but other genres are accepted) and either adult, young adult, or middle grade. 
 
-##### To apply you’ll need to have the following prepared (asterisk* denotes required):
+##### **To apply you’ll need to have the following prepared (asterisk* denotes required):**
 
  * Contact information*
  * Short Bio (including any relevant writing or editorial experience)*
