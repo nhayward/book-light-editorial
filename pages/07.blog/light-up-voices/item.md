@@ -7,6 +7,7 @@ media_order: LightUpVoices.png
 
 Enter now to receive a free Light up Voices package, this offer is open only to members of marginalized communities. 
 
+![](LightUpVoices.png)
 
 ### Details: 
 
