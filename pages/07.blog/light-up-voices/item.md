@@ -28,11 +28,11 @@ A 50-page evaluation, a list of next steps, as well as a 30-min coaching call.
 
 While I can’t guarantee success, hopefully this will help make your writing stronger for this manuscript and future projects.
 
-**Note:** _All entries will remain **anonymous**, as we don’t want to out anyone publicly, but you can feel free to talk about it on your own social media._
+!!!!! **Note:** _All entries will remain **anonymous**, as we don’t want to out anyone publicly, but you can feel free to talk about it on your own social media._
 
-_I have **no** copyright interest in the work and the author is free to use any of my suggestions, edits, and ideas without reservation._
+!!!!! _I have **no** copyright interest in the work and the author is free to use any of my suggestions, edits, and ideas without reservation._
 
-_Signing up for Light Up Voices will **NOT** sign you up for our newsletter. Your information will only be used to contact you if you have been selected for the package. If you’d like to join our newsletter, you can do that here._
+!!!!! _Signing up for Light Up Voices will **NOT** sign you up for our newsletter. Your information will only be used to contact you if you have been selected for the package. If you’d like to join our newsletter, you can do that here._
 
 
 ### Requirements: 
