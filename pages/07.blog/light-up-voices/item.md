@@ -5,9 +5,9 @@ media_order: LightUpVoices.png
 
 ## Let’s spotlight marginalized authors
 
-Enter now to receive a free Light up Voices package, this offer is open only to members of marginalized communities. 
+Enter now to receive a free Light Up Voices package, this offer is open only to members of marginalized communities. 
 
-![](LightUpVoices.png)
+![Light Up Voices](LightUpVoices.png)
 
 ### Details: 
 
@@ -29,7 +29,7 @@ While I can’t guarantee success, hopefully this will help make your writing st
 
 _I have **no** copyright interest in the work and the author is free to use any of my suggestions, edits, and ideas without reservation._
 
-_Signing up for Light up Voices will **NOT** sign you up for our newsletter. Your information will only be used to contact you if you have been selected for the package. If you’d like to join our newsletter, you can do that here._
+_Signing up for Light Up Voices will **NOT** sign you up for our newsletter. Your information will only be used to contact you if you have been selected for the package. If you’d like to join our newsletter, you can do that here._
 
 
 ### Requirements: 
@@ -46,4 +46,4 @@ _Signing up for Light up Voices will **NOT** sign you up for our newsletter. You
  * Is there anything else you would like us to know?
  * Tell me about your writing*
  * Genre and age category of your piece*
- * First 10 pages (Times New Roman, 12 pt. font, 1 inch margins, double-spaced) - this is not required but will help me evaluate if I will be of any value to you.
+ * First 10 pages (Times New Roman, 12 pt. font, 1 inch margins, double-spaced) - this is **not** required but will help me evaluate if I will be of any value to you.
