@@ -15,7 +15,9 @@ I will randomly choose one author a month to receive the Light Up Voices package
 
 You do not need to apply every month; your application is good for a whole year. After which, you can apply again. _(If you are chosen and have shelved the manuscript you may choose a different project or forego the evaluation and we’ll choose someone else.)_
 
-If you want to be considered for this opportunity, [apply here](https://forms.gle/ACdAMBCr54vDtixE8?target=_blank)!
+If you want to be considered for this opportunity, apply now!
+
+[Apply Here](https://forms.gle/ACdAMBCr54vDtixE8?target=_blank) {.button}
 
 ### What it includes: 
 
@@ -38,6 +40,8 @@ While I can’t guarantee success, hopefully this will help make your writing st
  * Must have at least 50 pages completed of their manuscript. 
  * The manuscript must be fiction (I personally specialize in romance, fantasy, sci-fi, and mystery, but other genres are accepted) and either adult, young adult, or middle grade. 
 
+[Apply Here](https://forms.gle/ACdAMBCr54vDtixE8?target=_blank) {.button}
+
 ##### **To apply you’ll need to have the following prepared (asterisk\* denotes required):**
 
  * Contact information*
@@ -49,5 +53,3 @@ While I can’t guarantee success, hopefully this will help make your writing st
  * Tell me about your writing*
  * Genre and age category of your piece*
  * First 10 pages (Times New Roman, 12 pt. font, 1 inch margins, double-spaced) - this is **not** required but will help me evaluate if I will be of any value to you.
-
-[Apply Here](https://forms.gle/ACdAMBCr54vDtixE8?target=_blank) {.button}
