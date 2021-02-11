@@ -5,7 +5,7 @@ media_order: LightUpVoices.png
 
 ## <center>Let’s spotlight marginalized authors</center>
 
-**<center>Enter now to receive a free Light Up Voices package, this offer is open only to members of marginalized communities.</center>**
+<center>Enter now to receive a free Light Up Voices package, this offer is open only to members of marginalized communities.</center>
 
 ![Light Up Voices](LightUpVoices.png?cropResize=500,500)
 
