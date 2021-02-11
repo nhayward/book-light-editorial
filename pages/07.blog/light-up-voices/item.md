@@ -16,6 +16,7 @@ I will randomly choose one author a month to receive the Light Up Voices package
 You do not need to apply every month; your application is good for a whole year. After which, you can apply again. _(If you are chosen and have shelved the manuscript you may choose a different project or forego the evaluation and we’ll choose someone else.)_
 
 If you want to be considered for this opportunity, apply here!
+</br>
 
 ### What it includes: 
 
