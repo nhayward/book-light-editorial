@@ -18,7 +18,6 @@ You do not need to apply every month; your application is good for a whole year.
 If you want to be considered for this opportunity, apply here!
 </br>
 </br>
-</br>
 
 ### What it includes: 
 
