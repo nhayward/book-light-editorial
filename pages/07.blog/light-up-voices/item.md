@@ -3,11 +3,11 @@ title: 'Light Up Voices'
 media_order: LightUpVoices.png
 ---
 
-## Let’s spotlight marginalized authors
+## <center>Let’s spotlight marginalized authors</center>
 
 Enter now to receive a free Light Up Voices package, this offer is open only to members of marginalized communities. 
 
-<center>![Light Up Voices](LightUpVoices.png?cropResize=400,400)</center>
+![Light Up Voices](LightUpVoices.png?cropResize=500,500)
 
 ### Details: 
 
