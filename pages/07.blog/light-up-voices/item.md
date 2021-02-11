@@ -49,3 +49,5 @@ While I can’t guarantee success, hopefully this will help make your writing st
  * Tell me about your writing*
  * Genre and age category of your piece*
  * First 10 pages (Times New Roman, 12 pt. font, 1 inch margins, double-spaced) - this is **not** required but will help me evaluate if I will be of any value to you.
+
+[Apply Here](https://forms.gle/ACdAMBCr54vDtixE8?target=_blank) {.button}
