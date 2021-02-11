@@ -36,9 +36,9 @@ While I can’t guarantee success, hopefully this will help make your writing st
 
 ### Requirements: 
 
- * Must be an author from BIPOC, LGBTQ+, disabled, or other historically marginalized communities. (the manuscript itself does not need to be OwnVoices)
- * Must have at least 50 pages completed of their manuscript. 
- * The manuscript must be fiction (I personally specialize in romance, fantasy, sci-fi, and mystery, but other genres are accepted) and either adult, young adult, or middle grade. 
+ * **Must** be an author from BIPOC, LGBTQ+, disabled, or other historically marginalized communities. (the manuscript itself does not need to be OwnVoices)
+ * **Must** have at least 50 pages completed of their manuscript. 
+ * The manuscript **must** be fiction (I personally specialize in romance, fantasy, sci-fi, and mystery, but other genres are accepted) and either adult, young adult, or middle grade. 
 
 [Apply Here](https://forms.gle/ACdAMBCr54vDtixE8?target=_blank) {.button}
 
