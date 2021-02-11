@@ -31,7 +31,7 @@ While I can’t guarantee success, hopefully this will help make your writing st
 !!!!! 
 !!!!! _I have **no** copyright interest in the work and the author is free to use any of my suggestions, edits, and ideas without reservation._
 !!!!! 
-!!!!! _Signing up for Light Up Voices will **NOT** sign you up for our newsletter. Your information will only be used to contact you if you have been selected for the package. If you’d like to join our newsletter, you can do that [here](https://booklighteditorial.us15.list-manage.com/subscribe?target=_blank)._
+!!!!! _Signing up for Light Up Voices will **NOT** sign you up for our newsletter. Your information will only be used to contact you if you have been selected for the package. If you’d like to join our newsletter, you can do that_ _[here](https://booklighteditorial.us15.list-manage.com/subscribe?u=41cbd1b3120b5a7852e2b113c&id=2186454ed1)._
 
 
 ### Requirements: 
