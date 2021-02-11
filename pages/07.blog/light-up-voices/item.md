@@ -1,13 +1,14 @@
 ---
 title: 'Light Up Voices'
+media_order: LightUpVoices.png
 ---
 
-## Let’s spotlight marginalized authors.
+## Let’s spotlight marginalized authors
 
 Enter now to receive a free Light up Voices package, this offer is open only to members of marginalized communities. 
 
 
-#### Details: 
+### Details: 
 
 I will randomly choose one author a month to receive the Light Up Voices package. You can apply at any time; this offer never closes!
 
@@ -15,7 +16,7 @@ You do not need to apply every month; your application is good for a whole year.
 
 If you want to be considered for this opportunity, apply here!
 
-#### What it includes: 
+### What it includes: 
 
 A 50-page evaluation, a list of next steps, as well as a 30-min coaching call. 
 
@@ -30,7 +31,7 @@ _I have **no** copyright interest in the work and the author is free to use any 
 _Signing up for Light up Voices will **NOT** sign you up for our newsletter. Your information will only be used to contact you if you have been selected for the package. If you’d like to join our newsletter, you can do that here._
 
 
-#### Requirements: 
+### Requirements: 
 
  * Must be an author from BIPOC, LGBTQ+, disabled, or other historically marginalized communities. (the manuscript itself does not need to be OwnVoices)
  * Must have at least 50 pages completed of their manuscript. 
