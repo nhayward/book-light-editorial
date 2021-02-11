@@ -1,5 +1,17 @@
 ---
 title: 'Light Up Voices'
+metadata:
+    description: 'Let’s spotlight marginalized authors! If you are a marginalized author, enter now to receive a 50 page evaluation on your manuscript.'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - publishing
+        - writing
+        - editing
+        - 'Light Up Voices'
+        - 'Marginalized authors'
+        - 'marginalized voices'
 media_order: LightUpVoices.png
 ---
 
