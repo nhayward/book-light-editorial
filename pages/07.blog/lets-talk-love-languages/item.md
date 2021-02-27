@@ -11,6 +11,7 @@ taxonomy:
         - editing
         - 'character development'
         - 'love languages'
+media_order: LoveLanguages.png
 ---
 
 February’s theme was LOVE LANGUAGES, and whew, we had a lot of fun with this one! We hit so many points, but we’re excited to summarize. 
