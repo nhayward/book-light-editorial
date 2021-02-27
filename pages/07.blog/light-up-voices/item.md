@@ -13,6 +13,7 @@ taxonomy:
         - 'Marginalized authors'
         - 'marginalized voices'
 media_order: LightUpVoices.png
+date: '10-02-2021 18:32'
 ---
 
 ## Let’s spotlight marginalized authors! {.center}
