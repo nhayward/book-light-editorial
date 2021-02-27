@@ -1,5 +1,16 @@
 ---
 title: 'Let’s Talk Love Languages'
+metadata:
+    description: 'The editors at Book Light Editorial discuss how to utilize love languages to deepen your writing and character growth'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - publishing
+        - writing
+        - editing
+        - 'character development'
+        - 'love languages'
 ---
 
 February’s theme was LOVE LANGUAGES, and whew, we had a lot of fun with this one! We hit so many points, but we’re excited to summarize. 
