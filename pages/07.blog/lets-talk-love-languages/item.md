@@ -25,3 +25,5 @@ By considering these things, it only makes your writing easier. It’s fine to e
 This month was such a fun theme, and we hope you consider love languages as you’re setting personalities to your characters!
 
 Check out some of the highlights from this month, and happy writing!
+
+![](LoveLanguages1.png)![](LoveLanguages2.png)![](LoveLanguages3.png)![](LoveLanguages4.png)![](LoveLanguages5.png)![](LoveLanguages6.png)![](LoveLanguages7.png)![](LoveLanguages8.png)
