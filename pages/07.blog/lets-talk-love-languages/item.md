@@ -26,11 +26,11 @@ This month was such a fun theme, and we hope you consider love languages as you�
 
 Check out some of the highlights from this month, and happy writing!
 
-!["Utilize love languages to deepen your character's personality & relationships. How do they show love? Who do they show it to? And what does that tell us about your character?"](BLE_LoveLanguages.png?cropResize=300,300)
-!["What happens when two characters speak different love languages? One is grabbing sour patch kids every time they go to the store and the other is scheduling dates months in advance. They both are showing their love, but neither is hearing it"](BLE_LoveLanguages2.png?cropResize=300,300)
-!["Don’t be afraid to push your MC’s love language too far! If an Acts of Service MC breaks into their love’s house to clean their fridge, it can prompt a juicy argument!"](LoveLanguages2.png?cropResize=300,300)
-!["Different personalities show the same love languages differently. For example, if an introvert is Words of Affirmation, it might be tough for him to speak out sometimes. How will that affect his growth?"](LoveLanguages3.png?cropResize=300,300)
-!["Love languages can be shown through subtle mentions that add character depth, such as a Physical Touch MC reaching for her partner’s hand in times of stress."](LoveLanguages5.png?cropResize=300,300)
-!["Creatures have love languages too! Maybe a dragon is Physical Touch, but his scales are hot as fire. How would that affect his personality?"](LoveLanguages6.png?cropResize=300,300)
-!["A common writing trap is assigning all your characters the same love language as you have! Make sure you diversify; it might give insight into how someone expresses affection."](LoveLanguages7.png?cropResize=300,300)
-!["Sometimes the absence of action speaks louder than words. If an acts of service MC refuses to repair her partner’s crossbow, something might be wrong!"](LoveLanguages8.png?cropResize=300,300)
+!["Utilize love languages to deepen your character's personality & relationships. How do they show love? Who do they show it to? And what does that tell us about your character?"](BLE_LoveLanguages.png?cropResize=350,350)
+!["What happens when two characters speak different love languages? One is grabbing sour patch kids every time they go to the store and the other is scheduling dates months in advance. They both are showing their love, but neither is hearing it"](BLE_LoveLanguages2.png?cropResize=350,350)
+!["Don’t be afraid to push your MC’s love language too far! If an Acts of Service MC breaks into their love’s house to clean their fridge, it can prompt a juicy argument!"](LoveLanguages2.png?cropResize=350,350)
+!["Different personalities show the same love languages differently. For example, if an introvert is Words of Affirmation, it might be tough for him to speak out sometimes. How will that affect his growth?"](LoveLanguages3.png?cropResize=350,350)
+!["Love languages can be shown through subtle mentions that add character depth, such as a Physical Touch MC reaching for her partner’s hand in times of stress."](LoveLanguages5.png?cropResize=350,350)
+!["Creatures have love languages too! Maybe a dragon is Physical Touch, but his scales are hot as fire. How would that affect his personality?"](LoveLanguages6.png?cropResize=350,350)
+!["A common writing trap is assigning all your characters the same love language as you have! Make sure you diversify; it might give insight into how someone expresses affection."](LoveLanguages7.png?cropResize=350,350)
+!["Sometimes the absence of action speaks louder than words. If an acts of service MC refuses to repair her partner’s crossbow, something might be wrong!"](LoveLanguages8.png?cropResize=350,350)
