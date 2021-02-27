@@ -15,7 +15,7 @@ taxonomy:
 media_order: LightUpVoices.png
 ---
 
-## <center>Let’s spotlight marginalized authors!</center>
+## Let’s spotlight marginalized authors! {.center}
 
 Enter now to receive a free Light Up Voices package, this offer is open **only** to members of marginalized communities.
 
