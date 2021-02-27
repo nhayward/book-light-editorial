@@ -12,6 +12,7 @@ taxonomy:
         - storytelling
         - movies
         - romance
+date: '23-02-2021 18:34'
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/18050522/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
