@@ -26,4 +26,4 @@ This month was such a fun theme, and we hope you consider love languages as youâ
 
 Check out some of the highlights from this month, and happy writing!
 
-![](LoveLanguages1.png)![](LoveLanguages2.png)![](LoveLanguages3.png)![](LoveLanguages4.png)![](LoveLanguages5.png)![](LoveLanguages6.png)![](LoveLanguages7.png)![](LoveLanguages8.png)
+![](LoveLanguages1.png?cropResize=300,300)![](LoveLanguages2.png?cropResize=300,300)![](LoveLanguages3.png?cropResize=300,300)![](LoveLanguages4.png?cropResize=300,300)![](LoveLanguages5.png?cropResize=300,300)![](LoveLanguages6.png?cropResize=300,300)![](LoveLanguages7.png?cropResize=300,300)![](LoveLanguages8.png?cropResize=300,300)
