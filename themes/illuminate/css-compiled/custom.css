@@ -108,7 +108,12 @@ html body#top #page-wrapper img.float-left {
   float: left;
   padding: 0 10px 10px 0;
 }
-html body#top #page-wrapper .center {
+html body#top #page-wrapper img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+html body#top #page-wrapper .center:not(img) {
   text-align: center;
 }
 html body#top #page-wrapper .anchor {
