@@ -18,7 +18,7 @@ date: '10-02-2021 18:32'
 
 ## Let’s spotlight marginalized authors! {.center}
 
-Enter now to receive a free Light Up Voices package, this offer is open **only** to members of marginalized communities.
+Enter now to receive a free Light Up Voices package, this offer is open **only** to members of marginalized communities. {.center}
 
 ![Light Up Voices](LightUpVoices.png?cropResize=700,700){.center}
 
