@@ -32,10 +32,10 @@ In case you missed it, let’s delve into some suggestions. These aren’t exclu
    Main characters become relatable by having understandable reasons and motivations. Even if you wouldn't do what they do, you get why they are the way they are. Understanding the why of a character is all that is needed to get readers on board and willing to follow them through all sorts of terrible decisions/choices. Readers may not agree, but they get it.
 10. **Hook Your Reader with Conflict:** Give us some conflict in your character’s everyday world. But not your inciting incident. We want to start to work towards that inciting event without giving the whole thing away. You want new conflicts arising and to hint at what they could lead to. You want your opening pages to begin to set up the inciting incident and hint at the main conflict. Show readers how your characters could be getting embroiled in your plot, but they still have an out. It is still possible that this moment is fleeting.
 
-![If no one sees your book, you’ll never truly know what will need to be fixed. Always find beta readers, especially to prepare for pitch contests!](BLE_betareaders.png)
-![Remember that a character is built through layers. Your opening pages should establish your MC’s personality and desires, but subsequent chapters can be used to show true depth. ](BLE_establishcharacter.png)
-![Always beware the White Room Syndrome in a first chapter. Give your readers adequate description to physically anchor them in a scene.](BLE_whiteroom.png)
-![Prologues aren’t inherently bad, but a lot of authors use them to “cheat”—revealing important information all at once, rather than hinting at it to build intrigue. ](BLE_prologues.png)
+![If no one sees your book, you’ll never truly know what will need to be fixed. Always find beta readers, especially to prepare for pitch contests!](BLE_betareaders.png?cropResize=350,350)
+![Remember that a character is built through layers. Your opening pages should establish your MC’s personality and desires, but subsequent chapters can be used to show true depth.](BLE_establishcharacter.png?cropResize=350,350)
+![Always beware the White Room Syndrome in a first chapter. Give your readers adequate description to physically anchor them in a scene.](BLE_whiteroom.png?cropResize=350,350)
+![Prologues aren’t inherently bad, but a lot of authors use them to “cheat”—revealing important information all at once, rather than hinting at it to build intrigue. ](BLE_prologues.png?cropResize=350,350)
 
 Learn more by checking out the latest episode of Story Chat Radio: [Howl's Moving Castle - Opening Pages](https://www.storychatradio.com/howls-moving-castle-opening-pages?target=_blank)
 
