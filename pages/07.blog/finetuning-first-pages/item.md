@@ -15,6 +15,8 @@ taxonomy:
 media_order: FirstPages.png
 ---
 
+![](FirstPages.png)
+
 March’s theme was Opening Pages, and it wound up being an incredibly broad topic! There’s a lot that needs to happen in a novel’s first pages, and nailing it might very well be the key to securing that agent, or hooking that elusive reader. That’s why, if there’s ever a space of your book to edit meticulously, it’s these precious first pages. 
 
 In case you missed it, let’s delve into some suggestions. These aren’t exclusive to a fantastic opening, but following these tips can definitely help set your novel apart!
