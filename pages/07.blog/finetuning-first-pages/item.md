@@ -15,14 +15,11 @@ taxonomy:
 media_order: FirstPages.png
 ---
 
-![](FirstPages.png)
+![First Pages](FirstPages.png)
 
 March’s theme was Opening Pages, and it wound up being an incredibly broad topic! There’s a lot that needs to happen in a novel’s first pages, and nailing it might very well be the key to securing that agent, or hooking that elusive reader. That’s why, if there’s ever a space of your book to edit meticulously, it’s these precious first pages. 
 
 In case you missed it, let’s delve into some suggestions. These aren’t exclusive to a fantastic opening, but following these tips can definitely help set your novel apart!
-
-![If no one sees your book, you’ll never truly know what will need to be fixed. Always find beta readers, especially to prepare for pitch contests!](BLE_betareaders.png?cropResize=350,350)
-![Remember that a character is built through layers. Your opening pages should establish your MC’s personality and desires, but subsequent chapters can be used to show true depth.](BLE_establishcharacter.png?cropResize=350,350)
 
 1. **Utilize Beta Readers:** A beta reader (or critique partner) worth their salt is invaluable to your first pages. Even if they don’t have time to read your entire novel, a brief critique of your opening words can give a lot of insight! But don’t forget that half of the battle as a writer is what feedback to accept, and what to politely discard. 
 2. **Limit the Characters:** Truly excellent opening pages are a show of finesse—revealing just enough information to keep readers intrigued without being overwhelmed. Part of this battle is ensuring you don’t introduce too many characters at once! Let them join the plot naturally, rather than shoving them all into your first pages.
@@ -37,8 +34,8 @@ In case you missed it, let’s delve into some suggestions. These aren’t exclu
    Main characters become relatable by having understandable reasons and motivations. Even if you wouldn't do what they do, you get why they are the way they are. Understanding the why of a character is all that is needed to get readers on board and willing to follow them through all sorts of terrible decisions/choices. Readers may not agree, but they get it.
 10. **Hook Your Reader with Conflict:** Give us some conflict in your character’s everyday world. But not your inciting incident. We want to start to work towards that inciting event without giving the whole thing away. You want new conflicts arising and to hint at what they could lead to. You want your opening pages to begin to set up the inciting incident and hint at the main conflict. Show readers how your characters could be getting embroiled in your plot, but they still have an out. It is still possible that this moment is fleeting.
 
-
-
+![If no one sees your book, you’ll never truly know what will need to be fixed. Always find beta readers, especially to prepare for pitch contests!](BLE_betareaders.png?cropResize=350,350)
+![Remember that a character is built through layers. Your opening pages should establish your MC’s personality and desires, but subsequent chapters can be used to show true depth.](BLE_establishcharacter.png?cropResize=350,350)
 ![Always beware the White Room Syndrome in a first chapter. Give your readers adequate description to physically anchor them in a scene.](BLE_whiteroom.png?cropResize=350,350)
 ![Prologues aren’t inherently bad, but a lot of authors use them to “cheat”—revealing important information all at once, rather than hinting at it to build intrigue.](BLE_prologues.png?cropResize=350,350)
 
