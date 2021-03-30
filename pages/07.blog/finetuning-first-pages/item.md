@@ -15,7 +15,7 @@ taxonomy:
 media_order: FirstPages.png
 ---
 
-![First Pages](FirstPages.png?cropResize=400,400){.float-left}
+![First Pages](FirstPages.png?cropResize=450,450){.float-left}
 
 March’s theme was Opening Pages, and it wound up being an incredibly broad topic! There’s a lot that needs to happen in a novel’s first pages, and nailing it might very well be the key to securing that agent, or hooking that elusive reader. That’s why, if there’s ever a space of your book to edit meticulously, it’s these precious first pages. 
 
