@@ -22,7 +22,6 @@ March’s theme was **Opening Pages**, and it wound up being an incredibly broad
 #### In case you missed it, let’s delve into some suggestions. These aren’t exclusive to a fantastic opening, but following these tips can definitely help set your novel apart!
 </br>
 </br>
-</br>
 1. **Utilize Beta Readers:** A beta reader (or critique partner) worth their salt is invaluable to your first pages. Even if they don’t have time to read your entire novel, a brief critique of your opening words can give a lot of insight! But don’t forget that half of the battle as a writer is what feedback to accept, and what to politely discard. 
 2. **Limit the Characters:** Truly excellent opening pages are a show of finesse—revealing just enough information to keep readers intrigued without being overwhelmed. Part of this battle is ensuring you don’t introduce too many characters at once! Let them join the plot naturally, rather than shoving them all into your first pages.
 3. **Expand on Your Main Character Slowly:** Introducing a character is a necessity, but that doesn’t mean we need to know their tragic backstory, secret crush, and favorite ice cream flavor right away. Sometimes, a tantalizing clue without explanation—a throwaway line between characters, or a secret glance that implies deeper emotion—can prompt a reader to sink into the mystery of your main character. 
