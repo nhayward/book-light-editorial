@@ -1,7 +1,7 @@
 ---
 title: 'Howl''s Moving Castle - Opening Pages'
 metadata:
-    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss opening pages as seen in the movie, Howls Moving Castle.'
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss opening pages as seen in the movie, Howl''s Moving Castle.'
 taxonomy:
     category:
         - blog
