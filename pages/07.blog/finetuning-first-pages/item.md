@@ -15,7 +15,7 @@ taxonomy:
 media_order: null
 ---
 
-March’s theme was First Pages, and it wound up being an incredibly broad topic! There’s a lot that needs to happen in a novel’s first pages, and nailing it might very well be the key to securing that agent, or hooking that elusive reader. That’s why, if there’s ever a space of your book to edit meticulously, it’s these precious first pages. 
+March’s theme was Opening Pages, and it wound up being an incredibly broad topic! There’s a lot that needs to happen in a novel’s first pages, and nailing it might very well be the key to securing that agent, or hooking that elusive reader. That’s why, if there’s ever a space of your book to edit meticulously, it’s these precious first pages. 
 
 In case you missed it, let’s delve into some suggestions. These aren’t exclusive to a fantastic opening, but following these tips can definitely help set your novel apart!
 
@@ -32,6 +32,7 @@ In case you missed it, let’s delve into some suggestions. These aren’t exclu
    Main characters become relatable by having understandable reasons and motivations. Even if you wouldn't do what they do, you get why they are the way they are. Understanding the why of a character is all that is needed to get readers on board and willing to follow them through all sorts of terrible decisions/choices. Readers may not agree, but they get it.
 10. **Hook Your Reader with Conflict:** Give us some conflict in your character’s everyday world. But not your inciting incident. We want to start to work towards that inciting event without giving the whole thing away. You want new conflicts arising and to hint at what they could lead to. You want your opening pages to begin to set up the inciting incident and hint at the main conflict. Show readers how your characters could be getting embroiled in your plot, but they still have an out. It is still possible that this moment is fleeting.
 
+Learn more by checking out the latest episode of Story Chat Radio: [Howl's Moving Castle - Opening Pages](https://www.storychatradio.com/howls-moving-castle-opening-pages?target=_blank)
 
 As you can see, a lot goes into first pages. We’ve tackled a few topics here, but we definitely look forward to revisiting this theme at a later date. For now, though, we’re turning our attention forward, to April’s theme: **So You Got Beta Feedback… Now What?** 
 
