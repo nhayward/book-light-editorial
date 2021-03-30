@@ -17,9 +17,9 @@ media_order: FirstPages.png
 
 ![First Pages](FirstPages.png?cropResize=450,450){.float-left}
 
-### March’s theme was Opening Pages, and it wound up being an incredibly broad topic! There’s a lot that needs to happen in a novel’s first pages, and nailing it might very well be the key to securing that agent, or hooking that elusive reader. That’s why, if there’s ever a space of your book to edit meticulously, it’s these precious first pages. 
+March’s theme was **Opening Pages**, and it wound up being an incredibly broad topic! There’s a lot that needs to happen in a novel’s first pages, and nailing it might very well be the key to securing that agent, or hooking that elusive reader. That’s why, if there’s ever a space of your book to edit meticulously, it’s these precious first pages. 
 
-In case you missed it, let’s delve into some suggestions. These aren’t exclusive to a fantastic opening, but following these tips can definitely help set your novel apart!
+##### In case you missed it, let’s delve into some suggestions. These aren’t exclusive to a fantastic opening, but following these tips can definitely help set your novel apart!
 
 1. **Utilize Beta Readers:** A beta reader (or critique partner) worth their salt is invaluable to your first pages. Even if they don’t have time to read your entire novel, a brief critique of your opening words can give a lot of insight! But don’t forget that half of the battle as a writer is what feedback to accept, and what to politely discard. 
 2. **Limit the Characters:** Truly excellent opening pages are a show of finesse—revealing just enough information to keep readers intrigued without being overwhelmed. Part of this battle is ensuring you don’t introduce too many characters at once! Let them join the plot naturally, rather than shoving them all into your first pages.
