@@ -22,7 +22,7 @@ Fiction writers are often encouraged to write about things they don’t know. If
 
 So, instead of solely mining your own life for inspiration, you need to get creative, as every writer should. You open your mind to other possibilities, scenarios, and characters that are outside your own experience. But here is where it gets messy: as much as you try to create new characters, it is inevitable that your unconscious background will apply traits to them, even if you don’t know if these traits are real or stereotype. As perceptive and sensitive as you try to be, it is hard to fully understand the cultures surrounding people of different races, religions, disabilities, sexual orientations, gender identities, etc. unless you fully immerse yourself in that culture for an extended period of time.
 
-![](book_light_editorial_quote_onething.jpg?cropResize=400,400){.float-left}
+![No one is perfect, and no one is just one thing.](book_light_editorial_quote_onething.jpg?cropResize=400,400){.float-left}
 
 Additionally, you want to be sure your characters don’t come across as one-dimensional or cliché. They should be round, complex, and genuine. Your characters should be as diverse as the world we live in. But you also don’t want your diverse cast to seem gratuitous. Many authors are aware that books need diversity, but throwing diverse characters in a book and calling it representation is problematic as well. You want your three-dimensional characters to be true to the story and true to the people they represent. 
 
