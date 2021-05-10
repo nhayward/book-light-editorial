@@ -37,6 +37,13 @@ By the third pass, your big issues should be handled. Now it’s time to examine
 
 Finally, do a quick read-through for copy edits. This is when you make sure character names don’t change, that everyone’s appearances stay consistent, and that your sentences are the best you can make them. We recommend reading your book out loud for this pass—if you stumble over anything, it might need rewording! 
 
+!["When editing, tackle plot structure first. This ensures you're not going to have to rewrite something multiple times."](PlotStructure.png?cropResize=350,350)
+!["Remember that every relationship has its ups and downs. If two characters are always on good terms, something should be brewing under the surface."](relationshiptension.png?cropResize=350,350)
+!["Every scene in your book needs to further either the plot or character development. If it doesn't do either, nix it!"](FurtherPlot.png?cropResize=350,350)
+!["Now that structure, characters, and scenes are fixed, focus on the details. Make sure your character's eye color doesn't change halfway through, or that a side character's name doesn't randomly switch."](DetailPass.png?cropResize=350,350)
+
 We hope this helped offer a suggestion on how to apply beta feedback. Remember, there is no “correct” way to edit your novel, so you may have to experiment to find out what works best for you! No matter what, your novel will improve, and over time you’ll discover what works best. 
 
-Feedback is tough to hear sometimes, so please don’t forget to take a moment for writerly self-care! May’s theme will be **Self-Care: Author Edition**, and we’ll be offering tips and tricks for disconnecting from the stress of writing! Stay tuned.
+Feedback is tough to hear sometimes, so please don’t forget to take a moment for writerly self-care! May’s theme is **Self-Care: Author Edition**, and we’ll be offering tips and tricks for disconnecting from the stress of writing! Stay tuned.
+
+Follow along on our Instagram page: [@BookLightEditorial](https://www.instagram.com/booklighteditorial?target=_blank). See you there!
