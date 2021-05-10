@@ -13,6 +13,7 @@ taxonomy:
         - 'beta feedback'
         - feedback
         - structure
+media_order: BLE_AfterFeedback.png
 ---
 
 In April, we focused on discussing how to recover from—and move forward with—beta feedback! First, eat some chocolate and take a day to recuperate; it’s tough finding out what’s wrong with your precious novel. We understand. (Take a look at May’s theme, Self-Care: Author Edition!)
