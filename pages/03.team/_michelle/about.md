@@ -7,12 +7,11 @@ editor_name: 'Michelle Welch'
 editor_title: Copyeditor
 title: Michelle
 media_order: ''
-sitemap:
-    changefreq: ''
-    priority: ''
+sitemap: {  }
 genre_images: false
 content:
     items: '@self.modular'
+published: false
 ---
 
 <span class="first-character">M</span>ichelle has worked as a professional copyeditor and proofreader for more than 9 years. Frequently referred to by colleagues as “diligent” and “meticulous,” she will leave no stone unturned in your manuscript. 
