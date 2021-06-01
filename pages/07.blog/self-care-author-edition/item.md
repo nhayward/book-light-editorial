@@ -1,5 +1,16 @@
 ---
 title: 'Self-Care: Author Edition'
+metadata:
+    description: 'The editors at Book Light Editorial discuss how to take care of yourself while writing and how to refill your creative well.'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - publishing
+        - writing
+        - editing
+        - self-care
+        - positivity
 media_order: 'SelfCare.png,BLE_WatchaMovie.png,BLE_FindACommunity.png,BLE_WritingBreaks.png,BLE_PositivityPass.png'
 ---
 
