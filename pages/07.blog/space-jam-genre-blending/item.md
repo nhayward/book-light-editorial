@@ -1,5 +1,18 @@
 ---
 title: 'Space Jam - Genre Blending'
+metadata:
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss genre blending as seen in the movie, Space Jam.'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - publishing
+        - writing
+        - editing
+        - storytelling
+        - movies
+        - 'genre blending'
+        - genre
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/19223048/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
