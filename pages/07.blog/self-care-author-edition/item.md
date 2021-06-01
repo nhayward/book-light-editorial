@@ -30,5 +30,4 @@ No matter what you do to, please remember to give yourself grace. This business 
 
 That love will still be there, no matter what. 
 
-Stay tuned for June’s theme: Settings!
-
+Stay tuned for June’s theme: **Settings!**
