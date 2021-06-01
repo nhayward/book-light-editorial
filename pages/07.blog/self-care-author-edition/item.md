@@ -1,5 +1,6 @@
 ---
 title: 'Self-Care: Author Edition'
+media_order: 'SelfCare.png,BLE_WatchaMovie.png,BLE_FindACommunity.png,BLE_WritingBreaks.png,BLE_PositivityPass.png'
 ---
 
 Back again—let’s summarize our theme for the month of May! This month, we tackled self-care for authors, and divulged tips for staying engaged in your writing and inspired in your craft even when you’re away from your desk! 
@@ -18,10 +19,16 @@ Of course, regardless of how long the break is, we offered a few tips for stayin
 * **Have a cup of tea, or light your favorite candle.** These little options of self-care can center you in a world of chaos. 
 * **Ask betas for a positivity pass.** Your betas might be willing to read your book and offer only positive feedback to inspire you to continue! Ask them about it!
 
-Check out our Instagram and Twitter to see more tips on self-care for authors!
+Check out our Instagram ([@BookLightEditorial](https://www.instagram.com/booklighteditorial?target=_blank)) and Twitter [@FromCarly](https://twitter.com/FromCarly?target=_blank) to see more tips on self-care for authors!
+
+!["Never, ever forget that it’s valid to take writing breaks—be that for a few hours, days, months, or even years. Your characters will still be waiting when you’re ready to return!"](BLE_WritingBreaks.png?cropResize=350,350)
+!["Writing is inherently a lonely process. Joining an online community of writers can offer a collaborative feel that only helps your creativity and motivation!"](BLE_FindACommunity.png?cropResize=350,350)
+!["Watching a movie in your genre can help keep you inspired, even when you’re not up to writing."](BLE_WatchaMovie.png?cropResize=350,350)
+!["Beta readers aren’t just for feedback; they’re also for encouragement! Ask your beta for a positivity pass to find out what’s working in your novel."](BLE_PositivityPass.png?cropResize=350,350)
 
 No matter what you do to, please remember to give yourself grace. This business is deeply personal, yet thrives on rejection. If you feel yourself getting fatigued, frustrated, or depressed, please step back and remember why you started in the first place. For most of us, it’s not to get published—it’s because we deeply love this craft. 
 
 That love will still be there, no matter what. 
 
 Stay tuned for June’s theme: Settings!
+
