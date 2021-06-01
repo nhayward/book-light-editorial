@@ -6,7 +6,7 @@ Back again—let’s summarize our theme for the month of May! This month, we ta
 
 Breaks are so, so important, and a forgiving attitude towards your own mental state is an absolute necessity in this cutthroat business of rejection and reviews. A lot of authors seem to think they’re required to spend all their free time writing. If they don’t churn out at least one book a year, sometimes more, it’s as good as “failing.” 
 
-Let us be clear: breaks are necessary and okay. 
+Let us be clear: breaks are _necessary_ and _okay_. 
 
 Every author takes a hiatus from writing at some point in their career. Real life is messy, and sometimes needs our full attention. The lovely thing about this passion of writing is that it will wait for you. You don’t become a terrible author just because you pause in practicing your craft. 
 
