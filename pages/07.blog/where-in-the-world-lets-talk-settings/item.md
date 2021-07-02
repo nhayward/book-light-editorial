@@ -30,6 +30,6 @@ Setting is arguably one of the most important avenues of writing—a truly rich 
 !["Your setting can be its own character. By giving a forest the malicious feel of a villain, or infusing magic in that dusty old castle, you can force your character to adapt to something they can’t fight."](BLE_SettingAsCharacter.png?cropResize=350,350)
 !["A culture’s history can also have altered the landscape in your novel. If there was a war, there’d be battle scars left behind. Show us as your main character traverses their world!"](BLE_history.png?cropResize=350,350)
 
-We shared more tips on setting over the course of June, so check them out on Twitter or Instagram! 
+We shared more tips on setting over the course of June, so check them out on Twitter [(@FromCarly)](https://twitter.com/FromCarly?target=_blank)  or Instagram [(@BookLightEditorial)](https://www.instagram.com/booklighteditorial?target=_blank)! 
 
 Next month’s theme is **Diving Deep with Characters**. Tune into Instagram and Twitter for helpful tips on writing characters that feel real. See you in July!
