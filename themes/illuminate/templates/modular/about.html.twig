@@ -2,9 +2,11 @@
 	<div class="columns">
 		<div class="about-left column col-4 col-md-12">
 			<img class="profile" src="{{ url('theme://images/profile') }}/{{ page.header.profile_image.src }}" alt="{{ page.header.profile_image.alt_text }}">
-			<a class="twitter-timeline" data-height="400" data-link-color="#487A94" href="https://twitter.com/{{ page.header.twitter_handle }}">Tweets by
-				{{ page.header.twitter_handle }}</a>
-			<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+            {% if page.header.twitter_handle %}
+                <a class="twitter-timeline" data-height="400" data-link-color="#487A94" href="https://twitter.com/{{ page.header.twitter_handle }}">Tweets by
+                    {{ page.header.twitter_handle }}</a>
+                <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+            {% endif %}
 		</div>
 		<div class="about-right column col-md-12">
       <h2>{{ page.header.editor_name }}</h2>
