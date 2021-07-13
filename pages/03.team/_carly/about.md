@@ -19,7 +19,7 @@ Pronouns: She/Her
 
 !!!!! **Specialties:**
 !!!!!   
-!!!!! Carly specializes in adult, young adult, and middle grade age categories. She particularly focuses on fantasy, science fiction, romance, erotica, historical, and mystery genres. She is open to other genres on an individual basis.
+!!!!! Carly specializes in adult, young adult, and middle grade age categories. She particularly focuses on fantasy, science fiction, romance (all heat levels), historical, and mystery genres. She is open to other genres on an individual basis.
 
 [![EFA](EFA_logomem_85.png){.org}](http://www.the-efa.org/?target=_blank)
 [![CWIP](CWIPlogo.png){.org}](http://www.cwip.org/members/carlybornstein/profile/?target=_blank)
