@@ -16,3 +16,5 @@ Pronouns: She/Her
 !!!!! **Specialties:**
 !!!!! 
 !!!!! Jessica edits adult, YA, and middle grade fiction. She particularly welcomes science fiction and fantasy, romance (all heat levels), and historical fiction. She does not edit non-fiction but is open to other fiction genres. 
+
+[![EFA](EFA_logomem_85.png){.org}](http://www.the-efa.org/?target=_blank)
