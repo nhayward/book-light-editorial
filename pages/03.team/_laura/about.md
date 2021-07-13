@@ -2,7 +2,6 @@
 profile_image:
     src: Book_Light_Editorial_Laura_Dennison.jpg
     alt_text: 'Laura Dennison'
-twitter_handle: LEDennison
 editor_name: 'Laura Dennison'
 editor_title: Copyeditor
 title: Laura
