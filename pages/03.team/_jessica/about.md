@@ -3,6 +3,8 @@ title: Jessica
 body_classes: modular
 editor_name: 'Jessica Nelson'
 editor_title: Copyeditor
+profile_image:
+    src: Book_Light_Editoria_Jessica_Nelson.jpg
 ---
 
 <span class="first-character">J</span>essica has been a professional editor for 7 years, working with both traditionally published and indie authors.  She loves the cadence and texture of the written word, and she will help you smooth away embarrassing errors that can derail a scene. 
