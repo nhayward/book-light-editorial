@@ -19,7 +19,7 @@ content:
         custom:
             - _carly
             - _laura
-            - _michelle
+            - _jessica
             - _slider
             - _cta
 genre_images: true
