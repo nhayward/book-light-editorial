@@ -1,5 +1,17 @@
 ---
 title: 'The Mummy - Prologues'
+metadata:
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss prologues as seen in the movie, The Mummy.'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - publishing
+        - writing
+        - editing
+        - storytelling
+        - movies
+        - prologues
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/19702331/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
