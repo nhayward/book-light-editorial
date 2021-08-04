@@ -2,7 +2,7 @@
 title: 'A Few Commonly Confused Words'
 ---
 
-By Jessica Nelson
+#### [By Jessica Nelson](http://booklighteditorial.com/team#jessica)
 
 I adore a good “commonly confused words” list. Even if I know the answers, I like reading other people’s explanations or seeing which ones make the “greatest hits” like perennial favorites affect/effect and lay/lie/laid.  Below, you’ll find some of the mistakes I see often in the editing trenches but don’t always see on other lists. 
 
@@ -17,6 +17,8 @@ A homophone (words that sound the same but have different spelling and meaning) 
 #### Mantel/mantle
 
 Another homophone, and another one I see frequently. In the end, dictionaries follow usage. If a mistake persists, the dictionary simply changes. This mix up occurs so often that in another decade or two, we may not have to worry about making a distinction. However, for now, a mantel is the shelf over a fireplace, and mantle is a cloak or a general word for covering. Photos on the **mantel**; but mountains wearing a **mantle** of fog. 
+
+!["A Few Commonly Confused Words"](Commonly_Confused_Words.png){.float-left}
 
 #### Rise/raise (rose/raised)
 
