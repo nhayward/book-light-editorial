@@ -8,7 +8,7 @@ I adore a good “commonly confused words” list. Even if I know the answers, I
 
 #### Shined/shone
 
-Both of these are past tense of shine—but the word you choose depends on whether someone is applying shine (I **shined** my shoes) or glowing (A lantern **shone** in the distance). The reason this one’s so confusing is that shine can be either transitive (action is _trans_ ferred to the direct object—shoes in this case) or intransitive (no direct object). 
+Both of these are past tense of shine—but the word you choose depends on whether someone is applying shine (I **shined** my shoes) or glowing (A lantern **shone** in the distance). The reason this one’s so confusing is that shine can be either transitive (action is <i>trans</i>ferred to the direct object—shoes in this case) or intransitive (no direct object). 
 
 #### Discreet/discrete
 
