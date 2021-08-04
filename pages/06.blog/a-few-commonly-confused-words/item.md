@@ -1,6 +1,19 @@
 ---
 title: 'A Few Commonly Confused Words'
+metadata:
+    description: 'Copyeditor, Jessica Nelson, discusses commonly confused words and the correct usage. It can be easy to mix these words up, but this handy guide will help you use the right word.'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - publishing
+        - writing
+        - editing
+        - grammar
+        - copyediting
 ---
+
+!["A Few Commonly Confused Words"](Commonly_Confused_Words.png)
 
 #### [By Jessica Nelson](http://booklighteditorial.com/team#jessica)
 
@@ -17,8 +30,6 @@ A homophone (words that sound the same but have different spelling and meaning) 
 #### Mantel/mantle
 
 Another homophone, and another one I see frequently. In the end, dictionaries follow usage. If a mistake persists, the dictionary simply changes. This mix up occurs so often that in another decade or two, we may not have to worry about making a distinction. However, for now, a mantel is the shelf over a fireplace, and mantle is a cloak or a general word for covering. Photos on the **mantel**; but mountains wearing a **mantle** of fog. 
-
-!["A Few Commonly Confused Words"](Commonly_Confused_Words.png){.float-left}
 
 #### Rise/raise (rose/raised)
 
