@@ -36,7 +36,7 @@ Developmental editing is comprehensive. You can expect your manuscript to be ret
 
 If you’re looking to hire a copyeditor, wait until you’re completely confident with the content of your draft, since any major rewrites would require another round of copyediting. That’s because copyeditors scour manuscripts for any issues related to spelling, grammar, usage, style, and consistency. These changes, which are mostly objective in nature, are standard to any copyedit and sometimes referred to as a **light copyedit**. A **heavy copyedit**, on the other hand, wades into more subjective waters, and includes a check on any awkward sentences, repetitive phrasing, or wordy paragraphs.
 
-![](book_light_editorial_editorquote_Laura.jpg){.float-left}
+!["The best editors are invisible. They work behind the scenes, not for you, but with you."](book_light_editorial_editorquote_Laura.jpg){.float-left}
 
 As a copyeditor, I’m obligated to plead my cause here: We’re much more than warm-blooded spellcheckers. Yes, computers can point out errors our humanoid eyes tend to easily gloss over, but they’re prone to their own careless mistakes. Did Jen _definitely_ stare into the solar eclipse, or did she _defiantly_ stare into it? Is Leo studying public healthcare at college in the fall, or something a little more . . . specific? Simply running the spelling and grammar check on your Word processor is just a start. 
 
