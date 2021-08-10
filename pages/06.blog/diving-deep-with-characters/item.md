@@ -1,5 +1,6 @@
 ---
 title: 'Diving Deep with Characters'
+media_order: 'DivingDeepWithCharacters.png,BLE_Goals.png,BLE_CharacterHistory.png,BLE_flaws.png,BLE_Relationships.png'
 ---
 
 Hey, everyone! In July, our topic was “Diving Deep with Characters!” This was such a fun topic to delve into, since characters are the life of your story. They are who your readers connect with, what makes readers keep turning the pages, they are the backbone of your story. Without interesting characters, you lose your reader even before you start, so let’s delve into the tips we discussed in July!
@@ -12,3 +13,7 @@ One of the most important things to note about character creation is that every 
  
 Finally, pay attention to how your character is created. Use personality tests and birth order to determine base traits, and add bulk through traumatic events, happy moments, and everything in between. Avoid tropes and stereotypes. Give them one big flaw to solve. Then watch them soar off the page!
 
+![Every character wants something; your MC isn’t the only one with a goal or desire. Create more realistic characters by giving them all something to pursue—even if it’s just selling that final fish at the market.](BLE_Goals.png)
+![Don’t forget to give your character a history. Stories of how they got their scars, or why their favorite color is green, can really make them feel real.](BLE_CharacterHistory.png)
+![The most important part of character development, of course, is giving them a flaw to overcome. Use that flaw as condition of every failure, and your MC will learn that through pain, they can grow.](BLE_flaws.png)
+![Pay attention to your characters’ relationships. You can imply a longstanding friendship with one inside joke. Speckle these moments into your dialogue to hint at more happening with your characters behind the scenes.](BLE_Relationships.png)
