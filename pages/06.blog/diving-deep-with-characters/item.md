@@ -1,5 +1,15 @@
 ---
 title: 'Diving Deep with Characters'
+metadata:
+    description: 'The editors at Book Light Editorial discuss how to dive deeper with your characters.'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - publishing
+        - writing
+        - editing
+        - character
 media_order: 'DivingDeepWithCharacters.png,BLE_Goals.png,BLE_CharacterHistory.png,BLE_flaws.png,BLE_Relationships.png'
 ---
 
