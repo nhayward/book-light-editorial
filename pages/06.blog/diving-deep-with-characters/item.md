@@ -13,7 +13,7 @@ taxonomy:
 media_order: 'DivingDeepWithCharacters.png,BLE_Goals.png,BLE_CharacterHistory.png,BLE_flaws.png,BLE_Relationships.png'
 ---
 
-Hey, everyone! In July, our topic was “Diving Deep with Characters!” This was such a fun topic to delve into, since characters are the life of your story. They are who your readers connect with, what makes readers keep turning the pages, they are the backbone of your story. Without interesting characters, you lose your reader even before you start, so let’s delve into the tips we discussed in July!
+Hey, everyone! In July, our topic was **“Diving Deep with Characters!”** This was such a fun topic to delve into, since characters are the life of your story. They are who your readers connect with, what makes readers keep turning the pages, they are the backbone of your story. Without interesting characters, you lose your reader even before you start, so let’s delve into the tips we discussed in July!
 
 Writing is all about creating awesome characters, people that feel real and leave a big imprint on your readers. In the age-old argument between what’s more important, plot or character, characters almost always win. That’s because the best plot won’t even start until your character rises to the challenge. Readers need someone to root for. So let’s talk characters!
  
