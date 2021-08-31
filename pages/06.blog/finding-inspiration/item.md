@@ -1,5 +1,6 @@
 ---
 title: 'Finding Inspiration'
+media_order: 'FindingInspiration.png,BLE - August Writing Tip #3.png,BLE-August Writing Tip #4.png'
 ---
 
 Hey there writers! Thanks for joining us for the recap of this month’s writing tips. August was all about finding inspiration. It might be that you’ve tapped your well and find yourself stuck or you’ve finished one project and don’t know what to do next—either way it can be tricky to get inspired.
@@ -15,8 +16,11 @@ Now, let’s break it down to some tips we hope will help:
 * **Read (huge surprise, right?)**. Yup, reading can help with fueling your inspiration too. Read a favorite book, or a book in your genre you’ve heard some amazing things about. Or, dare we say it, a book that’s the exact “opposite” of your genre. Read different age categories too. See how similar situations are approached differently because of those age categories. Overall, what do you notice? What can you learn from what you’ve read and how can you use it in your own craft? Take a favorite (or least favorite!) character and imagine a story around them.
 * **Rest**. Everyone has times where they need to breathe. Where they need to rest to recharge. Some people’s recharge rates are faster, some slower, regardless of where you land in that know that it’s ok. You aren’t a failed writer if you need to rest, nor a bad one, simply an exhausted one. And there’s nothing wrong with that or with you. 
 
-Thanks for stopping by and reading our tips for finding inspiration. We hope they were helpful. Take care and write on!
+!['Watch movies! Create your own plot threads. Ask some what ifs and follow them."](BLE%20-%20August%20Writing%20Tip%20#3.png?cropResize=350,350)
+![Check out a random prompt generator and write. Set a timer and don't stop until it goes off. It doesn't matter if what you've ritten is all over the place. What matters is that you wrote!](BLE-August%20Writing%20Tip%20#4.png?cropResize=350,350)
 
-We shared more tips on characters over the course of August so check them out on Twitter (@FromCarly) or Instagram (@BookLightEditorial)!
+Thanks for stopping by and reading our tips for finding inspiration. Take care and write on!
 
-Next month’s theme is Finding Your Routine. Tune into Instagram and Twitter for helpful tips on writing characters that feel real. See you in September!
+We shared more tips on characters over the course of August so check them out on Twitter [(@FromCarly)](https://twitter.com/FromCarly?target=_blank)  or Instagram [(@BookLightEditorial)](https://www.instagram.com/booklighteditorial?target=_blank)! 
+
+Next month’s theme is **Finding Your Routine**. Tune into Instagram and Twitter for helpful tips on writing characters that feel real. See you in September!
