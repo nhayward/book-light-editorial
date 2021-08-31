@@ -1,5 +1,17 @@
 ---
 title: 'Eternal Sunshine of the Spotless Mind - Unreliable Narrators'
+metadata:
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss unreliable narrators as seen in the movie, Eternal Sunshine of the Spotless Mind.'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - publishing
+        - writing
+        - editing
+        - storytelling
+        - movies
+        - 'unreliable narrators'
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/20014031/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
