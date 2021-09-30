@@ -1,6 +1,8 @@
 ---
 title: 'Creating Your Writing Routine'
 media_order: WritingRoutine.png
+date: '30-09-2021 16:59'
+publish_date: '30-09-2021 16:59'
 ---
 
 !["Creating Your Writing Routine"](WritingRoutine.png)
