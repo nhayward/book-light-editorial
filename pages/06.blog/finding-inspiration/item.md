@@ -1,6 +1,8 @@
 ---
 title: 'Finding Inspiration'
 media_order: 'FindingInspiration.png,BLE_AugustWritingTip3.png,BLE_AugustWritingTip4.png'
+date: '31-08-2021 16:57'
+publish_date: '31-08-2021 16:57'
 ---
 
 !["Finding Inspiration"](FindingInspiration.png)
