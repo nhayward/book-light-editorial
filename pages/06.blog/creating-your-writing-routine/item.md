@@ -1,5 +1,6 @@
 ---
 title: 'Creating Your Writing Routine'
+media_order: WritingRoutine.png
 ---
 
 Welcome writers! Whether you come here all the time or you’re new, we’re glad you stopped by. September’s topic was all about “Creating Your Writing Routine.” September often means a time of return—whether it’s kids returning to school or fall is on its way for us Northern Hemisphere folks—and many people's routines change after summer. That's no different for writers. But getting into a routine can be a challenge, especially if you don't know where to start. Here are some tips and suggestions we hope you’ll find helpful:
