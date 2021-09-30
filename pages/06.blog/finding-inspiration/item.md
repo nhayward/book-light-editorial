@@ -3,6 +3,8 @@ title: 'Finding Inspiration'
 media_order: 'FindingInspiration.png,BLE_AugustWritingTip3.png,BLE_AugustWritingTip4.png'
 ---
 
+!["Finding Inspiration"](FindingInspiration.png)
+
 Hey there writers! Thanks for joining us for the recap of this month’s writing tips. August was all about finding inspiration. It might be that you’ve tapped your well and find yourself stuck or you’ve finished one project and don’t know what to do next—either way it can be tricky to get inspired.
 
 Now, let’s break it down to some tips we hope will help:
