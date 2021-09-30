@@ -3,6 +3,8 @@ title: 'Creating Your Writing Routine'
 media_order: WritingRoutine.png
 ---
 
+!["Creating Your Writing Routine"](WritingRoutine.png)
+
 Welcome writers! Whether you come here all the time or you’re new, we’re glad you stopped by. September’s topic was all about “Creating Your Writing Routine.” September often means a time of return—whether it’s kids returning to school or fall is on its way for us Northern Hemisphere folks—and many people's routines change after summer. That's no different for writers. But getting into a routine can be a challenge, especially if you don't know where to start. Here are some tips and suggestions we hope you’ll find helpful:
 * **Discover what time of day you are most creative**. Are those creative juices flowing best right after you wake up in the morning? Or are you an evening person? A total night owl after everyone is in bed? If you aren’t sure, try out different times and see if there’s one that’s best. Once you know, own your creative time and use that to your advantage.
 * **Be intentional with your writing space**. As silly as this is going to sound, but do something intentional when you sit down to write. Light a specific candle. Wear a hat you only wear while writing. Have an “only when writing” coffee cup. If you’re someone who needs to get some movement in before you can write, have a specific walking path you take before you dive in. All of those can aid in framing your mind that it's time to write.
