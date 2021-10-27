@@ -1,6 +1,15 @@
 ---
 title: 'The Myth of the Heroic, Lonely Author'
 media_order: TheMythoftheHeroicLonelyAuthor.png
+metadata:
+    description: 'Copyeditor, Jessica Nelson, discusses the myth of the writer as an island. The truth is, writing takes a village.'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - publishing
+        - writing
+        - editing
 ---
 
 !["The Myth of the Heroic, Lonely Author"](TheMythoftheHeroicLonelyAuthor.png)
