@@ -34,3 +34,7 @@ Okay! Onto ways that you can fold relationships into your story:
 **Alright, let’s talk wounds, and how negative relationships can lead to said wounds. Often characters have some kind of wound they’re working toward overcoming (whether or not they succeed is for a different month’s tips!)**. Examples of relationship-specific wounds include neglect or abuse in childhood by family, divorce, extramarital affairs, toxic relationships, and such forth—many of these lead to false beliefs about oneself (i.e. “I am unlovable” or “I am a bad person because…”), mistrust in others that may extend to the belief that people are only out there to use you, or even an eager need to please others for acceptance. 
 
 **Just as there can be negative relationships, there are also positive relationships**. Positive relationships can help foster resilience in your character because they will have someone to lean on. They can also challenge your MC (in a good way) around their false beliefs about themselves. Many stories of character growth and change have a positive person who lifts the MC up or who is always there to go to bat for the MC.
+
+Last month we shared tips on Spooky Atmospheres and Moods. Please check them out on Twitter [(@FromCarly)](https://twitter.com/FromCarly?target=_blank)  or Instagram [(@BookLightEditorial)](https://www.instagram.com/booklighteditorial?target=_blank)! 
+
+Next month’s theme is **Pros and Cons of Points of View (POV)**. Tune into Instagram and Twitter. See you in December!
