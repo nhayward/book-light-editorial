@@ -4,6 +4,16 @@ media_order: WritingRoutine.png
 date: '30-09-2021 16:59'
 publish_date: '30-09-2021 16:59'
 published: true
+metadata:
+    description: 'How to create a writing routine that works for you.'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - publishing
+        - writing
+        - editing
+        - routine
 ---
 
 !["Creating Your Writing Routine"](WritingRoutine.png)
