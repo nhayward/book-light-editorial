@@ -1,5 +1,9 @@
 ---
 title: 'Spooky Atmospheres and Moods'
+date: '11-11-2021 13:56'
+publish_date: '11-11-2021 13:55'
+metadata:
+    'Spooky Atmosphere, writing, vibes, horror, spooky books': ''
 ---
 
 !["Spooky Atmospheres and Moods"](SpookyAtmosphere.png)
