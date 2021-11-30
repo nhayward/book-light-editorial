@@ -2,6 +2,8 @@
 title: 'Spooky Atmospheres and Moods'
 ---
 
+!["Spooky Atmospheres and Moods"](SpookyAtmosphere.png)
+
 The spooky season is upon us, so what better time to talk about ways to spookify your writing? October’s theme is all about how to **create spooky atmospheres and moods**. 
 
 When trying to layer your world with creepiness, **vocabulary choices matter**! They help to set the tone (i.e. words like tip-toe, slink, and rattle vs. stroll, skip, and chime). Consider making yourself a list of words to fit your spooky mood. 
