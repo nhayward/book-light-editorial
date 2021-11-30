@@ -21,3 +21,7 @@ Pacing is an effective tool for putting your reader on edge. To do so, you need 
 **Consider what your theme is.** Many horror or creepier novels have themes that revolve around death, the afterlife, monsters, demons, the unknown, or evil spirits and spooks. Lives or souls or even the main character’s humanity are what’s at stake within these themes.
 
 Finally, think about **what people are afraid of**. Spiders, the dark, a fire, claustrophobia and being trapped—inject some of that into your story! Prey upon your reader’s fears. It’ll be a perfect addition to establishing your mood.
+
+Last month we shared tips on Creating Your Writing Routine. Please check them out on Twitter [(@FromCarly)](https://twitter.com/FromCarly?target=_blank)  or Instagram [(@BookLightEditorial)](https://www.instagram.com/booklighteditorial?target=_blank)! 
+
+Next month’s theme is **A Deep Dive into Relationships**. Tune into Instagram and Twitter for helpful tips. See you in November!
