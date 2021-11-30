@@ -11,6 +11,8 @@ taxonomy:
         - relationships
 ---
 
+!["Deep Dive into Relationships"](Relationships.png)
+
 November’s theme was a **deep dive into relationships**. Read on for tips around the relationships between your characters and questions to consider when both building their backstory and the story that’s unfolding. Before diving in any further, we’d like to put in a content warning that abuse and neglect are briefly discussed below. 
 
 **Relationships fill your main character’s (MC) life and that impacts how your character interacts with the world around them—both those on the page and off**. They can be positive or negative influences on your character. 
