@@ -3,7 +3,16 @@ title: 'Spooky Atmospheres and Moods'
 date: '11-11-2021 13:56'
 publish_date: '11-11-2021 13:55'
 metadata:
-    'Spooky Atmosphere, writing, vibes, horror, spooky books': ''
+    description: 'Utilizing spooky atmospheres and vibes in your writing to up the tension.'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - publishing
+        - writing
+        - editing
+        - atmosphere
+        - vibes
 ---
 
 !["Spooky Atmospheres and Moods"](SpookyAtmosphere.png)
