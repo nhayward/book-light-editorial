@@ -2,7 +2,9 @@
 title: 'Pros and Cons of Points of View'
 ---
 
-![Pros and Cons of Points of View](ProsAndConsOfPointsOfView%20.png "ProsAndConsOfPointsOfView%20")Thanks to our voters, December's theme was “Pros and Cons of Points of View (POV).” 
+![Pros and Cons of Points of View](ProsAndConsOfPointsOfView%20.png "Pros and Cons of Points of View")
+
+Thanks to our voters, December's theme was “Pros and Cons of Points of View (POV).” 
 
 #### First Person POV (I, me) Pros: 
 * Automatically a deeper POV because we're directly in the MC’s (Main Character’s) head.
