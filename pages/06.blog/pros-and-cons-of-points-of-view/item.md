@@ -1,5 +1,16 @@
 ---
 title: 'Pros and Cons of Points of View'
+metadata:
+    description: 'The editors at Book Light Editorial discuss the pros and cons of points of view (POV).'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - publishing
+        - writing
+        - editing
+        - POV
+        - 'points of view'
 ---
 
 ![Pros and Cons of Points of View](ProsAndConsOfPointsOfView%20.png "Pros and Cons of Points of View")
