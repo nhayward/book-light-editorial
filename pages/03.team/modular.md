@@ -29,7 +29,5 @@ preload_assets:
         path: '{{ url(''theme://images/profile/Book_Light_Editorial_Carly_Hayward.png'') }}'
     -
         path: '{{ url(''theme://images/profile/Book_Light_Editorial_Laura_Dennison.jpg'') }}'
-    -
-        path: '{{ url(''theme://images/profile/Book_Light_Editorial_MichelleWelch.jpg'') }}'
 ---
 
