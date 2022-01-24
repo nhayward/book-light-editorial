@@ -4,7 +4,7 @@ body_classes: modular
 editor_name: 'Melissa Bergum'
 editor_title: 'Social Media Assistant'
 profile_image:
-    src: Book_Light_Editoria_Jessica_Nelson.jpg
+    src: Book_Light_Editorial_Melissa_Bergum.jpg
     alt_text: 'Melissa Bergum'
 published: true
 ---
