@@ -1,6 +1,5 @@
 ---
 title: Melissa
-body_classes: modular
 editor_name: 'Melissa Bergum'
 editor_title: 'Social Media Assistant'
 profile_image:
