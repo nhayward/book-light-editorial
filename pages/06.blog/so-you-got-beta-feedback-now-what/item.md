@@ -10,10 +10,12 @@ taxonomy:
         - writing
         - editing
         - 'character development'
-        - 'beta feedback'
         - feedback
+        - 'beta feedback'
         - structure
 media_order: BLE_AfterFeedback.png
+date: '10-05-2021 18:16'
+publish_date: '10-05-2021 18:16'
 ---
 
 In April, we focused on discussing how to recover from—and move forward with—beta feedback! First, eat some chocolate and take a day to recuperate; it’s tough finding out what’s wrong with your precious novel. We understand. (Take a look at May’s theme, Self-Care: Author Edition!)
