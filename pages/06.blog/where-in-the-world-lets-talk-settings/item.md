@@ -12,6 +12,8 @@ taxonomy:
         - worldbuilding
         - settings
 media_order: 'Settings.png,BLE_interactDaily.png,BLE_SettingAsCharacter.png,BLE_history.png,BLE_Genre.png'
+date: '06-07-2021 18:10'
+publish_date: '06-07-2021 18:10'
 ---
 
 Hey, everyone! In June, our topic was “Where in the World: Let’s Talk Settings!” This was such a fun topic to delve into, since there are so many facets of worldbuilding that make your settings come to life. Everything from weather to political climate should be considered when describing your physical locations. Crafting a great one takes a lot of finesse, so let’s delve into the tips we discussed in June!
