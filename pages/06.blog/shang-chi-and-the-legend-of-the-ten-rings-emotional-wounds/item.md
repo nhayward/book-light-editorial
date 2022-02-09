@@ -12,6 +12,8 @@ taxonomy:
         - storytelling
         - movies
         - 'emotional wounds'
+date: '13-12-2021 18:00'
+publish_date: '13-12-2021 18:00'
 ---
 
 <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/21398366/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
