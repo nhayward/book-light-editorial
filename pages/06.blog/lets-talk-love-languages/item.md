@@ -12,6 +12,8 @@ taxonomy:
         - 'character development'
         - 'love languages'
 media_order: 'LoveLanguages.png,LoveLanguages2.png,LoveLanguages5.png,LoveLanguages3.png,LoveLanguages8.png,LoveLanguages6.png,LoveLanguages7.png,BLE_LoveLanguages.png,BLE_LoveLanguages2.png'
+date: '02-03-2021 18:11'
+publish_date: '02-03-2021 18:11'
 ---
 
 February’s theme was LOVE LANGUAGES, and whew, we had a lot of fun with this one! We hit so many points, but we’re excited to summarize. 
