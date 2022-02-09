@@ -12,6 +12,8 @@ taxonomy:
         - storytelling
         - movies
         - tropes
+date: '10-08-2020 18:03'
+publish_date: '10-08-2020 18:03'
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/15374765/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
