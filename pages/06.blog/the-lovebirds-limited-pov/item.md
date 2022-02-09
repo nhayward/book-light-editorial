@@ -12,6 +12,8 @@ taxonomy:
         - storytelling
         - movies
         - 'limited pov'
+date: '04-09-2020 17:57'
+publish_date: '04-09-2020 17:57'
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/15740384/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
