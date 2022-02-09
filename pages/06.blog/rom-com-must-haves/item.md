@@ -7,7 +7,7 @@ media_order: RomComMustHaves.png
 
 !["Rom-Com Must-Haves"](RomComMustHaves.png "RomComMustHaves")
 
-##### The New Year’s been all rung in and we started it with a new theme! Our wonderful voters picked Rom-Com Must-Haves (and some Maybe-Haves). Keep reading for our recap!
+#### The New Year’s been all rung in and we started it with a new theme! Our wonderful voters picked Rom-Com Must-Haves (and some Maybe-Haves). Keep reading for our recap!
 
 Who are the protagonist(s) and love interest(s) we’re rooting for? Establish this early on too. **Don’t forget to give us the why around their need to find love**—bad break up? Pushy parental expectations? Loneliness? Whatever it is, let us know.
 
