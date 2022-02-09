@@ -10,6 +10,8 @@ taxonomy:
         - publishing
         - writing
         - editing
+date: '25-10-2021 18:18'
+publish_date: '25-10-2021 18:18'
 ---
 
 !["The Myth of the Heroic, Lonely Author"](TheMythoftheHeroicLonelyAuthor.png)
