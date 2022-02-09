@@ -12,6 +12,8 @@ taxonomy:
         - storytelling
         - movies
         - endings
+date: '09-11-2020 17:59'
+publish_date: '09-11-2020 17:59'
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/16621670/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
