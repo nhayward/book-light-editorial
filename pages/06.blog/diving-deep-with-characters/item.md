@@ -11,6 +11,8 @@ taxonomy:
         - editing
         - character
 media_order: 'DivingDeepWithCharacters.png,BLE_Goals.png,BLE_CharacterHistory.png,BLE_flaws.png,BLE_Relationships.png'
+date: '10-08-2021 18:10'
+publish_date: '10-08-2021 18:10'
 ---
 
 Hey, everyone! In July, our topic was **“Diving Deep with Characters!”** This was such a fun topic to delve into, since characters are the life of your story. They are who your readers connect with, what makes readers keep turning the pages, they are the backbone of your story. Without interesting characters, you lose your reader even before you start, so let’s delve into the tips we discussed in July!
