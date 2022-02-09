@@ -11,6 +11,8 @@ taxonomy:
         - editing
         - POV
         - 'points of view'
+date: '11-01-2022 18:05'
+publish_date: '11-01-2022 18:05'
 ---
 
 ![Pros and Cons of Points of View](ProsAndConsOfPointsOfView%20.png "Pros and Cons of Points of View")
