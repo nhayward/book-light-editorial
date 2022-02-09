@@ -7,7 +7,7 @@ media_order: RomComMustHaves.png
 
 !["Rom-Com Must-Haves"](RomComMustHaves.png "RomComMustHaves")
 
-#### The New Year’s been all rung in and we started it with a new theme! 
+### The New Year’s been all rung in and we started it with a new theme! 
 
 Our wonderful voters picked Rom-Com Must-Haves (and some Maybe-Haves). Keep reading for our recap!
 
