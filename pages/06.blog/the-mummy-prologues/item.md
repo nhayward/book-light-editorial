@@ -12,6 +12,8 @@ taxonomy:
         - storytelling
         - movies
         - prologues
+date: '18-07-2021 18:01'
+publish_date: '18-07-2021 18:01'
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/19702331/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
