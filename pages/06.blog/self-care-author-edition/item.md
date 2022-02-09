@@ -12,6 +12,8 @@ taxonomy:
         - self-care
         - positivity
 media_order: 'SelfCare.png,BLE_WatchaMovie.png,BLE_FindACommunity.png,BLE_WritingBreaks.png,BLE_PositivityPass.png'
+date: '01-06-2021 18:09'
+publish_date: '01-06-2021 18:09'
 ---
 
 Back again—let’s summarize our theme for the month of May! This month, we tackled self-care for authors, and divulged tips for staying engaged in your writing and inspired in your craft even when you’re away from your desk! 
