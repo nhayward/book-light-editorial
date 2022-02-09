@@ -1,6 +1,6 @@
 ---
 title: 'Knives Out - Mysteries'
-publish_date: '28-05-2020 15:07'
+publish_date: '28-06-2020 15:07'
 metadata:
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss mysteries and clues as seen in the movie, Knives Out.'
 taxonomy:
@@ -13,6 +13,7 @@ taxonomy:
         - storytelling
         - movies
         - mystery
+date: '28-06-2020 15:07'
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/14563718/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
