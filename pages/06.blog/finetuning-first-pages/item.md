@@ -13,6 +13,8 @@ taxonomy:
         - 'opening pages'
         - 'first pages'
 media_order: FirstPages.png
+date: '30-03-2021 18:13'
+publish_date: '30-03-2021 18:13'
 ---
 
 ![First Pages](FirstPages.png?cropResize=500,500){.float-left}
