@@ -4,7 +4,7 @@ date: '09-02-2022 18:19'
 publish_date: '09-02-2022 18:19'
 media_order: RomComMustHaves.png
 metadata:
-    'rom-com, writing, romance, "romance writing"': ''
+    keywords: 'rom-com, writing, romance, "romance writing"'
 ---
 
 !["Rom-Com Must-Haves"](RomComMustHaves.png "RomComMustHaves")
