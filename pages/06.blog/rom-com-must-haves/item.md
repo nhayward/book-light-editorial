@@ -5,6 +5,15 @@ publish_date: '09-02-2022 18:19'
 media_order: RomComMustHaves.png
 metadata:
     keywords: 'rom-com, writing, romance, "romance writing"'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - writing
+        - storytelling
+        - relationships
+        - romance
+        - characters
 ---
 
 !["Rom-Com Must-Haves"](RomComMustHaves.png "RomComMustHaves")
