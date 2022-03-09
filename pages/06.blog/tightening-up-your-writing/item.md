@@ -1,5 +1,7 @@
 ---
 title: 'Tightening Up Your Writing'
+date: '08-03-2022 23:18'
+publish_date: '08-03-2022 23:18'
 ---
 
 !["Tightening Up Your Writing"](TighteningUpYourWriting.png "TighteningUpYourWriting")
