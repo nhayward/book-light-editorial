@@ -3,7 +3,7 @@ title: 'Tightening Up Your Writing'
 ---
 
 !["Tightening Up Your Writing"](TighteningUpYourWriting.png "TighteningUpYourWriting")
-### Goodbye February! The month’s theme was Tightening Up Your Writing. Let’s review the tips.
+### The month’s theme was Tightening Up Your Writing. Let’s review the tips.
 
 We started off with one that many of you have likely heard: **cut those unnecessary adverbs**. Use strong verbs to replace the weak verb that’s paired with the adverbs. Sure, there may be times when an adverb is called for and that's totally ok, but use them intentionally, not all willy-nilly! 
 
