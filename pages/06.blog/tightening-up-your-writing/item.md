@@ -4,6 +4,15 @@ date: '08-03-2022 23:18'
 publish_date: '08-03-2022 23:18'
 metadata:
     keywords: 'writing, editing, self editing'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - writing
+        - editing
+        - copyediting
+        - manuscript
+        - self-editing
 ---
 
 !["Tightening Up Your Writing"](TighteningUpYourWriting.png "TighteningUpYourWriting")
