@@ -1,6 +1,9 @@
 ---
 title: 'Tropes: The Good, the Bad, and the Ugly'
+media_order: Tropes.png
 ---
+
+![Tropes: the Good, the Bad, and the Ugly](Tropes.png "Tropes")
 
 Hey there writers! March has come to an end which means it’s time for our theme of the month blog post! Throughout March we talked all about Tropes: The Good, the Bad, and the Ugly. March also brought us further into RevPit, and the month ends with an #AskEditor event! 
 
