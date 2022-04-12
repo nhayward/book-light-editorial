@@ -1,6 +1,9 @@
 ---
 title: 'Tropes: The Good, the Bad, and the Ugly'
 media_order: Tropes.png
+metadata:
+    keywords: 'writing, tropes'
+    description: 'learn how to utilize tropes in your writing and avoid harmful ones'
 ---
 
 ![Tropes: the Good, the Bad, and the Ugly](Tropes.png "Tropes")
