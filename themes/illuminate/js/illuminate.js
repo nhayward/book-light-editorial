@@ -1,9 +1,12 @@
 $(document).ready(function() {
 
-	$('.button.quick-contact').click(function() {
-		$('#service-select option').removeAttr('selected');
-		$('#service-select option[value=' + $(this).attr('data-select') +' ]').attr('selected', 'selected');
-	});
+    let hashParams = window.location.search.substring(1).split('&');
+    $.each(hashParams, function(index, param) {
+        if (param.split('=')[0] === 'form-select') {
+            $('#service-field').val(param.split('=')[1]);
+            return false;
+        }
+    });
 
 	$('#contact-form').submit(function(e) {
 		$('.phone').each(function() {

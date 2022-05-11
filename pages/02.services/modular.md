@@ -17,7 +17,6 @@ content:
         dir: asc
         custom:
             - _services
-            - _quick-form
             - _bottom-content
             - _footer-cta
 genre_images: true
