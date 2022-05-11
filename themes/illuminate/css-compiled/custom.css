@@ -76,11 +76,6 @@ html {
 html body#top {
   position: relative;
 }
-html body#top .featherlight .featherlight-content {
-  border-bottom: none;
-  border-radius: 5px;
-  padding: 15px 20px;
-}
 html body#top .hidden-link-text {
   position: absolute;
   left: -10000px;
@@ -818,10 +813,6 @@ section#header.scrolled .navbar-section ul li a {
 .modular-text {
   background-color: inherit !important;
   padding: 1rem;
-}
-
-#quick-contact + .modular-text {
-  display: none;
 }
 
 .modular-two-columns .container .columns.vertical-center {

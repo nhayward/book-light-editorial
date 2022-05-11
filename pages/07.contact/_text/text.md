@@ -25,6 +25,7 @@ We look forward to hearing from you!
 
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='/contact/thankyou';}"></iframe>
+<div id="contact" class="anchor"></div>
 <form id="contact-form" action="https://docs.google.com/forms/d/e/1FAIpQLSf4cBdr-avobkUsmoZLj_scy_YlL3V6DNnhL3JDPXJNEjLU7A/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
 	<div class="form-field">
 		<div class="form-label">
@@ -52,7 +53,7 @@ We look forward to hearing from you!
 		</div>
 		<div class="form-data">
 			<div class="form-select-wrapper">
-				<select name="entry.1325649395" required="required" aria-label="Service">
+				<select id="service-field" name="entry.1325649395" required="required" aria-label="Service">
 					<option disabled selected value="">
 						Choose the service you're looking for
 					 </option>
