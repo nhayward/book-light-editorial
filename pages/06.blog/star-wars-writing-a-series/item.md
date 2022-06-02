@@ -4,7 +4,7 @@ metadata:
     keywords: 'writing, podcast, how-to, writing a series, series, sequels'
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss writing a series as seen in the movies, Star Wars: A New Hope, and The Empire Strikes Back'
 publish_date: '10-05-2022 15:21'
-unpublish_date: '10-05-2022 15:21'
+date: '10-05-2022 15:22'
 ---
 
 <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/22921703/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
