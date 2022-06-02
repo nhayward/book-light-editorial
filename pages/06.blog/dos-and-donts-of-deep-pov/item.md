@@ -3,6 +3,8 @@ title: 'Dos and Don’ts of Deep POV'
 published: true
 date: '03-05-2022 09:23'
 publish_date: '03-05-2022 09:23'
+metadata:
+    keywords: 'Deep POV, Point-of-view, writing, how-to'
 ---
 
 ![Dos And Don'ts Of Deep POV](DosAndDontsOfDeepPOV.png "Dos And Don'ts Of Deep POV")
