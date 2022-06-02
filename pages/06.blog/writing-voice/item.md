@@ -3,6 +3,9 @@ title: 'Writing Voice'
 media_order: WritingVoice.png
 date: '02-06-2022 15:09'
 publish_date: '02-06-2022 15:09'
+metadata:
+    keywords: 'writing, editing, voice, narrative voice, writer voice, character voice, how to,'
+    description: 'learn how to write a strong voice in your writing and what the different types of voice are.'
 ---
 
 ![Writing Voice](WritingVoice.png "Writing Voice")
