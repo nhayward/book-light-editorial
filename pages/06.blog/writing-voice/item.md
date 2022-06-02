@@ -1,6 +1,9 @@
 ---
 title: 'Writing Voice'
+media_order: WritingVoice.png
 ---
+
+![Writing Voice](WritingVoice.png "Writing Voice")
 
 May has come and gone, but that doesn’t mean we didn’t have a theme! This month we shared tips on Voice. 
 
