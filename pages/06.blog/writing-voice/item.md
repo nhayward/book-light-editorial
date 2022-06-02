@@ -26,7 +26,6 @@ How do you develop voice?: Write and then write some more. It can take time, and
 
 Final thoughts: voice is subjective, not everyone will like your character’s voice, and that’s ok. It’s impossible to please everyone. 
 
-In April we shared tips on [Deep POV](https://booklighteditorial.com/blog/dos-and-donts-of-deep-pov). Please check them out on, our blog, Twitter (@FromCarly), or Instagram (@BookLightEditorial) to see what it was all about! 
+!!!!! ##### **In April we shared tips on [Deep POV](https://booklighteditorial.com/blog/dos-and-donts-of-deep-pov). Check them out on, our blog, [Twitter (@FromCarly)](https://twitter.com/FromCarly?target=_blank), or [Instagram (@BookLightEditorial)](https://www.instagram.com/booklighteditorial?target=_blank)! **
 
 Thanks for reading, writers. Keep on writing!
-
