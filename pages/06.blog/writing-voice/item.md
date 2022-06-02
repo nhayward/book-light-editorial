@@ -24,7 +24,7 @@ Effective use of voice often leaves your readers feeling like they are having a 
 
 How do you develop voice?: Write and then write some more. It can take time, and lots of words, before you get the hang of voice. Same goes for reading. The more you read, the more you’ll notice other writers’ voices. 
 
-##### Final thoughts: voice is subjective, not everyone will like your character’s voice, and that’s ok. It’s impossible to please everyone. 
+Final thought: **voice is subjective**, not everyone will like your character’s voice, and that’s ok. It’s impossible to please everyone. 
 
 !!!!! ##### **In April we shared tips on [Deep POV](https://booklighteditorial.com/blog/dos-and-donts-of-deep-pov). Check them out on, our blog, [Twitter (@FromCarly)](https://twitter.com/FromCarly?target=_blank), or [Instagram (@BookLightEditorial)](https://www.instagram.com/booklighteditorial?target=_blank)! **
 
