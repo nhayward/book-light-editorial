@@ -1,6 +1,8 @@
 ---
 title: 'Writing Voice'
 media_order: WritingVoice.png
+date: '02-06-2022 15:09'
+publish_date: '02-06-2022 15:09'
 ---
 
 ![Writing Voice](WritingVoice.png "Writing Voice")
