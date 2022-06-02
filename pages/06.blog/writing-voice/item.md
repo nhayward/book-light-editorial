@@ -28,5 +28,5 @@ Final thoughts: voice is subjective, not everyone will like your character’s v
 
 In April we shared tips on [Deep POV](https://booklighteditorial.com/blog/dos-and-donts-of-deep-pov). Please check them out on, our blog, Twitter (@FromCarly), or Instagram (@BookLightEditorial) to see what it was all about! 
 
-Thanks for reading, writers. Keep on writing.
+Thanks for reading, writers. Keep on writing!
 
