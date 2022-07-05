@@ -1,8 +1,11 @@
 ---
 title: 'Dos and Don’ts of Dialogue Tags'
+media_order: DosAndDontsOfDialogueTags.png
 ---
 
-It’s that time again—a new theme! This month we covered “Dos and Don’ts of Dialogue Tags!” This month we're keeping it simple, here is your list of do's and don'ts to keep handy whenever you're questioning what to do!
+![Dos And Don'ts Of Dialogue Tags](DosAndDontsOfDialogueTags.png "DosAndDontsOfDialogueTags")
+
+It’s that time again—a new theme! This month we covered “Dos and Don’ts of Dialogue Tags!” This month we're keeping it simple, here is your list of dos and don'ts to keep handy whenever you're questioning what to do!
 
 * **Do be sure to let us know who’s talking early on**. The character’s name or I/she/he/they said goes a long way. Ask is ok too. 
 * **Don’t tag every line of dialogue**. Yes, we need tags in the beginning, but character’s speech patterns and actions outside of dialogue should help us know who is speaking. Also use it when a new character enters the conversation. 
