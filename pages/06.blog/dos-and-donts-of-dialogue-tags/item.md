@@ -1,6 +1,10 @@
 ---
 title: 'Dos and Don’ts of Dialogue Tags'
 media_order: DosAndDontsOfDialogueTags.png
+date: '05-07-2022 14:21'
+publish_date: '05-07-2022 14:21'
+metadata:
+    keywords: 'writing, editing, self editing, dialogue, writing dialogue'
 ---
 
 ![Dos And Don'ts Of Dialogue Tags](DosAndDontsOfDialogueTags.png "DosAndDontsOfDialogueTags")
