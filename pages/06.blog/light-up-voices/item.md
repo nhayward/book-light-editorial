@@ -23,7 +23,7 @@ publish_date: '26-07-2022 13:53'
 
 ###### Originally post February 2nd, 2021. Updated July 26th, 2022 to adjust frequency of the giveaway.
 
-Enter now to receive a free Light Up Voices package, this offer is open **only** to members of marginalized communities.
+## Enter now to receive a free Light Up Voices package, this offer is open **only** to members of marginalized communities.
 
 ### Details: 
 
