@@ -20,13 +20,15 @@ date: '10-02-2021 18:32'
 
 ![Light Up Voices](LightUpVoices.png?cropResize=700,700){.center}
 
+###### Originally post February 2nd, 2021. Updated July 26th, 2022 to adjust frequency of the giveaway.
+
 Enter now to receive a free Light Up Voices package, this offer is open **only** to members of marginalized communities.
 
 ### Details: 
 
-I will randomly choose one author a month to receive the Light Up Voices package. You can apply at any time; this offer never closes!
+I will randomly choose one author every three months (four winners a year) to receive the Light Up Voices package. You can apply at any time; this offer never closes!
 
-You do not need to apply every month; your application is good for a whole year. After which, you can apply again. _(If you are chosen and have shelved the manuscript you may choose a different project or forego the evaluation and we’ll choose someone else.)_
+You do not need to apply every quarter; your application is good for a whole year. After which, you can apply again. _(If you are chosen and have shelved the manuscript you may choose a different project or forego the evaluation and we’ll choose someone else.)_
 
 If you want to be considered for this opportunity, apply now!
 
