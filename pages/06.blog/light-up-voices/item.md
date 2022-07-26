@@ -22,10 +22,12 @@ publish_date: '26-07-2022 13:53'
 ![Light Up Voices](LightUpVoices.png?cropResize=700,700){.center}
 
 ###### Originally post February 2nd, 2021. Updated July 26th, 2022 to adjust frequency of the giveaway.
+</br>
+</br>
 
-### Enter now to receive a free Light Up Voices package, this offer is open **only** to members of marginalized communities.
+Enter now to receive a free Light Up Voices package, this offer is open **only** to members of marginalized communities.
 
-#### Details: 
+### Details: 
 
 I will randomly choose one author every three months (four winners a year) to receive the Light Up Voices package. You can apply at any time; this offer never closes!
 
