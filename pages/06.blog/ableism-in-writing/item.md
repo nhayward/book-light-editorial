@@ -2,6 +2,8 @@
 title: 'Ableism in Writing'
 ---
 
+![Ableism In Writing](AbleismInWriting.png "Ableism In Writing")
+
 Let’s start with a definition. Ableism in writing is attributing an inferior status to a disabled character and it includes language used within the story (including voice from the author, narrator, and/or character) as well as use of harmful stereotypes within the story. 
 
 Writing has a host of **harmful stereotypes and tropes that need ditching**. Some examples to avoid: 
