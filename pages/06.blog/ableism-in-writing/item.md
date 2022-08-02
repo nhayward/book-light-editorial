@@ -24,12 +24,12 @@ Consider writing about disabled characters who are not only comfortable with, bu
 
 Writing inclusively not only enriches the writing world as a whole, but, more importantly, brings people who are often left out of stories into worlds they aren’t represented in. This matters for readers of all ages.
 
-#### Additional Resources: 
-
-* [Writing the Other](https://writingtheother.com/resources?target=_blank)
-* [Think Tank for Inclusion & Equity](https://www.writeinclusion.org/factsheets?target=_blank)
-* [Ableist words and terms to avoid by Autistic Hoya](https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html)
-* [The Conscious Style Guide](https://consciousstyleguide.com?target=_blank)
+!!!!! #### Additional Resources: 
+!!!!! 
+!!!!! * [Writing the Other](https://writingtheother.com/resources?target=_blank)
+!!!!! * [Think Tank for Inclusion & Equity](https://www.writeinclusion.org/factsheets?target=_blank)
+!!!!! * [Ableist words and terms to avoid by Autistic Hoya](https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html)
+!!!!! * [The Conscious Style Guide](https://consciousstyleguide.com?target=_blank)
 
 Thank you again for joining us. We hope they were enlightening and aid you in your writing more inclusively.
 
