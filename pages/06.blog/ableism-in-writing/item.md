@@ -24,7 +24,7 @@ Consider writing about disabled characters who are not only comfortable with, bu
 
 Writing inclusively not only enriches the writing world as a whole, but, more importantly, brings people who are often left out of stories into worlds they aren’t represented in. This matters for readers of all ages.
 
-##### Additional Resources: 
+#### Additional Resources: 
 
 * [Writing the Other](https://writingtheother.com/resources?target=_blank)
 * [Think Tank for Inclusion & Equity](https://www.writeinclusion.org/factsheets?target=_blank)
