@@ -1,10 +1,14 @@
 ---
 title: 'Ableism in Writing'
-date: '02-08-2022 13:49'
-publish_date: '02-08-2022 13:49'
-metadata:
-    keywords: 'writing, editing, tropes, ableism, stereotypes, books'
-    description: 'Ableism is common in books and it is up to authors to work to avoid harmful stereotypes about disabilities. This blog post discusses some of the harmful tropes and provides resources to learn more.'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - publishing
+        - writing
+        - editing
+        - 'Marginalized authors'
+        - 'marginalized voices'
 ---
 
 ![Ableism In Writing](AbleismInWriting.png "Ableism In Writing")
