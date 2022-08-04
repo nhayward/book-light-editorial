@@ -107,7 +107,7 @@ We look forward to hearing from you!
 		</div>
 		<div class="form-data">
 			<div class="form-textarea-wrapper">
-				<textarea class="input" name="entry.1663698665" placeholder="E.g. book description, genre, audience, word count, and any concerns." required="required" aria-label="Message"></textarea>
+				<textarea class="input" name="entry.1663698665" placeholder="E.g. book description, genre, audience, word count, and any concerns. Do not include any links as it will be flagged as spam. " required="required" aria-label="Message"></textarea>
 			</div>
 		</div>
 	</div>
