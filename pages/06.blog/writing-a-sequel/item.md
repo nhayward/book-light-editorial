@@ -2,6 +2,8 @@
 title: 'Writing a Sequel'
 ---
 
+![Writing A Sequel](WritingASequel.png "Writing A Sequel")
+
 Hello there writers and goodbye to August! This month our theme was “Writing a Sequel.” 
 
 First thing’s first, while a sequel is the continuation of the journey with a character or characters, it shouldn’t be a rehash of the prior book (or books). Heck, don’t even start where the last book ended. 
