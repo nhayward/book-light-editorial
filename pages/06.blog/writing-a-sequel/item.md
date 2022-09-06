@@ -1,5 +1,10 @@
 ---
 title: 'Writing a Sequel'
+date: '06-09-2022 16:30'
+publish_date: '06-09-2022 16:30'
+metadata:
+    keywords: 'writing, editing, sequel, sequels, '
+    Description: 'How do you write a sequel? Learn tips and tricks to write a successful follow-up to your first book/manuscript'
 ---
 
 ![Writing A Sequel](WritingASequel.png "Writing A Sequel")
