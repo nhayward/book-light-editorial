@@ -13,8 +13,8 @@ taxonomy:
         - writing
         - editing
         - storytelling
-        - 'indie publishing'
         - 'self publishing'
+        - 'indie publishing'
         - sequel
 ---
 
@@ -36,7 +36,7 @@ Do your best not to summarize all of book one for new readers or for readers who
 
 Consider what your readers are going to expect will happen in book two (based on book one) and then change it up! Do the opposite, subvert those expectations and revel in it. 
 
-Make sure you actually have enough story to write a sequel—not all stories need one. Also know why you’re writing one—is it just because you don’t want to say goodbye to a beloved character or is it because you’ve got more story to tell? 
+**Make sure you actually have enough story to write a sequel**—not all stories need one. Also know why you’re writing one—is it just because you don’t want to say goodbye to a beloved character or is it because you’ve got more story to tell? 
 
 In sum, once you know you’ve got the story for a second book, set out to make it a new and exciting experience for readers. Toss in new characters and stakes. Subvert all those expectations. And don’t forget to have fun with it yourself! 
 
