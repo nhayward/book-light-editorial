@@ -9,6 +9,11 @@ taxonomy:
         - editing
         - 'Marginalized authors'
         - 'marginalized voices'
+date: '02-08-2022 16:32'
+publish_date: '02-08-2022 16:32'
+metadata:
+    keywords: 'writing, editing, self editing, marginalized voices, marginalized authors, ableism, disability visibility, disability'
+    description: 'Ableism is common in books and it is up to authors to work to avoid harmful stereotypes about disabilities. This blog post discusses some of the harmful tropes and provides resources to learn more.'
 ---
 
 ![Ableism In Writing](AbleismInWriting.png "Ableism In Writing")
