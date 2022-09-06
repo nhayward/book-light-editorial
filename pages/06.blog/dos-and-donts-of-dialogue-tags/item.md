@@ -6,6 +6,13 @@ publish_date: '05-07-2022 14:21'
 metadata:
     keywords: 'writing, editing, self editing, dialogue, writing dialogue'
     description: 'Learn how to write dialogue tags with this handy list of what to do and what not to do when it comes to who is speaking in dialogue.'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - writing
+        - editing
+        - dialogue
 ---
 
 ![Dos And Don'ts Of Dialogue Tags](DosAndDontsOfDialogueTags.png "DosAndDontsOfDialogueTags")
