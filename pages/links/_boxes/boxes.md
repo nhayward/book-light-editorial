@@ -6,7 +6,7 @@ content:
 boxes:
     -
         package: true
-        content: "#### **[Story Chat Radio Presents: Trope Weekend (Classes and Workshops)](https://www.storychatradio.com/trope-weekend)**\n\n\n\n\n\n\n\n\n\n\n"
+        content: "#### **[Story Chat Radio Presents: Trope Weekend](https://www.storychatradio.com/trope-weekend)**\n(Classes and Workshops)\n\n\n\n\n\n\n\n\n\n\n"
     -
         package: false
         content: "#### **[Monthly Writing Tips Round-Up](https://booklighteditorial.com/blog)**\n\n"
@@ -21,7 +21,7 @@ boxes:
         content: '#### **[Contact](https://booklighteditorial.com/contact)**'
     -
         package: false
-        content: '#### **[Story Chat Radio](https://www.storychatradio.com/)**'
+        content: '#### **[Story Chat Radio (Podcast)](https://www.storychatradio.com/)**'
     -
         package: false
         content: '#### **[Newsletter Sign-Up and Free Self-Editing Workbook](https://booklighteditorial.us15.list-manage.com/subscribe?u=41cbd1b3120b5a7852e2b113c&id=2186454ed1)**'
