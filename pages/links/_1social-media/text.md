@@ -4,6 +4,7 @@ genre_images: false
 content:
     items: '@self.modular'
 media_order: 'instagram.png,podcast.jpg'
+routable: false
 ---
 
 [![twitter](twitter.png "twitter"){.center} ](https://twitter.com/fromcarly)
