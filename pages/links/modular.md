@@ -10,6 +10,10 @@ boxes:
     -
         package: false
         content: null
+genre_images: false
+content:
+    items: '@self.modular'
+body_classes: modular
 ---
 
 [Story Chat Radio](https://www.storychatradio.com/)
