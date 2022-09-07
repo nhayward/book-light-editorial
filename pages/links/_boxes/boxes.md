@@ -5,13 +5,13 @@ content:
     items: '@self.modular'
 boxes:
     -
-        package: false
+        package: true
         content: "#### **[Story Chat Radio Presents: Trope Weekend (Classes and Workshops)](https://www.storychatradio.com/trope-weekend)**\n\n\n\n\n\n\n\n\n\n\n"
     -
         package: false
         content: "#### **[Monthly Writing Tips Round-Up](https://booklighteditorial.com/blog)**\n\n"
     -
-        package: false
+        package: true
         content: '#### **[Light Up Voices](https://booklighteditorial.com/blog/light-up-voices)**'
     -
         package: false
