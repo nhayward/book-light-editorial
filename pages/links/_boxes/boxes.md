@@ -25,6 +25,9 @@ boxes:
     -
         package: false
         content: '#### **[Contact](https://booklighteditorial.com/contact)**'
+    -
+        package: false
+        content: '#### **[RevPit Annual Contest](https://reviseresub.com/)**'
 visible: false
 ---
 
