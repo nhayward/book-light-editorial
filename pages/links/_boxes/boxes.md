@@ -25,5 +25,6 @@ boxes:
     -
         package: false
         content: '#### **[Contact](https://booklighteditorial.com/contact)**'
+visible: false
 ---
 
