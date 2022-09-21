@@ -6,4 +6,4 @@ content:
 class: small
 ---
 
-## Book Light Editorial's Favorite Links
+## Book Light Editorial's Favorite Links{.center}
