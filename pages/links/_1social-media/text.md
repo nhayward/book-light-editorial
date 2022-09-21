@@ -8,5 +8,7 @@ routable: false
 visible: false
 ---
 
-!!!!! #### Social Media Links:{.center}
+<center markdown="1">
+!!!!! #### Social Media Links:
 !!!!! [![twitter](twitter.png "twitter")](https://twitter.com/fromcarly) [![instagram](instagram.png "instagram")](https://www.instagram.com/booklighteditorial/) [![podcast](podcast.jpg "podcast")](https://www.storychatradio.com/)
+</center>
