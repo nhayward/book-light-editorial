@@ -33,20 +33,34 @@ body#top {
   }
 
   .button, .btn {
-    border: none;
-    background-color: inherit;
-    background-image: url(/user/themes/illuminate/images/button_sheet.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 0 0;
-    height: 50px;
-    width: 150px;
-    color: $white;
-    line-height: 33px;
-    transition: 0.25s background-image;
+    &:not(.secondary-btn) {
+        border: none;
+        background-color: inherit;
+        background-image: url(/user/themes/illuminate/images/button_sheet.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: 0 0;
+        height: 50px;
+        width: 150px;
+        color: $white;
+        line-height: 33px;
+        transition: 0.25s background-image;
+    
+        &:hover {
+          background-position: -152px 0;
+        }
+    }
+    &.secondary-btn {
+        border: 2px solid $primary-color;
+        height: auto;
+        padding: 0.5rem 3rem;
+        background-color: $primary-color;
+        color: $white;
 
-    &:hover {
-      background-position: -152px 0;
+        &:hover {
+            background-color: $white;
+            color: $primary-color;
+        }
     }
   }
 

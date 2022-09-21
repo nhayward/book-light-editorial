@@ -25,7 +25,7 @@ body#top a, body#top .button, body#top .btn {
 body#top a {
   color: #047c69;
 }
-body#top .button, body#top .btn {
+body#top .button:not(.secondary-btn), body#top .btn:not(.secondary-btn) {
   border: none;
   background-color: inherit;
   background-image: url(/user/themes/illuminate/images/button_sheet.png);
@@ -38,8 +38,19 @@ body#top .button, body#top .btn {
   line-height: 33px;
   transition: 0.25s background-image;
 }
-body#top .button:hover, body#top .btn:hover {
+body#top .button:not(.secondary-btn):hover, body#top .btn:not(.secondary-btn):hover {
   background-position: -152px 0;
+}
+body#top .button.secondary-btn, body#top .btn.secondary-btn {
+  border: 2px solid #00335a;
+  height: auto;
+  padding: 0.5rem 3rem;
+  background-color: #00335a;
+  color: #ffffff;
+}
+body#top .button.secondary-btn:hover, body#top .btn.secondary-btn:hover {
+  background-color: #ffffff;
+  color: #00335a;
 }
 body#top .highlight {
   color: #f7941d;

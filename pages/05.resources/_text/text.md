@@ -16,6 +16,8 @@ There are many other genres out there. We can always discuss which genre best fi
 ##### Disclaimer: 
 Many genres overlap and can be subgenres of each other. The above breakdown is not set in stone. </br>Your novel likely crosses over into multiple genres, but it is important to find the one genre that fits the main plot of your book. 
 
+[Get Started](/services){.button .secondary-btn}
+
 ## Writing Resources {.center}
 
 !!!!! **Grammar Girl - Quick and Dirty Tips:**   
