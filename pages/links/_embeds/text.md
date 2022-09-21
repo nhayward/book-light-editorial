@@ -4,6 +4,8 @@ genre_images: false
 content:
     items: '@self.modular'
 vertical_center: false
+routable: false
+visible: false
 ---
 
 <center markdown="1">
