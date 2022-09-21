@@ -9,6 +9,6 @@ visible: false
 ---
 
 !!!!! #### Social Media Links:
-!!!!! [![twitter](twitter.png "twitter"){.center} ](https://twitter.com/fromcarly)
-!!!!! [![instagram](instagram.png "instagram"){.center} ](https://www.instagram.com/booklighteditorial/)
-!!!!! [![podcast](podcast.jpg "podcast"){.center}](https://www.storychatradio.com/)
+!!!!! [![twitter](twitter.png "twitter")](https://twitter.com/fromcarly)
+!!!!! [![instagram](instagram.png "instagram")](https://www.instagram.com/booklighteditorial/)
+!!!!! [![podcast](podcast.jpg "podcast")](https://www.storychatradio.com/)
