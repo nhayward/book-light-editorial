@@ -3,6 +3,8 @@ title: 'Querying Tips and Tricks'
 media_order: QueryingTips.png
 ---
 
+![Querying Tips and Tricks](QueryingTips.png "QueryingTips")
+
 Hello super writers and goodbye to September. Our theme of the month had been “Querying Tips & Tricks.”
 
 Always remember, when you’re going to start querying you want to give yourself the best chances—the biggest best chance is to ensure your novel is ready. It needs to not only be completed, but polished. Polished includes editing and revising. Having a critique partner or two or even having an editor help you isn’t a bad idea either.
