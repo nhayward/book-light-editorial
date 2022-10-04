@@ -22,7 +22,13 @@ Keep your query short. The whole thing shouldn’t be any longer than 350-400 wo
 **Research the agents, agencies, and indie pubs you’re submitting to**. Make sure they accept your genre and age range and are also open to queries. Don’t waste their time or yours by subbing an adult novel to a children’s agent or vice versa. 
 
 Be prepared for passes from agents, it’s part of the process, as much as that may stink. Agents don’t revel in sending them—they have to focus on the stories they connect with and that they have a vision for in the market. This is a business partnership, so they need to have these in mind.
-**
-While the query trenches can feel disheartening, remember four important things:** focus on your own journey, persistence is key, a pass does not mean you are a bad writer, and it only takes one yes. Especially remember that last one.
+
+!!!!! **While the query trenches can feel disheartening, remember four important things:** 
+!!!!! * focus on your own journey 
+!!!!! * persistence is key 
+!!!!! * a pass does not mean you are a bad writer
+!!!!! * and it only takes one yes
+!!!!! 
+!!!!! Especially remember that last one.
 
 We believe in you, dear writers! Thanks for joining us for “Querying Tips & Tricks.” See you next month, until then, keep it up!
