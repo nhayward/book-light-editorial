@@ -1,5 +1,6 @@
 ---
 title: 'Querying Tips and Tricks'
+media_order: QueryingTips.png
 ---
 
 Hello super writers and goodbye to September. Our theme of the month had been “Querying Tips & Tricks.”
