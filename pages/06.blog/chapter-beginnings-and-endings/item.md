@@ -1,6 +1,11 @@
 ---
 title: 'Chapter Beginnings and Endings'
 media_order: ChapBeginningsEndings.png
+date: '07-11-2022 14:36'
+publish_date: '07-11-2022 14:36'
+metadata:
+    keywords: 'writing, chapters, writing advice, how-to'
+    description: 'It can be a struggle to write solid chapters that feel satisfying. In this post we break down some tips on how to write good chapter beginnings and endings'
 ---
 
 ![Chapter Beginnings and Endings](ChapBeginningsEndings.png "ChapBeginningsEndings")
