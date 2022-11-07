@@ -1,6 +1,9 @@
 ---
 title: 'Chapter Beginnings and Endings'
+media_order: ChapBeginningsEndings.png
 ---
+
+![Chapter Beginnings and Endings](ChapBeginningsEndings.png "ChapBeginningsEndings")
 
 Hello, writers! October’s theme was about effectively opening and closing your chapters. Below are all of our tips for: Chapter Beginnings and Endings! 
 
