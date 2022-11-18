@@ -14,7 +14,7 @@ genre_images: false
 content:
     items: '@self.modular'
 body_classes: modular
-visible: false
+visible: true
 ---
 
 [Story Chat Radio](https://www.storychatradio.com/)
