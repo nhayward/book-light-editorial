@@ -11,6 +11,7 @@ boxes:
         package: false
         content: null
 genre_images: false
+onpage_menu: true
 content:
     items: '@self.modular'
     order:
