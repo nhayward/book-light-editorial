@@ -16,6 +16,9 @@ content:
     order:
         custom:
             - _intro-text
+            - _social-media
+            - _callout
+            - _embeds
 body_classes: modular
 ---
 
