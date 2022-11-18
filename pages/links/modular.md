@@ -14,7 +14,6 @@ genre_images: false
 content:
     items: '@self.modular'
 body_classes: 'modular fullwidth'
-showcase_heading: test
 ---
 
 [Story Chat Radio](https://www.storychatradio.com/)
