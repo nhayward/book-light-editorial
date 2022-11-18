@@ -14,7 +14,8 @@ genre_images: false
 content:
     items: '@self.modular'
     order:
-        - _intro-text
+        custom:
+            - _intro-text
 body_classes: modular
 ---
 
