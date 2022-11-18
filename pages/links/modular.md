@@ -13,7 +13,7 @@ boxes:
 genre_images: false
 content:
     items: '@self.modular'
-body_classes: modular
+body_classes: 'modular fullwidth'
 ---
 
 [Story Chat Radio](https://www.storychatradio.com/)
