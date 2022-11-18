@@ -1,5 +1,5 @@
 ---
-title: intro
+title: intro-text
 genre_images: false
 content:
     items: '@self.modular'
