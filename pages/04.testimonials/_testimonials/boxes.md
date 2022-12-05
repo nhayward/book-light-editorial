@@ -75,9 +75,6 @@ boxes:
     -
         package: false
         content: "><span class=\"first-character\">I</span>n Carly’s developmental editing of my novel, she dealt with issues, both large and small. Chronology, plot consistency, character motivation, authentic dialogue, point of view, word choices, etc. I appreciated the exhaustive detail and acuteness of her perceptions, but even more than that, I especially valued her understanding of my intent and my overall vision. She kept true to my vision for the novel and helped greatly in turning that vision into a reality.\n\n-Danny Davis, Historical YA author\n"
-    -
-        package: false
-        content: "><span class=\"first-character\">U</span>nprepared to finish a sleek piece, I was on edge. I discovered that the editing assistance of Carly is not only a strong choice, but essential, as she delivered on all fronts and was overall flawless. This client considers her at the top of his list.\n\n-Spencer English, Staff Writer at AV Wire\n"
 routable: false
 visible: false
 title: 'Testimonial Boxes'
