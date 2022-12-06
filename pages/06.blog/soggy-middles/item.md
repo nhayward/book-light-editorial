@@ -5,6 +5,8 @@ publish_date: '06-12-2022 14:27'
 media_order: SoggyMiddles.png
 ---
 
+![Soggy Middles](SoggyMiddles.png "SoggyMiddles")
+
 Hello, writerly friends! November has come to an end and so are our tips on soggy middles in your novel! Below is a roundup of all our tips.
 
 **Tip 1:** Increase that tension! Sometimes the middle gets soggy when the tension’s either stagnated or decreased. 
