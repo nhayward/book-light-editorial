@@ -3,6 +3,9 @@ title: 'Soggy Middles'
 date: '06-12-2022 14:27'
 publish_date: '06-12-2022 14:27'
 media_order: SoggyMiddles.png
+metadata:
+    keywords: 'writing, writing tips, how-to, soggy middles'
+    description: 'Get all the tips and tricks on how to tighten up a soggy middle in your novel writing!'
 ---
 
 ![Soggy Middles](SoggyMiddles.png "SoggyMiddles")
