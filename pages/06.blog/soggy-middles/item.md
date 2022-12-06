@@ -2,6 +2,7 @@
 title: 'Soggy Middles'
 date: '06-12-2022 14:27'
 publish_date: '06-12-2022 14:27'
+media_order: SoggyMiddles.png
 ---
 
 Hello, writerly friends! November has come to an end and so are our tips on soggy middles in your novel! Below is a roundup of all our tips.
