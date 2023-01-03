@@ -1,6 +1,9 @@
 ---
 title: 'Humor in Writing'
+media_order: BlogHeader_HumorinWriting.png
 ---
+
+![Humor in Writing](BlogHeader_HumorinWriting.png "Humor in Writing")
 
 Phew, December has flown by! This past month, we shared tips on our theme, “Humor in Writing!”
 
