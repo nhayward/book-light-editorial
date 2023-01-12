@@ -3,7 +3,7 @@ title: Kel
 editor_name: 'Kel Lyle'
 editor_title: 'Social Media Assistant'
 profile_image:
-    src: Book_Light_Editorial_Melissa_Bergum.jpg
+    src: Book_Light_Editorial_Kel_Lyle.jpg
     alt_text: 'Kel Lyle'
 ---
 
