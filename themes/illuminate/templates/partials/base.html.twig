@@ -4,22 +4,22 @@
 {% use 'blocks/base.html.twig' %}
 <!DOCTYPE html>
 <html lang="{{ grav.language.getActive ?: grav.config.site.default_lang }}">
-	<head>
-		{% block head deferred %}
-			<meta charset="utf-8"/>
-			<title>
-				{% if page.title %}
-					{{ page.title|e('html') }}
-					|
-				{% endif %}
-				{{ site.title|e('html') }}</title>
+    <head>
+        {% block head deferred %}
+            <meta charset="utf-8"/>
+            <title>
+                {% if page.title %}
+                    {{ page.title|e('html') }}
+                    |
+                {% endif %}
+                {{ site.title|e('html') }}</title>
 
-			<meta http-equiv="X-UA-Compatible" content="IE=edge">
-			<meta name="viewport" content="width=device-width, initial-scale=1">
-			{% include 'partials/metadata.html.twig' %}
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            {% include 'partials/metadata.html.twig' %}
 
-			<link rel="icon" type="image/png" href="{{ url('theme://images/favicon.png') }}"/>
-			<link rel="canonical" href="{{ page.url(true, true) }}"/>
+            <link rel="icon" type="image/png" href="{{ url('theme://images/favicon.png') }}"/>
+            <link rel="canonical" href="{{ page.url(true, true) }}"/>
 
             <link rel="preload" href="{{ url('theme://css/fontawesome-5.12.0/webfonts/fa-brands-400.woff2') }}" as="font" type="font/woff2" crossorigin>
             <link rel="preload" href="{{ url('theme://css/fontawesome-5.12.0/webfonts/fa-regular-400.woff2') }}" as="font" type="font/woff2" crossorigin>
@@ -61,138 +61,138 @@
             </script>
             <!-- End Google Tag Manager -->
 
-		{% endblock head %}
+        {% endblock head %}
 
-		{% block stylesheets %}
-			{% do assets.addCss('theme://css-compiled/spectre'~compress) %}
-			{% if theme_var('spectre.exp') %}
-				{% do assets.addCss('theme://css-compiled/spectre-exp'~compress)  %}
-			{% endif %}
-			{% if theme_var('spectre.icons') %}
-				{%  do assets.addCss('theme://css-compiled/spectre-icons'~compress) %}
-			{% endif %}
-			{% do assets.addCss('theme://css-compiled/theme'~compress) %}
-			{% do assets.addCss('theme://css-compiled/custom.css') %}
-			{% do assets.addCss('theme://css/line-awesome.min.css') %}
-			{% do assets.addCss('theme://css/bricklayer.css') %}
-			{% do assets.addCss('theme://css/fontawesome-5.12.0/css/all.css') %}
-		{% endblock %}
+        {% block stylesheets %}
+            {% do assets.addCss('theme://css-compiled/spectre'~compress) %}
+            {% if theme_var('spectre.exp') %}
+                {% do assets.addCss('theme://css-compiled/spectre-exp'~compress)  %}
+            {% endif %}
+            {% if theme_var('spectre.icons') %}
+                {%  do assets.addCss('theme://css-compiled/spectre-icons'~compress) %}
+            {% endif %}
+            {% do assets.addCss('theme://css-compiled/theme'~compress) %}
+            {% do assets.addCss('theme://css-compiled/custom.css') %}
+            {% do assets.addCss('theme://css/line-awesome.min.css') %}
+            {% do assets.addCss('theme://css/bricklayer.css') %}
+            {% do assets.addCss('theme://css/fontawesome-5.12.0/css/all.css') %}
+        {% endblock %}
 
-		{% block javascripts %}
-			{% do assets.addJs('jquery', 101) %}
-			{% do assets.addJs('theme://js/jquery.treemenu.js', {group:'bottom'}) %}
-			{% do assets.addJs('theme://js/site.js', {group:'bottom'}) %}
-			{% do assets.addJs('theme://js/illuminate.js', {group:'bottom'}) %}
-			{% do assets.addJs('theme://js/vendor/rellax.min.js', {group:'bottom'}) %}
-			{% do assets.add('theme://js/bricklayer.min.js') %}
-			{% do assets.add('theme://js/scopedQuerySelectorShim.min.js') %}
-		{% endblock %}
+        {% block javascripts %}
+            {% do assets.addJs('jquery', 101) %}
+            {% do assets.addJs('theme://js/jquery.treemenu.js', {group:'bottom'}) %}
+            {% do assets.addJs('theme://js/site.js', {group:'bottom'}) %}
+            {% do assets.addJs('theme://js/illuminate.js', {group:'bottom'}) %}
+            {% do assets.addJs('theme://js/vendor/rellax.min.js', {group:'bottom'}) %}
+            {% do assets.add('theme://js/bricklayer.min.js') %}
+            {% do assets.add('theme://js/scopedQuerySelectorShim.min.js') %}
+        {% endblock %}
 
-		{% block assets deferred %}
-			{{ assets.css()|raw }}
-			{{ assets.js()|raw }}
-		{% endblock %}
-	</head>
-	<body id="top" class="{% block body_classes %}{{ body_classes }}{% endblock %}">
-		<div id="page-wrapper">
-			{% block header %}
-				<section id="header" class="section">
-					<section class="container grid-xl">
-						<nav class="navbar" aria-label="header-bar">
-							<section class="navbar-section logo">
-								{% include 'partials/logo.html.twig' %}
-							</section>
-							<section class="navbar-section desktop-menu">
+        {% block assets deferred %}
+            {{ assets.css()|raw }}
+            {{ assets.js()|raw }}
+        {% endblock %}
+    </head>
+    <body id="top" class="{% block body_classes %}{{ body_classes }}{% endblock %}">
+        <div id="page-wrapper">
+            {% block header %}
+                <section id="header" class="section">
+                    <section class="container grid-xl">
+                        <nav class="navbar" aria-label="header-bar">
+                            <section class="navbar-section logo">
+                                {% include 'partials/logo.html.twig' %}
+                            </section>
+                            <section class="navbar-section desktop-menu">
 
-								<nav class="dropmenu animated" aria-label="navigation">
-									{% block header_navigation %}
-										{% include 'partials/navigation.html.twig' %}
-									{% endblock %}
-								</nav>
+                                <nav class="dropmenu animated" aria-label="navigation">
+                                    {% block header_navigation %}
+                                        {% include 'partials/navigation.html.twig' %}
+                                    {% endblock %}
+                                </nav>
 
-								{% if config.plugins.login.enabled and grav.user.username %}
-									<span class="login-status-wrapper">
-										<i class="fa fa-user"></i>
-										{% include 'partials/login-status.html.twig' %}</span>
-								{% endif %}
+                                {% if config.plugins.login.enabled and grav.user.username %}
+                                    <span class="login-status-wrapper">
+                                        <i class="fa fa-user"></i>
+                                        {% include 'partials/login-status.html.twig' %}</span>
+                                {% endif %}
 
-							</section>
-						</nav>
-					</section>
-				</section>
-				<div class="mobile-menu">
-					<div class="button_container" id="toggle">
-						<span class="top"></span>
-						<span class="middle"></span>
-						<span class="bottom"></span>
-					</div>
-				</div>
-			{% endblock %}
+                            </section>
+                        </nav>
+                    </section>
+                </section>
+                <div class="mobile-menu">
+                    <div class="button_container" id="toggle">
+                        <span class="top"></span>
+                        <span class="middle"></span>
+                        <span class="bottom"></span>
+                    </div>
+                </div>
+            {% endblock %}
 
-			{% block showcase %}
-				{% include 'partials/showcase.html.twig' %}
-			{% endblock %}
+            {% block showcase %}
+                {% include 'partials/showcase.html.twig' %}
+            {% endblock %}
 
-			<section id="start" role="main">
-				{% block body %}
-					<section id="body-wrapper" class="section">
-						<section class="container {{ grid_size }}">
-							{% block messages %}
-								{% include 'partials/messages.html.twig' ignore missing %}
-							{% endblock %}
-							{{ block('content_surround') }}
-						</section>
-					</section>
-				{% endblock %}
-			</section>
-		</div>
+            <section id="start" role="main">
+                {% block body %}
+                    <section id="body-wrapper" class="section">
+                        <section class="container {{ grid_size }}">
+                            {% block messages %}
+                                {% include 'partials/messages.html.twig' ignore missing %}
+                            {% endblock %}
+                            {{ block('content_surround') }}
+                        </section>
+                    </section>
+                {% endblock %}
+            </section>
+        </div>
 
-		{% block footer %}
-			{% include 'partials/footer.html.twig' %}
-		{% endblock %}
+        {% block footer %}
+            {% include 'partials/footer.html.twig' %}
+        {% endblock %}
 
-		{% block mobile %}
-			<div class="mobile-container">
-				<div class="overlay" id="overlay">
-					<div class="mobile-logo">
-						{% include 'partials/logo.html.twig' with {mobile: true} %}
-					</div>
-					<nav class="overlay-menu">
-						{% include 'partials/navigation.html.twig' with {tree: true} %}
-					</nav>
-				</div>
-			</div>
-		{% endblock %}
+        {% block mobile %}
+            <div class="mobile-container">
+                <div class="overlay" id="overlay">
+                    <div class="mobile-logo">
+                        {% include 'partials/logo.html.twig' with {mobile: true} %}
+                    </div>
+                    <nav class="overlay-menu">
+                        {% include 'partials/navigation.html.twig' with {tree: true} %}
+                    </nav>
+                </div>
+            </div>
+        {% endblock %}
 
-    <div id="floating-social" class="social-icons" role="complementary">
-      <a class="social-icon" href="https://twitter.com/fromcarly" target="_blank"><i class="fab fa-twitter"></i><span class="hidden-link-text">Twitter</span></a>
-      <a class="social-icon" href="https://www.facebook.com/booklighteditorial/" target="_blank"><i class="fab fa-facebook-f"></i><span class="hidden-link-text">Facebook</span></a>
-      <a class="social-icon" href="https://www.instagram.com/booklighteditorial/" target="_blank"><i class="fab fa-instagram"></i><span class="hidden-link-text">Instagram</span></a>
-    </div>
+        <div id="floating-social" class="social-icons" role="complementary">
+            <a class="social-icon" href="https://twitter.com/fromcarly" target="_blank"><i class="fab fa-twitter"></i><span class="hidden-link-text">Twitter</span></a>
+            <a class="social-icon" href="https://www.facebook.com/booklighteditorial/" target="_blank"><i class="fab fa-facebook-f"></i><span class="hidden-link-text">Facebook</span></a>
+            <a class="social-icon" href="https://www.instagram.com/booklighteditorial/" target="_blank"><i class="fab fa-instagram"></i><span class="hidden-link-text">Instagram</span></a>
+        </div>
 
-    {% if page.header.genre_images %}
-      <div id="warrior-margin" class="rellax-image margin-image" data-rellax-speed="-2" role="complementary" aria-label="fantasy">
-        <img src="{{ url('theme://images/genres/fantasy_no-edge_warrior_no-back.png') }}" alt="">
-      </div>
-      <div id="romance-girl-margin" class="rellax-image margin-image" data-rellax-speed="-2" role="complementary" aria-label="romance">
-        <img src="{{ url('theme://images/genres/romance_girl.png') }}" alt="">
-      </div>
-      <div id="scifi-spacegirl-margin" class="rellax-image margin-image" data-rellax-speed="-2" role="complementary" aria-label="scifi">
-        <img src="{{ url('theme://images/genres/scifi_no-edge_no-back_spacegirl.png') }}" alt="">
-      </div>
-      <div id="mysteryman-margin" class="rellax-image margin-image" data-rellax-speed="-2" role="complementary" aria-label="mystery">
-        <img src="{{ url('theme://images/genres/mysteryman.png') }}" alt="">
-      </div>
-    {% endif %}
+        {% if page.header.genre_images %}
+            <div id="warrior-margin" class="rellax-image margin-image" data-rellax-speed="-2" role="complementary" aria-label="fantasy">
+                <img src="{{ url('theme://images/genres/fantasy_no-edge_warrior_no-back.png') }}" alt="">
+            </div>
+            <div id="romance-girl-margin" class="rellax-image margin-image" data-rellax-speed="-2" role="complementary" aria-label="romance">
+                <img src="{{ url('theme://images/genres/romance_girl.png') }}" alt="">
+            </div>
+            <div id="scifi-spacegirl-margin" class="rellax-image margin-image" data-rellax-speed="-2" role="complementary" aria-label="scifi">
+                <img src="{{ url('theme://images/genres/scifi_no-edge_no-back_spacegirl.png') }}" alt="">
+            </div>
+            <div id="mysteryman-margin" class="rellax-image margin-image" data-rellax-speed="-2" role="complementary" aria-label="mystery">
+                <img src="{{ url('theme://images/genres/mysteryman.png') }}" alt="">
+            </div>
+        {% endif %}
 
-		{% block bottom %}
-			{{ assets.js('bottom')|raw }}
-		{% endblock %}
+        {% block bottom %}
+            {{ assets.js('bottom')|raw }}
+        {% endblock %}
 
-		<script>
-			// Accepts any class name
-      var rellax = new Rellax('.rellax-image', {center: true});
-		</script>
+        <script>
+            // Accepts any class name
+            var rellax = new Rellax('.rellax-image', {center: true});
+        </script>
 
         <!-- Google Tag Manager (noscript) -->
         <noscript>
@@ -200,5 +200,5 @@
         </noscript>
         <!-- End Google Tag Manager (noscript) -->
 
-	</body>
+    </body>
 </html>
