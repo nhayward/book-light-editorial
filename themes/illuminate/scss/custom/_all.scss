@@ -110,16 +110,17 @@ html {
     }
 
     .social-icon {
+      text-decoration: none;
       i {
+        display: flex;
+        justify-content: center;
+        align-items: center;
         border: 1px solid $black;
         border-radius: 50%;
         background-color: $black;
         height: 35px;
         width: 35px;
-        padding: 0.5rem;
-        font-size: 1.3rem;
         color: $white;
-        text-align: center;
         transition: 0.25s all;
       }
     }

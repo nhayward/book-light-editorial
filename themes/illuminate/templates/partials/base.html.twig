@@ -21,9 +21,9 @@
             <link rel="icon" type="image/png" href="{{ url('theme://images/favicon.png') }}"/>
             <link rel="canonical" href="{{ page.url(true, true) }}"/>
 
-            <link rel="preload" href="{{ url('theme://css/fontawesome-5.12.0/webfonts/fa-brands-400.woff2') }}" as="font" type="font/woff2" crossorigin>
-            <link rel="preload" href="{{ url('theme://css/fontawesome-5.12.0/webfonts/fa-regular-400.woff2') }}" as="font" type="font/woff2" crossorigin>
-            <link rel="preload" href="{{ url('theme://css/fontawesome-5.12.0/webfonts/fa-solid-900.woff2') }}" as="font" type="font/woff2" crossorigin>
+            <link rel="preload" href="{{ url('theme://css/fontawesome-5.15.4/webfonts/fa-brands-400.woff2') }}" as="font" type="font/woff2" crossorigin>
+            <link rel="preload" href="{{ url('theme://css/fontawesome-5.15.4/webfonts/fa-regular-400.woff2') }}" as="font" type="font/woff2" crossorigin>
+            <link rel="preload" href="{{ url('theme://css/fontawesome-5.15.4/webfonts/fa-solid-900.woff2') }}" as="font" type="font/woff2" crossorigin>
             <link rel="preload" href="{{ url('theme://images/headers/header_background.png') }}" as="image">
             <link rel="preload" href="{{ url('theme://images/headers/Book_Light_Editorial_on_xs.png') }}" as="image">
             <link rel="preload" href="{{ url('theme://images/button_sheet.png') }}" as="image">
@@ -75,7 +75,7 @@
             {% do assets.addCss('theme://css-compiled/custom.css') %}
             {% do assets.addCss('theme://css/line-awesome.min.css') %}
             {% do assets.addCss('theme://css/bricklayer.css') %}
-            {% do assets.addCss('theme://css/fontawesome-5.12.0/css/all.css') %}
+            {% do assets.addCss('theme://css/fontawesome-5.15.4/css/all.css') %}
         {% endblock %}
 
         {% block javascripts %}
@@ -165,9 +165,22 @@
         {% endblock %}
 
         <div id="floating-social" class="social-icons" role="complementary">
-            <a class="social-icon" href="https://twitter.com/fromcarly" target="_blank"><i class="fab fa-twitter"></i><span class="hidden-link-text">Twitter</span></a>
-            <a class="social-icon" href="https://www.facebook.com/booklighteditorial/" target="_blank"><i class="fab fa-facebook-f"></i><span class="hidden-link-text">Facebook</span></a>
-            <a class="social-icon" href="https://www.instagram.com/booklighteditorial/" target="_blank"><i class="fab fa-instagram"></i><span class="hidden-link-text">Instagram</span></a>
+            <a class="social-icon" href="https://booklighteditorial.us15.list-manage.com/subscribe?u=41cbd1b3120b5a7852e2b113c&id=2186454ed1" target="_blank">
+                <i class="far fa-newspaper fa-lg"></i>
+                <span class="hidden-link-text">Newsletter</span>
+            </a>
+            <a class="social-icon" href="https://www.storychatradio.com/" target="_blank">
+                <i class="fa fa-podcast fa-lg"></i>
+                <span class="hidden-link-text">Podcast</span>
+            </a>
+            <a class="social-icon" href="https://twitter.com/fromcarly" target="_blank">
+                <i class="fab fa-twitter fa-lg"></i>
+                <span class="hidden-link-text">Twitter</span>
+            </a>
+            <a class="social-icon" href="https://www.instagram.com/booklighteditorial/" target="_blank">
+                <i class="fab fa-instagram fa-lg"></i>
+                <span class="hidden-link-text">Instagram</span>
+            </a>
         </div>
 
         {% if page.header.genre_images %}

@@ -8,7 +8,10 @@
     color: $white;
 
     #footer-social {
-      margin-bottom: 0.5rem;
+      margin-bottom: 0.75rem;
+      display: flex;
+      justify-content: center;
+      align-items: center;
 
       .social-icon {
         margin: 0 0.25rem;

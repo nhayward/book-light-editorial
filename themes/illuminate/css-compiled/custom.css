@@ -168,16 +168,19 @@ html body#top #floating-social .social-icon i:hover {
     display: none;
   }
 }
+html body#top .social-icon {
+  text-decoration: none;
+}
 html body#top .social-icon i {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   border: 1px solid #000000;
   border-radius: 50%;
   background-color: #000000;
   height: 35px;
   width: 35px;
-  padding: 0.5rem;
-  font-size: 1.3rem;
   color: #ffffff;
-  text-align: center;
   transition: 0.25s all;
 }
 html body#top .margin-image {
@@ -329,7 +332,10 @@ section#header.scrolled .navbar-section ul li a {
   color: #ffffff;
 }
 #footer .container #footer-social {
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.75rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 #footer .container #footer-social .social-icon {
   margin: 0 0.25rem;
