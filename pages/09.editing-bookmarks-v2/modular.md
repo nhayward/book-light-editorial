@@ -6,6 +6,6 @@ content:
 visible: false
 body_classes: modular
 showcase_heading: 'Editing <span class="highlight">Bookmarks</span>'
-showcase_button: 'General Bookmark'
+showcase_button: 'Main Bookmark'
 ---
 
