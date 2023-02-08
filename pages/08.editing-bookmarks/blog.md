@@ -11,7 +11,6 @@ content:
     pagination: true
     url_taxonomy_filters: true
 show_sidebar: false
-hero_classes: text-dark
 ---
 
 # Editing Bookmarks
