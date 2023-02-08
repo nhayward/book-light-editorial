@@ -4,6 +4,8 @@ genre_images: false
 content:
     items: '@self.modular'
 body_classes: modular-text
+routable: false
+visible: false
 ---
 
 # Editing Bookmarks
