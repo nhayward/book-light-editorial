@@ -2,7 +2,10 @@
 title: 'Wounds & Flaws'
 date: '14-02-2023 13:49'
 publish_date: '14-02-2023 13:49'
+media_order: WoundsFlaws.png
 ---
+
+![Wounds & Flaws](WoundsFlaws.png "Wounds & Flaws")
 
 This month we focused on “Wounds & Flaws,” you’ll find our tips below.  
 
