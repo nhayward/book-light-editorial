@@ -3,6 +3,9 @@ title: 'Wounds & Flaws'
 date: '14-02-2023 13:49'
 publish_date: '14-02-2023 13:49'
 media_order: WoundsFlaws.png
+metadata:
+    keywords: 'writing, how-to, emotional wounds, character flaws, novel writing'
+    description: 'Tips and tricks for how to write a character''s wounds and flaws.'
 ---
 
 ![Wounds & Flaws](WoundsFlaws.png "Wounds & Flaws")
