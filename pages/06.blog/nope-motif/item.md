@@ -1,5 +1,10 @@
 ---
 title: 'Nope - Motif'
+date: '13-02-2023 13:48'
+publish_date: '13-02-2023 13:48'
+metadata:
+    keywords: 'writing, podcast, how-to, motif'
+    description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss motif as seen in the movie, Nope'
 ---
 
 <iframe title="Embed Player" src="https://play.libsyn.com/embed/episode/id/25552965/height/192/theme/modern/size/large/thumbnail/yes/custom-color/39918e/time-start/00:00:00/playlist-height/200/direction/backward" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>
