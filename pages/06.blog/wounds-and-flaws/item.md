@@ -29,7 +29,7 @@ This month we focused on “Wounds & Flaws,” you’ll find our tips below.
 
 !!!!! **Other Resources:**
 !!!!! 
-!!!!! **[_The Emotional Wound Thesaurus: A Writer's Guide to Psychological Trauma_](https://www.amazon.com/Emotional-Wound-Thesaurus-Writers-Psychological/dp/0989772594/ref=sr_1_1?target=_blank) by Becca Puglisi and Angela Ackerman**. Great resource for finding the ghost of your character's past. Less of a guide and more of a reference material
+!!!!! **[_The Emotional Wound Thesaurus: A Writer's Guide to Psychological Trauma_](https://www.amazon.com/Emotional-Wound-Thesaurus-Writers-Psychological/dp/0989772594/ref=sr_1_1?target=_blank)** by Becca Puglisi and Angela Ackerman. Great resource for finding the ghost of your character's past. Less of a guide and more of a reference material
 !!!!! 
 !!!!! **Story Chat Radio Episode: [_Shang-Chi and the Legend of the Ten Rings - Emotional Wounds_](https://www.storychatradio.com/shang-chi-and-the-legend-of-the-ten-rings-emotional-wounds?target=_blank)**. A podcast episode where two editors discuss emotional wounds and how they affect characters. They use the movie, _Shang-Chi and the Legend of the Ten Rings_, as an example. 
 
