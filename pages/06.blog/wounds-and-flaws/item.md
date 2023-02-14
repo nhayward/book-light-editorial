@@ -24,7 +24,7 @@ This month we focused on “Wounds & Flaws,” you’ll find our tips below.
 
 **Tip 9:** Certain genres tend to have certain types of wounds readers expect because they make sense within that genre. Do your research! 
 
-!!!!! ##### Other Resources: 
+!!!!! **Other Resources:**
 !!!!! 
 !!!!! _The Emotional Wound Thesaurus: A Writer's Guide to Psychological Trauma_ by Becca Puglisi and Angela Ackerman
 !!!!! Great resource for finding the ghost of your character's past. Less of a guide and more of a reference material
