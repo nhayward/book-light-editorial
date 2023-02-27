@@ -9,7 +9,7 @@ boxes:
         content: "### General Editing Tips\n\nHere you'll find the main bookmark to help you think about different storytelling elements while you're reading. \n\n[Download](/editing-bookmarks/general-bookmark/EditingBookmark_General.pdf?target=_blank){.button}\n\n"
     -
         package: false
-        content: "### Worldbuilding\n\nHere you'll find the worldbuilding bookmark to help you think about worldbuilding and setting while you're reading. \n\n[Download](/editing-bookmarks/general-bookmark/EditingBookmark_General.pdf?target=_blank){.button}\n"
+        content: "### Worldbuilding\n\nHere you'll find the worldbuilding bookmark to help you think about worldbuilding and setting while you're reading. \n\n[Download](/materials/EditingBookmark_Worldbuilding.pdf?target=_blank){.button}\n"
 routable: false
 visible: false
 ---
