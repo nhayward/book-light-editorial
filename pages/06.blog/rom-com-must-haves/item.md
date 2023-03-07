@@ -14,6 +14,7 @@ taxonomy:
         - relationships
         - romance
         - characters
+        - 'monthly writing tips'
 ---
 
 !["Rom-Com Must-Haves"](RomComMustHaves.png "RomComMustHaves")
