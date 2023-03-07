@@ -12,6 +12,8 @@ taxonomy:
         - storytelling
         - movies
         - 'dual timeline'
+        - 'story chat radio'
+        - podcast
 date: '07-07-2020 18:12'
 publish_date: '07-07-2020 18:12'
 ---
