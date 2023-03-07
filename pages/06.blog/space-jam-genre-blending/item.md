@@ -13,6 +13,8 @@ taxonomy:
         - movies
         - 'genre blending'
         - genre
+        - podcast
+        - 'story chat radio'
 date: '31-05-2021 12:45'
 ---
 
