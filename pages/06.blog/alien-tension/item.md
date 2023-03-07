@@ -12,6 +12,8 @@ taxonomy:
         - storytelling
         - movies
         - tension
+        - 'story chat radio'
+        - podcast
 publish_date: '24-10-2021 17:52'
 date: '24-10-2021 17:52'
 ---
