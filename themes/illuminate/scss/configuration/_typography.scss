@@ -79,7 +79,9 @@ body#top {
   }
 
   .notices.gold {
-    margin: 1.5rem 0 1.5rem 0.7rem;
+    // margin: 1.5rem 0 1.5rem 0.7rem;
+    margin: 1.5rem auto;
+    max-width: 600px;
     border-width: 0 0 0 15px;
     border-style: solid;
     -moz-border-image: url(/user/themes/illuminate/images/accents/Book_Light_Editorial_edge.png) 0% 85% round;
