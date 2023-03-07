@@ -4,6 +4,12 @@ date: '09-02-2022 18:27'
 publish_date: '09-02-2022 18:27'
 metadata:
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss settings as seen in the movie, Train to Busan'
+taxonomy:
+    tag:
+        - 'story chat radio'
+        - podcast
+        - settings
+        - worldbuilding
 ---
 
 <iframe title="Embed Player" src="//play.libsyn.com/embed/episode/id/21968978/height/192/theme/modern/size/large/thumbnail/yes/custom-color/39918e/time-start/00:00:00/playlist-height/200/direction/backward" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>
