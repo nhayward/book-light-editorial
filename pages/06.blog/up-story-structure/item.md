@@ -11,8 +11,10 @@ taxonomy:
         - editing
         - storytelling
         - movies
-        - structure
         - 'story structure'
+        - structure
+        - 'story chat radio'
+        - podcast
 publish_date: '04-12-2020 17:54'
 date: '04-12-2020 17:54'
 ---
