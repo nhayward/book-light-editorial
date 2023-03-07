@@ -29,4 +29,4 @@ Welcome writers! This month, we’ve given some tips on “Worldbuilding Ins & O
 
 !!!!! ####A great way to improve your worldbuilding savvy is to pay attention to the worldbuilding in the books you read. We have a bookmark to help you notice wordbuilding while you read—sign up for our newsletter to get access to this bookmark and more!
 !!!!! 
-!!!!! [Newsletter](http://eepurl.com/dk655n?target=_blank){.button .float-right}
+!!!!! [Newsletter](http://eepurl.com/dk655n?target=_blank){.button .center}
