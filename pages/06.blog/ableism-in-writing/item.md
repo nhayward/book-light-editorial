@@ -9,6 +9,7 @@ taxonomy:
         - editing
         - 'Marginalized authors'
         - 'marginalized voices'
+        - 'monthly writing tips'
 date: '02-08-2022 16:32'
 publish_date: '02-08-2022 16:32'
 metadata:
