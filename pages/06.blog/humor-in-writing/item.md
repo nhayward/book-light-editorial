@@ -10,8 +10,8 @@ taxonomy:
         - editing
         - 'monthly writing tips'
         - humor
-date: '10-01-2023 15:30'
-publish_date: '10-01-2023 15:30'
+date: '03-01-2023 15:30'
+publish_date: '03-01-2023 15:30'
 ---
 
 ![Humor in Writing](BlogHeader_HumorinWriting.png "Humor in Writing")
