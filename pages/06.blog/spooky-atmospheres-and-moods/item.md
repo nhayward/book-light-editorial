@@ -13,6 +13,7 @@ taxonomy:
         - editing
         - atmosphere
         - vibes
+        - 'monthly writing tips'
 ---
 
 !["Spooky Atmospheres and Moods"](SpookyAtmosphere.png)
