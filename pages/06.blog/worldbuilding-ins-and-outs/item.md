@@ -27,6 +27,6 @@ Welcome writers! This month, we’ve given some tips on “Worldbuilding Ins & O
 
 **Tip 9:** While worldbuilding, don’t go overboard on planning—you may never get to writing if you do! It’s still a good idea to have some planning in place, **but you don’t need to know *everything.***
 
-!!!!! ######A great way to improve your worldbuilding savvy is to pay attention to the worldbuilding in the books you read. We have a bookmark to help you notice wordbuilding while you read—sign up for our newsletter to get access to this bookmark and more!
+!!!!! A great way to improve your worldbuilding savvy is to pay attention to the worldbuilding in the books you read. We have a bookmark to help you notice wordbuilding while you read—sign up for our newsletter to get access to this bookmark and more!
 !!!!! 
 !!!!! [Newsletter](http://eepurl.com/dk655n?target=_blank){.button}
