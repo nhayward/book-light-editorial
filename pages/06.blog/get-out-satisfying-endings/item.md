@@ -12,6 +12,8 @@ taxonomy:
         - storytelling
         - movies
         - endings
+        - 'story chat radio'
+        - podcast
 date: '09-11-2020 17:59'
 publish_date: '09-11-2020 17:59'
 ---
