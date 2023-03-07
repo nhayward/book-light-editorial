@@ -11,6 +11,7 @@ taxonomy:
         - editing
         - worldbuilding
         - settings
+        - 'monthly writing tips'
 media_order: 'Settings.png,BLE_interactDaily.png,BLE_SettingAsCharacter.png,BLE_history.png,BLE_Genre.png'
 date: '06-07-2021 18:10'
 publish_date: '06-07-2021 18:10'
