@@ -6,6 +6,12 @@ media_order: SoggyMiddles.png
 metadata:
     keywords: 'writing, writing tips, how-to, soggy middles'
     description: 'Get all the tips and tricks on how to tighten up a soggy middle in your novel writing!'
+taxonomy:
+    tag:
+        - 'monthly writing tips'
+        - editing
+        - middles
+        - tension
 ---
 
 ![Soggy Middles](SoggyMiddles.png "SoggyMiddles")
