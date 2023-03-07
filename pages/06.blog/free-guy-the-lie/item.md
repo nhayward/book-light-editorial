@@ -5,6 +5,11 @@ publish_date: '03-01-2023 16:00'
 metadata:
     keywords: 'writing, podcast, how-to, the lie, character building, goal motivation and conflict'
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss The Lie as seen in the movie, Free Guy'
+taxonomy:
+    tag:
+        - 'story chat radio'
+        - podcast
+        - 'character development'
 ---
 
 <iframe title="Embed Player" src="https://play.libsyn.com/embed/episode/id/25231587/height/192/theme/modern/size/large/thumbnail/yes/custom-color/39918e/time-start/00:00:00/playlist-height/200/direction/backward" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>
