@@ -5,6 +5,12 @@ publish_date: '04-07-2022 14:07'
 metadata:
     keywords: 'Favourite, scene, scene structure, structure, books, podcast, writing, how-to'
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss scene structure as seen in the movie, The Favourite'
+taxonomy:
+    tag:
+        - 'story chat radio'
+        - podcast
+        - structure
+        - 'story structure'
 ---
 
 <iframe title="Embed Player" src="//play.libsyn.com/embed/episode/id/23345798/height/192/theme/modern/size/large/thumbnail/yes/custom-color/39918e/time-start/00:00:00/playlist-height/200/direction/backward" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>
