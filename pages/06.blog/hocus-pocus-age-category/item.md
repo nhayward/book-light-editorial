@@ -5,6 +5,12 @@ publish_date: '07-11-2022 14:08'
 metadata:
     keywords: 'writing, podcast, how-to, age category, publishing, publishing expectations'
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss age category as seen in the movie, Hocus Pocus'
+taxonomy:
+    tag:
+        - 'story chat radio'
+        - podcast
+        - 'age category'
+        - publishing
 ---
 
 <iframe title="Embed Player" style="border: none;" src="https://play.libsyn.com/embed/episode/id/24572274/height/192/theme/modern/size/large/thumbnail/yes/custom-color/39918e/time-start/00:00:00/playlist-height/200/direction/backward/download/yes" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true"></iframe>
