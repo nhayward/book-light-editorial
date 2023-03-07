@@ -6,6 +6,13 @@ media_order: WoundsFlaws.png
 metadata:
     keywords: 'writing, how-to, emotional wounds, character flaws, novel writing'
     description: 'Tips and tricks for how to write a character''s wounds and flaws.'
+taxonomy:
+    tag:
+        - 'monthly writing tips'
+        - 'emotional wounds'
+        - 'character development'
+        - character
+        - editing
 ---
 
 ![Wounds & Flaws](WoundsFlaws.png "Wounds & Flaws")
