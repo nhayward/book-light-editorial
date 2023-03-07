@@ -13,6 +13,7 @@ taxonomy:
         - copyediting
         - manuscript
         - self-editing
+        - 'monthly writing tips'
 ---
 
 !["Tightening Up Your Writing"](TighteningUpYourWriting.png "TighteningUpYourWriting")
