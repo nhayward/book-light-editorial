@@ -12,6 +12,8 @@ taxonomy:
         - storytelling
         - movies
         - prologues
+        - 'story chat radio'
+        - podcast
 date: '18-07-2021 18:01'
 publish_date: '18-07-2021 18:01'
 ---
