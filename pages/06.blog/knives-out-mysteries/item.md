@@ -13,6 +13,8 @@ taxonomy:
         - storytelling
         - movies
         - mystery
+        - 'story chat radio'
+        - podcast
 date: '28-06-2020 15:07'
 ---
 
