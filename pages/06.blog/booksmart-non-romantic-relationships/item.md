@@ -15,6 +15,8 @@ taxonomy:
         - movies
         - 'non-romantic relationships'
         - relationships
+        - 'story chat radio'
+        - podcast
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/13286576/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
