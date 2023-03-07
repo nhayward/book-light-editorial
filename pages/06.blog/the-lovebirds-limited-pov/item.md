@@ -12,6 +12,8 @@ taxonomy:
         - storytelling
         - movies
         - 'limited pov'
+        - 'story chat radio'
+        - podcast
 date: '04-09-2020 17:57'
 publish_date: '04-09-2020 17:57'
 ---
