@@ -13,6 +13,7 @@ taxonomy:
         - writing
         - editing
         - dialogue
+        - 'monthly writing tips'
 ---
 
 ![Dos And Don'ts Of Dialogue Tags](DosAndDontsOfDialogueTags.png "DosAndDontsOfDialogueTags")
