@@ -11,6 +11,7 @@ taxonomy:
         - editing
         - self-care
         - positivity
+        - 'monthly writing tips'
 media_order: 'SelfCare.png,BLE_WatchaMovie.png,BLE_FindACommunity.png,BLE_WritingBreaks.png,BLE_PositivityPass.png'
 date: '01-06-2021 18:09'
 publish_date: '01-06-2021 18:09'
