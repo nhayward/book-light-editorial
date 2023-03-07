@@ -16,6 +16,7 @@ taxonomy:
         - 'self publishing'
         - 'indie publishing'
         - sequel
+        - 'monthly writing tips'
 ---
 
 ![Writing A Sequel](WritingASequel.png "Writing A Sequel")
