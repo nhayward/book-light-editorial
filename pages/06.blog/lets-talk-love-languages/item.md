@@ -11,6 +11,7 @@ taxonomy:
         - editing
         - 'character development'
         - 'love languages'
+        - 'monthly writing tips'
 media_order: 'LoveLanguages.png,LoveLanguages2.png,LoveLanguages5.png,LoveLanguages3.png,LoveLanguages8.png,LoveLanguages6.png,LoveLanguages7.png,BLE_LoveLanguages.png,BLE_LoveLanguages2.png'
 date: '02-03-2021 18:11'
 publish_date: '02-03-2021 18:11'
