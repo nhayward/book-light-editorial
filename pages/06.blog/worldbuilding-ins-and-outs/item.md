@@ -1,5 +1,5 @@
 ---
-title: '#Worldbuilding Ins & Outs'
+title: 'Worldbuilding Ins & Outs'
 media_order: WorldbuildingInsOuts.png
 date: '07-03-2023 14:42'
 publish_date: '07-03-2023 14:42'
@@ -8,8 +8,8 @@ metadata:
     description: 'Worldbuilding Ins & Outs: These are great tips to review both before you start your novel and especially after you''ve finished as you prepare for revision!'
 taxonomy:
     tag:
-        - 'monthly writing tips'
         - editing
+        - 'monthly writing tips'
         - 'developmental editing'
         - worldbuilding
 ---
