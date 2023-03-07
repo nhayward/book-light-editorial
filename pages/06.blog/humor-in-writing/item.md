@@ -6,10 +6,12 @@ metadata:
     Description: 'Get all the tips and tricks on how to use humor in your novel writing!'
 taxonomy:
     tag:
-        - 'monthly writing tips'
-        - editing
-        - humor
         - writing
+        - editing
+        - 'monthly writing tips'
+        - humor
+date: '10-01-2023 15:30'
+publish_date: '10-01-2023 15:30'
 ---
 
 ![Humor in Writing](BlogHeader_HumorinWriting.png "Humor in Writing")
