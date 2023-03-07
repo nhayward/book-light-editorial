@@ -12,6 +12,8 @@ taxonomy:
         - storytelling
         - movies
         - tropes
+        - 'story chat radio'
+        - podcast
 date: '10-08-2020 18:03'
 publish_date: '10-08-2020 18:03'
 ---
