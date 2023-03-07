@@ -12,6 +12,8 @@ taxonomy:
         - storytelling
         - movies
         - symbolism
+        - 'story chat radio'
+        - podcast
 date: '18-11-2021 14:01'
 publish_date: '18-11-2021 14:01'
 ---
