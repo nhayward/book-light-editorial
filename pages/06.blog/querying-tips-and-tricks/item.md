@@ -5,6 +5,12 @@ date: '04-10-2022 13:39'
 metadata:
     keywords: 'writing, editing, querying, writing tips, agent query, literary agent'
     Description: 'Querying your book can be confusing. Always remember, when you’re going to start querying you want to give yourself the best chance. Use these tips to get you on your way!'
+taxonomy:
+    tag:
+        - 'monthly writing tips'
+        - query
+        - publishing
+        - agents
 ---
 
 ![Querying Tips and Tricks](QueryingTips.png "QueryingTips")
