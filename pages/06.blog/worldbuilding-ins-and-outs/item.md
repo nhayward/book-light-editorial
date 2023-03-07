@@ -1,6 +1,8 @@
 ---
 title: 'Worldbuilding Ins & Outs'
 media_order: WorldbuildingInsOuts.png
+date: '07-03-2023 14:42'
+publish_date: '07-03-2023 14:42'
 ---
 
 ![Worldbuilding Ins & Outs](WorldbuildingInsOuts.png "Worldbuilding Ins & Outs")
