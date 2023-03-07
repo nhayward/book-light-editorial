@@ -13,6 +13,8 @@ taxonomy:
         - storytelling
         - movies
         - voice
+        - 'story chat radio'
+        - podcast
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/12568181/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
