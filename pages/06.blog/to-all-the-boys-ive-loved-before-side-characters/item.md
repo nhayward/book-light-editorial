@@ -12,7 +12,10 @@ taxonomy:
         - editing
         - storytelling
         - movies
+        - 'story chat radio'
+        - podcast
         - characters
+publish_date: '07-01-2020 00:00'
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/12139997/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
