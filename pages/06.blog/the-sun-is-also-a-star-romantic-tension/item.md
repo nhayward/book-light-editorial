@@ -12,6 +12,8 @@ taxonomy:
         - storytelling
         - movies
         - romance
+        - 'story chat radio'
+        - podcast
 date: '23-02-2021 18:34'
 ---
 
