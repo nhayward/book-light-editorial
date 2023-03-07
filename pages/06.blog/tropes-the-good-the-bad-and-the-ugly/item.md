@@ -4,6 +4,12 @@ media_order: Tropes.png
 metadata:
     keywords: 'writing, tropes'
     description: 'learn how to utilize tropes in your writing and avoid harmful ones'
+date: '12-04-2022 15:54'
+taxonomy:
+    tag:
+        - 'monthly writing tips'
+        - tropes
+        - writing
 ---
 
 ![Tropes: the Good, the Bad, and the Ugly](Tropes.png "Tropes")
