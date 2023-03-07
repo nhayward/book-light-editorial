@@ -9,8 +9,9 @@ taxonomy:
         - publishing
         - writing
         - editing
-        - POV
         - 'points of view'
+        - POV
+        - 'monthly writing tips'
 date: '11-01-2022 18:05'
 publish_date: '11-01-2022 18:05'
 ---
