@@ -14,6 +14,7 @@ taxonomy:
         - writing
         - editing
         - routine
+        - 'monthly writing tips'
 ---
 
 !["Creating Your Writing Routine"](WritingRoutine.png)
