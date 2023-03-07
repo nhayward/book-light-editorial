@@ -3,6 +3,10 @@ title: 'Finding Inspiration'
 media_order: 'FindingInspiration.png,BLE_AugustWritingTip3.png,BLE_AugustWritingTip4.png'
 date: '01-09-2021 16:57'
 publish_date: '01-09-2021 16:57'
+taxonomy:
+    tag:
+        - writing
+        - 'monthly writing tips'
 ---
 
 !["Finding Inspiration"](FindingInspiration.png)
