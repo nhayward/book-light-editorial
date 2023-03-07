@@ -10,6 +10,7 @@ taxonomy:
         - writing
         - editing
         - character
+        - 'monthly writing tips'
 media_order: 'DivingDeepWithCharacters.png,BLE_Goals.png,BLE_CharacterHistory.png,BLE_flaws.png,BLE_Relationships.png'
 date: '10-08-2021 18:10'
 publish_date: '10-08-2021 18:10'
