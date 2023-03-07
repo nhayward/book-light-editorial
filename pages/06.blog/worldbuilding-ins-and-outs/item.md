@@ -27,4 +27,4 @@ Welcome writers! This month, we’ve given some tips on “Worldbuilding Ins & O
 
 **Tip 9:** While worldbuilding, don’t go overboard on planning—you may never get to writing if you do! It’s still a good idea to have some planning in place, **but you don’t need to know *everything.***
 
-!!!!! If your novel is finished and you still feel like the worldbuilding is holding your manuscript back, remember that you don't have to go at it alone! At Book Light Editorial we love helping writers develop their worlds to uplift their story as a whole. Check out our [services page](/services) to learn more about how we can help! 
+!!!!! A great way to improve your worldbuilding savvy is to pay attention to the worldbuilding in the books you read. We have a bookmark to help you notice wordbuilding while you read—[sign up for our newsletter](http://eepurl.com/dk655n?target=_blank) to get access to this bookmark and more!
