@@ -9,9 +9,10 @@ taxonomy:
         - publishing
         - writing
         - editing
-        - 'character development'
         - 'opening pages'
+        - 'character development'
         - 'first pages'
+        - 'monthly writing tips'
 media_order: FirstPages.png
 date: '30-03-2021 18:13'
 publish_date: '30-03-2021 18:13'
