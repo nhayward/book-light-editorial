@@ -13,6 +13,8 @@ taxonomy:
         - movies
         - 'opening pages'
         - 'first pages'
+        - 'story chat radio'
+        - podcast
 publish_date: '05-04-2021 17:53'
 date: '05-04-2021 17:53'
 ---
