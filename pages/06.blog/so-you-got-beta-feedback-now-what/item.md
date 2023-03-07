@@ -9,10 +9,11 @@ taxonomy:
         - publishing
         - writing
         - editing
+        - structure
         - 'character development'
         - feedback
         - 'beta feedback'
-        - structure
+        - 'monthly writing tips'
 media_order: BLE_AfterFeedback.png
 date: '10-05-2021 18:16'
 publish_date: '10-05-2021 18:16'
