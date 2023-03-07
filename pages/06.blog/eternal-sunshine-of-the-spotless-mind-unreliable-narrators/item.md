@@ -12,6 +12,8 @@ taxonomy:
         - storytelling
         - movies
         - 'unreliable narrators'
+        - 'story chat radio'
+        - podcast
 date: '10-08-2021 17:58'
 publish_date: '10-08-2021 17:58'
 ---
