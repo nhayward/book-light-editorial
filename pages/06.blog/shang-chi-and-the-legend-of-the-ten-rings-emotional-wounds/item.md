@@ -12,6 +12,8 @@ taxonomy:
         - storytelling
         - movies
         - 'emotional wounds'
+        - 'story chat radio'
+        - podcast
 date: '13-12-2021 18:00'
 publish_date: '13-12-2021 18:00'
 ---
