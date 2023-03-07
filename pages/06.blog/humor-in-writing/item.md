@@ -4,6 +4,12 @@ media_order: BlogHeader_HumorinWriting.png
 metadata:
     keywords: 'writing, writing tips, how-to, humor'
     Description: 'Get all the tips and tricks on how to use humor in your novel writing!'
+taxonomy:
+    tag:
+        - 'monthly writing tips'
+        - editing
+        - humor
+        - writing
 ---
 
 ![Humor in Writing](BlogHeader_HumorinWriting.png "Humor in Writing")
