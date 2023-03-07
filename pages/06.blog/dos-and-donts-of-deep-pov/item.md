@@ -6,6 +6,11 @@ publish_date: '03-05-2022 09:23'
 metadata:
     keywords: 'Deep POV, Point-of-view, writing, how-to'
     description: 'learn how to deepen the point-of-view (POV) in your writing and avoid harmful ones'
+taxonomy:
+    tag:
+        - 'monthly writing tips'
+        - 'Deep POV'
+        - 'points of view'
 ---
 
 ![Dos And Don'ts Of Deep POV](DosAndDontsOfDeepPOV.png "Dos And Don'ts Of Deep POV")
