@@ -12,8 +12,6 @@ media_order: 'Poynter_NewsUniversity.png,shoreindie_logo.png,R&Reditor_small.png
 
 She holds an MFA in Nonfiction from the Mountainview low-residency program, where she wrote a coming-of-age memoir under the mentorship of published authors and exstensively studied craft and publishing. She graduated from the University of New Hampshire magna cum laude with a BA in English. There, she focused her studies on print journalism, news editing, and fiction and nonfiction writing.
 
-Laura lives in New Hampshire, where she cocoons herself in blankets and edits from her secondhand La-Z-Boy chair. When she’s not editing, you can find her working on her own writing, binge-watching America’s Next Top Model, or trying her hand at indoor rock-climbing.
-
 Pronouns: She/Her
 
 !!!!! **Specialties:**
