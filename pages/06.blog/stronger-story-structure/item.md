@@ -1,6 +1,9 @@
 ---
 title: 'Stronger Story Structure'
+media_order: StrongerStructure.png
 ---
+
+![Stronger Story Structure](StrongerStructure.png "Stronger Story Structure")
 
 Understanding the structure of your story can be super helpful *before* you start drafting, but regardless of what work you did before, *after* is a great time to review your story's structure and make it **even stronger**. Here are 9 tips to help you revise for stronger story structure! 
 
