@@ -22,4 +22,7 @@ Tip 8: **The stakes should increase as the story goes on**, or else it will feel
 
 Tip 9: **Your novel will feel more powerful when characters change throughout the story**, because that makes it a life-changing narrative… for better or for worse.
 
-Finally, because story structure encompasses the entire novel, you might be a bit too close to clearly see whether it's holding up. Take a break for a fresh pair of eyes before delving into structural revisions or ask an outside opinion. We'd love to provide that second pair of eyes, so check out our [services page](/services) if you want to learn more about how we can help.  
+ 
+!!!!! Finally, because story structure encompasses the entire novel, you might be a bit too close to clearly see whether it's holding up. Take a break for a fresh pair of eyes before delving into structural revisions or ask an outside opinion. We'd love to provide that second pair of eyes, so check out our services page if you want to learn more about how we can help.
+!!!!! 
+!!!!! [Services](/services){.button}
