@@ -1,6 +1,8 @@
 ---
 title: 'Stronger Story Structure'
 media_order: StrongerStructure.png
+date: '12-04-2023 16:05'
+publish_date: '12-04-2023 16:05'
 ---
 
 ![Stronger Story Structure](StrongerStructure.png "Stronger Story Structure")
