@@ -3,6 +3,15 @@ title: 'Stronger Story Structure'
 media_order: StrongerStructure.png
 date: '12-04-2023 16:05'
 publish_date: '12-04-2023 16:05'
+metadata:
+    keywords: 'writing, story structure, how-to, structure'
+    description: 'Getting a Stronger Story Structure: Understanding the structure of your story can be super helpful before you start drafting, but regardless of what work you did before, after is a great time to review your story''s structure and make it even stronger.'
+taxonomy:
+    tag:
+        - editing
+        - 'monthly writing tips'
+        - 'story structure'
+        - structure
 ---
 
 ![Stronger Story Structure](StrongerStructure.png "Stronger Story Structure")
