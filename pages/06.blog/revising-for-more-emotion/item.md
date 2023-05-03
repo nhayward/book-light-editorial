@@ -1,6 +1,11 @@
 ---
 title: 'Revising for More Emotion'
 media_order: RevisingForEmotion.png
+date: '03-05-2023 16:38'
+publish_date: '03-05-2023 16:38'
+metadata:
+    keywords: 'writing, editing, emotion, revising, how-to, novel writing'
+    description: ''
 ---
 
 ![Revising for More Emotion](RevisingForEmotion.png "Revising for More Emotion")
