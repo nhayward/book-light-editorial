@@ -1,6 +1,9 @@
 ---
 title: 'Revising for More Emotion'
+media_order: RevisingForEmotion.png
 ---
+
+![Revising for More Emotion](RevisingForEmotion.png "Revising for More Emotion")
 
 All writers are different, but keep in mind that first drafts are your opportunity to explore *your* emotions about your novel. That's why revisions and later drafts are a great time to fine tune and emphasize the emotions within! These are our 9 tips on how to revise for more emotion: 
 
