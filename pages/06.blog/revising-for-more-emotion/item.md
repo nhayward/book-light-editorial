@@ -6,6 +6,13 @@ publish_date: '03-05-2023 16:38'
 metadata:
     keywords: 'writing, editing, emotion, revising, how-to, novel writing'
     description: ''
+taxonomy:
+    tag:
+        - writing
+        - editing
+        - 'emotional wounds'
+        - character
+        - 'character development'
 ---
 
 ![Revising for More Emotion](RevisingForEmotion.png "Revising for More Emotion")
