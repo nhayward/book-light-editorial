@@ -13,11 +13,11 @@ boxes:
         package: true
         content: "<span class=\"first-character\">T</span>**he Shiny Submission:**\nIf you are planning on querying agents, this is the package for you. We take your submission materials and offer in-depth feedback, giving you steps to make it shiny before sending it off to agents. This package includes a critique of your query, synopsis, and first 50 pages. It results in a 2- to 4-page letter.\n\n**Cost:** $300, flat rate\n\n<a class=\"button\" href=\"/contact?form-select=shiny#contact\">Get Started</a>\n\n\n\n"
     -
-        package: true
-        content: "<span class=\"first-character\">T</span>**he Neon Indie Bundle:**\nAre you an indie author or planning to self-publish? This bundle gives you everything you need to polish your manuscript before publication. We will take you from big-picture edits all the way to spelling and grammar fixes. This bundle includes a manuscript evaluation, a second-round review (the Glow Package), and a copyedit. \n\n**Cost:** 3.4 cents per word; note that word count will change between rounds of editing\n\n<a class=\"button\" href=\"/contact?form-select=neon#contact\">Get Started</a>"
-    -
         package: false
         content: "<span class=\"first-character\">C</span>**opyedit:** After you’ve polished your book via developmental edits and revision, it’s time for a copyedit. We will comb through your novel and edit for grammar, punctuation, and consistency of style. Minor changes in wording or light rewrites may also be made for clarity.\n\n**Cost:** 1.5 - 2.5 cents per word\n\n_**Optional add-on:** Style sheet - $75_\n\n<a class=\"button\" href=\"/contact?form-select=copy#contact\">Get Started</a>\n"
+    -
+        package: true
+        content: "<span class=\"first-character\">T</span>**he Neon Indie Bundle:**\nAre you an indie author or planning to self-publish? This bundle gives you everything you need to polish your manuscript before publication. We will take you from big-picture edits all the way to spelling and grammar fixes. This bundle includes a manuscript evaluation, a second-round review (the Glow Package), and a copyedit. \n\n**Cost:** 3.4 cents per word; note that word count will change between rounds of editing\n\n<a class=\"button\" href=\"/contact?form-select=neon#contact\">Get Started</a>"
     -
         package: false
         content: "<span class=\"first-character\">P</span>**roofread:** Once your manuscript has been professionally edited and copyedited, you're ready for a proofread. During this final stage of revisions, we will make sure your work is reader-ready by correcting typos, misused words, and other embarrassing errors.\n\n**Cost:** Starts at 1 cent per word\n\n<a class=\"button\" href=\"/contact?form-select=proofread#contact\">Get Started</a>\n"
