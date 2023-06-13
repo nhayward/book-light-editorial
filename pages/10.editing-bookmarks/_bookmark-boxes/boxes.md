@@ -16,6 +16,9 @@ boxes:
     -
         package: false
         content: "### Emotion\n\nHere you'll find the emotion bookmark to help you think about how to revise for emotion in your own writing while you're reading. \n\n[Download](/materials/EditingBookmark_Emotion.pdf?target=_blank){.button}"
+    -
+        package: false
+        content: "### Info Dump With Style\n\n\nHere you'll find the info dump bookmark to help you think about how to share information and worldbuilding in your own writing while you're reading. \n\n[Download](/materials/EditingBookmark_InfoDump.pdf?target=_blank){.button}"
 routable: false
 visible: false
 ---
