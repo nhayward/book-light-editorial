@@ -1,6 +1,9 @@
 ---
 title: 'Info Dump With Style'
+media_order: InfoDump.png
 ---
+
+![Info Dump With Style](InfoDump.png "Info Dump With Style")
 
 At the end of the day, a novel is just an exercise in sharing a bunch of information with your reader. Oof, that oversimplification doesn't make reading seem like a fun activity, does it? Here are 9 tips that will make the info-dumps an entertaining pastime for your reader:
 
