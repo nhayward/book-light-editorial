@@ -1,6 +1,18 @@
 ---
 title: 'Info Dump With Style'
 media_order: InfoDump.png
+date: '13-06-2023 13:40'
+publish_date: '13-06-2023 13:40'
+metadata:
+    keywords: 'writing, info dump, how-to, manuscript, novel writing, editing'
+    description: 'Conveying background information to readers can be difficult when you''re writing a novel, not matter the genre. Learn how to do it with style!'
+taxonomy:
+    tag:
+        - writing
+        - editing
+        - 'monthly writing tips'
+        - worldbuilding
+        - grounding
 ---
 
 ![Info Dump With Style](InfoDump.png "Info Dump With Style")
