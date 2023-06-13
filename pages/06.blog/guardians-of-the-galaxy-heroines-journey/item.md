@@ -5,6 +5,12 @@ publish_date: '13-06-2023 13:28'
 metadata:
     keywords: 'writing, podcast, how-to, heroine''s journey, story structure'
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss the Heroine''s Journey as seen in the movie, Guardians of the Galaxy'
+taxonomy:
+    tag:
+        - 'story chat radio'
+        - podcast
+        - structure
+        - 'story structure'
 ---
 
 <iframe title="Embed Player" src="https://play.libsyn.com/embed/episode/id/26779176/height/192/theme/modern/size/large/thumbnail/yes/custom-color/39918e/time-start/00:00:00/playlist-height/200/direction/backward" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>
