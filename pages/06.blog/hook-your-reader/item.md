@@ -2,6 +2,14 @@
 title: 'Hook Your Reader'
 date: '06-07-2023 13:55'
 publish_date: '06-07-2023 13:55'
+metadata:
+    keywords: 'writing, hook readers, how-to, manuscript, novel writing, editing'
+    description: 'Grabbing a reader''s attention and making them want to read more can be tricky Learn how to do it well!'
+taxonomy:
+    tag:
+        - writing
+        - 'monthly writing tips'
+        - 'opening pages'
 ---
 
 As a reader, is there anything more exciting than opening a new book and being completely hooked by that first sentence, paragraph, page, chapter? For writers, the openings of your novels are your chance to show off what's amazing about your book and to convince your readers to stick through to the end. Here are nine tips to help you pull that off!
