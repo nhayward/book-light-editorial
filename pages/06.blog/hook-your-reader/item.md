@@ -10,7 +10,10 @@ taxonomy:
         - writing
         - 'monthly writing tips'
         - 'opening pages'
+media_order: HookReader.png
 ---
+
+![Hook Your Reader](HookReader.png "Hook Your Reader")
 
 As a reader, is there anything more exciting than opening a new book and being completely hooked by that first sentence, paragraph, page, chapter? For writers, the openings of your novels are your chance to show off what's amazing about your book and to convince your readers to stick through to the end. Here are nine tips to help you pull that off!
 
