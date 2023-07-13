@@ -19,6 +19,9 @@ boxes:
     -
         package: false
         content: "### Info Dump With Style\n\n\nHere you'll find the info dump bookmark to help you think about how to share information and worldbuilding in your own writing while you're reading. \n\n[Download](/materials/EditingBookmark_InfoDump.pdf?target=_blank){.button}"
+    -
+        package: false
+        content: "### Hook Your Reader\n\n\nHere you'll find the hooking your reader bookmark to help you think about how to start your book and keep readers interested while you're reading. \n\n[Download](/materials/EditingBookmark_Hooks.pdf?target=_blank){.button}\n"
 routable: false
 visible: false
 ---
