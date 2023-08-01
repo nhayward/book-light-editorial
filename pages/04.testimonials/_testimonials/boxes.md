@@ -81,6 +81,9 @@ boxes:
     -
         package: false
         content: "><span class=\"first-character\">I</span>n Carly’s developmental editing of my novel, she dealt with issues, both large and small. Chronology, plot consistency, character motivation, authentic dialogue, point of view, word choices, etc. I appreciated the exhaustive detail and acuteness of her perceptions, but even more than that, I especially valued her understanding of my intent and my overall vision. She kept true to my vision for the novel and helped greatly in turning that vision into a reality.\n\n-Danny Davis, Historical YA author\n"
+    -
+        package: false
+        content: "><span class=\"first-character\">A</span>fter querying three manuscripts and filling numerous folders with unfinished drafts, I realized I needed some help. In 2022, I entered \\#RevPit with a story I couldn’t let go of no matter how hard I tried. I had the privilege of meeting Carly through \\#10Queries when she offered feedback on my work. That was the moment my querying journey altered course.\n\nI can say without a doubt that working with Carly changed the trajectory of my writing and my life. Carly arranged a call to discuss my querying materials and to brainstorm on how to make them stronger and more marketable while staying true to my story. For starters, she helped categorize the genre and find stronger comp titles. Also, she gave me specific, actionable guidance on how to strengthen my query letter, synopsis, and first fifty pages.\n\nWhen I re-entered the query trenches last autumn, I noticed an immediate difference. I received more partial and full requests than I’d experienced with any other manuscript. Within a month of querying my revised materials, I signed with a literary agent.\n\nCarly is kind, honest, insightful, and a brilliant editor. I absolutely love working her!\n\n-Jennifer Thé, Gothic Fiction Writer"
 routable: false
 visible: false
 title: 'Testimonial Boxes'
