@@ -75,6 +75,9 @@ boxes:
     -
         package: false
         content: "><span class=\"first-character\">I</span>n Carly’s developmental editing of my novel, she dealt with issues, both large and small. Chronology, plot consistency, character motivation, authentic dialogue, point of view, word choices, etc. I appreciated the exhaustive detail and acuteness of her perceptions, but even more than that, I especially valued her understanding of my intent and my overall vision. She kept true to my vision for the novel and helped greatly in turning that vision into a reality.\n\n-Danny Davis, Historical YA author\n"
+    -
+        package: false
+        content: "><span class=\"first-character\">I</span> loved working with Carly! I received editorial services similar to her Shiny Submissions Package via her periodic Light Up Voices drawing. Her advice was SO helpful and actionable that I did 100+ hrs of revision ahead of querying and my novel was greatly improved! My favorite part of her detailed editorial letter was when she asked what a side character’s personality was beyond liking squirrels, lol. If you’re preparing submission materials or have other editorial needs, Carly is amazing!!!\n\n-Laura Galán-Wells, SFF writer represented by Samantha Wekstein at Thompson Literary Agency."
 routable: false
 visible: false
 title: 'Testimonial Boxes'
