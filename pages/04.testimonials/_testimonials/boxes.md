@@ -78,6 +78,9 @@ boxes:
     -
         package: false
         content: "><span class=\"first-character\">I</span>n Carly’s developmental editing of my novel, she dealt with issues, both large and small. Chronology, plot consistency, character motivation, authentic dialogue, point of view, word choices, etc. I appreciated the exhaustive detail and acuteness of her perceptions, but even more than that, I especially valued her understanding of my intent and my overall vision. She kept true to my vision for the novel and helped greatly in turning that vision into a reality.\n\n-Danny Davis, Historical YA author\n"
+    -
+        package: false
+        content: "><span class=\"first-character\">I</span> had lost the bird’s eye view of my story after a while and Carly really helped me become excited about my story again. I learned parts that weren’t working and how to simplify an adult fantasy. She asked me some great questions and made comments that made my story so much stronger!\n\n- Darby Cox, Writer"
 routable: false
 visible: false
 title: 'Testimonial Boxes'
