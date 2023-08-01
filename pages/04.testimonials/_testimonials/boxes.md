@@ -38,6 +38,9 @@ boxes:
         content: "><span class=\"first-character\">L</span>aura helped me to fix the key complaint I received from beta readers: too many typos and style inconsistencies. Turns out the bugs were hidden in plain sight — you can never see your own typos! (If there’s a typo in this testimonial, that’s on me.) I have to add that, in addition to the necessary repairs, it was such fun seeing her reactions and encouragement noted throughout the text, sprinkled like Easter eggs. That human touch is important to me, as I’m primarily aiming my book at humans.\n\n-J.D. Robinson, Sci-fi and Young Adult author\n"
     -
         package: false
+        content: "><span class=\"first-character\">I</span> loved working with Carly! I received editorial services similar to her Shiny Submissions Package via her periodic Light Up Voices drawing. Her advice was SO helpful and actionable that I did 100+ hrs of revision ahead of querying and my novel was greatly improved! My favorite part of her detailed editorial letter was when she asked what a side character’s personality was beyond liking squirrels, lol. If you’re preparing submission materials or have other editorial needs, Carly is amazing!!!\n\n-Laura Galán-Wells, SFF writer represented by Samantha Wekstein at Thompson Literary Agency."
+    -
+        package: false
         content: "><span class=\"first-character\">C</span>arly has completed two developmental edits for me within the past two years on two separate manuscripts. Both times I was impressed with not only the turn-around time, but how thorough her feedback was. She helped me see my projects from a reader's perspective but also offered advice on the marketability of it. Her enthusiasm for my work was met with a perfect balance of constructive criticism. While I had no doubt she's in my corner, she also wasn't afraid to challenge. Because of this, I'm able to put out the best work possible. Always a professional, she's also someone I can't wait to share a cuppa with someday.\n\n-Lissa Carlino, Author of <i>Woman Enough</i>\n"
     -
         package: false
@@ -75,9 +78,6 @@ boxes:
     -
         package: false
         content: "><span class=\"first-character\">I</span>n Carly’s developmental editing of my novel, she dealt with issues, both large and small. Chronology, plot consistency, character motivation, authentic dialogue, point of view, word choices, etc. I appreciated the exhaustive detail and acuteness of her perceptions, but even more than that, I especially valued her understanding of my intent and my overall vision. She kept true to my vision for the novel and helped greatly in turning that vision into a reality.\n\n-Danny Davis, Historical YA author\n"
-    -
-        package: false
-        content: "><span class=\"first-character\">I</span> loved working with Carly! I received editorial services similar to her Shiny Submissions Package via her periodic Light Up Voices drawing. Her advice was SO helpful and actionable that I did 100+ hrs of revision ahead of querying and my novel was greatly improved! My favorite part of her detailed editorial letter was when she asked what a side character’s personality was beyond liking squirrels, lol. If you’re preparing submission materials or have other editorial needs, Carly is amazing!!!\n\n-Laura Galán-Wells, SFF writer represented by Samantha Wekstein at Thompson Literary Agency."
 routable: false
 visible: false
 title: 'Testimonial Boxes'
