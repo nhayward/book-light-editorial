@@ -62,25 +62,25 @@ boxes:
         content: "><span class=\"first-character\">I</span> had the pleasure to work with Carly during the first Pitch to Publication event. We had a relatively short time to implement her suggestions due to contest constraints, but the critique she gave me was clear and concise. Her encouragement and expertise in the genre was invaluable for story crafting. Carly's suggestions for character development were spot-on and helped me make my MC so much more relatable. I recommend her as a valuable development resource!\n\n-E. M. Hamill, Author of <i>Nectar and Ambrosia</i>\n"
     -
         package: false
+        content: "><span class=\"first-character\">I</span> had lost the bird’s eye view of my story after a while and Carly really helped me become excited about my story again. I learned parts that weren’t working and how to simplify an adult fantasy. She asked me some great questions and made comments that made my story so much stronger!\n\n- Darby Cox, Writer"
+    -
+        package: false
         content: "><span class=\"first-character\">I</span> was lucky enough to win a Developmental Edit with Carly as part of an online writing contest. Carly helped me sort through all the weaknesses in my manuscript and gave me suggestions on how it could improve. She also helped me polish up my query letter so I could have the best possible chance with agents. She helped me make my story the best it could be and I'd recommend her to anyone looking to take their manuscript to the next level. Thanks Carly!\n\n-Liz Kelly\n"
     -
         package: false
         content: "><span class=\"first-character\">C</span>arly understood exactly what I was looking for and accommodated both my needs and budget. Her manuscript assessment allowed me to focus on the weakest points of my story so I could determine the best use of my time and energy as I tackled further editing rounds. During the process, she was responsive and very encouraging.\n\n-Clara MacCarald, Romance and Young Adult author\n"
     -
         package: false
-        content: "><span class=\"first-character\">C</span>arly's incisive mind, solid understanding of storytelling, and experience in the traditional publishing industry set her apart from the freelance editing crowd. When I send her my best work I'm confident that her edits will make it even better.\n\n-Ty Black\n"
+        content: "><span class=\"first-character\">C</span>arly is an amazing editor. I went through five different (and terrible) queries before finding her. She took my most recent query and turned it into a query I am proud to submit. She also crafted a fantastic synopsis for me!\n\n-Laura Wilson-Anderson, Sci-fi and Fantasy author\n"
     -
         package: false
-        content: "><span class=\"first-character\">C</span>arly is an amazing editor. I went through five different (and terrible) queries before finding her. She took my most recent query and turned it into a query I am proud to submit. She also crafted a fantastic synopsis for me!\n\n-Laura Wilson-Anderson, Sci-fi and Fantasy author\n"
+        content: "><span class=\"first-character\">C</span>arly's incisive mind, solid understanding of storytelling, and experience in the traditional publishing industry set her apart from the freelance editing crowd. When I send her my best work I'm confident that her edits will make it even better.\n\n-Ty Black\n"
     -
         package: false
         content: "><span class=\"first-character\">A</span>s far as Carly goes, she offers the complete experience. Her process for developmental editing leaves no stone unturned and assures that every facet, both in the perspective of grammar and storytelling are covered and revised for a more fulfilling literary experience. I was completely satisfied with working with Carly.\n\n-Theo Taylor, Sci-fi and Fantasy author\n"
     -
         package: false
         content: "><span class=\"first-character\">I</span>n Carly’s developmental editing of my novel, she dealt with issues, both large and small. Chronology, plot consistency, character motivation, authentic dialogue, point of view, word choices, etc. I appreciated the exhaustive detail and acuteness of her perceptions, but even more than that, I especially valued her understanding of my intent and my overall vision. She kept true to my vision for the novel and helped greatly in turning that vision into a reality.\n\n-Danny Davis, Historical YA author\n"
-    -
-        package: false
-        content: "><span class=\"first-character\">I</span> had lost the bird’s eye view of my story after a while and Carly really helped me become excited about my story again. I learned parts that weren’t working and how to simplify an adult fantasy. She asked me some great questions and made comments that made my story so much stronger!\n\n- Darby Cox, Writer"
 routable: false
 visible: false
 title: 'Testimonial Boxes'
