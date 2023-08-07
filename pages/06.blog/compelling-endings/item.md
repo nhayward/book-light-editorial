@@ -1,5 +1,9 @@
 ---
 title: 'Compelling Endings'
+date: '07-08-2023 16:08'
+publish_date: '07-08-2023 16:08'
+metadata:
+    keywords: 'writing, how-to, endings, "'
 ---
 
 ![Compelling Endings](CompellingEndings.png "Compelling Endings")
