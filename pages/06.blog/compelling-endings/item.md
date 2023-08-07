@@ -3,7 +3,13 @@ title: 'Compelling Endings'
 date: '07-08-2023 16:08'
 publish_date: '07-08-2023 16:08'
 metadata:
-    keywords: 'writing, how-to, endings, "'
+    keywords: 'writing, how-to, endings, "writing endings", "novel writing", novel, "ending a book"'
+    description: 'Writing a novel is hard enough on its own, but writing a compelling ending is even harder. Get tips on how to make your books ending satisfying and exciting!'
+taxonomy:
+    tag:
+        - writing
+        - 'monthly writing tips'
+        - endings
 ---
 
 ![Compelling Endings](CompellingEndings.png "Compelling Endings")
