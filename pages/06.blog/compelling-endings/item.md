@@ -2,6 +2,8 @@
 title: 'Compelling Endings'
 ---
 
+![Compelling Endings](CompellingEndings.png "Compelling Endings")
+
 A strong start will convince someone to give your novel a chance and a strong middle will keep them going, but a strong ending is what will leave your reader feeling satisfied and convince them to read the next book and share your book with others. Here are some tips on how to craft a compelling ending.
 
 Tip 1: Just like your opening, **your ending should emphasize what's unique about your novel**, so that it can impress itself in your reader's mind.
