@@ -2,7 +2,6 @@
 profile_image:
     src: Book_Light_Editorial_Carly_Hayward.png
     alt_text: 'Carly Hayward'
-twitter_handle: FromCarly
 editor_name: 'Carly Hayward'
 editor_title: 'Chief Developmental Editor & Founder'
 title: Carly
