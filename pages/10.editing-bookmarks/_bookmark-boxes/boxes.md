@@ -22,6 +22,9 @@ boxes:
     -
         package: false
         content: "### Hook Your Reader\n\n\nHere you'll find the hooking your reader bookmark to help you think about how to start your book and keep readers interested while you're reading. \n\n[Download](/materials/EditingBookmark_Hooks.pdf?target=_blank){.button}\n"
+    -
+        package: false
+        content: "### Compelling Endings\n\n\nHere you'll find the compelling endings bookmark to help you think about how to end your book and make readers satisfied while you're reading. \n\n[Download](/materials/EditingBookmark_Endings.pdf?target=_blank){.button}"
 routable: false
 visible: false
 ---
