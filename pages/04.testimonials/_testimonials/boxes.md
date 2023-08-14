@@ -90,6 +90,9 @@ boxes:
     -
         package: false
         content: "><span class=\"first-character\">I</span>n Carly’s developmental editing of my novel, she dealt with issues, both large and small. Chronology, plot consistency, character motivation, authentic dialogue, point of view, word choices, etc. I appreciated the exhaustive detail and acuteness of her perceptions, but even more than that, I especially valued her understanding of my intent and my overall vision. She kept true to my vision for the novel and helped greatly in turning that vision into a reality.\n\n-Danny Davis, Historical YA author\n"
+    -
+        package: false
+        content: "><span class=\"first-character\">C</span>arly at Book Light Editorial worked with me on my debut novel. I can't wait to work with her on another project! She provided specific feedback in an actionable format. She was incredibly encouraging, showing me areas I excelled and showing me how I could improve other areas. With The _Neon Indie Bundle_, we did two rounds of evaluations and a copy edit. Each time I sent it back, I felt more and more confident about my manuscript. Her team was integral in WSB being published! I highly recommend Carly's service to any writer!\n\n-Amelia J. Rivers, author of When SHadows Bleed"
 routable: false
 visible: false
 title: 'Testimonial Boxes'
