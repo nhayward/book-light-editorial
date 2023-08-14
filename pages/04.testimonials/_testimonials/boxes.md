@@ -68,6 +68,9 @@ boxes:
         content: "><span class=\"first-character\">I</span> had lost the bird’s eye view of my story after a while and Carly really helped me become excited about my story again. I learned parts that weren’t working and how to simplify an adult fantasy. She asked me some great questions and made comments that made my story so much stronger!\n\n-Darby Cox, Writer"
     -
         package: false
+        content: "><span class=\"first-character\">C</span>arly at Book Light Editorial worked with me on my debut novel. I can't wait to work with her on another project! She provided specific feedback in an actionable format. She was incredibly encouraging, showing me areas I excelled and showing me how I could improve other areas. With The _Neon Indie Bundle_, we did two rounds of evaluations and a copy edit. Each time I sent it back, I felt more and more confident about my manuscript. Her team was integral in WSB being published! I highly recommend Carly's service to any writer!\n\n-Amelia J. Rivers, author of _When Shadows Bleed_"
+    -
+        package: false
         content: "><span class=\"first-character\">C</span>arly has given me outstanding feedback on my manuscript and I am extremely happy I found her. What I have loved about her critique is that she provides very concrete and easy to understand advice. She identified specific issues with my manuscript and then gave me ideas about how to fix them. Another thing I appreciate is that she gave me rationale for why certain things weren't working. Once I heard that the intro to my Romance was reading like a YA, I was all in.\n\n>In addition to the full manuscript, Carly has helped with my novel synopsis and she has reread revised sections of the manuscript. Each time, she has given me greater insight into what I've put on the page, and she has helped me understand how readers, agents and publishers will see it. All the while, she has been very encouraging and excited about my work. I couldn't hope for a better editor.\n\n-Bliss Esposito\n"
     -
         package: false
@@ -90,9 +93,6 @@ boxes:
     -
         package: false
         content: "><span class=\"first-character\">I</span>n Carly’s developmental editing of my novel, she dealt with issues, both large and small. Chronology, plot consistency, character motivation, authentic dialogue, point of view, word choices, etc. I appreciated the exhaustive detail and acuteness of her perceptions, but even more than that, I especially valued her understanding of my intent and my overall vision. She kept true to my vision for the novel and helped greatly in turning that vision into a reality.\n\n-Danny Davis, Historical YA author\n"
-    -
-        package: false
-        content: "><span class=\"first-character\">C</span>arly at Book Light Editorial worked with me on my debut novel. I can't wait to work with her on another project! She provided specific feedback in an actionable format. She was incredibly encouraging, showing me areas I excelled and showing me how I could improve other areas. With The _Neon Indie Bundle_, we did two rounds of evaluations and a copy edit. Each time I sent it back, I felt more and more confident about my manuscript. Her team was integral in WSB being published! I highly recommend Carly's service to any writer!\n\n-Amelia J. Rivers, author of _When Shadows Bleed_"
 routable: false
 visible: false
 title: 'Testimonial Boxes'
