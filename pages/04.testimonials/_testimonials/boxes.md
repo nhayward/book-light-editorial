@@ -87,6 +87,9 @@ boxes:
     -
         package: false
         content: "><span class=\"first-character\">I</span>n Carly’s developmental editing of my novel, she dealt with issues, both large and small. Chronology, plot consistency, character motivation, authentic dialogue, point of view, word choices, etc. I appreciated the exhaustive detail and acuteness of her perceptions, but even more than that, I especially valued her understanding of my intent and my overall vision. She kept true to my vision for the novel and helped greatly in turning that vision into a reality.\n\n-Danny Davis, Historical YA author\n"
+    -
+        package: false
+        content: "><span class=\"first-character\">I</span>t's been just over three years since I first met Carly through an online writing event and I couldn't be more grateful for those stars aligning!\n\n>Carly is one of the most passionate and brilliant people in the industry I've ever met and have had the privilege of working with. We've gone through two manuscript assessments and are now preparing my novel to be self-published. She helped me see my novel in a way I never would have been able to find or process, completely transforming not only the manuscript itself, but my skills as a writer and storyteller. Her care and attention to detail for my piece is palpable in her feedback, completely personalized and insightful. I'm over the moon to be working with her again and in the future. She has been the ultimate guide and mentor over these years. I'm looking forward to many more!\n\n-Rara Hope, Fantasy author"
 routable: false
 visible: false
 title: 'Testimonial Boxes'
