@@ -21,7 +21,7 @@ Pronouns: She/Her
 !!!!! Carly specializes in adult, young adult, and middle grade age categories. She particularly focuses on fantasy, science fiction, romance (all heat levels), historical, and mystery genres. She is open to other genres on an individual basis.
 
 [![EFA](EFA_logomem_85.png){.org}](http://www.the-efa.org/?target=_blank)
-[![Rev Pit](R&Reditorfounder_small.png){.org}](http://www.reviseresub.com/?target=_blank)
+[![RevPit](R&Reditorfounder_small.png){.org}](http://www.reviseresub.com/?target=_blank)
 [![Story Chat Radio](StoryChatRadio_logo.png){.org}](https://www.storychatradio.com/?target=_blank)
 [![ACES](ACES_Logo_small.png){.org}](https://aceseditors.org/resources/for-hire/carly-hayward-20230817-152242?target=_blank)
 [![Shore Indie](shoreindie_editorbadge.png){.org}](https://shoreindie.blogspot.com/?target=_blank)
