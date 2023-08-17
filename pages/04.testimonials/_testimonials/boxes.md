@@ -77,9 +77,6 @@ boxes:
         content: "><span class=\"first-character\">I</span> worked with Carly as part of the Pitch to Publication contest and I am so grateful to have had the opportunity. She donated her time to edit my manuscript and helped hammer out the kinks and added a nice polish to the prose. She is a razor sharp editor and working together is a real partnership where you focus on the essentials: story, style, and character. She motivates you to elevate the material, trim the fat, and kill your darlings. Over the course of multiple drafts with Carly, my work improved immensely due to her feedback and suggestions. She'll even help craft a query letter that catches an agent's attention. I highly recommend working with this supportive and generous individual.\n\n-Kevin Curtis\n"
     -
         package: false
-        content: "><span class=\"first-character\">I</span> was lucky enough to win a Developmental Edit with Carly as part of an online writing contest. Carly helped me sort through all the weaknesses in my manuscript and gave me suggestions on how it could improve. She also helped me polish up my query letter so I could have the best possible chance with agents. She helped me make my story the best it could be and I'd recommend her to anyone looking to take their manuscript to the next level. Thanks Carly!\n\n-Liz Kelly\n"
-    -
-        package: false
         content: "><span class=\"first-character\">C</span>arly understood exactly what I was looking for and accommodated both my needs and budget. Her manuscript assessment allowed me to focus on the weakest points of my story so I could determine the best use of my time and energy as I tackled further editing rounds. During the process, she was responsive and very encouraging.\n\n-Clara MacCarald, Romance and Young Adult author\n"
 routable: false
 visible: false
