@@ -78,6 +78,9 @@ boxes:
     -
         package: false
         content: "><span class=\"first-character\">C</span>arly understood exactly what I was looking for and accommodated both my needs and budget. Her manuscript assessment allowed me to focus on the weakest points of my story so I could determine the best use of my time and energy as I tackled further editing rounds. During the process, she was responsive and very encouraging.\n\n-Clara MacCarald, Romance and Young Adult author\n"
+    -
+        package: false
+        content: "><span class=\"first-character\">C</span>arly has such a talent for cutting to the heart of what you and your manuscript needs, especially if you're a neurodivergent overthinker like me and need to learn some confidence in your convictions! Carly was so flexible to make sure the way we worked together worked for me, her world-building brainstorms were integral to making a version of my book that I really feel so proud of, and, really, it was the heart of the book all along. She gives the perfect mix of blunt feedback with kindness and I feel so lucky to have been able to work with her.\n\n-Chloe Johnson, Fantasy author"
 routable: false
 visible: false
 title: 'Testimonial Boxes'
