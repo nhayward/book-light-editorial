@@ -5,6 +5,11 @@ publish_date: '06-09-2023 14:58'
 metadata:
     keywords: 'writing, podcast, how-to, conflict, external conflict, internal conflict'
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss conflict as seen in the movie, Nimona'
+taxonomy:
+    tag:
+        - 'story chat radio'
+        - podcast
+        - conflict
 ---
 
 <iframe title="Embed Player" style="border:none" src="https://play.libsyn.com/embed/episode/id/27616362/height/192/theme/modern/size/large/thumbnail/yes/custom-color/39918e/time-start/00:00:00/playlist-height/200/direction/backward" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true"></iframe>
