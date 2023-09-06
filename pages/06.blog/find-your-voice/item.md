@@ -1,6 +1,16 @@
 ---
 title: 'Find your Voice'
 media_order: FindYourVoice.png
+date: '06-09-2023 15:13'
+publish_date: '06-09-2023 15:13'
+metadata:
+    keywords: 'writing, voice, writing voice, manuscript, editing, books'
+    description: 'It can be hard to write your manuscript with voice. How do you figure out your voice? Here are our tips!'
+taxonomy:
+    tag:
+        - writing
+        - 'monthly writing tips'
+        - voice
 ---
 
 ![Find Your Voice](FindYourVoice.png "Find Your Voice")
