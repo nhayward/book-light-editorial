@@ -1,6 +1,9 @@
 ---
 title: 'Find your Voice'
+media_order: FindYourVoice.png
 ---
+
+![Find Your Voice](FindYourVoice.png "Find Your Voice")
 
 Voice is one of the trickiest and most nebulous elements of storytelling, but it's also an invaluable quality that makes your books uniquely *yours.* Here are some tips on how to develop and refine your writing voice!
 
