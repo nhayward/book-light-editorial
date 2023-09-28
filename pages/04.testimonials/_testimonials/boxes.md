@@ -47,6 +47,9 @@ boxes:
         content: "><span class=\"first-character\">L</span>aura helped me to fix the key complaint I received from beta readers: too many typos and style inconsistencies. Turns out the bugs were hidden in plain sight — you can never see your own typos! (If there’s a typo in this testimonial, that’s on me.) I have to add that, in addition to the necessary repairs, it was such fun seeing her reactions and encouragement noted throughout the text, sprinkled like Easter eggs. That human touch is important to me, as I’m primarily aiming my book at humans.\n\n-J.D. Robinson, Sci-fi and Young Adult author\n"
     -
         package: false
+        content: "><span class=\"first-character\">C</span>arly truly is a delight to work with. She challenged me to really make this story shine. Her clear editorial notes came sprinkled with the right amount of compliments to keep me from despair, and she was always available to chat if anything was unclear, or to wrangle a solution when I got stuck. I'm so pleased with how this story turned out, and I'll definitely work with her on the next one. \n\n-E.V. Belknap, author of _Tenfold Tenants_"
+    -
+        package: false
         content: "><span class=\"first-character\">C</span>arly worked with me from a developmental editing and writing coaching perspective. Her one-on-one coaching has enabled me to take my writing to the next level. She was instrumental in the process and I highly recommend her for anyone looking for a fresh developmental perspective.\n\n-Mickey Miller, Amazon best-selling romance author\n"
     -
         package: false
@@ -81,9 +84,6 @@ boxes:
     -
         package: false
         content: "><span class=\"first-character\">C</span>arly understood exactly what I was looking for and accommodated both my needs and budget. Her manuscript assessment allowed me to focus on the weakest points of my story so I could determine the best use of my time and energy as I tackled further editing rounds. During the process, she was responsive and very encouraging.\n\n-Clara MacCarald, Romance and Young Adult author\n"
-    -
-        package: false
-        content: "><span class=\"first-character\">C</span>arly truly is a delight to work with. She challenged me to really make this story shine. Her clear editorial notes came sprinkled with the right amount of compliments to keep me from despair, and she was always available to chat if anything was unclear, or to wrangle a solution when I got stuck. I'm so pleased with how this story turned out, and I'll definitely work with her on the next one. \n\n-E.V. Belknap, author of _Tenfold Tenants_"
 routable: false
 visible: false
 title: 'Testimonial Boxes'
