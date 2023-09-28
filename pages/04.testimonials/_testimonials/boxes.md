@@ -83,7 +83,7 @@ boxes:
         content: "><span class=\"first-character\">C</span>arly understood exactly what I was looking for and accommodated both my needs and budget. Her manuscript assessment allowed me to focus on the weakest points of my story so I could determine the best use of my time and energy as I tackled further editing rounds. During the process, she was responsive and very encouraging.\n\n-Clara MacCarald, Romance and Young Adult author\n"
     -
         package: false
-        content: "><span class=\"first-character\">C</span>arly truly is a delight to work with. She challenged me to really make this story shine. Her clear editorial notes came sprinkled with the right amount of compliments to keep me from despair, and she was always available to chat if anything was unclear, or to wrangle a solution when I got stuck. I'm so pleased with how this story turned out, and I'll definitely work with her on the next one. \n\n-E.V. Belknap"
+        content: "><span class=\"first-character\">C</span>arly truly is a delight to work with. She challenged me to really make this story shine. Her clear editorial notes came sprinkled with the right amount of compliments to keep me from despair, and she was always available to chat if anything was unclear, or to wrangle a solution when I got stuck. I'm so pleased with how this story turned out, and I'll definitely work with her on the next one. \n\n-E.V. Belknap, author of _Tenfold Tenants_"
 routable: false
 visible: false
 title: 'Testimonial Boxes'
