@@ -1,14 +1,14 @@
 ---
 title: 'Amélie - Omniscient Narrators'
-date: '22-01-2024 16:09'
-publish_date: '22-01-2024 16:09'
+date: '20-01-2024 16:17'
+publish_date: '20-01-2024 16:17'
 metadata:
     keywords: 'writing, podcast, how-to, omniscient narrator, omniscient'
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss omniscient narrators as seen in the movie, Amélie'
 taxonomy:
     tag:
-        - movies
         - writing
+        - movies
         - 'story chat radio'
         - podcast
         - 'unreliable narrators'
