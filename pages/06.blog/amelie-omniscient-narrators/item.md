@@ -5,6 +5,14 @@ publish_date: '22-01-2024 16:09'
 metadata:
     keywords: 'writing, podcast, how-to, omniscient narrator, omniscient'
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss omniscient narrators as seen in the movie, Amélie'
+taxonomy:
+    tag:
+        - movies
+        - writing
+        - 'story chat radio'
+        - podcast
+        - 'unreliable narrators'
+        - POV
 ---
 
 <iframe title="Embed Player" src="https://play.libsyn.com/embed/episode/id/27938505/height/192/theme/modern/size/large/thumbnail/yes/custom-color/39918e/time-start/00:00:00/playlist-height/200/direction/backward" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>
