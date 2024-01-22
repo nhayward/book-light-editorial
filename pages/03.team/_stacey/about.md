@@ -5,7 +5,6 @@ editor_title: 'Social Media Assistant'
 profile_image:
     src: Book_Light_Editorial_StaceyReza.png
     alt_text: 'Stacey Johnson-Reza '
-published: true
 body_classes: modular
 ---
 
