@@ -1,7 +1,7 @@
 ---
 title: 'Barbie - Antagonists'
-date: '22-01-2024 16:13'
-publish_date: '22-01-2024 16:13'
+date: '21-01-2024 16:13'
+publish_date: '21-01-2024 16:13'
 metadata:
     keywords: 'writing, podcast, how-to, Barbie, antagonist,  "antagonistic force"'
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss antagonists as seen in the movie, Barbie'
