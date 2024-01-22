@@ -21,7 +21,6 @@ content:
             - _laura
             - _jessica
             - _stacey
-            - _slider
             - _cta
 genre_images: true
 preload_assets:
