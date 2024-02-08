@@ -8,6 +8,6 @@ routable: false
 visible: false
 ---
 
-!!!!! ##### Reading is a great way to strengthen your own writing because you can analyze what works and why it is working. 
+!!!!! #### Reading is a great way to strengthen your own writing because you can analyze what works and why it is working. 
 !!!!! 
 !!!!! These bookmarks will help you keep an eye out for certain story elements. You can use our general editing bookmark for the most common writing tips or the more specific ones if you're looking to work on certain writing elements.
