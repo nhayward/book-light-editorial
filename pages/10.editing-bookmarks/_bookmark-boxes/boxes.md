@@ -19,9 +19,6 @@ boxes:
     -
         package: false
         content: "### Emotional Wounds\n\n\nCreating compelling and relatable characters are all about their emotional wounds. All your important characters should have them. But how do those wounds influence a story and how does a story force your character to change? Characters have a lie that they believe, what is it and how do they interact with it? \n\n[Download](/materials/EditingBookmark_Wounds.pdf?target=_blank){.button}"
-    -
-        package: false
-        content: "### Hook Your Reader\n\n\nHere you'll find the hooking your reader bookmark to help you think about how to start your book and keep readers interested while you're reading. \n\n[Download](/materials/EditingBookmark_Hooks.pdf?target=_blank){.button}\n"
 routable: false
 visible: false
 ---
