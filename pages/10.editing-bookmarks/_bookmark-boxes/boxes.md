@@ -9,7 +9,7 @@ boxes:
         content: "### General Editing Tips\n\nOur base bookmark that covers all the important things to think about while reading.\n\n**Remind yourself about:**\n * Goal, Motivation, and Conflict (GMC)\n * Action and reaction\n * Voice\n * Conflict\n * And more! \n\n[Download](/materials/EditingBookmark_General.pdf?target=_blank){.button}\n\n"
     -
         package: false
-        content: "### Worldbuilding\n\nHere you'll find the worldbuilding bookmark to help you think about worldbuilding and setting while you're reading. \n\n[Download](/materials/EditingBookmark_Worldbuilding.pdf?target=_blank){.button}\n"
+        content: "### Worldbuilding\n\nAll books need worldbuilding, no matter the genre!\n\nOur worldbuilding bookmark will help you think about worldbuilding and setting in different ways. It will help you see the interplay between characters and the world and how that will change and expand the story.. \n\n[Download](/materials/EditingBookmark_Worldbuilding.pdf?target=_blank){.button}\n"
     -
         package: false
         content: "### Story Structure\n\nHere you'll find the story structure bookmark to help you think about the pacing and forward momentum of the story while you're reading. \n\n[Download](/materials/EditingBookmark_Structure.pdf?target=_blank){.button}"
