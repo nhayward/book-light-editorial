@@ -15,10 +15,10 @@ boxes:
         content: "### Story Structure\n\nStory structure is the basis of all storytelling. Having a base understanding of structure is important in telling any story (especially if you plan to break any rules). This story structure bookmark is here to help you think about the pacing and forward momentum of the story while you're reading. What forms the foundation of your current book?\n\n[Download](/materials/EditingBookmark_Structure.pdf?target=_blank){.button}"
     -
         package: false
-        content: "### Emotion\n\nHere you'll find the emotion bookmark to help you think about how to revise for emotion in your own writing while you're reading. \n\n[Download](/materials/EditingBookmark_Emotion.pdf?target=_blank){.button}"
+        content: "### Emotion\n\nEmotion needs to be layered in through revisions. What you're feeling, what the character is feeling, and how that influences the story are all very important. The emotion bookmark will help you think about how to revise for emotion in your own writing while you're reading. \n\n[Download](/materials/EditingBookmark_Emotion.pdf?target=_blank){.button}"
     -
         package: false
-        content: "### Emotional Wounds\n\n\nHere you'll find the emotional wounds bookmark to help you think about how to write compelling and relatable characters. \n\n[Download](/materials/EditingBookmark_Wounds.pdf?target=_blank){.button}"
+        content: "### Emotional Wounds\n\n\nCreating compelling and relatable characters are all about their emotional wounds. All your important characters should have them. But how do those wounds influence a story and how does a story force your character to change? Characters have a lie that they believe, what is it and how do they interact with it? \n\n[Download](/materials/EditingBookmark_Wounds.pdf?target=_blank){.button}"
     -
         package: false
         content: "### Hook Your Reader\n\n\nHere you'll find the hooking your reader bookmark to help you think about how to start your book and keep readers interested while you're reading. \n\n[Download](/materials/EditingBookmark_Hooks.pdf?target=_blank){.button}\n"
