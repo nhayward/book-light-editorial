@@ -18,7 +18,7 @@ boxes:
         content: "### Worldbuilding\n\nAll books need worldbuilding, no matter the genre!\n\nOur worldbuilding bookmark will help you think about worldbuilding and setting in different ways. It will help you see the interplay between characters and the world and how that will change and expand the story.\n\n**Why does this book need to take place here?**\n\n[Download](/materials/EditingBookmark_Worldbuilding.pdf?target=_blank){.button}\n"
     -
         package: false
-        content: "### Emotion\n\nEmotion needs to be layered in through revisions. What you're feeling, what the character is feeling, and how that influences the story are all very important.\n\nThe emotion bookmark will help you think about how to revise for emotion in your own writing while you're reading. \n\n[Download](/materials/EditingBookmark_Emotion.pdf?target=_blank){.button}"
+        content: "### Emotion\n\nEmotion needs to be layered in through revisions. What you're feeling, what the character is feeling, and how that influences the story are all very important.\n\n**How can you use word choices to reflect emotion?**\n\n[Download](/materials/EditingBookmark_Emotion.pdf?target=_blank){.button}"
 routable: false
 visible: false
 ---
