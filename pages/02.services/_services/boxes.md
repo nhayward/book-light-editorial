@@ -23,7 +23,7 @@ boxes:
         content: "<span class=\"first-character\">P</span>**roofread:** Once your manuscript has been professionally edited and copyedited, you're ready for a proofread. During this final stage of revisions, we will make sure your work is reader-ready by correcting typos, misused words, and other embarrassing errors.\n\n**Cost:** Starts at 1 cent per word\n\n<a class=\"button\" href=\"/contact?form-select=proofread#contact\">Get Started</a>\n"
     -
         package: false
-        content: "<span class=\"first-character\">D</span>**evelopmental Edit:**\nA developmental edit will help you refine your writing by working on story structure, pacing, character development, voice, clarity, and plot. It looks at the big picture as well as writing technique. You will receive a 7- to 12-page analysis breaking down strengths and weaknesses in your manuscript as well as comprehensive margin notes within your pages. _Includes a 1-hour coaching call._\n\n**Cost:** Starts at 2.5 cents per word\n\n<a class=\"button\" href=\"/contact?form-select=developmental#contact\">Get Started</a>\n"
+        content: "<span class=\"first-character\">D</span>**evelopmental Edit:**\nA developmental edit will help you refine your writing by working on story structure, pacing, character development, voice, clarity, and plot. It looks at the big picture as well as writing technique. You will receive a 7- to 12-page analysis breaking down strengths and weaknesses in your manuscript as well as comprehensive margin notes within your pages. _Includes a 1-hour coaching call._\n\n**Cost:** Starts at 3 cents per word\n\n<a class=\"button\" href=\"/contact?form-select=developmental#contact\">Get Started</a>\n"
 routable: false
 visible: false
 title: 'Service Boxes'
