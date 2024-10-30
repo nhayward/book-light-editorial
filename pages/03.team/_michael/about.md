@@ -1,23 +1,24 @@
 ---
 title: Michael
 body_classes: modular
-editor_name: 'Jessica Nelson'
+editor_name: 'Michael Tizzano'
 editor_title: Copyeditor
 profile_image:
     src: Book_Light_Editoria_Jessica_Nelson.jpg
-    alt_text: 'Jessica Nelson'
+    alt_text: 'Michael Tizzano'
 ---
 
-<span class="first-character">J</span>essica has been a professional editor for 7 years, working with both traditionally published and indie authors.  She loves the cadence and texture of the written word, and she will help you smooth away embarrassing errors that can derail a scene. 
+<span class="first-character">M</span>ichael has been editing books for eight years at independent publishers, Big 5 houses, a literary agency, and as an independent contractor. He loves to live in a manuscript for days on end—improving its clarity, concision, style, and consistency—to ensure readers get that immersive experience we all crave when we turn a book cover.
 
-After earning a BA and MA in English, Jessica worked in higher education communications for several years before pursuing editing, the career she had always wanted. Many of her indie clients have gone on to win awards and secure publishing contracts, but she believes the strongest recommendation is the clients who have worked with her again and again over the years. She is a member of the Editorial Freelancers Association and is a four-time judge for the InD’Tale RONE awards.
+After earning his BA in English and MS in book and online publishing, Michael worked at Fuse Literary, Simon & Schuster, W. W. Norton, and Penguin Random House. He now works independently with authors who are embarking on their publishing journeys. After roles in traditional houses, agencies, and indie publishing, Michael leverages his diverse and robust industry experience to elevate every book to its fullest editorial and commercial potential 
 
-When she isn’t editing or writing, she can be found starting (and occasionally finishing) art projects or binge-watching something. Jessica lives in the American South with her husband, two children, and a fluffy brindle dog who probably believes she’s human.
+Whenever Michael manages to tear his eyes from the written word, he can be found illustrating, hiking, or baking too many cookies.
 
-Pronouns: She/Her
+
+Pronouns: He/Him
 
 !!!!! **Specialties:**
 !!!!! 
-!!!!! Jessica edits adult, YA, and middle grade fiction. She particularly welcomes science fiction and fantasy, romance (all heat levels), and historical fiction. She does not edit non-fiction but is open to other fiction genres. 
+!!!!! Michael specializes in serious and prescriptive nonfiction as well as fiction in the fantasy, mystery, crime, and thriller categories. He loves to learn and is always open to other genres and topics.
 
 [![EFA](EFA_logomem_85.png){.org}](http://www.the-efa.org/?target=_blank)
