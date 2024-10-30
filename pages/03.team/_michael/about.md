@@ -19,5 +19,3 @@ Pronouns: He/Him
 !!!!! **Specialties:**
 !!!!! 
 !!!!! Michael specializes in serious and prescriptive nonfiction as well as fiction in the fantasy, mystery, crime, and thriller categories. He loves to learn and is always open to other genres and topics.
-
-[![EFA](EFA_logomem_85.png){.org}](http://www.the-efa.org/?target=_blank)
