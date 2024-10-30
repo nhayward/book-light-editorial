@@ -14,7 +14,6 @@ After earning his BA in English and MS in book and online publishing, Michael wo
 
 Whenever Michael manages to tear his eyes from the written word, he can be found illustrating, hiking, or baking too many cookies.
 
-
 Pronouns: He/Him
 
 !!!!! **Specialties:**
