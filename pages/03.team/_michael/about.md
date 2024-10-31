@@ -4,7 +4,7 @@ body_classes: modular
 editor_name: 'Michael Tizzano'
 editor_title: Copyeditor
 profile_image:
-    src: Book_Light_Editoria_Jessica_Nelson.jpg
+    src: Book_Light_Editorial_Michael_Tizzano.jpg
     alt_text: 'Michael Tizzano'
 ---
 
