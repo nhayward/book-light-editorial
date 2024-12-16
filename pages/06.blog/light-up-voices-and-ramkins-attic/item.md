@@ -14,7 +14,9 @@ Ramkin’s Attic is a funds for authors, by authors, intent on eliminating hurdl
 
 Any marginalized indie author (ex. LGBTQA+, POC, disabled, or other historically marginalized communities) looking for financial aid for editorial services, with the goal of self-publishing their fiction manuscript. The manuscript must be complete before applying.
 
-As the intent is to lessen hurdles, not add to them, Ramkin’s Attic will never demand proof of marginalization, nor economic status. **Please apply fairly.** While Ramkin’s Attic hopes to fund more in the future, we are currently able to aid two authors.
+As the intent is to lessen hurdles, not add to them, Ramkin’s Attic will never demand proof of marginalization, nor economic status. **Please apply fairly.** 
+
+While Ramkin’s Attic hopes to fund more in the future, we are currently able to aid two authors.
  
 ### What kind of editorial services are currently sponsored?
 
@@ -38,23 +40,23 @@ To apply you’ll need to have the following prepared (asterisk* denotes require
 * What is your book about?*
 * First 10 pages or full manuscript (Times New Roman, 12 pt. font, 1 inch margins, double-spaced).*
 
-### Disclaimers
-
-All information given by the author will be treated as confidential and will not be shared with third parties outside of participating editors. Entries will be decided on in consultation with said editors. Once an author is selected, all communication concerning intellectual property will be strictly confidential between editor and author. Ramkin’s Attic will only be privy to the type of editorial services rendered, plus fees. Ramkin’s Attic, along with participating editors, have no copyright interest in any of the author’s works.
-
-All authors will be notified via email if they will be receiving an edit or not. 
-
-All entries will remain anonymous, as we don’t want to out anyone publicly, but you can feel free to talk about it on your own social media.
-
-Sponsoring from Ramkin’s Attic for services rendered will be paid to the editors directly.
-
-Ramkin’s Attic is vehemently opposed to the use of generative AI in art. By applying, the author agrees no generative AI has been, or will be used, on any part of the manuscript, nor its eventual publication.
-
-While Ramkin’s Attic goal is to help more books into the world, there is no imposed deadline as to when the author publishes their manuscript after receiving edits.
-
-While Ramkin’s Attic would appreciate a mention in the Front Matter of any resulting publications, the author is under no obligation to do so.
-
-#### Contact information
-If you have any questions or concerns, please email: ramkins.attic[at]gmail.com
-
-[Sign up Here](https://forms.gle/sCW8qqbc4hjDLxNUA?target=_blank) {.button}
+!!!!! ### Disclaimers
+!!!!! 
+!!!!! All information given by the author will be treated as confidential and will not be shared with third parties outside of participating editors. Entries will be decided on in consultation with said editors. Once an author is selected, all communication concerning intellectual property will be strictly confidential between editor and author. Ramkin’s Attic will only be privy to the type of editorial services rendered, plus fees. Ramkin’s Attic, along with participating editors, have no copyright interest in any of the author’s works.
+!!!!! 
+!!!!! All authors will be notified via email if they will be receiving an edit or not. 
+!!!!! 
+!!!!! All entries will remain anonymous, as we don’t want to out anyone publicly, but you can feel free to talk about it on your own social media.
+!!!!! 
+!!!!! Sponsoring from Ramkin’s Attic for services rendered will be paid to the editors directly.
+!!!!! 
+!!!!! Ramkin’s Attic is vehemently opposed to the use of generative AI in art. By applying, the author agrees no generative AI has been, or will be used, on any part of the manuscript, nor its eventual publication.
+!!!!! 
+!!!!! While Ramkin’s Attic goal is to help more books into the world, there is no imposed deadline as to when the author publishes their manuscript after receiving edits.
+!!!!! 
+!!!!! While Ramkin’s Attic would appreciate a mention in the Front Matter of any resulting publications, the author is under no obligation to do so.
+!!!!! 
+!!!!! #### Contact information
+!!!!! If you have any questions or concerns, please email: ramkins.attic[at]gmail.com
+!!!!! 
+!!!!! [Sign up Here](https://forms.gle/sCW8qqbc4hjDLxNUA?target=_blank) {.button}
