@@ -1,9 +1,9 @@
 ---
 title: 'Light Up Voices and Ramkin''s Attic'
-media_order: LightUpVoices+RamkinsAttic.png
+media_order: LightUpVoicesRamkinsAttic.png
 ---
 
-![LightUpVoices+RamkinsAttic](LightUpVoices+RamkinsAttic.png "LightUpVoices+RamkinsAttic")
+![LightUpVoicesRamkinsAttic](LightUpVoicesRamkinsAttic.png "LightUpVoicesRamkinsAttic")
 
 ## Ramkin’s Attic in cooperation with Book Light Editorial
 
