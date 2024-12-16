@@ -10,9 +10,7 @@ Ramkin’s Attic is a funds for authors, by authors, intent on eliminating hurdl
 
 ### Who can apply?
 
-Any marginalized indie author (ex. LGBTQA+, POC, disabled, or other historically marginalized communities) looking for financial aid for editorial services, with the goal of self-publishing their fiction manuscript. The manuscript must be complete before applying.
-
-###### (As the intent is to lessen hurdles, not add to them, Ramkin’s Attic will never demand proof of marginalization, nor economic status. Please apply fairly.)
+Any marginalized indie author (ex. LGBTQA+, POC, disabled, or other historically marginalized communities) looking for financial aid for editorial services, with the goal of self-publishing their fiction manuscript. The manuscript must be complete before applying. _As the intent is to lessen hurdles, not add to them, Ramkin’s Attic will never demand proof of marginalization, nor economic status. **Please apply fairly.**_
 
 While Ramkin’s Attic hopes to fund more in the future, we are currently able to aid two authors.
  
@@ -54,7 +52,7 @@ While Ramkin’s Attic goal is to help more books into the world, there is no im
 
 While Ramkin’s Attic would appreciate a mention in the Front Matter of any resulting publications, the author is under no obligation to do so.
 
-!!!!! #### Contact information
-!!!!! If you have any questions or concerns, please email: ramkins.attic[at]gmail.com
-!!!!! 
-!!!!! [Sign up Here](https://forms.gle/sCW8qqbc4hjDLxNUA?target=_blank) {.button}
+#### Contact information
+If you have any questions or concerns, please email: ramkins.attic[at]gmail.com
+
+[Sign up Here](https://forms.gle/sCW8qqbc4hjDLxNUA?target=_blank) {.button}
