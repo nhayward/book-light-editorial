@@ -1,10 +1,9 @@
 ---
 title: 'Light Up Voices and Ramkin''s Attic'
-media_order: LightUpVoicesRamkinsAttic.png
+media_order: LightUpVoicesRamkinsAttic_medium.png
 ---
 
-![Light Up Voices and Ramkins Attic](LightUpVoicesRamkinsAttic.png?cropResize=700,700 "Light Up Voices and Ramkin's Attic"){.center}
-
+![Light Up Voices and Ramkins Attic](LightUpVoicesRamkinsAttic_medium.png "Light Up Voices and Ramkins Attic"){.center}
 ## Ramkin’s Attic in cooperation with Book Light Editorial
 
 Ramkin’s Attic is a funds for authors, by authors, intent on eliminating hurdles on the road to self-publishing. We are currently focused on sponsoring editorial costs for marginalized indie authors, since the world needs more diverse storytelling, never less.
