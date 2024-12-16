@@ -1,6 +1,22 @@
 ---
 title: 'Light Up Voices and Ramkin''s Attic'
 media_order: LightUpVoicesRamkinsAttic_medium.png
+date: '16-12-2024 16:28'
+publish_date: '16-12-2024 16:28'
+metadata:
+    keywords: 'indie author, author, self-publish, marginalized author'
+    description: 'Let’s spotlight marginalized authors! If you are a marginalized author planning to indie publish, enter now to receive a free editorial evaluation on your manuscript.'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - 'Marginalized authors'
+        - 'marginalized voices'
+        - 'indie author'
+        - 'self publishing'
+        - 'indie publishing'
+        - indieauthor
+        - 'Light Up Voices'
 ---
 
 ![Ramkin's Attic in cooperation with Light Up Voices](LightUpVoicesRamkinsAttic_medium.png "Ramkin's Attic in cooperation with Light Up Voices"){.center}
