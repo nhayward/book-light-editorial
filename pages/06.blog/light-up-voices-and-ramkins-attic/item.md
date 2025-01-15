@@ -42,7 +42,7 @@ A Glow Package includes a manuscript evaluation that provides you with actionabl
 
 ### Where and when do I apply?
 
-Applications will be open from December 16th, 2024 to January 16th, 2025.
+Applications will be open from December 16th, 2024 to February 16th, 2025.
 
 [Sign up Here](https://forms.gle/sCW8qqbc4hjDLxNUA?target=_blank) {.button}
  
