@@ -84,6 +84,9 @@ boxes:
     -
         package: false
         content: "><span class=\"first-character\">C</span>arly understood exactly what I was looking for and accommodated both my needs and budget. Her manuscript assessment allowed me to focus on the weakest points of my story so I could determine the best use of my time and energy as I tackled further editing rounds. During the process, she was responsive and very encouraging.\n\n-Clara MacCarald, Romance and Young Adult author\n"
+    -
+        package: false
+        content: "><span class=\"first-character\">C</span>arly is absolutely amazing and I can't recommend her enough. It was my first time doing a developmental edit for a book and I wasn't sure how useful it would be, but the thorough read and input from Carly was invaluable to making my story better. I used the Neon Indie Bundle and having the edits looked at twice really gave me peace of mind that the changes I'd made were the right ones. Carly gives the perfect balance of praise and constructive feedback through detailed assessments. I can't wait to work with her again.\n\n-Laura Catherine, author of _Enemies to Booksellers_ "
 routable: false
 visible: false
 title: 'Testimonial Boxes'
