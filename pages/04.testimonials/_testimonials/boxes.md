@@ -29,6 +29,9 @@ boxes:
         content: "><span class=\"first-character\">C</span>arly Bornstein-Hayward edited my YA fantasy manuscript, THE DYING CITY, during #RevPit 2018. She's an incisive, thorough editor, and her notes were spot-on. She immediately understood the themes I wanted to convey and helped me bring them out by delving deeper into my heroine's psyche. My book ended up more exciting, more romantic, and more emotionally complex because of Carly's excellent feedback.\n\n>Overall, working with Carly was a dream. She was prompt with her notes and was the perfect mix of supportive and blunt about the manuscript's flaws. My manuscript is much better after her input, and I highly recommend working with her!\n\n-Sarah Hawley, author of _A Witch's Guide to Fake Dating a Demon_ (Berkley)\n"
     -
         package: false
+        content: "><span class=\"first-character\">C</span>arly is absolutely amazing and I can't recommend her enough. It was my first time doing a developmental edit for a book and I wasn't sure how useful it would be, but the thorough read and input from Carly was invaluable to making my story better. I used the Neon Indie Bundle and having the edits looked at twice really gave me peace of mind that the changes I'd made were the right ones. Carly gives the perfect balance of praise and constructive feedback through detailed assessments. I can't wait to work with her again.\n\n-Laura Catherine, author of _Enemies to Booksellers_ "
+    -
+        package: false
         content: "><span class=\"first-character\">C</span>arly was not only essential to getting my manuscript in shape, but she was a pleasure to work with. She was flexible and communicative regarding her schedule, and most importantly, delivered a great developmental edit! Her insightful feedback was instrumental in bringing my protagonist to life. Readers are really connecting with the emotional ride of my story, and I have Carly to thank for getting me to bring all those emotions to the fore in a compelling way. I’m a screenwriter by training, and she also gave me guidance that helped me flesh out my prose and wrap my head around the needs of a novel. I couldn’t be happier with Carly and the process, and I’m definitely hiring her to help me with my next novel.\n\n-Anthony DeCapite, author of _Fireline_"
     -
         package: false
@@ -84,9 +87,6 @@ boxes:
     -
         package: false
         content: "><span class=\"first-character\">C</span>arly understood exactly what I was looking for and accommodated both my needs and budget. Her manuscript assessment allowed me to focus on the weakest points of my story so I could determine the best use of my time and energy as I tackled further editing rounds. During the process, she was responsive and very encouraging.\n\n-Clara MacCarald, Romance and Young Adult author\n"
-    -
-        package: false
-        content: "><span class=\"first-character\">C</span>arly is absolutely amazing and I can't recommend her enough. It was my first time doing a developmental edit for a book and I wasn't sure how useful it would be, but the thorough read and input from Carly was invaluable to making my story better. I used the Neon Indie Bundle and having the edits looked at twice really gave me peace of mind that the changes I'd made were the right ones. Carly gives the perfect balance of praise and constructive feedback through detailed assessments. I can't wait to work with her again.\n\n-Laura Catherine, author of _Enemies to Booksellers_ "
 routable: false
 visible: false
 title: 'Testimonial Boxes'
