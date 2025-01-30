@@ -59,6 +59,9 @@ boxes:
         content: "><span class=\"first-character\">C</span>arly has completed two developmental edits for me within the past two years on two separate manuscripts. Both times I was impressed with not only the turn-around time, but how thorough her feedback was. She helped me see my projects from a reader's perspective but also offered advice on the marketability of it. Her enthusiasm for my work was met with a perfect balance of constructive criticism. While I had no doubt she's in my corner, she also wasn't afraid to challenge. Because of this, I'm able to put out the best work possible. Always a professional, she's also someone I can't wait to share a cuppa with someday.\n\n-Lissa Carlino, Author of <i>Woman Enough</i>\n"
     -
         package: false
+        content: "><span class=\"first-character\">I</span> had lost the bird’s eye view of my story after a while and Carly really helped me become excited about my story again. I learned parts that weren’t working and how to simplify an adult fantasy. She asked me some great questions and made comments that made my story so much stronger!\n\n-Darby Cox, Writer"
+    -
+        package: false
         content: "><span class=\"first-character\">C</span>arly has such a talent for cutting to the heart of what you and your manuscript needs, especially if you're a neurodivergent overthinker like me and need to learn some confidence in your convictions! Carly was so flexible to make sure the way we worked together worked for me, her world-building brainstorms were integral to making a version of my book that I really feel so proud of, and, really, it was the heart of the book all along. She gives the perfect mix of blunt feedback with kindness and I feel so lucky to have been able to work with her.\n\n-Chloe Johnson, Fantasy author"
     -
         package: false
@@ -72,9 +75,6 @@ boxes:
     -
         package: false
         content: "><span class=\"first-character\">I</span> had the pleasure to work with Carly during the first Pitch to Publication event. We had a relatively short time to implement her suggestions due to contest constraints, but the critique she gave me was clear and concise. Her encouragement and expertise in the genre was invaluable for story crafting. Carly's suggestions for character development were spot-on and helped me make my MC so much more relatable. I recommend her as a valuable development resource!\n\n-E. M. Hamill, Author of <i>Nectar and Ambrosia</i>\n"
-    -
-        package: false
-        content: "><span class=\"first-character\">I</span> had lost the bird’s eye view of my story after a while and Carly really helped me become excited about my story again. I learned parts that weren’t working and how to simplify an adult fantasy. She asked me some great questions and made comments that made my story so much stronger!\n\n-Darby Cox, Writer"
     -
         package: false
         content: "><span class=\"first-character\">C</span>arly at Book Light Editorial worked with me on my debut novel. I can't wait to work with her on another project! She provided specific feedback in an actionable format. She was incredibly encouraging, showing me areas I excelled and showing me how I could improve other areas. With The _Neon Indie Bundle_, we did two rounds of evaluations and a copy edit. Each time I sent it back, I felt more and more confident about my manuscript. Her team was integral in WSB being published! I highly recommend Carly's service to any writer!\n\n-Amelia J. Rivers, author of _When Shadows Bleed_"
