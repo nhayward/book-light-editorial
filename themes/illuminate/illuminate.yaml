@@ -16,5 +16,5 @@ streams:
      type: ReadOnlyStream
      prefixes:
        '':
-         - user/themes/illuminate
-         - user/themes/quark
+         - user://themes/illuminate
+         - user://themes/quark
