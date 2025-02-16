@@ -13,14 +13,29 @@
           box-shadow: 0 0 10px 1px black;
           background-color: $white;
           background-repeat: no-repeat;
-          background-size: 125px;
-          background-position: right 10px bottom 10px;
-          color: black;
+          background-size: 75px;
+          background-position: right 5px bottom 5px;
           margin: 2rem 1rem;
-          padding: 10px 20px;
 
           &.package {
               box-shadow: 0 0 10px 1px $highlight;
+          }
+
+          .box-heading {
+            background-color: $primary-color;
+            text-align: center;
+            color: $white;
+            padding: 10px 20px;
+            
+            h2 {
+              margin: 0;
+              font-size: 1.5rem !important;
+            }
+          }
+
+          .box-content {
+              color: black;
+              padding: 20px;
           }
 
           blockquote {

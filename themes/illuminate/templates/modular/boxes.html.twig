@@ -4,8 +4,13 @@
 
 			<div class="bricklayer">
 				{% for box in page.header.boxes %}
-					<div class="box {% if box.package %}package{% endif %}" style="background-image: url({{ url('theme://images/accents/Book_Light_Editorial_BookStack.png') }})">
-						{{ box.content|markdown }}
+					<div class="box {% if box.package %}package{% endif %}" style="background-image: url({{ url('theme://images/accents/Book_Light_Editorial_catonbook.png') }})">
+                        <div class="box-heading">
+                            <h2>{{ box.heading }}</h2>
+                        </div>
+                        <div class="box-content">
+						    {{ box.content|markdown }}
+                        </div>
 					</div>
 				{% endfor %}
 			</div>
