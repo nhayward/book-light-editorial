@@ -92,21 +92,28 @@ body#top {
   }
 
   .notices.gold {
-    // margin: 1.5rem 0 1.5rem 0.7rem;
+    position: relative;
     margin: 1.5rem auto;
-    max-width: 600px;
-    border-width: 0 0 0 15px;
-    border-style: solid;
-    -moz-border-image: url(/user/themes/illuminate/images/accents/Book_Light_Editorial_edge.png) 0% 85% round;
-    border-image: url(/user/themes/illuminate/images/accents/Book_Light_Editorial_edge.png) 0% 85% round;
-    border-image-outset: 1;
-    box-shadow: 0 0 20px 10px #999999;
-    background-color: $white;
-    background-image: url('/user/themes/illuminate/images/accents/book_light_editorial_coffeestain.png');
-    background-repeat: no-repeat;
-    background-size: 150px;
-    background-position: right 10px top 10px;
-    color: #222;
-    padding-right: 5px;
+    max-width: 750px;
+    background-color: $primary-color;
+    padding: 20px 30px 20px 85px;
+    color: $white;
+
+    &::before {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: -39px;
+        width: 115px;
+        height: 100%;
+        background-image: url(/user/themes/illuminate/images/accents/Book_Light_Editorial_raven_cutblock.png);
+        background-size: contain;
+        background-position: bottom;
+        background-repeat: no-repeat;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        color: $white;
+    }
   }
 }
