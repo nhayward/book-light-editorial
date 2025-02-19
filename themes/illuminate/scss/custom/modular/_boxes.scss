@@ -13,8 +13,8 @@
           box-shadow: 0 0 10px 1px black;
           background-color: $white;
           background-repeat: no-repeat;
-          background-size: 75px;
-          background-position: right 5px bottom 5px;
+          background-size: 105px;
+          background-position: right -15px bottom -5px;
           margin: 2rem 1rem;
 
           &.package {
@@ -35,31 +35,31 @@
           }
 
           .box-content {
-              color: black;
-              padding: 20px;
-          }
-
-          blockquote {
-            margin-right: 0;
-            border-left: 10px solid lightgrey;
-
-            p {
-              color: #555;
-            }
-
-            & ~ p:last-child {
-              margin-right: 115px;
-
-              @media (max-width: 500px) {
-                margin-right: 0;
-                margin-bottom: 70px;
+            color: black;
+            padding: 20px;
+            
+            blockquote {
+              margin-right: 0;
+              border-left: 10px solid lightgrey;
+  
+              p {
+                color: #555;
+              }
+  
+              & ~ p:last-child {
+                margin-right: 115px;
+  
+                @media (max-width: 500px) {
+                  margin-right: 0;
+                  margin-bottom: 70px;
+                }
               }
             }
-          }
-
-          .button {
-            @media (max-width: 500px) {
-              margin-bottom: 50px;
+  
+            .button {
+              @media (max-width: 500px) {
+                margin-bottom: 50px;
+              }
             }
           }
         }
