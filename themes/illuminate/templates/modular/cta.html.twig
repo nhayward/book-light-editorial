@@ -1,12 +1,9 @@
+{% set grid_size = theme_var('grid-size') %}
+
 <section id="cta" class="section">
-	<section class="container grid-xl">
-    <div id="cta-top-bar">
-      <h2 id="cta-title">{{ page.header.headline }}</h2>
-    </div>
-    <div id="cta-content">
-      <div class="text-column col-6 col-sm-12">{{ page.header.text|markdown }}</div>
-      <img id="cta-coffee-img" src="{{ url('theme://images/footer/CoffeeCup_full.png') }}" alt="">
-      <img id="cta-desk-img" src="{{ url('theme://images/footer/footer_Carly.png') }}" alt="">
-    </div>
-	</section>
+    <section class="container {{ grid_size }}">
+        <div id="cta-content">
+            <div class="text-column col-9 col-sm-12">{{ page.header.text|markdown }}</div>
+        </div>
+    </section>
 </section>
