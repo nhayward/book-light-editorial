@@ -15,7 +15,7 @@ body_classes: modular
 sitemap:
     changefreq: monthly
     priority: !!float 1
-showcase_heading: 'Bring your book to <span class="highlight">light</span>'
+showcase_heading: 'Bring your book to light.'
 # showcase_button: 'Let''s Begin'
 showcase_button_target: /services
 preload_assets:
