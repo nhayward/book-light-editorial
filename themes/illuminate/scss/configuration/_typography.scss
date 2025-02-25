@@ -15,6 +15,10 @@ body#top {
     font-family: $heading-font-family;
     color: $primary-color;
     font-kerning: none;
+
+    &.teal {
+      color: $secondary-color;
+    }
   }
 
   h2 {
