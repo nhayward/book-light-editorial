@@ -9,6 +9,7 @@ content:
     order:
         custom:
             - _home-boxes
+            - _genre-columns
             - _footer-cta
 onpage_menu: false
 body_classes: modular
@@ -16,7 +17,6 @@ sitemap:
     changefreq: monthly
     priority: !!float 1
 showcase_heading: 'Bring your book to light.'
-# showcase_button: 'Let''s Begin'
 showcase_button_target: /services
 preload_assets:
     -

@@ -1,0 +1,37 @@
+title: Genre Columns
+extends@: default
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+
+      fields:
+        content:
+          fields:
+            replace@: true
+
+            header.columns:
+              type: list
+              label: Columns
+              style: vertical
+              max: 3
+              fields:
+                .image.src:
+                  type: filepicker
+                  folder: 'theme@:/images/animals'
+                  label: Image
+                  preview_images: true
+                  accept:
+                    - .png
+                    - .jpg
+                .image.alt_text:
+                  type: text
+                  label: Image Alt Text
+                  size: medium
+                .content:
+                  type: markdown
+                  label: Content
+                  validate:
+                    type: textarea
