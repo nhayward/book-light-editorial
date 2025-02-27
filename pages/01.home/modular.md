@@ -9,6 +9,7 @@ content:
     order:
         custom:
             - _home-boxes
+            - _hero-heading
             - _genre-columns
             - _footer-cta
 onpage_menu: false

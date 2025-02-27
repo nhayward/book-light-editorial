@@ -1,0 +1,29 @@
+.hero-heading {
+  clip-path: polygon(100% 0, 100% calc(100% - 125px), 50% 100%, 0 calc(100% - 125px), 0 0);
+  padding: 0 0 8rem 0;
+
+  &::before {
+    background-color: $dark-color;
+    z-index: -1;
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 55%;
+  }
+
+  .hero-image {
+    position: relative;
+    z-index: -1;
+  }
+
+  .container {
+    .hero-text {
+      h2 {
+        color: $white !important;
+        text-align: center;
+      }
+    }
+  }
+}

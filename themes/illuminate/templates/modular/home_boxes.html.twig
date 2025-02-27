@@ -1,31 +1,23 @@
 {% set grid_size = theme_var('grid-size') %}
 
-<section id="home-boxes-container" class="section {{ page.header.class}}">
+<section class="section home-boxes {{ page.header.class}}">
     <section class="container {{ grid_size }}">
-        <div id="home-content">
-            <div class="columns col-gapless">
-                {% for box in page.header.boxes %}
-                    <div class="box column col-4 col-md-12">
-                        <div class="box-heading">
-                            <h2>{{ box.heading }}</h2>
-                        </div>
-                        <div class="box-content">
-                            {{ box.content|markdown }}
-                        </div>
-                        {% if box.button is not empty %}
-                            <div class="box-button">
-                                <a class="button" href={{ box.link }}>{{ box.button }}</a>
-                            </div>
-                        {% endif %}
+        <div class="columns col-gapless">
+            {% for box in page.header.boxes %}
+                <div class="box column col-4 col-md-12">
+                    <div class="box-heading">
+                        <h2>{{ box.heading }}</h2>
                     </div>
-                {% endfor %}
-            </div>
-        </div>
-    </section>
-    <img id="home-animals" src="{{ url('theme://images/animals/threeanimals.png')}}" alt="">
-    <section class="container {{ grid_size }}">
-        <div class="below-boxes">
-            <h2>Our Editorial Approach</h2>
+                    <div class="box-content">
+                        {{ box.content|markdown }}
+                    </div>
+                    {% if box.button is not empty %}
+                        <div class="box-button">
+                            <a class="button" href={{ box.link }}>{{ box.button }}</a>
+                        </div>
+                    {% endif %}
+                </div>
+            {% endfor %}
         </div>
     </section>
 </section>

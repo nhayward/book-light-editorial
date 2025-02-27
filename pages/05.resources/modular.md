@@ -7,6 +7,7 @@ content:
         by: default
         dir: asc
         custom:
+            - _hero-heading
             - _genres
             - _text
             - _cta-footer
