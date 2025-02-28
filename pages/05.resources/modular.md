@@ -8,6 +8,7 @@ content:
         dir: asc
         custom:
             - _hero-heading
+            - _resource-callouts
             - _genres
             - _text
             - _cta-footer
