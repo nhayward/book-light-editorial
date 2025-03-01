@@ -11,10 +11,6 @@ form:
         content:
           fields:
             replace@: true
-
-            header.headline:
-              type: text
-              label: Headline
             
             header.text:
               type: markdown
