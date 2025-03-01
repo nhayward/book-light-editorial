@@ -30,3 +30,6 @@ footer:
     -
       text: Privacy Policy
       href: /privacy-policy
+    -
+      text: Accessibility
+      href: '/services#accessibility'
