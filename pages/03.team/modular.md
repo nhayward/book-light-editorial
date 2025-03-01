@@ -23,6 +23,7 @@ content:
             - _michael
             - _stacey
             - _cta
+            - _subscribe
 preload_assets:
     -
         path: '{{ url(''theme://images/profile/Book_Light_Editorial_Carly_Hayward.png'') }}'

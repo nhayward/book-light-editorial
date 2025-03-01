@@ -19,5 +19,6 @@ content:
             - _services
             - _bottom-content
             - _accessibility
+            - _subscribe
 ---
 

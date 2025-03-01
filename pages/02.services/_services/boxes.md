@@ -11,7 +11,7 @@ boxes:
     -
         package: true
         heading: 'The Glow Package'
-        content: "_aka Evaluation Plus._\n<span class=\"first-character\">M</span>anuscript evaluations provide you with actionable, in-depth feedback, but after you have made changes based on that feedback, it can be hard to tell if your changes led to an improvement, need to go further, or didn’t work at all. With the Glow Package, you get a second-round review on top of the manuscript evaluation. This results in a 7- to 15-page evaluation and then a follow-up 4- to 6-page critique of your edited manuscript. _Includes a 1-hour coaching call._\n\n<hr class=\"flower\" />\n\n**Cost:** 1.9 cents per word\n\n_**Optional add-on:** Comprehensive margin notes on the first 25 pages - $60_\n\n<a class=\"button\" href=\"/contact?form-select=glow#contact\">Get Started</a>"
+        content: "<span class=\"first-character\">M</span>anuscript evaluations provide you with actionable, in-depth feedback, but after you have made changes based on that feedback, it can be hard to tell if your changes led to an improvement, need to go further, or didn’t work at all. With the Glow Package, you get a second-round review on top of the manuscript evaluation. This results in a 7- to 15-page evaluation and then a follow-up 4- to 6-page critique of your edited manuscript. _Includes a 1-hour coaching call._\n\n<hr class=\"flower\" />\n\n**Cost:** 1.9 cents per word\n\n_**Optional add-on:** Comprehensive margin notes on the first 25 pages - $60_\n\n<a class=\"button\" href=\"/contact?form-select=glow#contact\">Get Started</a>"
     -
         package: true
         heading: 'The Shiny Submission'

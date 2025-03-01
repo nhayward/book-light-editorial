@@ -2,18 +2,18 @@
 boxes:
     -
         heading: Accessibility
-        content: "Book Light Editorial is a safe and inclusive space for all authors. Learn more about our accessibility policy, and how we can work together.\n"
+        content: 'Book Light Editorial is a safe and inclusive space for all authors. Learn more about our accessibility policy, and how we can work together.'
         button: 'Learn More'
         link: /
     -
         heading: Services
-        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque fringilla a mauris vitae accumsan. Aliquam non nisi odio. Cras euismod nibh porta, ultricies tellus eu.\n"
+        content: "From developmental editing to copyediting, we work with both indie and traditional authors to help forge your story.\n"
         button: 'Start Here'
         link: /
     -
-        heading: Resources
-        content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque fringilla a mauris vitae accumsan. Aliquam non nisi odio. Cras euismod nibh porta, ultricies tellus eu.'
-        button: 'Learn More'
+        heading: 'The Team'
+        content: 'We believe every author should have a compassionate and insightful editorial team as part of their crew. '
+        button: 'Build Team'
         link: /
 routable: false
 visible: false

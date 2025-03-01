@@ -6,16 +6,16 @@ columns:
         image:
             src: orb_raven.png
             alt_text: raven
-        content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis elit vitae quam elementum lobortis. Fusce ac enim vel leo tincidunt cursus. Nulla tristique dolor.'
+        content: 'We put our knowledge and creativity to work as we dive through your story’s pages.'
     -
         image:
             src: orb_dragon.png
             alt_text: dragon
-        content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis elit vitae quam elementum lobortis. Fusce ac enim vel leo tincidunt cursus. Nulla tristique dolor.'
+        content: 'We preserve and protect our authors’ voice and vision through the editorial process.'
     -
         image:
             src: orb_cat.png
             alt_text: cat
-        content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis elit vitae quam elementum lobortis. Fusce ac enim vel leo tincidunt cursus. Nulla tristique dolor.'
+        content: 'We build supportive, long-lasting partnerships with our authors from the first book to the last.'
 ---
 

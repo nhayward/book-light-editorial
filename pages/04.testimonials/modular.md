@@ -17,5 +17,7 @@ content:
         custom:
             - _slider
             - _testimonials
+            - _cta-footer
+            - _subscribe
 ---
 
