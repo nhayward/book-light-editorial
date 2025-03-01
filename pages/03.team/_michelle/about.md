@@ -8,7 +8,6 @@ editor_title: Copyeditor
 title: Michelle
 media_order: ''
 sitemap: {  }
-genre_images: false
 content:
     items: '@self.modular'
 published: false

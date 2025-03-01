@@ -32,13 +32,6 @@
             <link rel="preload" href="{{ url('theme://images/headers/Book_Light_Editorial_on_xs.png') }}" as="image">
             <link rel="preload" href="{{ url('theme://images/button_sheet.png') }}" as="image">
 
-            {% if page.header.genre_images %}
-                <link rel="preload" href="{{ url('theme://images/genres/fantasy_no-edge_warrior_no-back.png') }}" as="image" media="(min-width: 1171px)">
-                <link rel="preload" href="{{ url('theme://images/genres/romance_girl.png') }}" as="image" media="(min-width: 1171px)">
-                <link rel="preload" href="{{ url('theme://images/genres/scifi_no-edge_no-back_spacegirl.png') }}" as="image" media="(min-width: 1171px)">
-                <link rel="preload" href="{{ url('theme://images/genres/mysteryman.png') }}" as="image" media="(min-width: 1171px)">
-            {% endif %}
-
             {% if page.header.preload_assets %}
                 {% for asset in page.header.preload_assets %}
                 <link 
@@ -185,21 +178,6 @@
                 <span class="hidden-link-text">Instagram</span>
             </a>
         </div>
-
-        {% if page.header.genre_images %}
-            <div id="warrior-margin" class="rellax-image margin-image" data-rellax-speed="-2" role="complementary" aria-label="fantasy">
-                <img src="{{ url('theme://images/genres/fantasy_no-edge_warrior_no-back.png') }}" alt="">
-            </div>
-            <div id="romance-girl-margin" class="rellax-image margin-image" data-rellax-speed="-2" role="complementary" aria-label="romance">
-                <img src="{{ url('theme://images/genres/romance_girl.png') }}" alt="">
-            </div>
-            <div id="scifi-spacegirl-margin" class="rellax-image margin-image" data-rellax-speed="-2" role="complementary" aria-label="scifi">
-                <img src="{{ url('theme://images/genres/scifi_no-edge_no-back_spacegirl.png') }}" alt="">
-            </div>
-            <div id="mysteryman-margin" class="rellax-image margin-image" data-rellax-speed="-2" role="complementary" aria-label="mystery">
-                <img src="{{ url('theme://images/genres/mysteryman.png') }}" alt="">
-            </div>
-        {% endif %}
 
         {% block bottom %}
             {{ assets.js('bottom')|raw }}

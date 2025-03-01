@@ -18,7 +18,6 @@ content:
         custom:
             - _services
             - _bottom-content
-            - _footer-cta
-genre_images: true
+            - _accessibility
 ---
 

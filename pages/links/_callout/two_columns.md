@@ -1,6 +1,5 @@
 ---
 title: callout
-genre_images: false
 content:
     items: '@self.modular'
 left_column: "<center markdown=\"1\">\n[Newsletter Sign-Up and FREE Workbook](http://eepurl.com/dk655n){.button .secondary-btn}\n\n[Learn More About our Editing Services](/services){.button .secondary-btn}\n\n[Reach out to us directly!](/contact){.button .secondary-btn}\n</center>\n\n\n"

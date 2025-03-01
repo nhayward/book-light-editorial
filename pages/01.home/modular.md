@@ -19,47 +19,5 @@ sitemap:
     priority: !!float 1
 showcase_heading: 'Bring your book to light.'
 showcase_button_target: /services
-preload_assets:
-    -
-        path: '{{ url(''theme://images/genres/romance_no-edge_no-girl.png'') }}'
-        media_query: 'min-width: 841px'
-    -
-        path: '{{ url(''theme://images/genres/romance_girl.png'') }}'
-        media_query: 'min-width: 841px'
-    -
-        path: '{{ url(''theme://images/genres/mysteryman.png'') }}'
-    -
-        path: '{{ url(''theme://images/genres/mystery_no-edge_no-city.png'') }}'
-        media_query: 'min-width: 841px'
-    -
-        path: '{{ url(''theme://images/genres/mystery_no-edge_city_no-back.png'') }}'
-        media_query: 'min-width: 841px'
-    -
-        path: '{{ url(''theme://images/genres/scifi_no-edge_no-spacegirl.png'') }}'
-        media_query: 'min-width: 841px'
-    -
-        path: '{{ url(''theme://images/genres/scifi_no-edge_no-back_spacegirl.png'') }}'
-        media_query: 'min-width: 841px'
-    -
-        path: '{{ url(''theme://images/genres/scifi_star.png'') }}'
-        media_query: 'min-width: 841px'
-    -
-        path: '{{ url(''theme://images/genres/fantasy_no-edge_no-warrior.png'') }}'
-        media_query: 'min-width: 841px'
-    -
-        path: '{{ url(''theme://images/genres/fantasy_no-edge_warrior_no-back.png'') }}'
-        media_query: 'min-width: 841px'
-    -
-        path: '{{ url(''theme://images/genres/romance_no-edge_girl.png'') }}'
-        media_query: 'max-width: 840px'
-    -
-        path: '{{ url(''theme://images/genres/mystery_no-edge_city.png'') }}'
-        media_query: 'max-width: 840px'
-    -
-        path: '{{ url(''theme://images/genres/scifi_no-edge_spacegirl.png'') }}'
-        media_query: 'max-width: 840px'
-    -
-        path: '{{ url(''theme://images/genres/fantasy_no-edge_warrior.png'') }}'
-        media_query: 'max-width: 840px'
 ---
 
