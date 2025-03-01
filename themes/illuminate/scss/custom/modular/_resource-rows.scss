@@ -1,9 +1,14 @@
 .resource-rows {
-  margin: 5rem 0;
+  margin: 4rem 0;
   
   .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
     .columns.resource-box {
-      margin: 4rem 0;
+      max-width: 750px;
+      margin: 3rem 0;
       box-shadow: 0 0 10px 3px black;
       padding: 20px 30px;
       background-image: url(/user/themes/illuminate/images/accents/Book_Light_Editorial_flowers_resources.png);
