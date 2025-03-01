@@ -4,6 +4,7 @@ process:
     twig: true
 title: Text
 image_align: left
+class: narrow
 ---
 
 If you are ready to begin editing or if you don't know yet and have questions for us, please send us a message and we will get back to you as soon as possible!
