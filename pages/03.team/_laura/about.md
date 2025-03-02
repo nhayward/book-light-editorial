@@ -1,6 +1,6 @@
 ---
 profile_image:
-    src: Book_Light_Editorial_Laura_Dennison.jpg
+    src: Book_Light_Editorial_Laura_Dennison.png
     alt_text: 'Laura Dennison'
 editor_name: 'Laura Dennison'
 editor_title: Copyeditor
