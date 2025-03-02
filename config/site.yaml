@@ -17,8 +17,10 @@ summary:
 redirects:
   /about: /team
   /recommendations: /testimonials
+  /blog: '/resources/articles[301]'
+routes: null
 blog:
-  route: /blog
+  route: /resources/articles
 footer:
   links:
     -
