@@ -1,6 +1,7 @@
 .hero-heading {
   clip-path: polygon(100% 0, 100% calc(100% - 125px), 50% 100%, 0 calc(100% - 125px), 0 0);
   padding: 0 0 8rem 0;
+  text-align: center;
 
   &::before {
     background-color: $dark-color;
@@ -16,6 +17,12 @@
   .hero-image {
     position: relative;
     z-index: -1;
+  }
+
+  &.image-width-limit {
+    .hero-image {
+      max-width: 750px;
+    }
   }
 
   .container {
