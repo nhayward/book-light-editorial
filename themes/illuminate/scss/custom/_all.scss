@@ -55,18 +55,9 @@ html {
         visibility: hidden;
       }
 
-      #contact-page-images {
+      #contact-page-image {
         margin-top: 2rem;
         text-align: center;
-
-        img {
-          max-height: 250px;
-          max-width: 23%;
-
-          &#contact-page-warrior {
-            max-height: 300px;
-          }
-        }
       }
 
       .mobile-menu {

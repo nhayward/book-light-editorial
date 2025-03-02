@@ -119,11 +119,8 @@ We look forward to hearing from you!
 	</div>
 </form>
 
-<div id="contact-page-images">
-  <img src="/user/themes/illuminate/images/genres/romance_girl.png" alt="">
-  <img src="/user/themes/illuminate/images/genres/mysteryman.png" alt="">
-  <img src="/user/themes/illuminate/images/genres/scifi_no-edge_no-back_spacegirl.png" alt="">
-  <img id="contact-page-warrior" src="/user/themes/illuminate/images/genres/fantasy_no-edge_warrior_no-back.png" alt="">
+<div id="contact-page-image">
+  <img src="/user/themes/illuminate/images/animals/threeanimals.png" alt="">
 </div>
 
 <script type="text/javascript">
