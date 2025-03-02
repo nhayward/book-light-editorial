@@ -17,6 +17,11 @@ html {
       input,
       textarea {
         width: 100%;
+        line-height: 2;
+      }
+
+      select {
+        height: 1.5rem;
       }
 
       .buttons {
