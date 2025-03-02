@@ -47,12 +47,18 @@
               }
   
               & ~ p:last-child {
-                margin-right: 115px;
+                margin-right: 75px;
   
                 @media (max-width: 500px) {
                   margin-right: 0;
                   margin-bottom: 70px;
                 }
+              }
+            }
+
+            hr.flower {
+              & ~ p {
+                margin-right: 50px;
               }
             }
   
