@@ -7,6 +7,7 @@ metadata:
 sitemap:
     changefreq: monthly
     priority: 0.5
+    lastmod: '02-03-2025 22:13'
 onpage_menu: false
 body_classes: 'modular fullwidth'
 content:
@@ -19,5 +20,6 @@ content:
             - _testimonials
             - _cta-footer
             - _subscribe
+showcase_heading: Testimonials
 ---
 

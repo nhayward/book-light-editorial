@@ -6,7 +6,7 @@ media_order: 'LightUpVoices_TransparentBack.png,LightUpVoicesRamkinsAttic_medium
 
 ![Ramkin's Attic in cooperation with Light Up Voices](LightUpVoicesRamkinsAttic_medium.png "Ramkin's Attic in cooperation with Light Up Voices"){.center}
 ## **light up Voices**{.teal}
-#### **In cooperation with Ramkin's Attic**{.teal}
+<div class="heading-text teal">In cooperation with Ramkin's Attic</div>
 
 ### What is it?
 

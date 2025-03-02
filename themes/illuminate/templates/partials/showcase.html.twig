@@ -3,7 +3,7 @@
     <img id="header_curtain" src="{{ url('theme://images/headers/header_background.png')}}" alt="">
     <img id="header_logo" src="{{ url('theme://images/headers/Book_Light_Editorial_on_xs.png') }}" alt="Book Light Editorial Logo">
     {% if header_var('showcase_heading') %}
-      <div id="header_text" class="heading-text" role="heading" aria-level="1">{{ header_var('showcase_heading') }}</div>
+      <h1 id="header_text" class="heading-text" role="heading" aria-level="1">{{ header_var('showcase_heading') }}</h1>
     {% endif %}
     {% if header_var('showcase_button') %}
       <a class="button" href="{{ header_var('showcase_button_target') }}">{{ header_var('showcase_button') }}</a>

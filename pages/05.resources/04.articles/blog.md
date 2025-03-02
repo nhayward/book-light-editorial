@@ -13,5 +13,6 @@ content:
     limit: 10
     pagination: true
 show_sidebar: false
+showcase_heading: Articles
 ---
 

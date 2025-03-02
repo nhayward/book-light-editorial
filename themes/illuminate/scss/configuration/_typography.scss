@@ -19,6 +19,10 @@ body#top {
     &.teal {
       color: $secondary-color;
     }
+
+    &.white {
+      color: $white;
+    }
   }
 
   h2 {
@@ -29,6 +33,10 @@ body#top {
     font-size: 1.8rem;
   }
 
+  .heading-text {
+    font-size: 1rem;
+  }
+
   p,
   li,
   a, .button, .btn {
@@ -37,6 +45,16 @@ body#top {
 
   a {
     color: $link-color;
+  }
+
+  #start {
+    a:not(.button):not(.btn) {
+      text-decoration: underline;
+
+      &:hover {
+        color: $red-color;
+      }
+    }
   }
 
   hr.flower {
@@ -118,8 +136,16 @@ body#top {
         background-repeat: no-repeat;
       }
 
-    h1, h2, h3, h4, h5, h6 {
+      h1, h2, h3, h4, h5, h6 {
         color: $white;
+      }
+
+      a {
+        color: $accent-color;
+
+        &:hover {
+          color: $white !important;
+        }
       }
     }
   }

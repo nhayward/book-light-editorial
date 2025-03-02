@@ -57,7 +57,7 @@
             }
 
             hr.flower {
-              & ~ p {
+              & ~ * {
                 margin-right: 50px;
               }
             }

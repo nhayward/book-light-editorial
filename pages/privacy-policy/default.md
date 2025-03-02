@@ -1,8 +1,11 @@
 ---
 title: 'Privacy Policy'
+showcase_heading: 'Privacy Policy'
+sitemap:
+    lastmod: '02-03-2025 22:53'
 ---
 
-## PRIVACY POLICY{.center}
+## policy
 
 In compliance with the GDPR act, Book Light Editorial has added a privacy policy page. Last update: December 23, 2019
 

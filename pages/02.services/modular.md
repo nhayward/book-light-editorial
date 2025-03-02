@@ -6,7 +6,7 @@ metadata:
     keywords: 'editing, freelance, publishing, writing, author, indie author, editor, self-publishing, developmental editing, copyediting, manuscript, services'
 sitemap:
     changefreq: monthly
-    priority: !!float 1
+    lastmod: '02-03-2025 22:02'
 header_image: book_light_editorial_printerkey2_banner.png
 onpage_menu: false
 body_classes: modular
@@ -20,5 +20,6 @@ content:
             - _bottom-content
             - _accessibility
             - _subscribe
+showcase_heading: Services
 ---
 
