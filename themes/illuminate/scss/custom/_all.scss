@@ -165,10 +165,21 @@ html {
       .overlay-menu {
         ul {
           li {
+            margin: 0.5rem 0;
+
             .toggler {
-              display: none;
+              padding-left: 10px;
             }
+
+            &.tree-empty {
+              .toggler {
+                display: none;
+              }
+            }
+
             a {
+              margin-left: 1.75rem;
+
               &.active, &:focus {
                 font-weight: bold;
                 color: $link-color !important;
