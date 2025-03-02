@@ -11,5 +11,6 @@ content:
 sitemap:
     lastmod: '01-03-2025 04:44'
 body_classes: modular
+onpage_menu: false
 ---
 

@@ -7,4 +7,4 @@ body_classes: modular
 
 Book Light Editorial and Light Up Voices have teamed up to bring you all the latest writing tips, resource guidelines, and more.
 
-<a class="button" href="/">Subscribe</a>
+<a class="button" href="/resources/newsletter">Subscribe</a>

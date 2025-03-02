@@ -7,4 +7,4 @@ routable: false
 visible: false
 ---
 
-## Book Light Editorial's Favorite Links{.center}
+## Book light Editorial's Favorite links{.center}
