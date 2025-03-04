@@ -1,5 +1,5 @@
 ---
-title: 'Livestream Critique with Author Rebecca Thorne'
+title: 'livestream Critique with Author Rebecca Thorne'
 taxonomy:
     category:
         - blog
