@@ -5,17 +5,17 @@ taxonomy:
     category:
         - blog
     tag:
-        - author
-        - writing
         - publishing
+        - writing
+        - author
         - 'indie author'
         - booktrope
         - 'guest post'
 ---
 
-#### by Kim Alexander
+## by Kim Alexander
 
-###### (This post was originally written for [ITW's The Thrill Begins](http://thrillbegins.com/2016/06/21/the-night-i-danced-with-my-cat/?target=_blank), replublished with permission)
+**_(This post was originally written for [ITW's The Thrill Begins](http://thrillbegins.com/2016/06/21/the-night-i-danced-with-my-cat/?target=_blank), replublished with permission)_**
 
 It seemed like such a good idea.
 
