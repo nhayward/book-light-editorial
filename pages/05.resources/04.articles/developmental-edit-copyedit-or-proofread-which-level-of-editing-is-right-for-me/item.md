@@ -10,12 +10,12 @@ taxonomy:
         - publishing
         - writing
         - editing
-        - 'developmental editing'
         - copyediting
+        - 'developmental editing'
         - proofreading
 ---
 
-#### [by Laura Dennison](http://booklighteditorial.com/team#laura)
+## [by Laura Dennison](http://booklighteditorial.com/team#laura)
 
 At long last, you’ve done it. You’ve written your novel. You’ve slugged your way though some 80,000 words and consumed approximately 80,000 cups of coffee in the process. When you’re stuck in a traffic jam on the way home from work, you have conversations with your characters. They even make regular appearances in your dreams. By now, you’re probably feeling ready for the next step. But what, exactly, should that next step be?
 
@@ -23,16 +23,16 @@ In short, you’ll need to edit. But before diving in, you’ll need to consider
 
 Developmental editing, copyediting, and proofreading are three distinct **levels of editing**. They each have different focuses, and they each go into varying levels of depth in terms of types of changes. If you’re unfamiliar with the differences, don’t fret—I’m about to break it all down!
 
-#### Developmental Editing
+**Developmental Editing**
 
 Developmental editors focus on content. If the editing world were analogous to a Dilbert-like, cubicle-laden office environment, developmental editors would serve a project-management role. They focus on the big picture and help you mold the malleable bits of your novel into a story with solid structure. A developmental editor can help you patch up plot holes; offer opinions on chronology, point of view, and pace; and provide tips to bring your characters to life, just to name a few. They might point out scenes that might be served better in summary, point out passages that are lacking in tension, or flag distracting instances of head-hopping.
 
-!!!!! #### "You’ve slugged your way though some 80,000 words and consumed approximately 80,000 cups of coffee in the process."
+!!!!! "You’ve slugged your way though some 80,000 words and consumed approximately 80,000 cups of coffee in the process."
 
 Developmental editing is comprehensive. You can expect your manuscript to be returned to you with plenty of comments and queries (questions from the editor to the author) in the margins. These notes are typically made using track changes, a program built into Word processors. Often, developmental editors will also provide an editorial letter. This letter will help you determine what’s working well in your novel so far, as well as any suggestions for potential rewrites of scenes or areas of weakness to be aware of when it comes time to revise. If you want to learn more about these substantive editors, check out Book Light Editorial’s post on how [developmental editing is your book’s best friend](http://booklighteditorial.com/blog/developmental-editing-your-books-best-friend).
 
  
-#### Copyediting
+**Copyediting**
 
 If you’re looking to hire a copyeditor, wait until you’re completely confident with the content of your draft, since any major rewrites would require another round of copyediting. That’s because copyeditors scour manuscripts for any issues related to spelling, grammar, usage, style, and consistency. These changes, which are mostly objective in nature, are standard to any copyedit and sometimes referred to as a **light copyedit**. A **heavy copyedit**, on the other hand, wades into more subjective waters, and includes a check on any awkward sentences, repetitive phrasing, or wordy paragraphs.
 
@@ -46,17 +46,17 @@ Consulting a style guide and set dictionary takes out a lot of that guesswork wh
 
 Beyond the universal, it’s important to keep track of all things unique to your novel. To stay organized, copyeditors use a **style sheet**. This document should include information like the names and correct spellings of your characters, any unique locations, and any other relevant details that the editor should be on the lookout for, such as notes on characters’ physical appearances. This way, if Timmy’s eyes are described as “icy and cold—a chilling, glacial blue” on page 57, but “dark as an oil slick” on page 78, it’s much easier to notice the inconsistency and quickly work to resolve the problem. Style sheets are particularly important if you’re writing a science fiction novel that features the Jelopaticks—a blob-like alien species who live on planet ZeeZoo’Kap and travel through space in their Bleep-Bleep M-875 personalized rockets—as we can’t simply Google Jelopaticks to verify the spelling, since, of course, they don’t exist . . . yet. 
 
-!!!!! ### "We’re much more than warm-blooded spellcheckers."
+!!!!! "We’re much more than warm-blooded spellcheckers."
 
 Copyeditors also use in-line comments and track changes for providing feedback. With a heavier copyedit, you can expect your manuscript to return to you with a healthy amount of markups and a fair number of suggestions, but don’t expect a three-page editorial letter to arrive in your inbox alongside it. With the exception of some queries, most copyedits should be straightforward enough to either accept, alter (as in, deciding whether Timmy’s eyes should be Gatorade blue or oil-rig brown), or _stet_ (let sit).
 
-#### Proofreading
+**Proofreading**
 
 If editing were a Subway line, proofreading would be the last stop on the long, sometimes squeaky ride to Published Town. Proofreading is a read-through of your novel to ensure there are no typographical errors. By typographical errors, I mean really granular, tiny things—think _being_ instead of _begin_, _shipped_ instead of _sipped_. It’s an extra space between sentences or a period that’s secretly slithered its way outside the confines of its closing quotation marks.
 
 Oftentimes, authors think their work is ready for proofreading and skip the crucial step of copyediting, so be sure your prose is polished, tight, and in need of no further tweaking before you pursue a proofread. Consider the moment you check for back pockets for your wallet, keys, and phone one last time before leaving for work in the morning. It’s an important check, because if any of the basics are missing, you’re going to waste a lot of precious time backtracking. 
 
-#### A Word On Changes
+**A Word On Changes**
 
 I know it can be scary to plunk your newly minted novel into the hands of an editor, and it is totally, entirely valid to feel protective or worried about the changes an editor might suggest. Will I get my pages back only to find that everything’s been rewritten in the stiff, academic voice of a tenured professor of neuroscience? Will they change my main character’s name from Eric to Randy just because their high school boyfriend—coincidentally also named Eric—was a really slobbery kisser?
 
@@ -64,4 +64,4 @@ These concerns are natural. They show that you’re committed to your work, and 
 
 I was a writer long before I started professionally editing, so I empathize with authors’ fears and fretted I’d alter their voices. My boss provided me with some helpful advice that boils down to this: The best editors are invisible. They work behind the scenes, not _for_ you, but _with_ you. This way, come showtime, the spotlight shines right where it should—on your words and your book.
 
-##### Happy writing!
+<div class="heading-text teal">Happy writing!</div>
