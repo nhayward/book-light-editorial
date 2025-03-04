@@ -13,9 +13,9 @@ taxonomy:
         - editing
         - storytelling
         - movies
-        - dialogue
         - 'story chat radio'
         - podcast
+        - dialogue
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/17344997/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
@@ -54,6 +54,6 @@ We then are treated to multiple endings that show various guests as the killer. 
 
 **Jeni:** The bit of worldbuilding at the beginning feels like you’re sort of setting the stage, but then I didn’t see how it really connected to what you tell us about the main characters. I think you’d be better off splitting up that information and giving it to us where it’s relevant so you can focus more on the characters and stakes. And then the last paragraph of the summary is too vague. Give us more specific information here. What are two or three obstacles that these characters will have to overcome in order to resolve the main plot? What do they really want, and what are they going to have to sacrifice to get it? What happens if they don’t? 
 
-##### On our next podcast we will be discussing the magical realism drama _The Shape of Water_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.  
+**On our next podcast we will be discussing the magical realism drama _The Shape of Water_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.**  
 
-##### You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
+!!!!! You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
