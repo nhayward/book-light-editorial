@@ -1,5 +1,5 @@
 ---
-title: 'Light Up Voices'
+title: 'light Up Voices'
 metadata:
     description: 'Let’s spotlight marginalized authors! If you are a marginalized author, enter now to receive a 50 page evaluation on your manuscript.'
 taxonomy:
