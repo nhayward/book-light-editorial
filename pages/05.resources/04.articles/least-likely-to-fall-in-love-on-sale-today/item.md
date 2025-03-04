@@ -1,5 +1,5 @@
 ---
-title: 'Least Likely to Fall in Love – On Sale Today!'
+title: 'least likely to Fall in love – On Sale Today!'
 date: '31-03-2015 00:00'
 taxonomy:
     category:
@@ -8,12 +8,12 @@ taxonomy:
         - author
         - 'on sale'
         - books
+        - romance
         - published
         - contemporary
-        - romance
 ---
 
-##### by Carly Bornstein-Hayward
+## by Carly Bornstein-Hayward
 
 So excited for Cheryl Harper’s new book, **Least Likely to Fall in Love**!
 
