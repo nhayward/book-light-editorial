@@ -1,14 +1,14 @@
 ---
 title: body
 body_classes: modular
-media_order: 'LightUpVoices_wback.png,ramkinsattic.png'
+media_order: 'ramkinsattic_medium.png,LightUpVoices_medium.png'
 ---
 
-![Light Up Voices](LightUpVoices_wback.png "Light Up Voices"){.center}
+![Light Up Voices](LightUpVoices_medium.png "Light Up Voices"){.center}
 
-in cooperation with
+## in cooperation with{.center}
 
-![Ramkin's Attic](ramkinsattic.png "Ramkin's Attic")
+![Ramkin's Attic](ramkinsattic_medium.png "Ramkin's Attic")
 
 ## **light up Voices**{.teal}
 <div class="heading-text teal">In cooperation with Ramkin's Attic</div>
