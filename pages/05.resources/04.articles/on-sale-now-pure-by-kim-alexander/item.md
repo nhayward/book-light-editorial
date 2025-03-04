@@ -13,9 +13,9 @@ taxonomy:
         - paranormal
 ---
 
-#### by Carly Hayward
+## by Carly Hayward
 
-##### **International best-selling author Kim Alexander’s new novel is on sale today!**
+**International best-selling author Kim Alexander’s new novel is on sale today!**
 
 It’s a fun and sexy contemporary retelling of a fairy tale full of magical creatures, passion, and redemption.
 
@@ -25,7 +25,7 @@ It is the start of a great new series from an author that knows fantasy well.
 
 ![](Book_Light_Editorial_pure.jpg?cropResize=300,300){.float-left}
 
-##### From the Back Cover:
+### From the Back Cover:
 
 **"A unicorn walks into a bar..."**
 
@@ -42,6 +42,6 @@ I don't care if he's not PURE.
 But, he does.
 
 
-##### Available NOW as an e-book [here](https://www.amazon.com/Pure-Paranormal-Romance-Kim-Alexander-ebook/dp/B06XKMW6J1/ref=sr_1_2?ie=UTF8&qid=1489513322&sr=8-2&keywords=kim+alexander?target=_blank)!
+**Available NOW as an e-book [here](https://www.amazon.com/Pure-Paranormal-Romance-Kim-Alexander-ebook/dp/B06XKMW6J1/ref=sr_1_2?ie=UTF8&qid=1489513322&sr=8-2&keywords=kim+alexander?target=_blank)!**
 
 Check out Kim’s website: [kimalexanderonline.com](http://kimalexanderonline.com/wp/?target=_blank)
