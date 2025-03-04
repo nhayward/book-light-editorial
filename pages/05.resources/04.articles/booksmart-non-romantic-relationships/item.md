@@ -13,10 +13,10 @@ taxonomy:
         - editing
         - storytelling
         - movies
-        - 'non-romantic relationships'
-        - relationships
         - 'story chat radio'
         - podcast
+        - 'non-romantic relationships'
+        - relationships
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/13286576/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
@@ -49,6 +49,6 @@ Here come the spoilers! Amy and Molly are best friends who have spent their scho
 **Jeni:** Yes, the concept seems really cool, but in addition to the query letter being too long, the word count is too high for this genre and age category. It's important to know what the standards are for your market. For YA thriller, even with the historical setting, it really needs to be 85-95k.
 This query has a lot of "sales-y" words in it to hook the reader. While one purpose of a query letter is to get an agent intrigued enough to want to read pages, you can overdo it. Going overboard with strong language and too many hooks can be a turnoff, especially when it doesn't explain the basic plot of your story (not including the ending--typically you want a query letter to end with hinting at the climax). Lastly, make sure you include a bio. Some agents don’t care if you don’t include a bio, but most want to see something. A lot of writers aren’t sure what to use if they don't have any writing credits. It’s fine if you don’t and won’t hurt your chances of getting representation. When this is the case, keep it simple. It's enough to say "I live in Charlotte, NC, and this will be my first novel." In terms of the query structure, my best advice for this is to study the actual structure of queries because it’s a pretty simple format, even though it can be hard to apply to your story. The two places I always recommend to learn about query structure are the QueryShark blog, where an agent offers feedback on queries and posts it publicly, and the Successful Queries blog at Writers Digest because you can see queries that got an agent there, along with notes from the agent about what drew their attention. 
 
-##### On our next podcast, we will be discussing the movie that brought us together and keeps our friendship going through the darkest times. The one, the only, _The Princess Bride_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our Twitter page. 
+**On our next podcast, we will be discussing the movie that brought us together and keeps our friendship going through the darkest times. The one, the only, _The Princess Bride_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our Twitter page.** 
 
-##### You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [iTunes](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Play Music](https://play.google.com/music/m/Ig4hfs2ujhxenoikqvovs6hgtlu?target=_blank), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
+!!!!! You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [iTunes](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Play Music](https://play.google.com/music/m/Ig4hfs2ujhxenoikqvovs6hgtlu?target=_blank), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
