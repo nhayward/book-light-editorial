@@ -1,0 +1,19 @@
+{% set grid_size = theme_var('grid-size') %}
+
+<section class="section resource-rows {{ page.header.class}}">
+    <section class="container {{ grid_size }}">
+        {% for row in page.header.rows %}
+            <div class="columns resource-box">
+                <div class="column resource-image-column col-2 col-md-12">
+                    <img class="resource-image" src="{{ url('page@:/resources') }}/{{ row.image.src }}" alt="{{ row.image.alt_text }}">
+                </div>
+                <div class="column col-1 col-md-12"></div>
+                <div class="column resource-content-column col-9 col-md-12">
+                    <div class="resource-content">
+                        {{ row.content|markdown }}
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </section>
+</section>

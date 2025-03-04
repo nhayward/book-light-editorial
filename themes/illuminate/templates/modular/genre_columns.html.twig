@@ -1,0 +1,16 @@
+{% set grid_size = theme_var('grid-size') %}
+
+<section class="section genre-columns {{ page.header.class}}">
+    <section class="container {{ grid_size }}">
+        <div class="columns">
+            {% for column in page.header.columns %}
+                <div class="column col-4 col-md-12">
+                    <img class="genre-image" src="{{ url('theme://images/animals') }}/{{ column.image.src }}" alt="{{ column.image.alt_text }}">
+                    <div class="genre-content">
+                        {{ column.content|markdown }}
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </section>
+</section>

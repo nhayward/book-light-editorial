@@ -10,7 +10,6 @@ boxes:
     -
         package: false
         content: null
-genre_images: false
 onpage_menu: false
 content:
     items: '@self.modular'

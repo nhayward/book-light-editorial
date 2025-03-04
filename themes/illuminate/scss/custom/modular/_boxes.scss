@@ -13,37 +13,59 @@
           box-shadow: 0 0 10px 1px black;
           background-color: $white;
           background-repeat: no-repeat;
-          background-size: 125px;
-          background-position: right 10px bottom 10px;
-          color: black;
+          background-size: 105px;
+          background-position: right -15px bottom -5px;
           margin: 2rem 1rem;
-          padding: 10px 20px;
 
           &.package {
               box-shadow: 0 0 10px 1px $highlight;
           }
 
-          blockquote {
-            margin-right: 0;
-            border-left: 10px solid lightgrey;
-
-            p {
-              color: #555;
-            }
-
-            & ~ p:last-child {
-              margin-right: 115px;
-
-              @media (max-width: 500px) {
-                margin-right: 0;
-                margin-bottom: 70px;
-              }
+          .box-heading {
+            background-color: $primary-color;
+            text-align: center;
+            color: $white;
+            padding: 10px 20px;
+            
+            h2 {
+              margin: 0;
+              color: $white !important;
+              font-size: 1.5rem !important;
             }
           }
 
-          .button {
-            @media (max-width: 500px) {
-              margin-bottom: 50px;
+          .box-content {
+            color: black;
+            padding: 20px;
+            
+            blockquote {
+              margin-right: 0;
+              border-left: 10px solid lightgrey;
+  
+              p {
+                color: #555;
+              }
+  
+              & ~ p:last-child {
+                margin-right: 75px;
+  
+                @media (max-width: 500px) {
+                  margin-right: 0;
+                  margin-bottom: 70px;
+                }
+              }
+            }
+
+            hr.flower {
+              & ~ * {
+                margin-right: 50px;
+              }
+            }
+  
+            .button {
+              @media (max-width: 500px) {
+                margin-bottom: 50px;
+              }
             }
           }
         }

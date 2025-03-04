@@ -1,17 +1,24 @@
 #cta {
-  margin-bottom: -5rem;
+  clip-path: polygon(100% 0, 100% calc(100% - 125px), 50% 100%, 0 calc(100% - 125px), 0 0);
   padding: 0;
-  color: $body-font-color;
+  color: $white;
 
   .container {
-    > div {
+    #cta-content {
       position: relative;
+      min-height: 400px;
       padding: 1rem 0.5rem;
+      text-align: left;
       z-index: 1;
 
       &:before {
+        background-color: $dark-color;
+        background-image: url(/user/themes/illuminate/images/footer/carlydesk.png);
+        background-position: bottom -85px right -190px;
+        background-size: 600px;
+        background-repeat: no-repeat;
         z-index: -1;
-        content: '';
+        content: "";
         position: absolute;
         top: 0;
         bottom: 0;
@@ -20,94 +27,79 @@
         width: 100vw;
       }
 
-      &#cta-top-bar {
-        &:before {
-          background-color: $dark-color;
-        }
+      .text-column {
+        margin-bottom: 8rem;
 
-        #cta-title {
-          margin: 0;
-          font-size: 2rem;
-          line-height: 3rem;
-          text-align: center;
-          text-transform: uppercase;
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
           color: $white;
-
-          @media (max-width: 500px) {
-            font-size: 1.25rem;
-          }
-        }
-      }
-
-      &#cta-content {
-        min-height: 400px;
-        text-align: left;
-
-        &:before {
-          background-color: $gray-color;
         }
 
-        .text-column {
-          padding-right: 1.5rem;
+        .button {
+          display: block;
+          margin-left: auto;
+        }
 
-          .button {
-            display: block;
-            margin-left: auto;
-          }
+        .cta-profile-img {
+          max-width: 32%;
+        }
 
-          .cta-profile-img {
-            max-width: 32%;
-          }
-
-          #mc_embed_signup {
-            #mc-embedded-subscribe-form {
-              #mc_embed_signup_scroll {
-                .mc-field-group {
-                  input {
-                    display: block;
-                    margin: 0 auto;
-                    width: 100%;
-                    max-width: 400px;
-                  }
+        #mc_embed_signup {
+          #mc-embedded-subscribe-form {
+            #mc_embed_signup_scroll {
+              .mc-field-group {
+                input {
+                  display: block;
+                  margin: 0 auto;
+                  width: 100%;
+                  max-width: 400px;
                 }
+              }
 
-                .buttons {
-                  .button {
-                    margin: 0.5rem auto 0 auto;
-                  }
+              .buttons {
+                .button {
+                  margin: 0.5rem auto 0 auto;
                 }
               }
             }
           }
-
-          @media (max-width: 600px) {
-            padding-left: 0;
-            padding-right: 0;
-          }
         }
 
-        #cta-coffee-img {
-          max-width: 200px;
-          position: absolute;
-          top: -35px;
-          right: 20px;
+        @media (max-width: 600px) {
+          padding-left: 0;
+          padding-right: 0;
+        }
+      }
 
-          @media (max-width: 600px) {
-            display: none;
+      .image-column {
+        display: flex;
+        justify-content: center;
+
+        img {
+          display: none;
+          max-width: 300px;
+
+          @media (max-width: 960px) {
+            display: block;
           }
         }
+      }
 
-        #cta-desk-img {
-          max-height: 300px;
-          position: absolute;
-          bottom: -25px;
-          right: 0;
-          z-index: 1;
+      @media (max-width: 960px) {
+        &::before {
+          background-image: none;
+        }
 
-          @media (max-width: 600px) {
-            max-width: 200px;
-            position: static;
-          }
+        .text-column {
+          margin-bottom: 1rem;
+        }
+
+        .image-column {
+          margin-bottom: 4rem;
         }
       }
     }

@@ -9,16 +9,16 @@
             <i class="fa fa-podcast fa-xl"></i>
             <span class="hidden-link-text">Podcast</span>
         </a>
-        <a class="social-icon" href="https://twitter.com/fromcarly" target="_blank">
-            <i class="fab fa-twitter fa-xl"></i>
-            <span class="hidden-link-text">Twitter</span>
+        <a class="social-icon" href="https://bsky.app/profile/fromcarly.bsky.social" target="_blank">
+            <i class="fab fa-bluesky fa-xl"></i>
+            <span class="hidden-link-text">Bluesky</span>
         </a>
         <a class="social-icon" href="https://www.instagram.com/booklighteditorial/" target="_blank">
             <i class="fab fa-instagram fa-xl"></i>
             <span class="hidden-link-text">Instagram</span>
         </a>
     </div>
-    <span>Copyright &copy; {{ now|date('Y') }} Carly T. Hayward, Created by <a href="https://twitter.com/WebwardCo" target="_blank">WebwardCo</a></span>
+    <span>Copyright &copy; {{ now|date('Y') }} Carly T. Hayward</span>
     <br>
     {% for link in site.footer.links %}
       <span><a href="{{ link.href }}">{{ link.text }}</a></span>

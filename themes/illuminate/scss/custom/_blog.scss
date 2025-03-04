@@ -9,6 +9,16 @@
     }
   }
 
+  .card {
+    .card-header {
+      .card-title {
+        h2 {
+          margin-bottom: 0.5rem;
+        }
+      }
+    }
+  }
+
   .content-item {
     .content-title {
       .p-name {
@@ -16,6 +26,12 @@
           font-size: 1.75rem !important;
         }
       }
+    }
+  }
+
+  #listing-footer {
+    .pagination {
+      flex-wrap: wrap;
     }
   }
 

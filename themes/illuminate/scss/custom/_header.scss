@@ -48,7 +48,11 @@ section#header {
           font-variant: small-caps;
           color: $white;
 
-          &:after {
+          &:not(:only-child) {
+            margin-right: 1.4rem;
+          }
+
+          &::after {
             position: absolute;
             left: 0;
             bottom: 0;
@@ -67,6 +71,18 @@ section#header {
             &:after {
               width: 100%;
               transform: scaleX(1);
+            }
+          }
+        }
+
+        & > ul {
+          background-color: $primary-color;
+
+          li {
+            margin: 0.5rem 0;
+
+            a {
+              color: $white;
             }
           }
         }

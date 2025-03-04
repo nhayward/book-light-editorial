@@ -21,19 +21,16 @@
             <link rel="icon" type="image/png" href="{{ url('theme://images/favicon.png') }}"/>
             <link rel="canonical" href="{{ page.url(true, true) }}"/>
 
-            <link rel="preload" href="{{ url('theme://css/fontawesome-5.15.4/webfonts/fa-brands-400.woff2') }}" as="font" type="font/woff2" crossorigin>
-            <link rel="preload" href="{{ url('theme://css/fontawesome-5.15.4/webfonts/fa-regular-400.woff2') }}" as="font" type="font/woff2" crossorigin>
-            <link rel="preload" href="{{ url('theme://css/fontawesome-5.15.4/webfonts/fa-solid-900.woff2') }}" as="font" type="font/woff2" crossorigin>
+            <link rel="preconnect" href="https://fonts.googleapis.com">
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+            <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+
+            <link rel="preload" href="{{ url('theme://css/fontawesome-6.7.2/webfonts/fa-brands-400.woff2') }}" as="font" type="font/woff2" crossorigin>
+            <link rel="preload" href="{{ url('theme://css/fontawesome-6.7.2/webfonts/fa-regular-400.woff2') }}" as="font" type="font/woff2" crossorigin>
+            <link rel="preload" href="{{ url('theme://css/fontawesome-6.7.2/webfonts/fa-solid-900.woff2') }}" as="font" type="font/woff2" crossorigin>
             <link rel="preload" href="{{ url('theme://images/headers/header_background.png') }}" as="image">
             <link rel="preload" href="{{ url('theme://images/headers/Book_Light_Editorial_on_xs.png') }}" as="image">
             <link rel="preload" href="{{ url('theme://images/button_sheet.png') }}" as="image">
-
-            {% if page.header.genre_images %}
-                <link rel="preload" href="{{ url('theme://images/genres/fantasy_no-edge_warrior_no-back.png') }}" as="image" media="(min-width: 1171px)">
-                <link rel="preload" href="{{ url('theme://images/genres/romance_girl.png') }}" as="image" media="(min-width: 1171px)">
-                <link rel="preload" href="{{ url('theme://images/genres/scifi_no-edge_no-back_spacegirl.png') }}" as="image" media="(min-width: 1171px)">
-                <link rel="preload" href="{{ url('theme://images/genres/mysteryman.png') }}" as="image" media="(min-width: 1171px)">
-            {% endif %}
 
             {% if page.header.preload_assets %}
                 {% for asset in page.header.preload_assets %}
@@ -72,10 +69,9 @@
                 {%  do assets.addCss('theme://css-compiled/spectre-icons'~compress) %}
             {% endif %}
             {% do assets.addCss('theme://css-compiled/theme'~compress) %}
-            {% do assets.addCss('theme://css-compiled/custom.css') %}
             {% do assets.addCss('theme://css/line-awesome.min.css') %}
             {% do assets.addCss('theme://css/bricklayer.css') %}
-            {% do assets.addCss('theme://css/fontawesome-5.15.4/css/all.css') %}
+            {% do assets.addCss('theme://css/fontawesome-6.7.2/css/all.css') %}
         {% endblock %}
 
         {% block javascripts %}
@@ -83,7 +79,7 @@
             {% do assets.addJs('theme://js/jquery.treemenu.js', {group:'bottom'}) %}
             {% do assets.addJs('theme://js/site.js', {group:'bottom'}) %}
             {% do assets.addJs('theme://js/illuminate.js', {group:'bottom'}) %}
-            {% do assets.addJs('theme://js/vendor/rellax.min.js', {group:'bottom'}) %}
+            {# {% do assets.addJs('theme://js/vendor/rellax.min.js', {group:'bottom'}) %} #}
             {% do assets.add('theme://js/bricklayer.min.js') %}
             {% do assets.add('theme://js/scopedQuerySelectorShim.min.js') %}
         {% endblock %}
@@ -173,9 +169,9 @@
                 <i class="fa fa-podcast fa-lg"></i>
                 <span class="hidden-link-text">Podcast</span>
             </a>
-            <a class="social-icon" href="https://twitter.com/fromcarly" target="_blank">
-                <i class="fab fa-twitter fa-lg"></i>
-                <span class="hidden-link-text">Twitter</span>
+            <a class="social-icon" href="https://bsky.app/profile/fromcarly.bsky.social" target="_blank">
+                <i class="fab fa-bluesky fa-lg"></i>
+                <span class="hidden-link-text">Bluesky</span>
             </a>
             <a class="social-icon" href="https://www.instagram.com/booklighteditorial/" target="_blank">
                 <i class="fab fa-instagram fa-lg"></i>
@@ -183,29 +179,16 @@
             </a>
         </div>
 
-        {% if page.header.genre_images %}
-            <div id="warrior-margin" class="rellax-image margin-image" data-rellax-speed="-2" role="complementary" aria-label="fantasy">
-                <img src="{{ url('theme://images/genres/fantasy_no-edge_warrior_no-back.png') }}" alt="">
-            </div>
-            <div id="romance-girl-margin" class="rellax-image margin-image" data-rellax-speed="-2" role="complementary" aria-label="romance">
-                <img src="{{ url('theme://images/genres/romance_girl.png') }}" alt="">
-            </div>
-            <div id="scifi-spacegirl-margin" class="rellax-image margin-image" data-rellax-speed="-2" role="complementary" aria-label="scifi">
-                <img src="{{ url('theme://images/genres/scifi_no-edge_no-back_spacegirl.png') }}" alt="">
-            </div>
-            <div id="mysteryman-margin" class="rellax-image margin-image" data-rellax-speed="-2" role="complementary" aria-label="mystery">
-                <img src="{{ url('theme://images/genres/mysteryman.png') }}" alt="">
-            </div>
-        {% endif %}
-
         {% block bottom %}
             {{ assets.js('bottom')|raw }}
         {% endblock %}
 
+        {#
         <script>
             // Accepts any class name
             var rellax = new Rellax('.rellax-image', {center: true});
         </script>
+        #}
 
         <!-- Google Tag Manager (noscript) -->
         <noscript>

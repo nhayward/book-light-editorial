@@ -29,18 +29,6 @@ form:
               type: text
               label: Showcase Button Target
 
-            header.genre_images:
-              type: toggle
-              label: Margin Genre Images
-              highlight: 1
-              default: 0
-              size: medium
-              options:
-                1: PLUGIN_ADMIN.YES
-                0: PLUGIN_ADMIN.NO
-              validate:
-                type: bool
-
             modular_title:
               type: spacer
               title: PLUGIN_ADMIN.MODULAR_SETUP

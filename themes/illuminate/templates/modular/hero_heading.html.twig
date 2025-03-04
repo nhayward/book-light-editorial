@@ -1,0 +1,10 @@
+{% set grid_size = theme_var('grid-size') %}
+
+<section class="section hero-heading {{ page.header.class}}">
+    <img class="hero-image" src="{{ url('theme://images/animals') }}/{{ page.header.image.src }}" alt="{{ page.header.image.alt_text }}">
+    <section class="container {{ grid_size }}">
+        <div class="hero-text">
+            <h2>{{ page.header.hero_text }}</h2>
+        </div>
+    </section>
+</section>
