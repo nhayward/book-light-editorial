@@ -1,5 +1,5 @@
 ---
-title: 'Where in the World: Let''s Talk Settings!'
+title: 'Where in the World: let''s Talk Settings!'
 metadata:
     description: 'The editors at Book Light Editorial discuss how to strengthen your settings and worldbuilding.'
 taxonomy:
@@ -9,9 +9,9 @@ taxonomy:
         - publishing
         - writing
         - editing
+        - 'monthly writing tips'
         - worldbuilding
         - settings
-        - 'monthly writing tips'
 media_order: 'Settings.png,BLE_interactDaily.png,BLE_SettingAsCharacter.png,BLE_history.png,BLE_Genre.png'
 date: '06-07-2021 18:10'
 publish_date: '06-07-2021 18:10'
