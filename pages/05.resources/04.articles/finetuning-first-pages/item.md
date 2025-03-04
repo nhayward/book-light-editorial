@@ -9,10 +9,10 @@ taxonomy:
         - publishing
         - writing
         - editing
+        - 'monthly writing tips'
         - 'opening pages'
         - 'character development'
         - 'first pages'
-        - 'monthly writing tips'
 media_order: FirstPages.png
 date: '30-03-2021 18:13'
 publish_date: '30-03-2021 18:13'
@@ -22,7 +22,7 @@ publish_date: '30-03-2021 18:13'
 
 March’s theme was **Opening Pages**, and it wound up being an incredibly broad topic! There’s a lot that needs to happen in a novel’s first pages, and nailing it might very well be the key to securing that agent, or hooking that elusive reader. That’s why, if there’s ever a space of your book to edit meticulously, it’s these precious first pages. 
 
-#### In case you missed it, let’s delve into some suggestions. These aren’t exclusive to a fantastic opening, but following these tips can definitely help set your novel apart!
+## In case you missed it, let’s delve into some suggestions. These aren’t exclusive to a fantastic opening, but following these tips can definitely help set your novel apart!
 </br>
 </br>
 1. **Utilize Beta Readers:** A beta reader (or critique partner) worth their salt is invaluable to your first pages. Even if they don’t have time to read your entire novel, a brief critique of your opening words can give a lot of insight! But don’t forget that half of the battle as a writer is what feedback to accept, and what to politely discard. 
@@ -43,7 +43,7 @@ March’s theme was **Opening Pages**, and it wound up being an incredibly broad
 ![Always beware the White Room Syndrome in a first chapter. Give your readers adequate description to physically anchor them in a scene.](BLE_whiteroom.png?cropResize=350,350)
 ![Prologues aren’t inherently bad, but a lot of authors use them to “cheat”—revealing important information all at once, rather than hinting at it to build intrigue.](BLE_prologues.png?cropResize=350,350)
 
-!!!!! ##### Learn more by checking out the latest episode of Story Chat Radio: [Howl's Moving Castle - Opening Pages](https://www.storychatradio.com/howls-moving-castle-opening-pages?target=_blank)
+!!!!! Learn more by checking out the latest episode of Story Chat Radio: [Howl's Moving Castle - Opening Pages](https://www.storychatradio.com/howls-moving-castle-opening-pages?target=_blank)
 
 As you can see, a lot goes into first pages. We’ve tackled a few topics here, but we definitely look forward to revisiting this theme at a later date. For now, though, we’re turning our attention forward, to April’s theme: **So You Got Beta Feedback… Now What?** 
 
