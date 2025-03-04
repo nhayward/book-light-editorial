@@ -13,7 +13,7 @@ taxonomy:
         - 'developmental editing'
 ---
 
-#### [by Carly Hayward](http://booklighteditorial.com/team#carly)
+## [by Carly Hayward](http://booklighteditorial.com/team#carly)
 
 “Write drunk, editor sober” is a famous quote with dubious origins. While it is difficult to assign credit to the quote, its message is clear. Writing requires the author to get their creative juices flowing, to awaken their muse, no matter how they do it. But editing requires a stricter, soberer eye. An editor can see things you can’t. 
 
@@ -27,7 +27,7 @@ A developmental editor is looking for larger issues, not whether you used the co
 
 It can be difficult to see your book as a reader will. An editor knows how the reader is going to feel, because they are essentially your reader. The main difference between an editor and a reader is that an editor will know how to fix it and how to help you. They know the market, they know the genre, and they know story structure. Beta readers can help to an extent, but they do not always know how to fix problems while still maintaining your voice. Voice is the most important aspect of your book, and you don’t want anyone to stifle it; you want someone to help you nurture and grow it. 
 
-!!!!! ##### "A developmental editor will bring your story to light, making sure that certain items aren’t stuck in your head instead of on the page."
+!!!!! "A developmental editor will bring your story to light, making sure that certain items aren’t stuck in your head instead of on the page."
 
 It can be surprising the amount of feedback you get from a developmental editor. It can be scary, but it can also be invigorating. They will breathe life into your book and help it to shine. After working with a developmental editor, you will find that your writing vastly improves in future pieces. They not only grow your book, but they grow your talent. [If you find an editor that is a good fit](/blog/how-to-find-the-right-editor-for-you), you’ll find that your developmental editor really is your book’s best friend. 
  
