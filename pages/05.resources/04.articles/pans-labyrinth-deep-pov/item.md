@@ -14,9 +14,9 @@ taxonomy:
         - editing
         - storytelling
         - movies
-        - 'Deep POV'
         - 'story chat radio'
         - podcast
+        - 'Deep POV'
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/20385875/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
@@ -53,6 +53,6 @@ This month our query also sounds like it has a lot of suspense. Jeni, what are y
 
 **Carly:** Honestly, agreed. It is a really solid query. One thing I would consider is moving the first paragraph down to just above the bio section. The first paragraph in this one has all the nitty-gritty details that an agent needs to fully understand the story. It is perfectly fine for it to remain at the top, in some cases that is preferable. However, with this one you’ll start with a stronger hook if we start with the second paragraph. It will pull us into the story instead of frontloading the query with details. Other than that, I think this is great! 
 
-##### Next month, we will be watching the sci-fi movie, _Alien_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.  
+**Next month, we will be watching the sci-fi movie, _Alien_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.**
 
-##### You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can support the show and get extra content at [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank). You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
+!!!!! You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can support the show and get extra content at [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank). You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
