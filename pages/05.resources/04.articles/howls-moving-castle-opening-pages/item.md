@@ -11,10 +11,10 @@ taxonomy:
         - editing
         - storytelling
         - movies
-        - 'opening pages'
-        - 'first pages'
         - 'story chat radio'
         - podcast
+        - 'opening pages'
+        - 'first pages'
 publish_date: '05-04-2021 17:53'
 date: '05-04-2021 17:53'
 ---
@@ -53,6 +53,6 @@ Howl's life is somehow bound to Calcifer's, and Howl has been transforming into 
 
 **Carly:** Yeah I couldn’t agree more. I thought the story sounded great, but I did get a little lost with all of the different worldbuilding names. It wasn’t too bad, to be clear, I easily got over it. But sometimes it can be more effective to show the type of groups at play, instead of naming them. I wasn’t sure why the main character was involved, or which group she was a part of. Simplifying some of the worldbuilding will help you balance that.
 
-##### Next month, we are taking a break since we will be embroiled in [RevPit](https://reviseresub.com?target=_blank). But we are very excited that we have a Story Chat Radio panel at the free writing conference Write Hive. Check it out at [Write Hive Con](https://www.writehivecon.org?target=_blank). When we return we will be watching the classic, _Space Jam_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.  
+**Next month, we are taking a break since we will be embroiled in [RevPit](https://reviseresub.com?target=_blank). But we are very excited that we have a Story Chat Radio panel at the free writing conference Write Hive. Check it out at [Write Hive Con](https://www.writehivecon.org?target=_blank). When we return we will be watching the classic, _Space Jam_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.** 
 
-##### You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
+!!!!! You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
