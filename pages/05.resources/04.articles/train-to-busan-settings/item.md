@@ -8,13 +8,13 @@ taxonomy:
     tag:
         - 'story chat radio'
         - podcast
-        - settings
         - worldbuilding
+        - settings
 ---
 
 <iframe title="Embed Player" src="//play.libsyn.com/embed/episode/id/21968978/height/192/theme/modern/size/large/thumbnail/yes/custom-color/39918e/time-start/00:00:00/playlist-height/200/direction/backward" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>
 
-#### Just as a reminder, you can now support the podcast on Patreon, where you can read the queries we critique plus get lots of other bonus content. It’s easy to find, just go to [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank).
+Just as a reminder, you can now support the podcast on Patreon, where you can read the queries we critique plus get lots of other bonus content. It’s easy to find, just go to [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank).
 
 **Summary of this month’s movie:**
 
@@ -52,6 +52,6 @@ Our query this month is an adult dark fantasy. Carly, what are your thoughts on 
 
 **Jeni:** There are a few elements here that definitely pique my interest. It’s historical and there’s a large mystery element, with a female sleuth. But the finer details feel kind of vague. I’m not 100% sure what actually happens in this story, other than the mystery itself. And the author mentions some real-life historical events in the final paragraph, but it isn’t clear to me what the connection is to the plot as described in the query. I definitely think one part of the problem is that the sentences are all pretty long and have similar structures. Even in a query letter, you want varied sentence length and structure to create variety and keep the reader engaged. And don’t be afraid to give more details. This is something I see a lot, where the author wants to create a sense of mystery around the story by having this strong hook so they leave out important details. Write this down: Details in a query don’t spoil anything. They get us more excited for the unique elements of your story. Depending on the story and how much of a twist it has, you can sometimes give details as far in as just before the climax without spoiling too much. 
 
-##### Next month, we will be watching the Disney movie whose songs are stuck in everyone’s heads, _Encanto_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.
+**Next month, we will be watching the Disney movie whose songs are stuck in everyone’s heads, _Encanto_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.**
 
-##### You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can support the show and get extra content at [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank). You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
+!!!!! You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can support the show and get extra content at [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank). You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
