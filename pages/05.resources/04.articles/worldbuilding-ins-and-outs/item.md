@@ -16,7 +16,7 @@ taxonomy:
 
 ![Worldbuilding Ins & Outs](WorldbuildingInsOuts.png "Worldbuilding Ins & Outs")
 
-### Worldbuilding Ins & Outs
+## Worldbuilding Ins & Outs
 
 Welcome writers! This month, we’ve given some tips on “Worldbuilding Ins & Outs." These are great tips to review both before you start your novel and especially after you've finished as you prepare for revision!
 
