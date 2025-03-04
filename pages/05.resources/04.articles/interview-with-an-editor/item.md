@@ -16,11 +16,11 @@ taxonomy:
         - community
 ---
 
-##### Ever wanted to ask a couple of editors about editing? Ever wondered what goes on in their heads? Ever needed a breakdown of the freelance editing business? 
+**Ever wanted to ask a couple of editors about editing? Ever wondered what goes on in their heads? Ever needed a breakdown of the freelance editing business?** 
 
 Stuart White, a soon to be published author, had the same desires. So he asked two of his former editors, Carly Hayward (Book Light Editorial) and Katie McCoach (KM Editorial) to answer some questions on his [#WriteMentor](https://www.youtube.com/channel/UCctz7e26ilfw5ju7rjLPgjg?target=_blank) video series. After his experience working with these #RevPit editors he grew as a writer and wanted to interview them to show others what an editor brings to the table.
 
-##### Watch this video to find out the answers to all your burning questions!
+<div class="heading-text teal">Watch this video to find out the answers to all your burning questions</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ahL_YyOohlk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
