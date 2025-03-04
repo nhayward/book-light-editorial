@@ -27,6 +27,12 @@
             max-width: 100px;
           }
         }
+
+        &.resource-content-column {
+          @media (max-width: 840px) {
+            margin-bottom: 3rem;
+          }
+        }
       }
     }
   }
