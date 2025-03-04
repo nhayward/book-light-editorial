@@ -6,15 +6,14 @@ taxonomy:
         - blog
     tag:
         - books
-        - reading
         - editor
+        - reading
 ---
 
-#### [by Carly Bornstein-Hayward](http://booklighteditorial.com/team#carly)
+## [by Carly Bornstein-Hayward](http://booklighteditorial.com/team#carly)
 
-##### “I had rejected the real, and rabidly devoured the ideal”
-
-##### -Charlotte Bronte, _Jane Eyre_
+### “I had rejected the real, and rabidly devoured the ideal”
+-Charlotte Bronte, _Jane Eyre_
 
 Welcome to my first (ever!) blog post! I figured I’d start with why I became an editor and “what it means to me,” not to sound too like an elementary school writing prompt!
 
