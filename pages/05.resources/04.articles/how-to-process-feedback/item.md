@@ -9,16 +9,16 @@ taxonomy:
     tag:
         - publishing
         - author
-        - editor
         - 'twitter event'
+        - editor
         - indieauthor
         - self-publishing
         - feedback
 ---
 
-#### [by Carly Hayward](http://booklighteditorial.com/team#carly)
+## [by Carly Hayward](http://booklighteditorial.com/team#carly)
 
-###### This post was originally written for the [ShoreIndie Blog](https://shoreindie.blogspot.com/2017/06/how-to-process-feedback.html?target=_blank), republished with permission.
+**_This post was originally written for the [ShoreIndie Blog](https://shoreindie.blogspot.com/2017/06/how-to-process-feedback.html?target=_blank), republished with permission._**
 
 **_Note:_**
 _This post was written for ShoreIndie, a Twitter contest, and while it was written for those participating, the advice can be applicable to processing feedback of all kinds. ShoreIndie is a contest where emerging indie authors submit their work to editors and then the editors each pick one manuscript to work on for free. After working with an editor for 7 weeks, there is a judging round where authors are eligible to win prizes related to self-publishing. To learn more, check out the_ [ShoreIndie website](https://shoreindie.blogspot.com/p/about.html?target=_blank)
