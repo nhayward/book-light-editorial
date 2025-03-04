@@ -11,9 +11,9 @@ taxonomy:
         - editing
         - storytelling
         - movies
-        - endings
         - 'story chat radio'
         - podcast
+        - endings
 date: '09-11-2020 17:59'
 publish_date: '09-11-2020 17:59'
 ---
@@ -69,11 +69,11 @@ There are a few other common ending tropes. There is the “everything is resolv
 
 **Jeni:** Okay, I’m actually going to disagree about the first line. I kinda love how the first line sets the tone and mood in just a few short words, and it really speaks to the main character’s emotional wound as well. If we didn’t get to see in the query how the story circles back to that fact&mdash;basically if it wasn’t clear how this moment is important and relevant to the plot and character arcs&mdash;then I would totally agree. But I feel like it does serve as a strong hook. It gives a sense of mystery, tension, and foreboding from the beginning of the query and so sets up that context for the rest of the explanation. And beyond that, I also love it. I want to read this story so bad. It’s right up my alley, all my favorite kinds of books. So hurry up and get querying so I can have this book on my shelf soon!
 
-##### On our next podcast we will be discussing the animated film, _Up_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that below or on our Twitter page.  
+**On our next podcast we will be discussing the animated film, _Up_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that below or on our Twitter page.**
 
-##### You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
+!!!!! You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
 
-#### Enter to win a query/blurb critique here:
+**Enter to win a query/blurb critique here:**
 
 <a class="rcptr" href="http://www.rafflecopter.com/rafl/display/aed251ca10/" rel="nofollow" data-raflid="aed251ca10" data-theme="classic" data-template="" id="rcwidget_3vcxsdgy">a Rafflecopter giveaway</a>
 <script src="https://widget-prime.rafflecopter.com/launch.js"></script>
