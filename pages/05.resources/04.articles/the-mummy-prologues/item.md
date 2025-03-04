@@ -11,9 +11,9 @@ taxonomy:
         - editing
         - storytelling
         - movies
-        - prologues
         - 'story chat radio'
         - podcast
+        - prologues
 date: '18-07-2021 18:01'
 publish_date: '18-07-2021 18:01'
 ---
@@ -62,6 +62,6 @@ Back in Hamunaptra, Rick, Jonathan, and Ardeth locate the Book of Amun-Ra. Imhot
 
 **Jeni:** Yes! I’m especially excited that it means we will get to start sharing the queries and blurbs we critique on each episode. That’s something a lot of listeners have been asking for, so I’m really happy we’ve found a way to provide that. 
 
-##### Next month, we will be watching _Eternal Sunshine of the Spotless Mind_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.  
+**Next month, we will be watching _Eternal Sunshine of the Spotless Mind_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.** 
 
-##### You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
+!!!!! You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
