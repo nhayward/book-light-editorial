@@ -10,11 +10,11 @@ taxonomy:
         - publishing
         - writing
         - editing
-        - 'developmental editing'
         - copyediting
+        - 'developmental editing'
 ---
 
-#### [by Carly Bornstein-Hayward](http://booklighteditorial.com/team#carly)
+## [by Carly Bornstein-Hayward](http://booklighteditorial.com/team#carly)
 
 Since writing is such a personal act, editing becomes personal. When hiring a developmental/content editor, you need to make sure you find the right one for you. It can be difficult to navigate the sea of editors available online, so here are a few tips to help.
 
@@ -24,7 +24,7 @@ Next, think about your budget. Editors aren't cheap, they are definitely an inve
 
 ![](book_light_editorial_quote_editorheartbreak.jpg?cropResize=400,400){.float-left}
 
-##### Now, on to how to pick the perfect editor for you! Let’s start with the obvious:
+### Now, on to how to pick the perfect editor for you! Let’s start with the obvious:
 
 **Look for someone credible.** Of course! (You probably think I am a genius right now for coming up with something so revolutionary!) Yes it is obvious, but it still needs to be said. Check credible organizations in your area; many of them have lists of freelance editors. Make sure to look at resumes and recommendations. You don’t want a beta reader masquerading as an editor.
 
