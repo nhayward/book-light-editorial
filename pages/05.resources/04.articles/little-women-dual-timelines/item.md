@@ -1,5 +1,5 @@
 ---
-title: 'Little Women - Dual Timelines'
+title: 'little Women - Dual Timelines'
 metadata:
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss dual timelines as seen in the movie, Little Women.'
 taxonomy:
@@ -11,9 +11,9 @@ taxonomy:
         - editing
         - storytelling
         - movies
-        - 'dual timeline'
         - 'story chat radio'
         - podcast
+        - 'dual timeline'
 date: '07-07-2020 18:12'
 publish_date: '07-07-2020 18:12'
 ---
@@ -50,11 +50,6 @@ The timelines converge when Beth’s illness takes a turn and Meg and Jo return 
 
 **Carly:** I’m really intrigued by this one! I definitely want to read it. At times the style of the query feels a little stilted or formal with the use of words like “Fortunately, X” instead of flowing right into what we need to know. I felt that there were twinges of humor with the introductions, which I loved, but I wanted to see more of. It feels really strong, but word choice needs to be a little more intentional and less “buzzy.” I think if it works on getting rid of those fillers and emphasizes the voice, it will be ready to go!
 
-##### On our next podcast we will be discussing the black comedy _Parasite_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our Twitter page or below. 
+**On our next podcast we will be discussing the black comedy _Parasite_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our Twitter page or below.** 
 
-##### You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [iTunes](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Play Music](https://play.google.com/music/m/Ig4hfs2ujhxenoikqvovs6hgtlu?target=_blank), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
-
-#### Enter to win a query/blurb critique here:
-
-<a class="rcptr" href="http://www.rafflecopter.com/rafl/display/aed251ca6/" rel="nofollow" data-raflid="aed251ca6" data-theme="classic" data-template="" id="rcwidget_i6rwax4x">a Rafflecopter giveaway</a>
-<script src="https://widget-prime.rafflecopter.com/launch.js"></script>
+!!!!! You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [iTunes](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Play Music](https://play.google.com/music/m/Ig4hfs2ujhxenoikqvovs6hgtlu?target=_blank), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
