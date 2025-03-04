@@ -9,8 +9,8 @@ taxonomy:
     tag:
         - 'story chat radio'
         - podcast
-        - structure
         - 'story structure'
+        - structure
 ---
 
 <iframe title="Embed Player" src="https://play.libsyn.com/embed/episode/id/26779176/height/192/theme/modern/size/large/thumbnail/yes/custom-color/39918e/time-start/00:00:00/playlist-height/200/direction/backward" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>
@@ -57,6 +57,6 @@ Let’s dig into that a little more. The “feminine” often has a societally p
 7. Reconciliation with the wounded masculine. Here the heroine finds the good in the masculine strengths they have, the bits that aid them, They make peace with this part of their personality. Here I would say it is Peter realizing where his strength comes from. It is him heading out to save the day with a gun.
 8. The Union. This is the integration of the masculine and feminine within the heroine. They recognize the completeness of having both within them. They recognize all that was lost from the separation from the feminine. For Peter this is when he sees his mother in Gamora and takes her hand. He heals the divide and accepts his true nature.
 
-##### Next month, we are watching the YA dystopian classic (at this point) _The Hunger Games_. There will also be more bonus content on YouTube. So keep an eye on our channel for more resources and info about the topics we’ve covered.  
+**Next month, we are watching the YA dystopian classic (at this point) _The Hunger Games_. There will also be more bonus content on YouTube. So keep an eye on our channel for more resources and info about the topics we’ve covered.  **
 
-##### You can also find our podcast on our website, storychatradio.com and on [YouTube](https://www.youtube.com/@storychatradio?target=_blank). Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
+!!!!! You can also find our podcast on our website, storychatradio.com and on [YouTube](https://www.youtube.com/@storychatradio?target=_blank). Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
