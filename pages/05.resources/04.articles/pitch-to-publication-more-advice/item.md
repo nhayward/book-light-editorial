@@ -12,7 +12,7 @@ taxonomy:
         - query
 ---
 
-#### by Carly Hayward
+## by Carly Hayward
 
 I've been an editor with Pitch to Publication since the beginning; it is a fabulous event that brings authors, editors, and agents together. I know many authors planning to be a part of the event are clamoring for advice on what to do, how to get an editor to take a chance on you, and figuring out the magic formula to participating. Below is my best advice:
 
@@ -20,7 +20,7 @@ I've been an editor with Pitch to Publication since the beginning; it is a fabul
 
 Before I get into the particulars of my advice, a little background on Pitch to Publication for those of you that haven't heard of it. It all started in 2015 (so long ago right?) when our fearless leader, Samantha Fountain, came up with this brilliant idea. Her hope was to help authors find an agent and get published. But she realized that the best way for them to do that was to work with freelance editors to polish their manuscript and query. So many authors think that they are ready when in fact a little professional advice would go a long way.
 
-##### Here are the details of [Pitch to Publication 2016](http://pitch2pub.com/node/6?target=_blank):
+### Here are the details of [Pitch to Publication 2016](http://pitch2pub.com/node/6?target=_blank):
 
  * It is for authors who have a completed manuscript and are looking to get their book published
  * Each author must submit a query letter and the first 5 pages of their manuscript to the editors
