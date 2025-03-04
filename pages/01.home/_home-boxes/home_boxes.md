@@ -13,7 +13,7 @@ boxes:
     -
         heading: 'The Team'
         content: 'We believe every author should have a compassionate and insightful editorial team as part of their crew. '
-        button: 'Build Team'
+        button: 'Build a Team'
         link: /
 routable: false
 visible: false
