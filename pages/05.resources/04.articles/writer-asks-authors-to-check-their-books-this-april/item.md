@@ -10,7 +10,7 @@ taxonomy:
         - published
 ---
 
-#### by Carly Bornstein-Hayward
+## by Carly Bornstein-Hayward
 
 Author Rhonda Rees is spearheading a "PSA campaign to alert authors and publishers to “check their books” to correspond with World Book and Copyright Day on April 23, 2016." ([PRWeb](http://www.prweb.com/releases/2016/03/prweb13270009.htm?target=_blank))
 
