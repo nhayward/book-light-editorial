@@ -11,9 +11,9 @@ taxonomy:
         - editing
         - storytelling
         - movies
-        - 'unreliable narrators'
         - 'story chat radio'
         - podcast
+        - 'unreliable narrators'
 date: '10-08-2021 17:58'
 publish_date: '10-08-2021 17:58'
 ---
@@ -56,6 +56,6 @@ Mary ends up stealing the company's records and sends them to all of its clients
 
 **Jeni:** There are a lot of elements here, and it makes me think you can probably pare those back some to focus more on the most fundamental aspects of the story. We’ve got an assassin, a dark mage, a necromancer, a moon patroness (I’m not even sure what that means, but it sounds seriously cool), beasts, wars … it’s a lot. And it’s kind of hard to parse out what the plot really is and what the main character is trying to accomplish because of having to try to hold all of that in my mind at one time. So I’m getting some very cool dark fantasy vibes here, but I’d like to see it all streamlined some so I can really feel hooked by the most important elements. 
 
-##### Next month, we will be watching another Guillermo del Toro film, _Pan’s Labyrinth_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.  
+**Next month, we will be watching another Guillermo del Toro film, _Pan’s Labyrinth_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.  **
 
-##### You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can support the show and get extra content at [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank). You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
+!!!!! You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can support the show and get extra content at [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank). You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
