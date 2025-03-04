@@ -14,7 +14,7 @@ taxonomy:
         - draft
 ---
 
-#### [by Carly Hayward](http://booklighteditorial.com/team#carly)
+## [by Carly Hayward](http://booklighteditorial.com/team#carly)
 
 Taking a break is one of the most important steps when it comes to writing a book. It can be a struggle to step away from your book after the first, second, or even third draft, but it is imperative that you do. As hard as it can be to step away, the benefits are completely worth it. 
 
@@ -26,7 +26,7 @@ When writing, you become extremely invested in your work, and you’re so immers
 
 Having space from your manuscript allows you to not only pick up on those problems, but also fix them. A break can be a cure to writer’s block, allowing you to fuel that creative buzz so you can make changes to your manuscript. When you occupy the world within your book, it can be hard to problem solve. You can become too focused on the lives of your characters and the plot of your novel, in turn totally missing that genius solution that could’ve solved all of your problems. Your MC has become whiny? Now it all clicks into place: You need to get rid of the side character that they complain to. You would never have considered that in the midst of writing, but after taking that break, you can see that the mothering nature of that side character has weakened your MC. Such a drastic idea probably wouldn’t occur to you right after you spent months writing the side character. But after a few months away, you aren’t as emotionally invested so you are able to make that cut. If you spend hours writing a character and have a lingering suspicion they’re not the best, you’re probably more likely to admit that after some distance—like you might with a bad boyfriend. And your manuscript will be so much better for it.
 
-!!!!! #### "You will love your piece again and be ready to pour even more blood, sweat, and tears into it (because, let’s be honest—it always requires more blood)."
+!!!!! "You will love your piece again and be ready to pour even more blood, sweat, and tears into it (because, let’s be honest—it always requires more blood)."
 
 The most important reason to take a break is to regain the enthusiasm you once had for your book. You have been living in this world for so long that it can become a slog. Maybe you no longer care if you kill off every single one of your beloved characters at the end, concluding the book in a massacre. Or worse yet, you might begin to doubt the quality of your work. You might think it was all a waste of time because you hate every word so much. You poured your blood, sweat, and tears into the book, and you don’t want to see it ever again. But coming back to it after a break can bring a renewed sense of pride. You might read a passage and think, “Did I actually write that? I love that!”, and your vigor will be renewed. You will love your piece again and be ready to pour even more blood, sweat, and tears into it (because, let’s be honest—it always requires more blood). 
 
