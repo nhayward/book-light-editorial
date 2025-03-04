@@ -11,9 +11,9 @@ taxonomy:
         - editing
         - storytelling
         - movies
-        - theme
         - 'story chat radio'
         - podcast
+        - theme
 publish_date: '31-01-2021 17:51'
 date: '31-01-2021 17:51'
 ---
@@ -56,6 +56,6 @@ This month, we have a query from a young adult fantasy. What are your thoughts o
 
 **Carly:** Agreed! My main suggestion is to focus more on the emotional stakes and substance of your story. There is a lot of set up and logistics here that don’t show us who your character is on a personal level. They show us the frame of your story, without any of the pictures that fill it. Who is your character and why does this story matter to them? We need to connect with the character in a short time, so utilize your word count and gear it towards the “why it matters” instead of the how. 
 
-##### On our next podcast we will be discussing the teen drama _The Sun Is Also a Star_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.  
+**On our next podcast we will be discussing the teen drama _The Sun Is Also a Star_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.**
 
-##### You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
+!!!!! You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
