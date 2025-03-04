@@ -8,10 +8,10 @@ metadata:
 taxonomy:
     tag:
         - 'story chat radio'
+        - podcast
         - romance
         - 'story structure'
         - structure
-        - podcast
 ---
 
 <iframe title="Embed Player" src="https://play.libsyn.com/embed/episode/id/25823880/height/192/theme/modern/size/large/thumbnail/yes/custom-color/39918e/time-start/00:00:00/playlist-height/200/direction/backward" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>
@@ -50,6 +50,6 @@ Carly, what did you think of this movie?
 
 This normally would bring us to our query critique portion of the show. But we’re reworking some things and will no longer be doing query critiques. Instead we’ll be bringing you more content and goodies!
 
-##### Next month, we are watching the medieval adventure, _The Green Knight_. There will also be more bonus content on YouTube. So keep an eye on our channel for more resources and info about the topics we’ve covered.  
+**Next month, we are watching the medieval adventure, _The Green Knight_. There will also be more bonus content on YouTube. So keep an eye on our channel for more resources and info about the topics we’ve covered.  **
 
-##### You can also find our podcast on our website, storychatradio.com and on [YouTube](https://www.youtube.com/@storychatradio?target=_blank). Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
+!!!!! You can also find our podcast on our website, storychatradio.com and on [YouTube](https://www.youtube.com/@storychatradio?target=_blank). Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
