@@ -12,7 +12,7 @@ taxonomy:
         - 'indie publishing'
 ---
 
-#### by Carly Bornstein-Hayward
+## by Carly Bornstein-Hayward
 
 Everyone knows this fairytale story: _Author self-publishes, Author becomes a bestseller, Author gets big contract with Big 5 Publisher, Author is super happy, lots of success._ Sounds lovely right? Sounds too good to be true? But as the publishing industry evolves this is going to happen more and more.
 
@@ -22,7 +22,7 @@ Now publishers can look at that list and know that the author already has a fan 
 
 This is going to be the new track that authors take: write, edit, self-publish, market yourself, and hope that people (and agents and editors) read it. Yes, it will be arduous, full of self-promotion and putting up your own money. But, if you succeed, and find the magic formula that sells your books, publishers (and agents!) will take notice.
 
-![](Editing_word_cloud.png?cropResize=250,250){.float-left}
+![Word cloud with editing related words](Editing_word_cloud.png?cropResize=250,250){.float-left}
 
 Personally, I love self-publishing and I don’t think there is anything wrong with it. But there are still those people that don’t feel it has status. They think it is for those who can’t be published traditionally. They think that it means the writing isn’t good. But in a world where publishers are scared of taking risks, many very talented authors are turning to self-publishing. So, I vote that we get rid of any stigma that still surrounds self-publishing!
 
