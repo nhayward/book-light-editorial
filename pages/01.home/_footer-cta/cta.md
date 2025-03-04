@@ -1,4 +1,4 @@
 ---
-text: "## Build Your Team\n\nSurround yourself with the people who protect and understand your work. At Book Light Editorial, we believe every author should have a compassionate and insightful editorial team as part of their crew.\n\n\n[Find Your Editor](/team){.button}\n"
+text: "## Resources\n\n* [Connect to our library of articles.](/resources/articles)\n* [Listen to Story Chat Radio episodes](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank) \n* [Book Light Recommends](/resources)\n* [Light Up Voices](/resources/light-up-voices)\n\n\n\n[Find Your Editor](/team){.button}\n"
 ---
 
