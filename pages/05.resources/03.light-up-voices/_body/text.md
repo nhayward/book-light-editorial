@@ -10,9 +10,6 @@ media_order: 'ramkinsattic_medium.png,LightUpVoices_medium.png'
 
 ![Ramkin's Attic](ramkinsattic_medium.png "Ramkin's Attic"){.center}
 
-## **light up Voices**{.teal}
-<div class="heading-text teal">In cooperation with Ramkin's Attic</div>
-
 ### What is it?
 
 Ramkin’s Attic is a funds for authors, by authors, intent on eliminating hurdles on the road to self-publishing. We are currently focused on sponsoring editorial costs for marginalized indie authors, since the world needs **more** diverse storytelling, never less.
