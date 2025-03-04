@@ -7,15 +7,15 @@ metadata:
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss age category as seen in the movie, Hocus Pocus'
 taxonomy:
     tag:
+        - publishing
         - 'story chat radio'
         - podcast
         - 'age category'
-        - publishing
 ---
 
 <iframe title="Embed Player" style="border: none;" src="https://play.libsyn.com/embed/episode/id/24572274/height/192/theme/modern/size/large/thumbnail/yes/custom-color/39918e/time-start/00:00:00/playlist-height/200/direction/backward/download/yes" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true"></iframe>
 
-#### Just as a reminder, you can now support the podcast on Patreon, where you can read the queries we critique plus get lots of other bonus content. It’s easy to find, just go to [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank). 
+Just as a reminder, you can now support the podcast on Patreon, where you can read the queries we critique plus get lots of other bonus content. It’s easy to find, just go to [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank). 
 
 **Summary of this month’s movie:**
 
@@ -49,7 +49,7 @@ Back at the cemetery, Billy joins the fight against the witches as they attack f
 **
 Carly:** I love this query! And I love the sound of this story. It gets into Jewish mythology which I really love, but is focused on a sister relationship, like you said. My only other suggestion would be to focus a little bit more on why the sisters don’t get along. The last line about stakes claims that one sister needs to forgive the other, but what does she need to forgive her for? It seemed like they just had a problem of jealousy, not that anything actually happened. Other than that, I love it!
 
-##### Next month, we are watching the 1996 comedy _The Birdcage_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.  
+**Next month, we are watching the 1996 comedy _The Birdcage_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page**.  
 
 
-##### You can also find our podcast on our website, storychatradio.com and on [YouTube](https://www.youtube.com/channel/UCVgBO3mHLqhtVZWRn0BmFEA?target=_blank). Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. And we're now on [YouTube](https://www.youtube.com/channel/UCVgBO3mHLqhtVZWRn0BmFEA?target=_blank)! While you’re there, please leave us a rating. You can support the show and get extra content at [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank). You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
+!!!!! You can also find our podcast on our website, storychatradio.com and on [YouTube](https://www.youtube.com/channel/UCVgBO3mHLqhtVZWRn0BmFEA?target=_blank). Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. And we're now on [YouTube](https://www.youtube.com/channel/UCVgBO3mHLqhtVZWRn0BmFEA?target=_blank)! While you’re there, please leave us a rating. You can support the show and get extra content at [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank). You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
