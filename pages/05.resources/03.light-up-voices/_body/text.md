@@ -57,7 +57,7 @@ To apply you’ll need to have the following prepared (asterisk* denotes require
 !!!!! While Ramkin’s Attic goal is to help more books into the world, there is no imposed deadline as to when the author publishes their manuscript after receiving edits.
 !!!!! 
 !!!!! While Ramkin’s Attic would appreciate a mention in the Front Matter of any resulting publications, the author is under no obligation to do so.
-
+!!!!! 
 !!!!! #### Contact information
 !!!!! If you have any questions or concerns, please email: ramkins.attic[at]gmail.com
 !!!!! 
