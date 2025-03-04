@@ -8,7 +8,7 @@ title: Laura
 media_order: 'Poynter_NewsUniversity.png,shoreindie_logo.png,R&Reditor_small.png'
 ---
 
-<span class="first-character">L</span>aura has worked as a professional editor for 3 years. She has experience in both content and copyediting. Her copyediting services offer authors one crucial final set of eyes on their manuscript before being sent out—whether to an agent or for indie publication. Her goal is to help you produce a polished piece that you can be just as sure of as you are proud of.
+<span class="first-character">l</span>aura has worked as a professional editor for 3 years. She has experience in both content and copyediting. Her copyediting services offer authors one crucial final set of eyes on their manuscript before being sent out—whether to an agent or for indie publication. Her goal is to help you produce a polished piece that you can be just as sure of as you are proud of.
 
 She holds an MFA in Nonfiction from the Mountainview low-residency program, where she wrote a coming-of-age memoir under the mentorship of published authors and exstensively studied craft and publishing. She graduated from the University of New Hampshire magna cum laude with a BA in English. There, she focused her studies on print journalism, news editing, and fiction and nonfiction writing.
 
