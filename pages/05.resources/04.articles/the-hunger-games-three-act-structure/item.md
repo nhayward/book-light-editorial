@@ -7,8 +7,8 @@ metadata:
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss three act structure as seen in the movie, The Hunger Games'
 taxonomy:
     tag:
-        - editing
         - writing
+        - editing
         - 'story chat radio'
         - 'story structure'
         - structure
@@ -80,6 +80,6 @@ Four act structure is literally the same as three act structure, only instead of
 
 Then lastly is 5 act structure. Here, the midpoint is called the climax because that’s that pivot point in the story where so much changes. Otherwise, the story is split into Exposition, Rising Action, Climax, Falling Action, and Denouement. The same plot points apply, but they’re split into these 5 areas of action instead. 
 
-##### Next month, we are watching something more lighthearted, _Dungeons & Dragons: Honor Among Thieves_. We are finally starting to recover from RevPit and will be discussing that YouTube bonus content we keep promising. So keep an eye on our channel for more resources and info about the topics we’ve covered.  
+**Next month, we are watching something more lighthearted, _Dungeons & Dragons: Honor Among Thieves_. We are finally starting to recover from RevPit and will be discussing that YouTube bonus content we keep promising. So keep an eye on our channel for more resources and info about the topics we’ve covered.  **
 
-##### You can also find our podcast on our website, storychatradio.com and on [YouTube](https://www.youtube.com/@storychatradio?target=_blank). Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
+!!!!! You can also find our podcast on our website, storychatradio.com and on [YouTube](https://www.youtube.com/@storychatradio?target=_blank). Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
