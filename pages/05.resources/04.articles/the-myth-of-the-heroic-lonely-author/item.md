@@ -16,7 +16,7 @@ publish_date: '25-10-2021 18:18'
 
 !["The Myth of the Heroic, Lonely Author"](TheMythoftheHeroicLonelyAuthor.png)
 
-#### [By Jessica Nelson](http://booklighteditorial.com/team#jessica)
+## [By Jessica Nelson](http://booklighteditorial.com/team#jessica)
 
 From the outside, for readers, no myth about publishing is as pervasive as the idea of the writer as an island. The heroic author, toiling alone to create another world made of words. We imagine the satisfied sigh, the tidy stack of pages: the novel is born.  
 
