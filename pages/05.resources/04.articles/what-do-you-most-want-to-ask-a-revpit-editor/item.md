@@ -12,9 +12,9 @@ taxonomy:
         - query
 ---
 
-#### by Carly Hayward
+## by Carly Hayward
 
-###### Note: scroll to the bottom of the article for an update and a surprise!
+**Note: scroll to the bottom of the article for an update and a surprise!**
 
 By now you may have heard me talk about a fabulous new contest, Revise & Resub. If you haven't heard me talking about it, you are clearly ignoring all my tweets. I can't stop talking about it.
 
@@ -34,7 +34,7 @@ And now for the **big surprise**: a few editors are hosting a live video #AskEdi
 
 Join us!: [Victoria Griffin Fiction](https://www.youtube.com/victoriagriffinfiction?target=_blank)
 
-#### Update:
+### Update:
 
 The live #AskEditor chat went well (when we weren't trying to figure out how to even do it)! You can now view it below:
 
