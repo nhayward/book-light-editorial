@@ -13,7 +13,7 @@ taxonomy:
         - editors
 ---
 
-#### by Carly Bornstein-Hayward
+## by Carly Bornstein-Hayward
 
 It's that time of year where everyone in the book publishing industry gets together and discusses books. What could be better? NOTHING (excuse the caps lock, I get really into capitalization when I'm excited).
 
