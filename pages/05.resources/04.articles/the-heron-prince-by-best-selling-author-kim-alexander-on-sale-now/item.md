@@ -13,7 +13,7 @@ taxonomy:
         - fantasy
 ---
 
-#### by Carly Hayward
+## by Carly Hayward
 
 **Best-selling author Kim Alexander’s second novel is on sale today!**
 
@@ -23,7 +23,7 @@ It is the second book in the wonderful Demon Door series where humans and demons
 
 ![](Book_Light_Editorial_HeronPrince_cover.jpg){.float-left}
 
-##### From the Back Cover:
+### From the Back Cover:
 
 The Demon Door can be opened...but the price is deadly.
 
@@ -35,6 +35,6 @@ When Rhuun is betrayed and tricked into returning to Eriis, Lelet has no choice 
 
 Surrounded by dark Mages, a war-hungry Queen, mercurial Goddesses, and enemies on every side, the demon prince and the human woman will find the Court of Eriis a subtle and dangerous place, and one false move could doom them both.
 
-##### Available NOW in print and e-book [here](https://www.amazon.com/Heron-Prince-Demon-Door-Book-ebook/dp/B01LA4RYZ8/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1474387363&sr=8-1?target=_blank)!
+**Available NOW in print and e-book [here](https://www.amazon.com/Heron-Prince-Demon-Door-Book-ebook/dp/B01LA4RYZ8/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1474387363&sr=8-1?target=**_blank)!
 
 Check out Kim’s website: [kimalexanderonline.com](http://kimalexanderonline.com/wp/?target=_blank)
