@@ -11,10 +11,10 @@ taxonomy:
         - editing
         - storytelling
         - movies
-        - 'story structure'
-        - structure
         - 'story chat radio'
         - podcast
+        - 'story structure'
+        - structure
 publish_date: '04-12-2020 17:54'
 date: '04-12-2020 17:54'
 ---
@@ -122,7 +122,7 @@ Act 3: have character meet final challenge and resolve the story
 
 **Carly:** So aptly enough, I think this query needs a little more structure. When writing a query for a romance, I tend to like a specific format because it helps to flesh out both main characters. You have your paragraph of metadata and your hook, like with most queries. And then the second paragraph is all about the first main character and their internal struggles and the conflicts they must face. The second paragraph is about the second main character and their internal struggles and conflicts. Then the third paragraph brings them together and discusses the conflicts they must face together and the stakes. Then finally you have your biography paragraph. Now this author doesn’t have a bio and they mentioned that as a concern as they don’t have any writing credentials. Instead in this paragraph give us a little personality. Mention any experiences that helped you to write this story. Or give some background that could help you forge a connection with the potential agent. Sometimes a shared interest in knitting or a shared hometown can help the agent look at you more favorably. 
 
-##### On our next podcast we will be discussing the classic comedy-mystery, Clue. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.  
+**On our next podcast we will be discussing the classic comedy-mystery, Clue. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.**  
 
-##### You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
+!!!!! You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
 
