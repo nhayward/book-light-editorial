@@ -8,14 +8,14 @@ metadata:
 taxonomy:
     tag:
         - 'story chat radio'
-        - grounding
         - podcast
+        - grounding
         - worldbuilding
 ---
 
 <iframe title="Embed Player" src="//play.libsyn.com/embed/episode/id/23890029/height/192/theme/modern/size/large/thumbnail/yes/custom-color/39918e/time-start/00:00:00/playlist-height/200/direction/backward/download/yes" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>
 
-#### Just as a reminder, you can now support the podcast on Patreon, where you can read the queries we critique plus get lots of other bonus content. It’s easy to find, just go to [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank). 
+Just as a reminder, you can now support the podcast on Patreon, where you can read the queries we critique plus get lots of other bonus content. It’s easy to find, just go to [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank). 
 
 **Summary of this month’s movie:**
 
@@ -49,6 +49,6 @@ This month our query is an adult thriller. Jeni, what are your thoughts on this 
 
 **Carly:** This one is pretty succinct, but I will say we are getting way too much bio information. The bio portion should only be one paragraph long. We want to spend more time understanding your story. You are selling the manuscript more than you are selling yourself. So while a little information about you and your experience is helpful, we don’t want it to overshadow your story. You have precious space in a query, make sure you are using it to build a connection to the story and character.
 
-##### Next month, we are watching the classic movie, _Rear Window_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.  
+**Next month, we are watching the classic movie, _Rear Window_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.  **
 
-##### You can also find our podcast on our website, storychatradio.com and on [YouTube](https://www.youtube.com/channel/UCVgBO3mHLqhtVZWRn0BmFEA?target=_blank). Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. And we're now on [YouTube](https://www.youtube.com/channel/UCVgBO3mHLqhtVZWRn0BmFEA?target=_blank)! While you’re there, please leave us a rating. You can support the show and get extra content at [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank). You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
+!!!!! You can also find our podcast on our website, storychatradio.com and on [YouTube](https://www.youtube.com/channel/UCVgBO3mHLqhtVZWRn0BmFEA?target=_blank). Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. And we're now on [YouTube](https://www.youtube.com/channel/UCVgBO3mHLqhtVZWRn0BmFEA?target=_blank)! While you’re there, please leave us a rating. You can support the show and get extra content at [patreon.com/storychatradio](https://www.patreon.com/storychatradio?target=_blank). You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
