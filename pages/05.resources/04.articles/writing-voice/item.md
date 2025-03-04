@@ -8,9 +8,9 @@ metadata:
     description: 'learn how to write a strong voice in your writing and what the different types of voice are.'
 taxonomy:
     tag:
+        - writing
         - 'monthly writing tips'
         - voice
-        - writing
 ---
 
 ![Writing Voice](WritingVoice.png "Writing Voice")
@@ -34,6 +34,6 @@ How do you develop voice?: Write and then write some more. It can take time, and
 
 Final thought: **voice is subjective**, not everyone will like your character’s voice, and that’s ok. It’s impossible to please everyone. 
 
-!!!!! ##### **In April we shared tips on [Deep POV](https://booklighteditorial.com/blog/dos-and-donts-of-deep-pov). Check them out on, our blog, [Twitter (@FromCarly)](https://twitter.com/FromCarly?target=_blank), or [Instagram (@BookLightEditorial)](https://www.instagram.com/booklighteditorial?target=_blank)! **
+!!!!! **In April we shared tips on [Deep POV](https://booklighteditorial.com/blog/dos-and-donts-of-deep-pov). Check them out on, our blog, [Twitter (@FromCarly)](https://twitter.com/FromCarly?target=_blank), or [Instagram (@BookLightEditorial)](https://www.instagram.com/booklighteditorial?target=_blank)! **
 
 Thanks for reading, writers. Keep on writing!
