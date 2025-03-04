@@ -1,5 +1,5 @@
 ---
-title: 'The Lovebirds - Limited POV'
+title: 'The lovebirds - limited POV'
 metadata:
     description: 'Two book editors binge watch movies in search of storytelling gems - on this episode they discuss limited point-of-view (POV) as seen in the movie, The Lovebirds.'
 taxonomy:
@@ -11,9 +11,9 @@ taxonomy:
         - editing
         - storytelling
         - movies
-        - 'limited pov'
         - 'story chat radio'
         - podcast
+        - 'limited pov'
 date: '04-09-2020 17:57'
 publish_date: '04-09-2020 17:57'
 ---
@@ -62,6 +62,6 @@ Ultimately, there’s no right or wrong answer, and it comes down to the story. 
 
 **Carly:** I agree, the only thing I was missing was some detail. I wanted to know the characters the MC comes into contact with, I wanted a little more about the relationships she builds and the ones she is trying to save. Giving us a little more intimacy will polish this query up and help us to understand the internal stakes. When we get a query, we don’t know anything about an author’s background. But just as a general note to all authors, be sure that you are the one that should be telling this story. Other than that, I just want to go rewatch _Labyrinth_ now.
 
-##### On our next podcast we will be discussing the superhero movie _Birds of Prey_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that below or on our Twitter page. 
+**On our next podcast we will be discussing the superhero movie _Birds of Prey_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that below or on our Twitter page.** 
 
-##### You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
+!!!!! You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
