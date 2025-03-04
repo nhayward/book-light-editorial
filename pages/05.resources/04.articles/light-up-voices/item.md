@@ -21,9 +21,9 @@ publish_date: '26-07-2022 13:53'
 
 ![Light Up Voices](LightUpVoices.png?cropResize=700,700){.center}
 
-<div class="heading-text teal"> Update July 2023: This is currently on hiatus as I deal with personal issues
+_**Update July 2023: This is currently on hiatus as I deal with personal issues**_
 
-Originally post February 2nd, 2021. Updated July 26th, 2022 to adjust frequency of the giveaway.</div>
+_**Originally post February 2nd, 2021. Updated July 26th, 2022 to adjust frequency of the giveaway.**_
 
 </br>
 </br>
