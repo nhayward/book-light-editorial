@@ -27,6 +27,10 @@ body#top {
 
   h2 {
     font-size: 2.4rem;
+
+    @media (max-width: 840px) {
+      font-size: 1.75rem;
+    }
   }
 
   h3 {
@@ -140,11 +144,20 @@ body#top {
         color: $white;
       }
 
-      a {
+      a:not(.button):not(.btn) {
         color: $accent-color;
 
         &:hover {
           color: $white !important;
+        }
+      }
+
+      @media (max-width: 840px) {
+        padding: 20px 20px 20px 55px;
+
+        &::before {
+          width: 85px;
+          left: -30px;
         }
       }
     }

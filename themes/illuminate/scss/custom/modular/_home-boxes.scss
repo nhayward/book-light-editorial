@@ -44,6 +44,15 @@
           align-items: flex-end;
           justify-content: center;
         }
+
+        @media (max-width: 840px) {
+          max-width: 450px;
+          margin: 2rem 0;
+
+          &:nth-child(2) {
+            order: -1;
+          }
+        }
       }
     }
   }

@@ -29,7 +29,6 @@
 
       .text-column {
         margin-bottom: 8rem;
-        padding-right: 1.5rem;
 
         h1,
         h2,
@@ -76,16 +75,31 @@
         }
       }
 
-      #cta-desk-img {
-        max-height: 300px;
-        position: absolute;
-        bottom: -25px;
-        right: 0;
-        z-index: 1;
+      .image-column {
+        display: flex;
+        justify-content: center;
 
-        @media (max-width: 600px) {
-          max-width: 200px;
-          position: static;
+        img {
+          display: none;
+          max-width: 300px;
+
+          @media (max-width: 960px) {
+            display: block;
+          }
+        }
+      }
+
+      @media (max-width: 960px) {
+        &::before {
+          background-image: none;
+        }
+
+        .text-column {
+          margin-bottom: 1rem;
+        }
+
+        .image-column {
+          margin-bottom: 4rem;
         }
       }
     }

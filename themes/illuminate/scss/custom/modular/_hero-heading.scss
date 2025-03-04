@@ -17,6 +17,7 @@
   .hero-image {
     position: relative;
     z-index: -1;
+    width: 100%;
   }
 
   &.image-width-limit {
@@ -31,6 +32,12 @@
         color: $white !important;
         text-align: center;
       }
+    }
+  }
+
+  @media (max-width: 840px) {
+    &::before {
+      height: 67%;
     }
   }
 }

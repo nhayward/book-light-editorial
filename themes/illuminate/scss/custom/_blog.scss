@@ -29,6 +29,12 @@
     }
   }
 
+  #listing-footer {
+    .pagination {
+      flex-wrap: wrap;
+    }
+  }
+
   .sharer-buttons-toolbar {
     text-align: center;
   }

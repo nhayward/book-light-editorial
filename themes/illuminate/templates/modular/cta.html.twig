@@ -2,8 +2,13 @@
 
 <section id="cta" class="section">
     <section class="container {{ grid_size }}">
-        <div id="cta-content">
-            <div class="text-column col-9 col-sm-12">{{ page.header.text|markdown }}</div>
+        <div id="cta-content" class="columns">
+            <div class="text-column column col-8 col-lg-12">
+              {{ page.header.text|markdown }}
+            </div>
+            <div class="image-column column col-4 col-lg-12">
+              <img src="{{ url('theme://images/accents/Book_Light_Editorial_gildframe_carly.png') }}" alt="">
+            </div>
         </div>
     </section>
 </section>
