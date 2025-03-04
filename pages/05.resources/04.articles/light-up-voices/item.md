@@ -17,7 +17,7 @@ date: '26-07-2022 13:53'
 publish_date: '26-07-2022 13:53'
 ---
 
-## Let’s spotlight marginalized authors! {.center}
+## let’s spotlight marginalized authors! {.center}
 
 ![Light Up Voices](LightUpVoices.png?cropResize=700,700){.center}
 
@@ -63,7 +63,7 @@ While I can’t guarantee success, hopefully this will help make your writing st
 
 [Apply Here](https://forms.gle/ACdAMBCr54vDtixE8?target=_blank) {.button}
 
-##### **To apply you’ll need to have the following prepared (asterisk\* denotes required):**
+#### **To apply you’ll need to have the following prepared (asterisk\* denotes required):**
 
  * Contact information*
  * Pronouns
