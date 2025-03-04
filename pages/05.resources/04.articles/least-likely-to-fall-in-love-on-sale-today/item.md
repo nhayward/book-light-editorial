@@ -13,8 +13,6 @@ taxonomy:
         - contemporary
 ---
 
-## by Carly Bornstein-Hayward
-
 So excited for Cheryl Harper’s new book, **Least Likely to Fall in Love**!
 
 It’s a sexy contemporary romance that takes a closer look at bullying and the serious problem it has become. Cheryl takes a serious issue, and makes it relatable, understandable, and fixable (all with a romantic and fun twist that keeps the reader engaged!).
