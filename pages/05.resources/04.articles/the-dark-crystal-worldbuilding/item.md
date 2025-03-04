@@ -12,9 +12,9 @@ taxonomy:
         - editing
         - storytelling
         - movies
-        - worldbuilding
         - 'story chat radio'
         - podcast
+        - worldbuilding
 ---
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/11787971/height/360/theme/legacy/thumbnail/yes/direction/backward/" height="360" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
@@ -45,6 +45,6 @@ On this week’s episode, we are discussing the 1980s Jim Henson film _The Dark 
 
 <br>
 <br>
-##### On our next podcast, we will be discussing the young adult film, _To All the Boys I’ve Loved Before_. Since this one is based on a book, we will only be talking about the storytelling in the movie, not the book. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that at our website. 
+**On our next podcast, we will be discussing the young adult film, _To All the Boys I’ve Loved Before_. Since this one is based on a book, we will only be talking about the storytelling in the movie, not the book. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that at our website. **
 
-##### You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank) or subscribe to Story Chat Radio on [iTunes](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank) or [Google Play Music](https://play.google.com/music/m/Ig4hfs2ujhxenoikqvovs6hgtlu?target=_blank). While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
+!!!!! You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank) or subscribe to Story Chat Radio on [iTunes](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank) or [Google Play Music](https://play.google.com/music/m/Ig4hfs2ujhxenoikqvovs6hgtlu?target=_blank). While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
