@@ -8,7 +8,7 @@ media_order: 'ramkinsattic_medium.png,LightUpVoices_medium.png'
 
 ## in cooperation with{.center}
 
-![Ramkin's Attic](ramkinsattic_medium.png "Ramkin's Attic")
+![Ramkin's Attic](ramkinsattic_medium.png "Ramkin's Attic"){.center}
 
 ## **light up Voices**{.teal}
 <div class="heading-text teal">In cooperation with Ramkin's Attic</div>
