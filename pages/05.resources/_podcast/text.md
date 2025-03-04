@@ -4,7 +4,7 @@ body_classes: modular
 media_order: StoryChatRadio_logosmall.png
 ---
 
-Like and subscribe to the podcast on [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), and [YouTube](https://www.youtube.com/channel/UCVgBO3mHLqhtVZWRn0BmFEA?target=_blank). Or check out the website! 
+**Like and subscribe to the podcast on [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), and [YouTube](https://www.youtube.com/channel/UCVgBO3mHLqhtVZWRn0BmFEA?target=_blank). Or check out the website! **
 
 ![Story Chat Radio](StoryChatRadio_logosmall.png "StoryChatRadio_logosmall"){.center}
 
