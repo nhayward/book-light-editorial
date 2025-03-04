@@ -13,7 +13,7 @@ taxonomy:
         - 'self publishing'
 ---
 
-#### [by Carly Bornstein-Hayward](http://booklighteditorial.com/team#carly)
+## [by Carly Bornstein-Hayward](http://booklighteditorial.com/team#carly)
 
 _You are self-publishing, so why do you need an editor? You know your book better than anyone else right? An editor will just twist it into something different, something wrong, they won’t understand it._
 
@@ -27,7 +27,7 @@ A developmental editor is looking for larger issues, not whether you used the co
 
 Most people will look past typos (although, believe me, they are distracting!), but they won’t look past a bad storyline. If the ending is unsatisfactory or abrupt, the reader will remember the book unfavorably, and will probably give it a bad review. An editor knows how the reader is going to feel, because they are essentially your reader. The main difference between an editor and a reader is that an editor will know how to fix it and how to help you. It is basically like hiring the most informed, helpful, and knowledgeable reader that wants your book to succeed.
 
-!!!!! #### "It is basically like hiring the most informed, helpful, and knowledgeable reader that wants your book to succeed."
+!!!!! "It is basically like hiring the most informed, helpful, and knowledgeable reader that wants your book to succeed."
 
 Nowadays, self-publishing is a great option for authors. But it is flooded with terrible writing and terrible books. People think that they can write anything, as long as it is finished, and become a bestselling self-published author. So much more than just “writing” goes into a good book. It needs editing, revisions, and contemplative thought. No matter how good a writer you are you just can’t catch everything, and you can’t be objective; you need an editor.
 
