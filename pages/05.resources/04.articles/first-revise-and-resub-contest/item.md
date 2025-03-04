@@ -12,7 +12,7 @@ taxonomy:
         - query
 ---
 
-#### by Carly Hayward
+## by Carly Hayward
 
 Guess what authors?! I have good news! There is a new Twitter Pitch event run by a fabulous group of editors.
 
@@ -20,13 +20,13 @@ Unfortunately, it all started with some bad news. #P2P17 was postponed due to in
 
 Revise & Resub is an editor-run pitch contest focusing on helping authors get their book ready for querying.
 
-##### Here's how it works:
+### Here's how it works:
 
 Writers will submit their query and first 5 (double-spaced) pages to three editors (and one alternate) of their choice, who will then pick one (or if we're really masochistic, two!) winners. After that, the editors and their chosen authors will get to work on their manuscripts in a month-long editing session. And finally, we will repost the polished submissions for the Showcase.
 
 ![](RevPit_hashtag_logo.png?cropResize=200,200){.float-left}
 
-##### Schedule for #RevPit 2017:
+### Schedule for #RevPit 2017:
 
 **April 7th:** Submission window opens.
 
@@ -44,4 +44,4 @@ Editors and authors wrap up revisions and submit revised queries and first five 
 
 Agent-ready queries and pages will be shared on the #revpit website at noon EDT on Monday, May 22nd.
 
-##### Check out: [Revise & Resub](http://reviseresub.com/?target=_blank) for more details! Hope to see you during the event!
+**Check out: [Revise & Resub](http://reviseresub.com/?target=_blank) for more details! Hope to see you during the event!**
