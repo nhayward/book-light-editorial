@@ -8,11 +8,11 @@ metadata:
     description: 'Tips and tricks for how to write a character''s wounds and flaws.'
 taxonomy:
     tag:
-        - 'monthly writing tips'
-        - 'emotional wounds'
-        - 'character development'
-        - character
         - editing
+        - 'monthly writing tips'
+        - character
+        - 'character development'
+        - 'emotional wounds'
 ---
 
 ![Wounds & Flaws](WoundsFlaws.png "Wounds & Flaws")
@@ -43,4 +43,4 @@ This month we focused on “Wounds & Flaws,” you’ll find our tips below.
 !!!!! 
 !!!!! **Story Chat Radio Episode: [_Shang-Chi and the Legend of the Ten Rings - Emotional Wounds_](https://www.storychatradio.com/shang-chi-and-the-legend-of-the-ten-rings-emotional-wounds?target=_blank)**. A podcast episode where two editors discuss emotional wounds and how they affect characters. They use the movie, _Shang-Chi and the Legend of the Ten Rings_, as an example. 
 
-##### If your novel is finished and you're worried that the wounds aren't woven throughout the story or that the character arc isn't satisfying enough, remember that you don't have to go at it alone! At Book Light Editorial we love helping writers dig into their characters' wounds and flaws. Check out our [services page](/services) to learn more about how we can help! 
+**If your novel is finished and you're worried that the wounds aren't woven throughout the story or that the character arc isn't satisfying enough, remember that you don't have to go at it alone! At Book Light Editorial we love helping writers dig into their characters' wounds and flaws. Check out our [services page](/services) to learn more about how we can help! **
