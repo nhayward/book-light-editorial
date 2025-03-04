@@ -11,9 +11,9 @@ taxonomy:
         - editing
         - storytelling
         - movies
-        - romance
         - 'story chat radio'
         - podcast
+        - romance
 date: '23-02-2021 18:34'
 ---
 
@@ -59,6 +59,6 @@ Jeni, what’d you think about the movie?
 
 **Jeni:** Agreed. I also wanted to see more about how you raise the stakes as the story progresses. Another question I had is what does your protagonist want outside of her mental illness? Even though that’s the main focus of the story, I just wanted to get a better idea of who she is and what she wants. But the bio paragraph and info about the book’s stats--word count, age category, and genre--are good. I do want to mention that there’s a prevalent idea in the writing community that you have to have a big social media following in order to get an agent. That can be very helpful with nonfiction, but with fiction, it doesn’t have as much sway with agents or acquiring editors. So if you’re new to social media or just have a smallish following, don’t stress about that hurting your chances to sell your book.  
 
-##### On our next podcast we will be discussing the classic anime, _Howl’s Moving Castle_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page.  
+**On our next podcast we will be discussing the classic anime, _Howl’s Moving Castle_. We will also have another query or blurb critique. If you want your query featured on the podcast, you can find the details about how to do that on our website or Twitter page. **
 
-##### You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
+!!!!! You can also find our podcast on our website, storychatradio.com. Or you can follow us on [Spotify](https://open.spotify.com/show/3o7zYGOeJMHfKFdCrhlILb?target=_blank), [Apple Podcasts](https://podcasts.apple.com/us/podcast/story-chat-radio/id1483688097?target=_blank), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9zdG9yeWNoYXRyYWRpby5saWJzeW4uY29tL3Jzcw&ep=14), or many other streaming services. While you’re there, please leave us a rating. You can also follow us on [Twitter](http://www.twitter.com/storychatradio?target=_blank) and [Instagram](http://www.instagram.com/storychatradio?target=_blank) @StoryChatRadio.
