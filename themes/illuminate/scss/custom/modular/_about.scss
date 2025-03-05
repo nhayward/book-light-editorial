@@ -1,6 +1,7 @@
 .about-section {
   position: relative;
   margin-top: 1rem;
+  padding-bottom: 1rem;
 
   .columns {
     .about-left {
@@ -50,9 +51,5 @@
     left: 50%;
     margin-left: -50vw;
     width: 100vw;
-  }
-
-  & + div + #cta {
-    margin-top: -10px;
   }
 }
