@@ -44,6 +44,14 @@
           margin-left: auto;
         }
 
+        a:not(.button):not(.btn) {
+          color: $accent-color;
+
+          &:hover {
+            color: $white !important;
+          }
+        }
+
         .cta-profile-img {
           max-width: 32%;
         }
