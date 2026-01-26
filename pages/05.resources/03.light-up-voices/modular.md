@@ -9,5 +9,6 @@ showcase_heading: 'light Up Voices'
 metadata:
     description: 'Marginalized authors can apply here to receive free editing with Book Light Editorial'
     keywords: 'editing, freelance, publishing, writing, author, indie author, editor, self-publishing, developmental editing, copyediting, manuscript, marginalized author, ownvoices'
+media_order: book_light_editorial_social.png
 ---
 
