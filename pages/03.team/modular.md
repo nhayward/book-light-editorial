@@ -7,6 +7,7 @@ metadata:
 sitemap:
     changefreq: monthly
     priority: 0.7
+    lastmod: '01-03-2025 02:25'
 menu: Team
 onpage_menu: false
 body_classes: modular
@@ -22,7 +23,7 @@ content:
             - _michael
             - _stacey
             - _cta
-genre_images: true
+            - _subscribe
 preload_assets:
     -
         path: '{{ url(''theme://images/profile/Book_Light_Editorial_Carly_Hayward.png'') }}'

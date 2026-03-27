@@ -1,4 +1,12 @@
 .modular-text {
   background-color: inherit !important;
   padding: 1rem;
+
+  &.narrow {
+    .container {
+      .columns {
+        max-width: 750px;
+      }
+    }
+  }
 }

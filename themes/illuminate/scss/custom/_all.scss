@@ -17,6 +17,11 @@ html {
       input,
       textarea {
         width: 100%;
+        line-height: 2;
+      }
+
+      select {
+        height: 1.5rem;
       }
 
       .buttons {
@@ -55,18 +60,9 @@ html {
         visibility: hidden;
       }
 
-      #contact-page-images {
+      #contact-page-image {
         margin-top: 2rem;
         text-align: center;
-
-        img {
-          max-height: 250px;
-          max-width: 23%;
-
-          &#contact-page-warrior {
-            max-height: 300px;
-          }
-        }
       }
 
       .mobile-menu {
@@ -169,10 +165,21 @@ html {
       .overlay-menu {
         ul {
           li {
+            margin: 0.5rem 0;
+
             .toggler {
-              display: none;
+              padding-left: 10px;
             }
+
+            &.tree-empty {
+              .toggler {
+                display: none;
+              }
+            }
+
             a {
+              margin-left: 1.75rem;
+
               &.active, &:focus {
                 font-weight: bold;
                 color: $link-color !important;

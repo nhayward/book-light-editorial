@@ -27,6 +27,9 @@ form:
                       0: PLUGIN_ADMIN.NO
                   validate:
                       type: bool
+                .heading:
+                  type: text
+                  label: Heading
                 .content:
                   type: markdown
                   label: Content

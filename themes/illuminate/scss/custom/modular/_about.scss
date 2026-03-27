@@ -1,9 +1,12 @@
 .about-section {
   position: relative;
   margin-top: 1rem;
+  padding-bottom: 1rem;
 
   .columns {
     .about-left {
+      text-align: center;
+      
       img.profile {
         width: 350px;
       }
@@ -48,9 +51,5 @@
     left: 50%;
     margin-left: -50vw;
     width: 100vw;
-  }
-
-  & + div + #cta {
-    margin-top: -10px;
   }
 }

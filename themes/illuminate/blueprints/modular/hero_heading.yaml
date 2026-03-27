@@ -1,0 +1,32 @@
+title: Hero Heading
+extends@: default
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+
+      fields:
+        content:
+          fields:
+            replace@: true
+
+            header.image.src:
+              type: filepicker
+              folder: 'theme@:/images/animals'
+              label: Hero Image
+              preview_images: true
+              accept:
+                - .png
+                - .jpg
+            
+            header.image.alt_text:
+              type: text
+              label: Hero Image Alt Text
+              size: medium
+
+            header.hero_text:
+              type: text
+              label: Hero Text
+              size: medium

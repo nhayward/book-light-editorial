@@ -1,0 +1,33 @@
+title: Home Boxes
+extends@: default
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+
+      fields:
+        content:
+          fields:
+            replace@: true
+
+            header.boxes:
+              type: list
+              label: Boxes
+              style: vertical
+              fields:
+                .heading:
+                  type: text
+                  label: Heading
+                .content:
+                  type: markdown
+                  label: Content
+                  validate:
+                    type: textarea
+                .button:
+                  type: text
+                  label: Button Text
+                .link:
+                  type: text
+                  label: Button Link

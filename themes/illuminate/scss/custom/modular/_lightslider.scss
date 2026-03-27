@@ -1,20 +1,4 @@
 .grav-lightslider {
-  &#about_lightslider-wrapper {
-    #about_lightslider {
-      height: 400px !important;
-
-      li {
-        height: 100%;
-
-        img {
-          max-height: 400px;
-          width: auto;
-          margin: auto;
-        }
-      }
-    }
-  }
-
   &#book_lightslider-wrapper {
     #book_lightslider {
       li {
@@ -42,6 +26,10 @@
           transition: 1s all;
         }
       }
+    }
+
+    .lSAction {
+      
     }
   }
 }

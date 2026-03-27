@@ -1,0 +1,39 @@
+.resource-rows {
+  margin: 4rem 0;
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .columns.resource-box {
+      max-width: 750px;
+      margin: 3rem 0;
+      box-shadow: 0 0 10px 3px black;
+      padding: 20px 30px;
+      background-image: url(/user/themes/illuminate/images/accents/Book_Light_Editorial_flowers_resources.png);
+      background-position: bottom left;
+      background-size: 200px;
+      background-repeat: no-repeat;
+
+      .column {
+        &.resource-image-column {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+  
+          .resource-image {
+            width: 100%;
+            max-width: 100px;
+          }
+        }
+
+        &.resource-content-column {
+          @media (max-width: 840px) {
+            margin-bottom: 3rem;
+          }
+        }
+      }
+    }
+  }
+}

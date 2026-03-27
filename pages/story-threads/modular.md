@@ -1,6 +1,5 @@
 ---
 title: 'Story Threads'
-genre_images: false
 content:
     items: '@self.modular'
     order:

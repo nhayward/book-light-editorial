@@ -30,7 +30,7 @@ form:
               type: text
               label: Twitter Handle
               size: medium
-              placeholder: @
+              placeholder: '@'
 
             header.editor_name:
               type: text

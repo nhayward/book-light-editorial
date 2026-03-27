@@ -1,15 +1,11 @@
 .modular-two-columns {
-
-    .container {
-
-        .columns {
-
-            &.vertical-center {
-                align-items: center;
-            }
-
-        }
-
+  margin: 2rem 0;
+  
+  .container {
+    .columns {
+      &.vertical-center {
+        align-items: center;
+      }
     }
-
+  }
 }
